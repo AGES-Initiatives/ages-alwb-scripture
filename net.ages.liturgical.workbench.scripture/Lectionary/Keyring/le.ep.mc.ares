@@ -1,0 +1,40 @@
+A_Resource_Whose_Name = le.ep.mc 
+
+//lemcLI.EpistleProkeimenon.title = ""
+lemcLI.EpistleProkeimenon.version = 
+lemcLI.EpistleProkeimenon.mode = 
+lemcLI.EpistleProkeimenon.source = ""
+lemcLI.EpistleProkeimenon.text = ""
+lemcLI.EpistleProkeimenonVerse.source = ""
+lemcLI.EpistleProkeimenonVerse.text = ""
+
+lemcLI.Epistle.title = ""
+lemcLI.Epistle.version = 
+lemcLI.Epistle.book = 
+lemcLI.Epistle.chapverse = "()"
+lemcLI.Epistle.text = ""
+
+lemcH1.Epistle.title = ""
+lemcH1.Epistle.version = 
+lemcH1.Epistle.book = 
+lemcH1.Epistle.chapverse = "()"
+lemcH1.Epistle.text = ""
+
+lemcH3.Epistle.title = ""
+lemcH3.Epistle.version = 
+lemcH3.Epistle.book = 
+lemcH3.Epistle.chapverse = "()"
+lemcH3.Epistle.text = ""
+
+lemcH6.Epistle.title = ""
+lemcH6.Epistle.version = 
+lemcH6.Epistle.book = 
+lemcH6.Epistle.chapverse = "()"
+lemcH6.Epistle.text = ""
+
+lemcH9.Epistle.title = ""
+lemcH9.Epistle.version = 
+lemcH9.Epistle.book = 
+lemcH9.Epistle.chapverse = "()"
+lemcH9.Epistle.text = ""
+

@@ -1,0 +1,185 @@
+A_Resource_Whose_Name = le.pr.tr 
+
+lemcVE.Prokeimenon1.version = 
+lemcVE.Prokeimenon1.mode = 
+lemcVE.Prokeimenon1.source = ""
+lemcVE.Prokeimenon1.text = ""
+lemcVE.Prokeimenon1Verse.source = ""
+lemcVE.Prokeimenon1Verse.text = ""
+
+lemcVE.Reading1.title = ""
+lemcVE.Reading1.version = 
+lemcVE.Reading1.book = 
+lemcVE.Reading1.chapverse = ""
+lemcVE.Reading1.text = ""
+
+lemcVE.Prokeimenon2.version = 
+lemcVE.Prokeimenon2.mode = 
+lemcVE.Prokeimenon2.source = ""
+lemcVE.Prokeimenon2.text = ""
+lemcVE.Prokeimenon2Verse.source = ""
+lemcVE.Prokeimenon2Verse.text = ""
+
+lemcVE.Reading2.title = ""
+lemcVE.Reading2.version = 
+lemcVE.Reading2.book = 
+lemcVE.Reading2.chapverse = ""
+lemcVE.Reading2.text = ""
+
+// As needed
+lemcVE.Reading3.title = ""
+lemcVE.Reading3.version = 
+lemcVE.Reading3.book = 
+lemcVE.Reading3.chapverse = ""
+lemcVE.Reading3.text = ""
+
+lemcVE.Reading4.title = ""
+lemcVE.Reading4.version = 
+lemcVE.Reading4.book = 
+lemcVE.Reading4.chapverse = ""
+lemcVE.Reading4.text = ""
+
+lemcVE.Reading5.title = ""
+lemcVE.Reading5.version = 
+lemcVE.Reading5.book = 
+lemcVE.Reading5.chapverse = ""
+lemcVE.Reading5.text = ""
+
+lemcVE.Reading6.title = ""
+lemcVE.Reading6.version = 
+lemcVE.Reading6.book = 
+lemcVE.Reading6.chapverse = ""
+lemcVE.Reading6.text = ""
+
+lemcVE.Reading7.title = ""
+lemcVE.Reading7.version = 
+lemcVE.Reading7.book = 
+lemcVE.Reading7.chapverse = ""
+lemcVE.Reading7.text = ""
+
+lemcVE.Reading8.title = ""
+lemcVE.Reading8.version = 
+lemcVE.Reading8.book = 
+lemcVE.Reading8.chapverse = ""
+lemcVE.Reading8.text = ""
+
+lemcVE.Reading9.title = ""
+lemcVE.Reading9.version = 
+lemcVE.Reading9.book = 
+lemcVE.Reading9.chapverse = ""
+lemcVE.Reading9.text = ""
+
+lemcVE.Reading10.title = ""
+lemcVE.Reading10.version = 
+lemcVE.Reading10.book = 
+lemcVE.Reading10.chapverse = ""
+lemcVE.Reading10.text = ""
+
+lemcVE.Reading11.title = ""
+lemcVE.Reading11.version = 
+lemcVE.Reading11.book = 
+lemcVE.Reading11.chapverse = ""
+lemcVE.Reading11.text = ""
+
+lemcVE.Reading12.title = ""
+lemcVE.Reading12.version = 
+lemcVE.Reading12.book = 
+lemcVE.Reading12.chapverse = ""
+lemcVE.Reading12.text = ""
+
+lemcVE.Reading13.title = ""
+lemcVE.Reading13.version = 
+lemcVE.Reading13.book = 
+lemcVE.Reading13.chapverse = ""
+lemcVE.Reading13.text = ""
+
+lemcVE.Reading14.title = ""
+lemcVE.Reading14.version = 
+lemcVE.Reading14.book = 
+lemcVE.Reading14.chapverse = ""
+lemcVE.Reading14.text = ""
+
+lemcVE.Reading15.title = ""
+lemcVE.Reading15.version = 
+lemcVE.Reading15.book = 
+lemcVE.Reading15.chapverse = ""
+lemcVE.Reading15.text = ""
+
+//Trithekte i.e. Sixth Hour
+lemcTE.Troparion.mode = 
+lemcTE.Troparion.text = ""
+lemcTE.Troparion2.text = "" //last line in lash
+
+lemcTE.Prokeimenon1.version = 
+lemcTE.Prokeimenon1.mode = 
+lemcTE.Prokeimenon1.source = ""
+lemcTE.Prokeimenon1.text = ""
+lemcTE.Prokeimenon1Verse.source = ""
+lemcTE.Prokeimenon1Verse.text = ""
+
+lemcTE.Reading1.title = ""
+lemcTE.Reading1.version = 
+lemcTE.Reading1.book = 
+lemcTE.Reading1.chapverse = ""
+lemcTE.Reading1.text = ""
+
+lemcTE.Prokeimenon2.version = 
+lemcTE.Prokeimenon2.mode = 
+lemcTE.Prokeimenon2.source = ""
+lemcTE.Prokeimenon2.text = ""
+lemcTE.Prokeimenon2Verse.source = ""
+lemcTE.Prokeimenon2Verse.text = ""
+
+// Great Hours
+lemcH1.Prokeimenon.version = 
+lemcH1.Prokeimenon.mode = 
+lemcH1.Prokeimenon.source = ""
+lemcH1.Prokeimenon.text = ""
+lemcH1.ProkeimenonVerse.source = ""
+lemcH1.ProkeimenonVerse.text = ""
+
+lemcH1.Reading1.title = ""
+lemcH1.Reading1.version = 
+lemcH1.Reading1.book = 
+lemcH1.Reading1.chapverse = ""
+lemcH1.Reading1.text = ""
+
+lemcH3.Prokeimenon.version = 
+lemcH3.Prokeimenon.mode = 
+lemcH3.Prokeimenon.source = ""
+lemcH3.Prokeimenon.text = ""
+lemcH3.ProkeimenonVerse.source = ""
+lemcH3.ProkeimenonVerse.text = ""
+
+lemcH3.Reading1.title = ""
+lemcH3.Reading1.version = 
+lemcH3.Reading1.book = 
+lemcH3.Reading1.chapverse = ""
+lemcH3.Reading1.text = ""
+
+lemcH6.Prokeimenon.version = 
+lemcH6.Prokeimenon.mode = 
+lemcH6.Prokeimenon.source = ""
+lemcH6.Prokeimenon.text = ""
+lemcH6.ProkeimenonVerse.source = ""
+lemcH6.ProkeimenonVerse.text = ""
+
+lemcH6.Reading1.title = ""
+lemcH6.Reading1.version = 
+lemcH6.Reading1.book = 
+lemcH6.Reading1.chapverse = ""
+lemcH6.Reading1.text = ""
+
+lemcH9.Prokeimenon.version = 
+lemcH9.Prokeimenon.mode = 
+lemcH9.Prokeimenon.source = ""
+lemcH9.Prokeimenon.text = ""
+lemcH9.ProkeimenonVerse.source = ""
+lemcH9.ProkeimenonVerse.text = ""
+
+lemcH9.Reading1.title = ""
+lemcH9.Reading1.version = 
+lemcH9.Reading1.book = 
+lemcH9.Reading1.chapverse = ""
+lemcH9.Reading1.text = ""
+

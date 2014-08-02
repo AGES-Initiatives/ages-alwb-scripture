@@ -1,0 +1,20 @@
+A_Resource_Whose_Name = le.go.me.m03.d26_en_US_rsv 
+
+lemeMA.Gospel.title = ""
+lemeMA.Gospel.version = 
+lemeMA.Gospel.book = "book test"
+lemeMA.Gospel.chapverse = "()"
+lemeMA.Gospel.text = 
+
+lemeLI.GospelAlleluia.mode = 
+lemeLI.GospelAlleluia.version = 
+lemeLI.GospelAlleluiaVerse1.source = ""
+lemeLI.GospelAlleluiaVerse1.text = ""
+lemeLI.GospelAlleluiaVerse2.source = ""
+lemeLI.GospelAlleluiaVerse2.text = ""
+
+lemeLI.Gospel.title = ""
+lemeLI.Gospel.version = 
+lemeLI.Gospel.book = "book test"
+lemeLI.Gospel.chapverse = "()"
+lemeLI.Gospel.text = "test"

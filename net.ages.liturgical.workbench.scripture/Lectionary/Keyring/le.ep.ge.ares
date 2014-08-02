@@ -1,0 +1,16 @@
+A_Resource_Whose_Name = le.ep.ge
+
+//legeLI.EpistleProkeimenon.title = ""
+legeLI.EpistleProkeimenon.version = 
+legeLI.EpistleProkeimenon.mode = 
+legeLI.EpistleProkeimenon.source = ""
+legeLI.EpistleProkeimenon.text = ""
+legeLI.EpistleProkeimenonVerse.source = ""
+legeLI.EpistleProkeimenonVerse.text = ""
+
+legeLI.Epistle.title = ""
+legeLI.Epistle.version = 
+legeLI.Epistle.book = 
+legeLI.Epistle.chapverse = "()"
+legeLI.Epistle.text = ""
+

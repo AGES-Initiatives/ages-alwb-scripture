@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.va.baptism_gr_GR_cog 
+
+levaBAP.GospelAlleluia.mode = misc_gr_GR_cog.Mode6
+levaBAP.GospelAlleluia.version = 
+levaBAP.GospelAlleluiaVerse1.source = "44"
+levaBAP.GospelAlleluiaVerse1.text = "Ἐξηρεύξατο ἡ καρδία μου λόγον ἀγαθόν."
+levaBAP.GospelAlleluiaVerse2.source = "44"
+levaBAP.GospelAlleluiaVerse2.text = "Ἐξεχύθη χάρις ἐν χείλεσί σου."
+
+levaBAP.Gospel.title = ""
+levaBAP.Gospel.version = 
+levaBAP.Gospel.book = bible_gr_GR_cog.Matthew
+levaBAP.Gospel.chapverse = "(Κεφ. κηʹ 16-20)"
+levaBAP.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, οἱ ἕνδεκα Μαθηταὶ ἐπορεύθησαν εἰς τὴν Γαλιλαίαν, εἰς τὸ ὅρος, οὗ ἐτάξατο αὐτοῖς ὁ Ἰησοῦς. Καὶ ἰδόντες αὐτόν, προσεκύνησαν αὐτῷ· οἱ δὲ ἐδίστασαν. Καὶ προσελθὼν ὁ Ἰησοῦς ἐλάλησεν αὐτοῖς, λέγων· Ἐδόθη μοι πᾶσα ἐξουσία ἐν οὐρανῷ καὶ ἐπὶ γῆς. Πορευθέντες οὖν, μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ Ἁγίου Πνεύματος, διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ἡμῖν καὶ ἰδού, ἐγὼ μεθ' ὑμῶν εἰμι πάσας τάς ἡμέρας, ἕως τῆς συντελείας τοῦ αἰῶνος. Ἀμήν."

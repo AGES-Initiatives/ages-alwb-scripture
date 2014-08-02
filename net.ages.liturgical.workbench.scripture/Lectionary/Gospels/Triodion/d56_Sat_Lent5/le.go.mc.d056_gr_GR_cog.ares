@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.mc.d056_gr_GR_cog 
+
+lemcLI.GospelAlleluia.mode = misc_gr_GR_cog.Mode8
+lemcLI.GospelAlleluia.version = 
+lemcLI.GospelAlleluiaVerse1.source = ""
+lemcLI.GospelAlleluiaVerse1.text = "Ἀνάστηθι Κύριε, εἰς τὴν ἀνάπαυσίν σου."
+lemcLI.GospelAlleluiaVerse2.source = ""
+lemcLI.GospelAlleluiaVerse2.text = "Μνήσθητι, Κύριε, τοῦ Δαυΐδ, καὶ πάσης τῆς πραότητος αὐτοῦ."
+
+lemcLI.Gospel.title = "Τῼ ΣΑΒΒΑΤῼ ΤΗΣ Εʹ ΕΒΔΟΜΑΔΟΣ ΤΩΝ ΝΗΣΤΕΙΩΝ"
+lemcLI.Gospel.version = 
+lemcLI.Gospel.book = bible_gr_GR_cog.Mark
+lemcLI.Gospel.chapverse = "(ηʹ 27 - 31)"
+lemcLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, ἐξῆλθεν ὁ Ἰησοῦς καὶ οἱ μαθηταὶ αὐτοῦ εἰς τὰς κώμας Καισαρείας τῆς Φιλίππου· καὶ ἐν τῇ ὁδῷ ἐπηρώτα τοὺς μαθητὰς αὐτοῦ λέγων αὐτοῖς· Τίνα με λέγουσιν οἱ ἄνθρωποι εἶναι; οἱ δὲ ἀπεκρίθησαν· Ἰωάννην τὸν βαπτιστήν, καὶ ἄλλοι Ἠλίαν, ἄλλοι δὲ ἕνα τῶν προφητῶν. καὶ αὐτὸς λέγει αὐτούς· Ὑμεῖς δὲ τίνα με λέγετε εἶναι; ἀποκριθεὶς δὲ ὁ Πέτρος λέγει αὐτῷ· Σὺ εἶ ὁ Χριστός. καὶ ἐπετίμησεν αὐτοῖς ἵνα μηδενὶ λέγωσι περὶ αὐτοῦ. Καὶ ἤρξατο διδάσκειν αὐτοὺς ὅτι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου πολλὰ παθεῖν, καὶ ἀποδοκιμασθῆναι ἀπὸ τῶν πρεσβυτέρων καὶ τῶν ἀρχιερέων καὶ τῶν γραμματέων, καὶ ἀποκτανθῆναι καὶ μετὰ τρεῖς ἡμέρας ἀναστῆναι."

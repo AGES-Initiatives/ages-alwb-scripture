@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.ep.me.m12.d25_gr_GR_cog 
+
+lemeVE.Epistle.title = "Τῆς Ἑορτῆς."
+lemeVE.Epistle.version = le.ep.mc.d028_gr_GR_cog.lemcLI.Epistle.version
+lemeVE.Epistle.book = le.ep.mc.d028_gr_GR_cog.lemcLI.Epistle.book
+lemeVE.Epistle.chapverse = le.ep.mc.d028_gr_GR_cog.lemcLI.Epistle.chapverse
+lemeVE.Epistle.text = le.ep.mc.d028_gr_GR_cog.lemcLI.Epistle.text
+
+lemeLI.Epistle.title = "Τῆς Ἑορτῆς."
+lemeLI.Epistle.version = 
+lemeLI.Epistle.book = bible_gr_GR_cog.Galatians
+lemeLI.Epistle.chapverse = "(4:4-7)"
+lemeLI.Epistle.text = "Ἀδελφοί, ὅτε ἦλθεν τὸ πλήρωμα τοῦ χρόνου, ἐξαπέστειλεν ὁ θεὸς τὸν υἱὸν αὐτοῦ, γενόμενον ἐκ γυναικός, γενόμενον ὑπὸ νόμον, ἵνα τοὺς ὑπὸ νόμον ἐξαγοράσῃ, ἵνα τὴν υἱοθεσίαν ἀπολάβωμεν. Ὅτι δέ ἐστε υἱοί, ἐξαπέστειλεν ὁ θεὸς τὸ πνεῦμα τοῦ υἱοῦ αὐτοῦ εἰς τὰς καρδίας ὑμῶν, κρᾶζον, Ἀββᾶ, ὁ πατήρ. Ὥστε οὐκέτι εἶ δοῦλος, ἀλλʼ υἱός· εἰ δὲ υἱός, καὶ κληρονόμος θεοῦ διὰ Χριστοῦ."

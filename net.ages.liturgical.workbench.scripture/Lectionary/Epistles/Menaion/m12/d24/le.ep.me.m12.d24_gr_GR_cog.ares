@@ -1,0 +1,25 @@
+A_Resource_Whose_Name = le.ep.me.m12.d24_gr_GR_cog 
+
+lemeH1.Epistle.title = "Πρώτη Ὥρα."
+lemeH1.Epistle.version = le.ep.mc.d028_gr_GR_cog.lemcLI.Epistle.version
+lemeH1.Epistle.book = le.ep.mc.d028_gr_GR_cog.lemcLI.Epistle.book
+lemeH1.Epistle.chapverse = le.ep.mc.d028_gr_GR_cog.lemcLI.Epistle.chapverse
+lemeH1.Epistle.text = le.ep.mc.d028_gr_GR_cog.lemcLI.Epistle.text
+
+lemeH3.Epistle.title = "Τρίτη Ὥρα."
+lemeH3.Epistle.version = le.ep.mc.d222_gr_GR_cog.lemcLI.Epistle.version
+lemeH3.Epistle.book = le.ep.mc.d222_gr_GR_cog.lemcLI.Epistle.book
+lemeH3.Epistle.chapverse = le.ep.mc.d222_gr_GR_cog.lemcLI.Epistle.chapverse
+lemeH3.Epistle.text = le.ep.mc.d222_gr_GR_cog.lemcLI.Epistle.text
+
+lemeH6.Epistle.title = "Ἕκτη Ὥρα."
+lemeH6.Epistle.version = le.ep.mc.d036_gr_GR_cog.lemcLI.Epistle.version
+lemeH6.Epistle.book = le.ep.mc.d036_gr_GR_cog.lemcLI.Epistle.book
+lemeH6.Epistle.chapverse = le.ep.mc.d036_gr_GR_cog.lemcLI.Epistle.chapverse
+lemeH6.Epistle.text = le.ep.mc.d036_gr_GR_cog.lemcLI.Epistle.text
+
+lemeH9.Epistle.title = "Ἐνάτη Ὥρα."
+lemeH9.Epistle.version = le.ep.me.m03.d25_gr_GR_cog.lemeLI.Epistle.version
+lemeH9.Epistle.book = le.ep.me.m03.d25_gr_GR_cog.lemeLI.Epistle.book
+lemeH9.Epistle.chapverse = le.ep.me.m03.d25_gr_GR_cog.lemeLI.Epistle.chapverse
+lemeH9.Epistle.text = le.ep.me.m03.d25_gr_GR_cog.lemeLI.Epistle.text
