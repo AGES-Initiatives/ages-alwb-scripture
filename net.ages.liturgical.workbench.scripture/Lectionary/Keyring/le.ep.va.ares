@@ -1,0 +1,16 @@
+A_Resource_Whose_Name = le.ep.va
+
+//levaLI.EpistleProkeimenon.title = ""
+levaLI.EpistleProkeimenon.version = 
+levaLI.EpistleProkeimenon.mode = 
+levaLI.EpistleProkeimenon.source = ""
+levaLI.EpistleProkeimenon.text = ""
+levaLI.EpistleProkeimenonVerse.source = ""
+levaLI.EpistleProkeimenonVerse.text = ""
+
+levaLI.Epistle.title = ""
+levaLI.Epistle.version = 
+levaLI.Epistle.book = 
+levaLI.Epistle.chapverse = "()"
+levaLI.Epistle.text = ""
+

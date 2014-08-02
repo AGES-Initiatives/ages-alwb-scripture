@@ -1,0 +1,21 @@
+A_Resource_Whose_Name = le.go.me.m03.d09_en_US_rsv 
+
+lemeMA.Gospel.title = ""
+lemeMA.Gospel.version = properties_en_US_alwb.RSV
+lemeMA.Gospel.book = bible_en_US_rsv.Luke
+lemeMA.Gospel.chapverse = "(21:12-19)"
+lemeMA.Gospel.text = "The Lord said to His disciples, \"Beware of men, for they will lay their hands on you and persecute you, delivering you up to the synagogues and prisons, and you will be brought before kings and governors for my name's sake. This will be a time for you to bear testimony. Settle it therefore in your minds, not to meditate beforehand how to answer;  for I will give you a mouth and wisdom, which none of your adversaries will be able to withstand or contradict. You will be delivered up even by parents and brothers and kinsmen and friends, and some of you they will put to death; you will be hated by all for my name's sake. But not a hair of your head will perish. By your endurance you will gain your lives.\""
+
+lemeLI.Alleluia.mode = misc_en_US_public.Mode4
+lemeLI.GospelAlleluia.version = properties_en_US_alwb.RSV
+lemeLI.AlleluiaVerse1.source = "65"
+lemeLI.AlleluiaVerse1.text = "Make a joyful noise to the Lord, all the earth."
+lemeLI.AlleluiaVerse2.source = "65"
+lemeLI.AlleluiaVerse2.text = "For you, O God, have tested us."
+
+lemeLI.Gospel.title = ""
+lemeLI.Gospel.version = properties_en_US_alwb.RSV
+lemeLI.Gospel.book = bible_en_US_rsv.Matthew
+lemeLI.Gospel.chapverse = "(20:1-16)"
+lemeLI.Gospel.text = "The Lord said this parable, \"The kingdom of heaven is like a householder who went out early in the morning to hire laborers for his vineyard. After agreeing with the laborers for a denarius a day, he sent them into his vineyard. And going out about the third hour he saw others standing idle in the marketplace; and to them he said, 'You go into the vineyard too, and whatever is right I will give you.' So they went. Going out again about the sixth hour and the ninth hour, he did the same. And about the eleventh hour he went out and found others standing; and he said to them, 'Why do you stand here idle all day?' They said to him, 'Because no one has hired us.' He said to them, 'You go into the vineyard too.' And when evening came, the owner of the vineyard said to his steward, 'Call the laborers and pay them their wages, beginning with the last, up to the first.' And when those hired about the eleventh hour came, each of them received a denarius. Now when the first came, they thought they would receive more; but each of them also received a denarius. And on receiving it they grumbled at the householder, saying, 'These last worked only one hour, and you have made them equal to us who have borne the burden of the day and the scorching heat.' But he replied to one of them, 'Friend, I am doing you no wrong; did you not agree with me for a denarius? Take what belongs to you, and go; I choose to give to this last as I give to you. Am I not allowed to do what I choose with what belongs to me? Or is your eye evil because I am good?' So the last will be first, and the first last. For many are called, but few are chosen.\""
+

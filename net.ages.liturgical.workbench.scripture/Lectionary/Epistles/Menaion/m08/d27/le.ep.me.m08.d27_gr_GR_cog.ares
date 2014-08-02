@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.ep.me.m08.d27_gr_GR_cog 
+
+lemeLI.Epistle.title = "Τοῦ Ἁγίου Ποιμένου."
+lemeLI.Epistle.version = le.ep.mc.d308_gr_GR_cog.lemcLI.Epistle.version
+lemeLI.Epistle.book = le.ep.mc.d308_gr_GR_cog.lemcLI.Epistle.book
+lemeLI.Epistle.chapverse = le.ep.mc.d308_gr_GR_cog.lemcLI.Epistle.chapverse
+lemeLI.Epistle.text = le.ep.mc.d308_gr_GR_cog.lemcLI.Epistle.text
+
+lemeLI.Epistle2.title = "Τοῦ Ἁγίου Φανουρίου."
+lemeLI.Epistle2.version = le.ep.mc.d309_gr_GR_cog.lemcLI.Epistle.version
+lemeLI.Epistle2.book = le.ep.mc.d309_gr_GR_cog.lemcLI.Epistle.book
+lemeLI.Epistle2.chapverse = le.ep.mc.d309_gr_GR_cog.lemcLI.Epistle.chapverse
+lemeLI.Epistle2.text = le.ep.mc.d309_gr_GR_cog.lemcLI.Epistle.text
