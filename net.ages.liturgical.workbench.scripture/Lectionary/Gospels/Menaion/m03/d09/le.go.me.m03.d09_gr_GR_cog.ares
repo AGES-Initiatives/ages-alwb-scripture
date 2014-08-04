@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = le.go.me.m03.d09_gr_GR_cog 
 
 lemeMA.Gospel.title = "Τῶν Μαρτύρων."
-lemeLI.Gospel.version = le.go.me.m04.d23_gr_GR_cog.lemeLI.Gospel.version
-lemeLI.Gospel.book = le.go.me.m04.d23_gr_GR_cog.lemeLI.Gospel.book
-lemeLI.Gospel.chapverse = le.go.me.m04.d23_gr_GR_cog.lemeLI.Gospel.chapverse
-lemeLI.Gospel.text = le.go.me.m04.d23_gr_GR_cog.lemeLI.Gospel.text
+lemeMA.Gospel.version = le.go.me.m04.d23_gr_GR_cog.lemeLI.Gospel.version
+lemeMA.Gospel.book = le.go.me.m04.d23_gr_GR_cog.lemeLI.Gospel.book
+lemeMA.Gospel.chapverse = le.go.me.m04.d23_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m04.d23_gr_GR_cog.lemeLI.Gospel.text
 
 lemeLI.Gospel.title = "Τῶν Μαρτύρων."
 lemeLI.Gospel.version = 
