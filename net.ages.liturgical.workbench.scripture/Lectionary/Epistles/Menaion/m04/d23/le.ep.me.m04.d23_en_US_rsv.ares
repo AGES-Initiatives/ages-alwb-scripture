@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m04.d23_en_US_rsv 
 
-lemeLI.Epistle.title = ""
-lemeLI.Epistle.version = properties_en_US_alwb.RSV
-lemeLI.Epistle.book = bible_en_US_rsv.Acts
-lemeLI.Epistle.chapverse = "(12:1-11)"
+lemeLI.Epistle.title = "For the Saint."
+lemeLI.Epistle.version = le.ep.mc.d098_en_US_rsv.lemcLI.Epistle.version
+lemeLI.Epistle.book = le.ep.mc.d098_en_US_rsv.lemcLI.Epistle.book
+lemeLI.Epistle.chapverse = le.ep.mc.d098_en_US_rsv.lemcLI.Epistle.chapverse
 lemeLI.Epistle.text = le.ep.mc.d098_en_US_rsv.lemcLI.Epistle.text
