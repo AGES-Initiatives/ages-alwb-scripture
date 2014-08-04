@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.go.me.m01.d18_gr_GR_cog 
+
+lemeMA.Gospel.title = "Τῶν Ἁγίων."
+lemeMA.Gospel.version = le.go.me.m11.d13_gr_GR_cog.lemeLI.Gospel.version
+lemeMA.Gospel.book = le.go.me.m11.d13_gr_GR_cog.lemeLI.Gospel.book
+lemeMA.Gospel.chapverse = le.go.me.m11.d13_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m11.d13_gr_GR_cog.lemeLI.Gospel.text
+
+lemeLI.Gospel.title = "Τῶν Ἁγίων."
+lemeLI.Gospel.version = 
+lemeLI.Gospel.book = bible_gr_GR_cog.Matthew
+lemeLI.Gospel.chapverse = "(5:14-19)"
+lemeLI.Gospel.text = "Εἶπεν ὁ Κὐριος τοῖς ἑαυτοῦ μαθηταῖς· ῾Υμεῖς ἐστε τὸ φῶς τοῦ κόσμου. οὐ δύναται πόλις κρυβῆναι ἐπάνω ὄρους κειμένη·οὐδὲ καίουσι λύχνον καὶ τιθέασι αὐτὸν ὑπὸ τὸν μόδιον, ἀλλ᾿ ἐπὶ τὴν λυχνίαν, καὶ λάμπει πᾶσι τοῖς ἐν τῇ οἰκίᾳ.οὕτω λαμψάτω τὸ φῶς ὑμῶν ἔμπροσθεν τῶν ἀνθρώπων, ὅπως ἴδωσιν ὑμῶν τὰ καλὰ ἔργα καὶ δοξάσωσι τὸν πατέρα ὑμῶν τὸν ἐν τοῖς οὐρανοῖς. Μὴ νομίσητε ὅτι ἦλθον καταλῦσαι τὸν νόμον ἢ τοὺς προφήτας· οὐκ ἦλθον καταλῦσαι, ἀλλὰ πληρῶσαι.ἀμὴν γὰρ λέγω ὑμῖν, ἕως ἂν παρέλθῃ ὁ οὐρανὸς καὶ ἡ γῆ, ἰῶτα ἓν ἢ μία κεραία οὐ μὴ παρέλθῃ ἀπὸ τοῦ νόμου ἕως ἂν πάντα γένηται.ὃς ἐὰν οὖν λύσῃ μίαν τῶν ἐντολῶν τούτων τῶν ἐλαχίστων καὶ διδάξῃ οὕτω τοὺς ἀνθρώπους, ἐλάχιστος κληθήσεται ἐν τῇ βασιλείᾳ τῶν οὐρανῶν· ὃς δ᾿ ἂν ποιήσῃ καὶ διδάξῃ, οὗτος μέγας κληθήσεται ἐν τῇ βασιλείᾳ τῶν οὐρανῶν."
