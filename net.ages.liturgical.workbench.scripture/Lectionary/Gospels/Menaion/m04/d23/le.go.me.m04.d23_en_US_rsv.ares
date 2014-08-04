@@ -1,12 +1,12 @@
 A_Resource_Whose_Name = le.go.me.m04.d23_en_US_rsv 
 
-lemeMA.Gospel.title = ""
+lemeMA.Gospel.title = "For the Saint."
 lemeMA.Gospel.version = properties_en_US_alwb.RSV
 lemeMA.Gospel.book = bible_en_US_rsv.Luke
 lemeMA.Gospel.chapverse = "(21:12-19)"
 lemeMA.Gospel.text = "The Lord said to his disciples, \"Beware of men who will lay their hands on you and persecute you, delivering you up to the synagogues and prisons, and you will be brought before kings and governors for my name's sake. This will be a time for you to bear testimony. Settle it therefore in your minds, not to meditate beforehand how to answer; for I will give you a mouth and wisdom, which none of your adversaries will be able to withstand or contradict. You will be delivered up even by parents and brothers and kinsmen and friends, and some of you they will put to death; you will be hated by all for my name's sake. But not a hair of your head will perish. By your endurance you will gain your lives.\""
 
-lemeLI.Gospel.title = ""
+lemeLI.Gospel.title = "For the Saint."
 lemeLI.Gospel.version = properties_en_US_alwb.RSV
 lemeLI.Gospel.book = bible_en_US_rsv.John
 lemeLI.Gospel.chapverse = "(15:17-27; 16:1-2)"
