@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.go.me.m01.d11_gr_GR_cog 
+
+lemeLI.Gospel.title = "Μεθέορτον."
+lemeLI.Gospel.version = le.go.lu.d003_gr_GR_cog.leluLI.Gospel.version
+lemeLI.Gospel.book = le.go.lu.d003_gr_GR_cog.leluLI.Gospel.book
+lemeLI.Gospel.chapverse = le.go.lu.d003_gr_GR_cog.leluLI.Gospel.chapverse
+lemeLI.Gospel.text = le.go.lu.d003_gr_GR_cog.leluLI.Gospel.text
+
+lemeLI.Gospel2.title = "Τοῦ Ὁσίου."
+lemeLI.Gospel2.version = le.go.me.m12.d05_gr_GR_cog.lemeLI.Gospel.version
+lemeLI.Gospel2.book = le.go.me.m12.d05_gr_GR_cog.lemeLI.Gospel.book
+lemeLI.Gospel2.chapverse = le.go.me.m12.d05_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeLI.Gospel2.text = le.go.me.m12.d05_gr_GR_cog.lemeLI.Gospel.text
