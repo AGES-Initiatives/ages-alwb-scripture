@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.ep.me.m04.d25_en_US_rsv 
 
-lemeLI.Epistle.title = ""
+lemeLI.Epistle.title = "For the Apostle."
 lemeLI.Epistle.version = properties_en_US_alwb.RSV
 lemeLI.Epistle.book = bible_en_US_rsv.Peter1
 lemeLI.Epistle.chapverse = "(5:6-14)"
