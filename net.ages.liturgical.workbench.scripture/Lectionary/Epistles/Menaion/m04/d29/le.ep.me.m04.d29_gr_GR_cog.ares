@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m04.d29_gr_GR_cog 
 
 lemeLI.Epistle.title = "Τῶν Ἀποστόλων."
-lemeLI.Epistle.version = 
-lemeLI.Epistle.book = bible_gr_GR_cog.Corinthians1
-lemeLI.Epistle.chapverse = "(4:9-16)"
-lemeLI.Epistle.text = "Ἀδελφοί, ὁ Θεὸς ἡμᾶς τοὺς ἀποστόλους ἐσχάτους ἀπέδειξεν, ὡς ἐπιθανατίους, ὅτι θέατρον ἐγενήθημεν τῷ κόσμῳ, καὶ ἀγγέλοις καὶ ἀνθρώποις. Ἡμεῖς μωροὶ διὰ Χριστόν, ὑμεῖς δὲ φρόνιμοι ἐν Χριστῷ· ἡμεῖς ἀσθενεῖς, ὑμεῖς δὲ ἰσχυροί· ὑμεῖς ἔνδοξοι, ἡμεῖς δὲ ἄτιμοι. Ἄχρι τῆς ἄρτι ὥρας καὶ πεινῶμεν καὶ διψῶμεν καὶ γυμνητεύομεν καὶ κολαφιζόμεθα καὶ ἀστατοῦμεν καὶ κοπιῶμεν ἐργαζόμενοι ταῖς ἰδίαις χερσί· λοιδορούμενοι εὐλογοῦμεν, διωκόμενοι ἀνεχόμεθα, βλασφημούμενοι παρακαλοῦμεν· ὡς περικαθάρματα τοῦ κόσμου ἐγενήθημεν, πάντων περίψημα ἕως ἄρτι. Οὐκ ἐντρέπων ὑμᾶς γράφω ταῦτα, ἀλλ᾿ ὡς τέκνα μου ἀγαπητὰ νουθετῶ. Ἐὰν γὰρ μυρίους παιδαγωγοὺς ἔχητε ἐν Χριστῷ, ἀλλ᾿ οὐ πολλοὺς πατέρας· ἐν γὰρ Χριστῷ ᾿Ιησοῦ διὰ τοῦ εὐαγγελίου ἐγὼ ὑμᾶς ἐγέννησα. Παρακαλῶ οὖν ὑμᾶς, μιμηταί μου γίνεσθε."
+lemeLI.Epistle.version = le.ep.mc.d190_gr_GR_cog.lemcLI.Epistle.version
+lemeLI.Epistle.book = le.ep.mc.d190_gr_GR_cog.lemcLI.Epistle.book
+lemeLI.Epistle.chapverse = le.ep.mc.d190_gr_GR_cog.lemcLI.Epistle.chapverse
+lemeLI.Epistle.text = le.ep.mc.d190_gr_GR_cog.lemcLI.Epistle.text
