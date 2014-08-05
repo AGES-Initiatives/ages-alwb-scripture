@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.va.consecration_en_US_rsv 
 
 //levaLI.Epistle1.Prokeimenon.title = ""
-levaCON.Epistle1.Prokeimenon.version = properties_en_US_alwb.RSV
+levaCON.Epistle1.Prokeimenon.version = properties_en_US_scripture.RSV
 levaCON.Epistle1.Prokeimenon.mode = misc_en_US_public.Mode1
 levaCON.Epistle1.Prokeimenon.source = "26"
 levaCON.Epistle1.Prokeimenon.text = "The Lord is my light and my savior."
@@ -9,13 +9,13 @@ levaCON.Epistle1.ProkeimenonVerse.source = "26"
 levaCON.Epistle1.ProkeimenonVerse.text = "The Lord is the defender of my life."
 
 levaCON.Epistle1.title = "At the Consecration of a Church."
-levaCON.Epistle1.version = properties_en_US_alwb.RSV
+levaCON.Epistle1.version = properties_en_US_scripture.RSV
 levaCON.Epistle1.book = bible_en_US_rsv.Hebrews
 levaCON.Epistle1.chapverse = "(2:11-18)"
 levaCON.Epistle1.text = "Brethren, he who sanctifies and those who are sanctified have all one origin. That is why he is not ashamed to call them brethren, saying, \"I will proclaim Thy name to my brethren, in the midst of the congregation I will praise Thee.\" And again, \"I will put my trust in Him.\" And again, \"Here am I, and the children God has given me.\" Since, therefore, the children share in flesh and blood, he himself likewise partook of the power of death, that is, the devil and deliver all those who through fear of death were subject to lifelong bondage. For surely it is not with angels that He is concerned but with the descendants of Abraham. Therefore He had to be made like His brethren in every respect, so that He might become a merciful and faithful high priest in the service of God, to make expiation for the sins of the people. For because He Himself has suffered and been tempted, He is able to help those who are tempted."
 
 //levaCON.Epistle2.Prokeimenon.title = ""
-levaCON.Epistle2.Prokeimenon.version = properties_en_US_alwb.RSV
+levaCON.Epistle2.Prokeimenon.version = properties_en_US_scripture.RSV
 levaCON.Epistle2.Prokeimenon.mode = misc_en_US_public.Mode3
 levaCON.Epistle2.Prokeimenon.source = "44"
 levaCON.Epistle2.Prokeimenon.text = "Virgins shall be brought to the king after her."
@@ -23,14 +23,14 @@ levaCON.Epistle2.ProkeimenonVerse.source = "44"
 levaCON.Epistle2.ProkeimenonVerse.text = "Her fellows shall be brought to you."
 
 levaCON.Epistle2.title = "Another."
-levaCON.Epistle2.version = properties_en_US_alwb.RSV
+levaCON.Epistle2.version = properties_en_US_scripture.RSV
 levaCON.Epistle2.book = bible_en_US_rsv.Hebrews
 levaCON.Epistle2.chapverse = "(9:1-7)"
 levaCON.Epistle2.text = le.ep.me.m11.d21_en_US_rsv.lemeLI.Epistle.text
 
 
 levaLI.Epistle.title = "Another."
-levaLI.Epistle.version = properties_en_US_alwb.RSV
+levaLI.Epistle.version = properties_en_US_scripture.RSV
 levaLI.Epistle.book = bible_en_US_rsv.Hebrews
 levaLI.Epistle.chapverse = "(3:1-4)"
 levaLI.Epistle.text = le.ep.me.m09.d13_en_US_rsv.lemeLI.Epistle.text
