@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.go.me.m06.d30_gr_GR_cog 
 
-lemeLI.Gospel.title = ""
+lemeLI.Gospel.title = "Τῶν Ἀποστόλων."
 lemeLI.Gospel.version = 
 lemeLI.Gospel.book = bible_gr_GR_cog.Matthew
 lemeLI.Gospel.chapverse = "(9:36, 10:1-8)"
