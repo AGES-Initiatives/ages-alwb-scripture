@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.go.me.m06.d30_en_US_rsv 
 
-lemeLI.Gospel.title = ""
+lemeLI.Gospel.title = "For the Apostles."
 lemeLI.Gospel.version = properties_en_US_alwb.RSV
 lemeLI.Gospel.book = bible_en_US_rsv.Matthew
 lemeLI.Gospel.chapverse = "(9:36, 10:1-8)"
