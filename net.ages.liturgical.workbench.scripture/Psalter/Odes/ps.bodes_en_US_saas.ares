@@ -74,7 +74,7 @@ pso7.v1.number = "()"
 pso7.v1.text = ""
 
 pso8.title = "ODE EIGHT"
-pso8.version = properties_en_US_alwb.SAAS
+pso8.version = properties_en_US_scripture.SAAS
 pso8.book = bible_en_US_saas.Daniel
 pso8.heading1 = "Hymn of the Three Holy Servants"
 pso8.source = "()"

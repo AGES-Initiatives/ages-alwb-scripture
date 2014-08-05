@@ -2,7 +2,7 @@ A_Resource_Whose_Name = le.ep.ge.monastic_en_US_rsv
 
 
 legeLI.Epistle.title = "For Monastics"
-legeLI.Epistle.version = properties_en_US_alwb.RSV
+legeLI.Epistle.version = properties_en_US_scripture.RSV
 legeLI.Epistle.book = bible_en_US_rsv.Galatians
 legeLI.Epistle.chapverse = "(5:22-26; 6:1-2)"
 legeLI.Epistle.text = le.ep.mc.d308_en_US_rsv.lemcLI.Epistle.text

@@ -1,14 +1,14 @@
 A_Resource_Whose_Name = ps_en_US_rsv 
 
 ps.title = "PSALTER"
-ps.version = properties_en_US_alwb.RSV
+ps.version = properties_en_US_scripture.RSV
 
 psa0.title = ""
 psa0.v0.text = ""
 kathisma_1.title = "KATHISMA 1"
 
 psa1.title = "Psalm 1"
-psa1.version = properties_en_US_alwb.RSV
+psa1.version = properties_en_US_scripture.RSV
 psa1.text = ""
 psa1.v1.number_rsv = "(1:1)"
 psa1.v1.number = "(1:1)"
@@ -30,7 +30,7 @@ psa1.v6.number = "(1:6)"
 psa1.v6.text = "for the LORD knows the way of the righteous, but the way of the wicked will perish."
 
 psa2.title = "Psalm 2"
-psa2.version = properties_en_US_alwb.RSV
+psa2.version = properties_en_US_scripture.RSV
 psa2.text = ""
 psa2.v1.number_rsv = "(2:1)"
 psa2.v1.number = "(2:1)"
@@ -70,7 +70,7 @@ psa2.v12.number = "(2:12)"
 psa2.v12.text = "kiss his feet, lest he be angry, and you perish in the way; for his wrath is quickly kindled.Blessed are all who take refuge in him."
 
 psa3.title = "Psalm 3"
-psa3.version = properties_en_US_alwb.RSV
+psa3.version = properties_en_US_scripture.RSV
 psa3.text = ""
 psa3.v0.number_rsv = "(3:0)"
 psa3.v0.number = "(3:0)"
@@ -101,7 +101,7 @@ psa3.v8.number = "(3:8)"
 psa3.v8.text = "Deliverance belongs to the LORD; thy blessing be upon thy people!"
 
 psa4.title = "Psalm 4"
-psa4.version = properties_en_US_alwb.RSV
+psa4.version = properties_en_US_scripture.RSV
 psa4.text = ""
 psa4.v0.number_rsv = "(4:0)"
 psa4.v0.number = "(4:0)"
@@ -132,7 +132,7 @@ psa4.v8.number = "(4:8)"
 psa4.v8.text = "In peace I will both lie down and sleep; for thou alone, O LORD, makest me dwell in safety."
 
 psa5.title = "Psalm 5"
-psa5.version = properties_en_US_alwb.RSV
+psa5.version = properties_en_US_scripture.RSV
 psa5.text = ""
 psa5.v0.number_rsv = "(5:0)"
 psa5.v0.number = "(5:0)"
@@ -175,7 +175,7 @@ psa5.v12.number = "(5:12)"
 psa5.v12.text = "For thou dost bless the righteous, O LORD; thou dost cover him with favor as with a shield."
 
 psa6.title = "Psalm 6"
-psa6.version = properties_en_US_alwb.RSV
+psa6.version = properties_en_US_scripture.RSV
 psa6.text = ""
 psa6.v0.number_rsv = "(6:0)"
 psa6.v0.number = "(6:0)"
@@ -212,7 +212,7 @@ psa6.v10.number = "(6:10)"
 psa6.v10.text = "All my enemies shall be ashamed and sorely troubled; they shall turn back, and be put to shame in a moment."
 
 psa7.title = "Psalm 7"
-psa7.version = properties_en_US_alwb.RSV
+psa7.version = properties_en_US_scripture.RSV
 psa7.text = ""
 psa7.v0.number_rsv = "(7:0)"
 psa7.v0.number = "(7:0)"
@@ -270,7 +270,7 @@ psa7.v17.number = "(7:17)"
 psa7.v17.text = "I will give to the LORD the thanks due to his righteousness, and I will sing praise to the name of the LORD, the Most High."
 
 psa8.title = "Psalm 8"
-psa8.version = properties_en_US_alwb.RSV
+psa8.version = properties_en_US_scripture.RSV
 psa8.text = ""
 psa8.v0.number_rsv = "(8:0)"
 psa8.v0.number = "(8:0)"
@@ -306,7 +306,7 @@ psa8.v9.text = "O LORD, our Lord, how majestic is thy name in all the earth!"
 kathisma_2.title = "KATHISMA 2."
 
 psa9.title = "Psalm 9"
-psa9.version = properties_en_US_alwb.RSV
+psa9.version = properties_en_US_scripture.RSV
 psa9.text = ""
 psa9.v0.number_rsv = "(9:0)"
 psa9.v0.number = "(9:0)"
@@ -373,7 +373,7 @@ psa9.v20.number = "(9:20)"
 psa9.v20.text = "Put them in fear, O LORD! Let the nations know that they are but men!"
 
 psa10.title = "Psalm 10"
-psa10.version = properties_en_US_alwb.RSV
+psa10.version = properties_en_US_scripture.RSV
 psa10.text = ""
 psa10.v1.number_rsv = "(10:1)"
 psa10.v1.number = "(10:1)"
@@ -431,7 +431,7 @@ psa10.v18.number = "(10:18)"
 psa10.v18.text = "to do justice to the fatherless and the oppressed, so that man who is of the earth may strike terror no more."
 
 psa11.title = "Psalm 11"
-psa11.version = properties_en_US_alwb.RSV
+psa11.version = properties_en_US_scripture.RSV
 psa11.text = ""
 psa11.v0.number_rsv = "(11:0)"
 psa11.v0.number = "(11:0)"
@@ -459,7 +459,7 @@ psa11.v7.number = "(11:7)"
 psa11.v7.text = "For the LORD is righteous, he loves righteous deeds; the upright shall behold his face."
 
 psa12.title = "Psalm 12"
-psa12.version = properties_en_US_alwb.RSV
+psa12.version = properties_en_US_scripture.RSV
 psa12.text = ""
 psa12.v0.number_rsv = "(12:0)"
 psa12.v0.number = "(12:0)"
@@ -490,7 +490,7 @@ psa12.v8.number = "(12:8)"
 psa12.v8.text = "On every side the wicked prowl, as vileness is exalted among the sons of men."
 
 psa13.title = "Psalm 13"
-psa13.version = properties_en_US_alwb.RSV
+psa13.version = properties_en_US_scripture.RSV
 psa13.text = ""
 psa13.v0.number_rsv = "(13:0)"
 psa13.v0.number = "(13:0)"
@@ -515,7 +515,7 @@ psa13.v6.number = "(13:6)"
 psa13.v6.text = "I will sing to the LORD, because he has dealt bountifully with me."
 
 psa14.title = "Psalm 14"
-psa14.version = properties_en_US_alwb.RSV
+psa14.version = properties_en_US_scripture.RSV
 psa14.text = ""
 psa14.v0.number_rsv = "(14:0)"
 psa14.v0.number = "(14:0)"
@@ -543,7 +543,7 @@ psa14.v7.number = "(14:7)"
 psa14.v7.text = "O that deliverance for Israel would come out of Zion! When the LORD restores the fortunes of his people, Jacob shall rejoice, Israel shall be glad.R"
 
 psa15.title = "Psalm 15"
-psa15.version = properties_en_US_alwb.RSV
+psa15.version = properties_en_US_scripture.RSV
 psa15.text = ""
 psa15.v0.number_rsv = "(15:0)"
 psa15.v0.number = "(15:0)"
@@ -565,7 +565,7 @@ psa15.v5.number = "(15:5)"
 psa15.v5.text = "who does not put out his money at interest, and does not take a bribe against the innocent.He who does these things shall never be moved."
 
 psa16.title = "Psalm 16"
-psa16.version = properties_en_US_alwb.RSV
+psa16.version = properties_en_US_scripture.RSV
 psa16.text = ""
 psa16.v0.number_rsv = "(16:0)"
 psa16.v0.number = "(16:0)"
@@ -605,7 +605,7 @@ psa16.v11.number = "(16:11)"
 psa16.v11.text = "Thou dost show me the path of life; in thy presence there is fulness of joy, in thy right hand are pleasures for evermore."
 
 psa17.title = "Psalm 17"
-psa17.version = properties_en_US_alwb.RSV
+psa17.version = properties_en_US_scripture.RSV
 psa17.text = ""
 psa17.v0.number_rsv = "(17:0)"
 psa17.v0.number = "(17:0)"
@@ -659,7 +659,7 @@ psa17.v15.text = "As for me, I shall behold thy face in righteousness; when I aw
 kathisma_3.title = "KATHISMA 3."
 
 psa18.title = "Psalm 18"
-psa18.version = properties_en_US_alwb.RSV
+psa18.version = properties_en_US_scripture.RSV
 psa18.text = ""
 psa18.v0.number_rsv = "(18:0)"
 psa18.v0.number = "(18:0)"
@@ -816,7 +816,7 @@ psa18.v50.number = "(18:50)"
 psa18.v50.text = "Great triumphs he gives to his king, and shows steadfast love to his anointed, to David and his descendants for ever."
 
 psa19.title = "Psalm 19"
-psa19.version = properties_en_US_alwb.RSV
+psa19.version = properties_en_US_scripture.RSV
 psa19.text = ""
 psa19.v0.number_rsv = "(19:0)"
 psa19.v0.number = "(19:0)"
@@ -865,7 +865,7 @@ psa19.v14.number = "(19:14)"
 psa19.v14.text = "Let the words of my mouth and the meditation of my heartbe acceptable in thy sight, O LORD, my rock and my redeemer."
 
 psa20.title = "Psalm 20"
-psa20.version = properties_en_US_alwb.RSV
+psa20.version = properties_en_US_scripture.RSV
 psa20.text = ""
 psa20.v0.number_rsv = "(20:0)"
 psa20.v0.number = "(20:0)"
@@ -899,7 +899,7 @@ psa20.v9.number = "(20:9)"
 psa20.v9.text = "Give victory to the king, O LORD; answer us when we call."
 
 psa21.title = "Psalm 21"
-psa21.version = properties_en_US_alwb.RSV
+psa21.version = properties_en_US_scripture.RSV
 psa21.text = ""
 psa21.v0.number_rsv = "(21:0)"
 psa21.v0.number = "(21:0)"
@@ -946,7 +946,7 @@ psa21.v13.number = "(21:13)"
 psa21.v13.text = "Be exalted, O LORD, in thy strength! We will sing and praise thy power."
 
 psa22.title = "Psalm 22"
-psa22.version = properties_en_US_alwb.RSV
+psa22.version = properties_en_US_scripture.RSV
 psa22.text = ""
 psa22.v0.number_rsv = "(22:0)"
 psa22.v0.number = "(22:0)"
@@ -1046,7 +1046,7 @@ psa22.v31.number = "(22:31)"
 psa22.v31.text = "and proclaim his deliverance to a people yet unborn, that he has wrought it."
 
 psa23.title = "Psalm 23"
-psa23.version = properties_en_US_alwb.RSV
+psa23.version = properties_en_US_scripture.RSV
 psa23.text = ""
 psa23.v0.number_rsv = "(23:0)"
 psa23.v0.number = "(23:0)"
@@ -1071,7 +1071,7 @@ psa23.v6.number = "(23:6)"
 psa23.v6.text = "Surely goodness and mercy shall follow meall the days of my life; and I shall dwell in the house of the LORDfor ever."
 
 psa24.title = "Psalm 24"
-psa24.version = properties_en_US_alwb.RSV
+psa24.version = properties_en_US_scripture.RSV
 psa24.text = ""
 psa24.v0.number_rsv = "(24:0)"
 psa24.v0.number = "(24:0)"
@@ -1110,7 +1110,7 @@ psa24.v10.text = "Who is this King of glory? The LORD of hosts, he is the King o
 kathisma_4.title = "KATHISMA 4."
 
 psa25.title = "Psalm 25"
-psa25.version = properties_en_US_alwb.RSV
+psa25.version = properties_en_US_scripture.RSV
 psa25.text = ""
 psa25.v0.number_rsv = "(25:0)"
 psa25.v0.number = "(25:0)"
@@ -1183,7 +1183,7 @@ psa25.v22.number = "(25:22)"
 psa25.v22.text = "Redeem Israel, O God, out of all his troubles."
 
 psa26.title = "Psalm 26"
-psa26.version = properties_en_US_alwb.RSV
+psa26.version = properties_en_US_scripture.RSV
 psa26.text = ""
 psa26.v0.number_rsv = "(26:0)"
 psa26.v0.number = "(26:0)"
@@ -1226,7 +1226,7 @@ psa26.v12.number = "(26:12)"
 psa26.v12.text = "My foot stands on level ground; in the great congregation I will bless the LORD."
 
 psa27.title = "Psalm 27"
-psa27.version = properties_en_US_alwb.RSV
+psa27.version = properties_en_US_scripture.RSV
 psa27.text = ""
 psa27.v0.number_rsv = "(27:0)"
 psa27.v0.number = "(27:0)"
@@ -1275,7 +1275,7 @@ psa27.v14.number = "(27:14)"
 psa27.v14.text = "Wait for the LORD; be strong, and let your heart take courage; yea, wait for the LORD!"
 
 psa28.title = "Psalm 28"
-psa28.version = properties_en_US_alwb.RSV
+psa28.version = properties_en_US_scripture.RSV
 psa28.text = ""
 psa28.v0.number_rsv = "(28:0)"
 psa28.v0.number = "(28:0)"
@@ -1309,7 +1309,7 @@ psa28.v9.number = "(28:9)"
 psa28.v9.text = "O save thy people, and bless thy heritage; be thou their shepherd, and carry them for ever."
 
 psa29.title = "Psalm 29"
-psa29.version = properties_en_US_alwb.RSV
+psa29.version = properties_en_US_scripture.RSV
 psa29.text = ""
 psa29.v0.number_rsv = "(29:0)"
 psa29.v0.number = "(29:0)"
@@ -1349,7 +1349,7 @@ psa29.v11.number = "(29:11)"
 psa29.v11.text = "May the LORD give strength to his people! May the LORD bless his people with peace!"
 
 psa30.title = "Psalm 30"
-psa30.version = properties_en_US_alwb.RSV
+psa30.version = properties_en_US_scripture.RSV
 psa30.text = ""
 psa30.v0.number_rsv = "(30:0)"
 psa30.v0.number = "(30:0)"
@@ -1392,7 +1392,7 @@ psa30.v12.number = "(30:12)"
 psa30.v12.text = "that my soul may praise thee and not be silent.O LORD my God, I will give thanks to thee for ever."
 
 psa31.title = "Psalm 31"
-psa31.version = properties_en_US_alwb.RSV
+psa31.version = properties_en_US_scripture.RSV
 psa31.text = ""
 psa31.v0.number_rsv = "(31:0)"
 psa31.v0.number = "(31:0)"
@@ -1471,7 +1471,7 @@ psa31.v24.number = "(31:24)"
 psa31.v24.text = "Be strong, and let your heart take courage, all you who wait for the LORD!"
 
 psa32.title = "Psalm 32"
-psa32.version = properties_en_US_alwb.RSV
+psa32.version = properties_en_US_scripture.RSV
 psa32.text = ""
 psa32.v0.number_rsv = "(32:0)"
 psa32.v0.number = "(32:0)"
@@ -1513,7 +1513,7 @@ psa32.v11.text = "Be glad in the LORD, and rejoice, O righteous, and shout for j
 kathisma_5.title = "KATHISMA 5."
 
 psa33.title = "Psalm 33"
-psa33.version = properties_en_US_alwb.RSV
+psa33.version = properties_en_US_scripture.RSV
 psa33.text = ""
 psa33.v1.number_rsv = "(33:1)"
 psa33.v1.number = "(33:1)"
@@ -1582,7 +1582,7 @@ psa33.v22.number = "(33:22)"
 psa33.v22.text = "Let thy steadfast love, O LORD, be upon us, even as we hope in thee."
 
 psa34.title = "Psalm 34"
-psa34.version = properties_en_US_alwb.RSV
+psa34.version = properties_en_US_scripture.RSV
 psa34.text = ""
 psa34.v0.number_rsv = "(34:0)"
 psa34.v0.number = "(34:0)"
@@ -1655,7 +1655,7 @@ psa34.v22.number = "(34:22)"
 psa34.v22.text = "The LORD redeems the life of his servants; none of those who take refuge in him will be condemned.R"
 
 psa35.title = "Psalm 35"
-psa35.version = properties_en_US_alwb.RSV
+psa35.version = properties_en_US_scripture.RSV
 psa35.text = ""
 psa35.v0.number_rsv = "(35:0)"
 psa35.v0.number = "(35:0)"
@@ -1746,7 +1746,7 @@ psa35.v28.number = "(35:28)"
 psa35.v28.text = "Then my tongue shall tell of thy righteousnessand of thy praise all the day long."
 
 psa36.title = "Psalm 36"
-psa36.version = properties_en_US_alwb.RSV
+psa36.version = properties_en_US_scripture.RSV
 psa36.text = ""
 psa36.v0.number_rsv = "(36:0)"
 psa36.v0.number = "(36:0)"
@@ -1789,7 +1789,7 @@ psa36.v12.number = "(36:12)"
 psa36.v12.text = "There the evildoers lie prostrate, they are thrust down, unable to rise."
 
 psa37.title = "Psalm 37"
-psa37.version = properties_en_US_alwb.RSV
+psa37.version = properties_en_US_scripture.RSV
 psa37.text = ""
 psa37.v0.number_rsv = "(37:0)"
 psa37.v0.number = "(37:0)"
@@ -1918,7 +1918,7 @@ psa37.v40.text = "The LORD helps them and delivers them; he delivers them from t
 kathisma_6.title = "KATHISMA 6."
 
 psa38.title = "Psalm 38"
-psa38.version = properties_en_US_alwb.RSV
+psa38.version = properties_en_US_scripture.RSV
 psa38.text = ""
 psa38.v0.number_rsv = "(38:0)"
 psa38.v0.number = "(38:0)"
@@ -1991,7 +1991,7 @@ psa38.v22.number = "(38:22)"
 psa38.v22.text = "Make haste to help me, O Lord, my salvation!"
 
 psa39.title = "Psalm 39"
-psa39.version = properties_en_US_alwb.RSV
+psa39.version = properties_en_US_scripture.RSV
 psa39.text = ""
 psa39.v0.number_rsv = "(39:0)"
 psa39.v0.number = "(39:0)"
@@ -2037,7 +2037,7 @@ psa39.v13.number = "(39:13)"
 psa39.v13.text = "Look away from me, that I may know gladness, before I depart and be no more!\""
 
 psa40.title = "Psalm 40"
-psa40.version = properties_en_US_alwb.RSV
+psa40.version = properties_en_US_scripture.RSV
 psa40.text = ""
 psa40.v0.number_rsv = "(40:0)"
 psa40.v0.number = "(40:0)"
@@ -2095,7 +2095,7 @@ psa40.v17.number = "(40:17)"
 psa40.v17.text = "As for me, I am poor and needy; but the Lord takes thought for me.Thou art my help and my deliverer; do not tarry, O my God!"
 
 psa41.title = "Psalm 41"
-psa41.version = properties_en_US_alwb.RSV
+psa41.version = properties_en_US_scripture.RSV
 psa41.text = ""
 psa41.v0.number_rsv = "(41:0)"
 psa41.v0.number = "(41:0)"
@@ -2141,7 +2141,7 @@ psa41.v13.number = "(41:13)"
 psa41.v13.text = "Blessed be the LORD, the God of Israel, from everlasting to everlasting! Amen and Amen."
 
 psa42.title = "Psalm 42"
-psa42.version = properties_en_US_alwb.RSV
+psa42.version = properties_en_US_scripture.RSV
 psa42.text = ""
 psa42.v0.number_rsv = "(42:0)"
 psa42.v0.number = "(42:0)"
@@ -2181,7 +2181,7 @@ psa42.v11.number = "(42:11)"
 psa42.v11.text = "Why are you cast down, O my soul, and why are you disquieted within me? Hope in God; for I shall again praise him, my help and my God."
 
 psa43.title = "Psalm 43"
-psa43.version = properties_en_US_alwb.RSV
+psa43.version = properties_en_US_scripture.RSV
 psa43.text = ""
 psa43.v1.number_rsv = "(43:1)"
 psa43.v1.number = "(43:1)"
@@ -2200,7 +2200,7 @@ psa43.v5.number = "(43:5)"
 psa43.v5.text = "Why are you cast down, O my soul, and why are you disquieted within me? Hope in God; for I shall again praise him, my help and my God.R"
 
 psa44.title = "Psalm 44"
-psa44.version = properties_en_US_alwb.RSV
+psa44.version = properties_en_US_scripture.RSV
 psa44.text = ""
 psa44.v0.number_rsv = "(44:0)"
 psa44.v0.number = "(44:0)"
@@ -2285,7 +2285,7 @@ psa44.v26.number = "(44:26)"
 psa44.v26.text = "Rise up, come to our help! Deliver us for the sake of thy steadfast love!"
 
 psa45.title = "Psalm 45"
-psa45.version = properties_en_US_alwb.RSV
+psa45.version = properties_en_US_scripture.RSV
 psa45.text = ""
 psa45.v0.number_rsv = "(45:0)"
 psa45.v0.number = "(45:0)"
@@ -2343,7 +2343,7 @@ psa45.v17.number = "(45:17)"
 psa45.v17.text = "I will cause your name to be celebrated in all generations; therefore the peoples will praise you for ever and ever."
 
 psa46.title = "Psalm 46"
-psa46.version = properties_en_US_alwb.RSV
+psa46.version = properties_en_US_scripture.RSV
 psa46.text = ""
 psa46.v0.number_rsv = "(46:0)"
 psa46.v0.number = "(46:0)"
@@ -2385,7 +2385,7 @@ psa46.v11.text = "The LORD of hosts is with us; the God of Jacob is our refuge."
 kathisma_7.title = "KATHISMA 7."
 
 psa47.title = "Psalm 47"
-psa47.version = properties_en_US_alwb.RSV
+psa47.version = properties_en_US_scripture.RSV
 psa47.text = ""
 psa47.v0.number_rsv = "(47:0)"
 psa47.v0.number = "(47:0)"
@@ -2419,7 +2419,7 @@ psa47.v9.number = "(47:9)"
 psa47.v9.text = "The princes of the peoples gatheras the people of the God of Abraham.For the shields of the earth belong to God; he is highly exalted!"
 
 psa48.title = "Psalm 48"
-psa48.version = properties_en_US_alwb.RSV
+psa48.version = properties_en_US_scripture.RSV
 psa48.text = ""
 psa48.v0.number_rsv = "(48:0)"
 psa48.v0.number = "(48:0)"
@@ -2468,7 +2468,7 @@ psa48.v14.number = "(48:14)"
 psa48.v14.text = "that this is God, our God for ever and ever.He will be our guide for ever."
 
 psa49.title = "Psalm 49"
-psa49.version = properties_en_US_alwb.RSV
+psa49.version = properties_en_US_scripture.RSV
 psa49.text = ""
 psa49.v0.number_rsv = "(49:0)"
 psa49.v0.number = "(49:0)"
@@ -2535,7 +2535,7 @@ psa49.v20.number = "(49:20)"
 psa49.v20.text = "Man cannot abide in his pomp, he is like the beasts that perish."
 
 psa50.title = "Psalm 50"
-psa50.version = properties_en_US_alwb.RSV
+psa50.version = properties_en_US_scripture.RSV
 psa50.text = ""
 psa50.v0.number_rsv = "(50:0)"
 psa50.v0.number = "(50:0)"
@@ -2611,7 +2611,7 @@ psa50.v23.number = "(50:23)"
 psa50.v23.text = "He who brings thanksgiving as his sacrifice honors me; to him who orders his way arightI will show the salvation of God!\""
 
 psa51.title = "Psalm 51"
-psa51.version = properties_en_US_alwb.RSV
+psa51.version = properties_en_US_scripture.RSV
 psa51.text = ""
 psa51.v0.number_rsv = "(51:0)"
 psa51.v0.number = "(51:0)"
@@ -2675,7 +2675,7 @@ psa51.v19.number = "(51:19)"
 psa51.v19.text = "then wilt thou delight in right sacrifices, in burnt offerings and whole burnt offerings; then bulls will be offered on thy altar."
 
 psa52.title = "Psalm 52"
-psa52.version = properties_en_US_alwb.RSV
+psa52.version = properties_en_US_scripture.RSV
 psa52.text = ""
 psa52.v0.number_rsv = "(52:0)"
 psa52.v0.number = "(52:0)"
@@ -2709,7 +2709,7 @@ psa52.v9.number = "(52:9)"
 psa52.v9.text = "I will thank thee for ever, because thou hast done it.I will proclaim thy name, for it is good, in the presence of the godly."
 
 psa53.title = "Psalm 53"
-psa53.version = properties_en_US_alwb.RSV
+psa53.version = properties_en_US_scripture.RSV
 psa53.text = ""
 psa53.v0.number_rsv = "(53:0)"
 psa53.v0.number = "(53:0)"
@@ -2734,7 +2734,7 @@ psa53.v6.number = "(53:6)"
 psa53.v6.text = "O that deliverance for Israel would come from Zion! When God restores the fortunes of his people, Jacob will rejoice and Israel be glad."
 
 psa54.title = "Psalm 54"
-psa54.version = properties_en_US_alwb.RSV
+psa54.version = properties_en_US_scripture.RSV
 psa54.text = ""
 psa54.v0.number_rsv = "(54:0)"
 psa54.v0.number = "(54:0)"
@@ -2762,7 +2762,7 @@ psa54.v7.number = "(54:7)"
 psa54.v7.text = "For thou hast delivered me from every trouble, and my eye has looked in triumph on my enemies.R"
 
 psa55.title = "Psalm 55"
-psa55.version = properties_en_US_alwb.RSV
+psa55.version = properties_en_US_scripture.RSV
 psa55.text = ""
 psa55.v0.number_rsv = "(55:0)"
 psa55.v0.number = "(55:0)"
@@ -2840,7 +2840,7 @@ psa55.v23.text = "But thou, O God, wilt cast them downinto the lowest pit; men o
 kathisma_8.title = "KATHISMA 8."
 
 psa56.title = "Psalm 56"
-psa56.version = properties_en_US_alwb.RSV
+psa56.version = properties_en_US_scripture.RSV
 psa56.text = ""
 psa56.v0.number_rsv = "(56:0)"
 psa56.v0.number = "(56:0)"
@@ -2886,7 +2886,7 @@ psa56.v13.number = "(56:13)"
 psa56.v13.text = "For thou hast delivered my soul from death, yea, my feet from falling, that I may walk before Godin the light of life."
 
 psa57.title = "Psalm 57"
-psa57.version = properties_en_US_alwb.RSV
+psa57.version = properties_en_US_scripture.RSV
 psa57.text = ""
 psa57.v0.number_rsv = "(57:0)"
 psa57.v0.number = "(57:0)"
@@ -2926,7 +2926,7 @@ psa57.v11.number = "(57:11)"
 psa57.v11.text = "Be exalted, O God, above the heavens! Let thy glory be over all the earth!"
 
 psa58.title = "Psalm 58"
-psa58.version = properties_en_US_alwb.RSV
+psa58.version = properties_en_US_scripture.RSV
 psa58.text = ""
 psa58.v0.number_rsv = "(58:0)"
 psa58.v0.number = "(58:0)"
@@ -2966,7 +2966,7 @@ psa58.v11.number = "(58:11)"
 psa58.v11.text = "Men will say, \"Surely there is a reward for the righteous; surely there is a God who judges on earth.\""
 
 psa59.title = "Psalm 59"
-psa59.version = properties_en_US_alwb.RSV
+psa59.version = properties_en_US_scripture.RSV
 psa59.text = ""
 psa59.v0.number_rsv = "(59:0)"
 psa59.v0.number = "(59:0)"
@@ -3024,7 +3024,7 @@ psa59.v17.number = "(59:17)"
 psa59.v17.text = "O my Strength, I will sing praises to thee, for thou, O God, art my fortress, the God who shows me steadfast love."
 
 psa60.title = "Psalm 60"
-psa60.version = properties_en_US_alwb.RSV
+psa60.version = properties_en_US_scripture.RSV
 psa60.text = ""
 psa60.v0.number_rsv = "(60:0)"
 psa60.v0.number = "(60:0)"
@@ -3067,7 +3067,7 @@ psa60.v12.number = "(60:12)"
 psa60.v12.text = "With God we shall do valiantly; it is he who will tread down our foes."
 
 psa61.title = "Psalm 61"
-psa61.version = properties_en_US_alwb.RSV
+psa61.version = properties_en_US_scripture.RSV
 psa61.text = ""
 psa61.v0.number_rsv = "(61:0)"
 psa61.v0.number = "(61:0)"
@@ -3098,7 +3098,7 @@ psa61.v8.number = "(61:8)"
 psa61.v8.text = "So will I ever sing praises to thy name, as I pay my vows day after day."
 
 psa62.title = "Psalm 62"
-psa62.version = properties_en_US_alwb.RSV
+psa62.version = properties_en_US_scripture.RSV
 psa62.text = ""
 psa62.v0.number_rsv = "(62:0)"
 psa62.v0.number = "(62:0)"
@@ -3141,7 +3141,7 @@ psa62.v12.number = "(62:12)"
 psa62.v12.text = "and that to thee, O Lord, belongs steadfast love.For thou dost requite a manaccording to his work."
 
 psa63.title = "Psalm 63"
-psa63.version = properties_en_US_alwb.RSV
+psa63.version = properties_en_US_scripture.RSV
 psa63.text = ""
 psa63.v0.number_rsv = "(63:0)"
 psa63.v0.number = "(63:0)"
@@ -3181,7 +3181,7 @@ psa63.v11.number = "(63:11)"
 psa63.v11.text = "But the king shall rejoice in God; all who swear by him shall glory; for the mouths of liars will be stopped."
 
 psa64.title = "Psalm 64"
-psa64.version = properties_en_US_alwb.RSV
+psa64.version = properties_en_US_scripture.RSV
 psa64.text = ""
 psa64.v0.number_rsv = "(64:0)"
 psa64.v0.number = "(64:0)"
@@ -3220,7 +3220,7 @@ psa64.v10.text = "Let the righteous rejoice in the LORD, and take refuge in him!
 kathisma_9.title = "KATHISMA 9."
 
 psa65.title = "Psalm 65"
-psa65.version = properties_en_US_alwb.RSV
+psa65.version = properties_en_US_scripture.RSV
 psa65.text = ""
 psa65.v0.number_rsv = "(65:0)"
 psa65.v0.number = "(65:0)"
@@ -3266,7 +3266,7 @@ psa65.v13.number = "(65:13)"
 psa65.v13.text = "the meadows clothe themselves with flocks, the valleys deck themselves with grain, they shout and sing together for joy."
 
 psa66.title = "Psalm 66"
-psa66.version = properties_en_US_alwb.RSV
+psa66.version = properties_en_US_scripture.RSV
 psa66.text = ""
 psa66.v0.number_rsv = "(66:0)"
 psa66.v0.number = "(66:0)"
@@ -3333,7 +3333,7 @@ psa66.v20.number = "(66:20)"
 psa66.v20.text = "Blessed be God, because he has not rejected my prayeror removed his steadfast love from me! R"
 
 psa67.title = "Psalm 67"
-psa67.version = properties_en_US_alwb.RSV
+psa67.version = properties_en_US_scripture.RSV
 psa67.text = ""
 psa67.v0.number_rsv = "(67:0)"
 psa67.v0.number = "(67:0)"
@@ -3361,7 +3361,7 @@ psa67.v7.number = "(67:7)"
 psa67.v7.text = "God has blessed us; let all the ends of the earth fear him!"
 
 psa68.title = "Psalm 68"
-psa68.version = properties_en_US_alwb.RSV
+psa68.version = properties_en_US_scripture.RSV
 psa68.text = ""
 psa68.v0.number_rsv = "(68:0)"
 psa68.v0.number = "(68:0)"
@@ -3473,7 +3473,7 @@ psa68.v35.number = "(68:35)"
 psa68.v35.text = "Terrible is God in his sanctuary, the God of Israel, he gives power and strength to his people.Blessed be God!"
 
 psa69.title = "Psalm 69"
-psa69.version = properties_en_US_alwb.RSV
+psa69.version = properties_en_US_scripture.RSV
 psa69.text = ""
 psa69.v0.number_rsv = "(69:0)"
 psa69.v0.number = "(69:0)"
@@ -3588,7 +3588,7 @@ psa69.v36.number = "(69:36)"
 psa69.v36.text = "the children of his servants shall inherit it, and those who love his name shall dwell in it."
 
 psa70.title = "Psalm 70"
-psa70.version = properties_en_US_alwb.RSV
+psa70.version = properties_en_US_scripture.RSV
 psa70.text = ""
 psa70.v0.number_rsv = "(70:0)"
 psa70.v0.number = "(70:0)"
@@ -3612,7 +3612,7 @@ psa70.v5.text = "But I am poor and needy; hasten to me, O God! Thou art my help 
 kathisma_10.title = "KATHISMA 10."
 
 psa71.title = "Psalm 71"
-psa71.version = properties_en_US_alwb.RSV
+psa71.version = properties_en_US_scripture.RSV
 psa71.text = ""
 psa71.v1.number_rsv = "(71:1)"
 psa71.v1.number = "(71:1)"
@@ -3688,7 +3688,7 @@ psa71.v24.number = "(71:24)"
 psa71.v24.text = "And my tongue will talk of thy righteous helpall the day long, for they have been put to shame and disgracedwho sought to do me hurt."
 
 psa72.title = "Psalm 72"
-psa72.version = properties_en_US_alwb.RSV
+psa72.version = properties_en_US_scripture.RSV
 psa72.text = ""
 psa72.v0.number_rsv = "(72:0)"
 psa72.v0.number = "(72:0)"
@@ -3755,7 +3755,7 @@ psa72.v20.number = "(72:20)"
 psa72.v20.text = "The prayers of David, the son of Jesse, are ended."
 
 psa73.title = "Psalm 73"
-psa73.version = properties_en_US_alwb.RSV
+psa73.version = properties_en_US_scripture.RSV
 psa73.text = ""
 psa73.v0.number_rsv = "(73:0)"
 psa73.v0.number = "(73:0)"
@@ -3846,7 +3846,7 @@ psa73.v28.number = "(73:28)"
 psa73.v28.text = "But for me it is good to be near God; I have made the Lord GOD my refuge, that I may tell of all thy works.R"
 
 psa74.title = "Psalm 74"
-psa74.version = properties_en_US_alwb.RSV
+psa74.version = properties_en_US_scripture.RSV
 psa74.text = ""
 psa74.v0.number_rsv = "(74:0)"
 psa74.v0.number = "(74:0)"
@@ -3922,7 +3922,7 @@ psa74.v23.number = "(74:23)"
 psa74.v23.text = "Do not forget the clamor of thy foes, the uproar of thy adversaries which goes up continually!"
 
 psa75.title = "Psalm 75"
-psa75.version = properties_en_US_alwb.RSV
+psa75.version = properties_en_US_scripture.RSV
 psa75.text = ""
 psa75.v0.number_rsv = "(75:0)"
 psa75.v0.number = "(75:0)"
@@ -3959,7 +3959,7 @@ psa75.v10.number = "(75:10)"
 psa75.v10.text = "All the horns of the wicked he will cut off, but the horns of the righteous shall be exalted."
 
 psa76.title = "Psalm 76"
-psa76.version = properties_en_US_alwb.RSV
+psa76.version = properties_en_US_scripture.RSV
 psa76.text = ""
 psa76.v0.number_rsv = "(76:0)"
 psa76.v0.number = "(76:0)"
@@ -4002,7 +4002,7 @@ psa76.v12.number = "(76:12)"
 psa76.v12.text = "who cuts off the spirit of princes, who is terrible to the kings of the earth."
 
 psa77.title = "Psalm 77"
-psa77.version = properties_en_US_alwb.RSV
+psa77.version = properties_en_US_scripture.RSV
 psa77.text = ""
 psa77.v0.number_rsv = "(77:0)"
 psa77.v0.number = "(77:0)"
@@ -4071,7 +4071,7 @@ psa77.v20.text = "Thou didst lead thy people like a flockby the hand of Moses an
 kathisma_11.title = "KATHISMA 11."
 
 psa78.title = "Psalm 78"
-psa78.version = properties_en_US_alwb.RSV
+psa78.version = properties_en_US_scripture.RSV
 psa78.text = ""
 psa78.v0.number_rsv = "(78:0)"
 psa78.v0.number = "(78:0)"
@@ -4294,7 +4294,7 @@ psa78.v72.number = "(78:72)"
 psa78.v72.text = "With upright heart he tended them, and guided them with skilful hand."
 
 psa79.title = "Psalm 79"
-psa79.version = properties_en_US_alwb.RSV
+psa79.version = properties_en_US_scripture.RSV
 psa79.text = ""
 psa79.v0.number_rsv = "(79:0)"
 psa79.v0.number = "(79:0)"
@@ -4340,7 +4340,7 @@ psa79.v13.number = "(79:13)"
 psa79.v13.text = "Then we thy people, the flock of thy pasture, will give thanks to thee for ever; from generation to generation we will recount thy praise."
 
 psa80.title = "Psalm 80"
-psa80.version = properties_en_US_alwb.RSV
+psa80.version = properties_en_US_scripture.RSV
 psa80.text = ""
 psa80.v0.number_rsv = "(80:0)"
 psa80.v0.number = "(80:0)"
@@ -4404,7 +4404,7 @@ psa80.v19.number = "(80:19)"
 psa80.v19.text = "Restore us, O LORD God of hosts! let thy face shine, that we may be saved! R"
 
 psa81.title = "Psalm 81"
-psa81.version = properties_en_US_alwb.RSV
+psa81.version = properties_en_US_scripture.RSV
 psa81.text = ""
 psa81.v0.number_rsv = "(81:0)"
 psa81.v0.number = "(81:0)"
@@ -4459,7 +4459,7 @@ psa81.v16.number = "(81:16)"
 psa81.v16.text = "I would feed you with the finest of the wheat, and with honey from the rock I would satisfy you.\""
 
 psa82.title = "Psalm 82"
-psa82.version = properties_en_US_alwb.RSV
+psa82.version = properties_en_US_scripture.RSV
 psa82.text = ""
 psa82.v0.number_rsv = "(82:0)"
 psa82.v0.number = "(82:0)"
@@ -4490,7 +4490,7 @@ psa82.v8.number = "(82:8)"
 psa82.v8.text = "Arise, O God, judge the earth; for to thee belong all the nations!"
 
 psa83.title = "Psalm 83"
-psa83.version = properties_en_US_alwb.RSV
+psa83.version = properties_en_US_scripture.RSV
 psa83.text = ""
 psa83.v0.number_rsv = "(83:0)"
 psa83.v0.number = "(83:0)"
@@ -4551,7 +4551,7 @@ psa83.v18.number = "(83:18)"
 psa83.v18.text = "Let them know that thou alone, whose name is the LORD, art the Most High over all the earth."
 
 psa84.title = "Psalm 84"
-psa84.version = properties_en_US_alwb.RSV
+psa84.version = properties_en_US_scripture.RSV
 psa84.text = ""
 psa84.v0.number_rsv = "(84:0)"
 psa84.v0.number = "(84:0)"
@@ -4594,7 +4594,7 @@ psa84.v12.number = "(84:12)"
 psa84.v12.text = "O LORD of hosts, blessed is the man who trusts in thee!"
 
 psa85.title = "Psalm 85"
-psa85.version = properties_en_US_alwb.RSV
+psa85.version = properties_en_US_scripture.RSV
 psa85.text = ""
 psa85.v0.number_rsv = "(85:0)"
 psa85.v0.number = "(85:0)"
@@ -4642,7 +4642,7 @@ psa85.v13.text = "Righteousness will go before him, and make his footsteps a way
 kathisma_12.title = "KATHISMA 12."
 
 psa86.title = "Psalm 86"
-psa86.version = properties_en_US_alwb.RSV
+psa86.version = properties_en_US_scripture.RSV
 psa86.text = ""
 psa86.v0.number_rsv = "(86:0)"
 psa86.v0.number = "(86:0)"
@@ -4700,7 +4700,7 @@ psa86.v17.number = "(86:17)"
 psa86.v17.text = "Show me a sign of thy favor, that those who hate me may see and be put to shamebecause thou, LORD, hast helped me and comforted me."
 
 psa87.title = "Psalm 87"
-psa87.version = properties_en_US_alwb.RSV
+psa87.version = properties_en_US_scripture.RSV
 psa87.text = ""
 psa87.v0.number_rsv = "(87:0)"
 psa87.v0.number = "(87:0)"
@@ -4728,7 +4728,7 @@ psa87.v7.number = "(87:7)"
 psa87.v7.text = "Singers and dancers alike say,\"All my springs are in you.\""
 
 psa88.title = "Psalm 88"
-psa88.version = properties_en_US_alwb.RSV
+psa88.version = properties_en_US_scripture.RSV
 psa88.text = ""
 psa88.v0.number_rsv = "(88:0)"
 psa88.v0.number = "(88:0)"
@@ -4789,7 +4789,7 @@ psa88.v18.number = "(88:18)"
 psa88.v18.text = "Thou hast caused lover and friend to shun me; my companions are in darkness."
 
 psa89.title = "Psalm 89"
-psa89.version = properties_en_US_alwb.RSV
+psa89.version = properties_en_US_scripture.RSV
 psa89.text = ""
 psa89.v0.number_rsv = "(89:0)"
 psa89.v0.number = "(89:0)"
@@ -4952,7 +4952,7 @@ psa89.v52.number = "(89:52)"
 psa89.v52.text = "Blessed be the LORD for ever! Amen and Amen."
 
 psa90.title = "Psalm 90"
-psa90.version = properties_en_US_alwb.RSV
+psa90.version = properties_en_US_scripture.RSV
 psa90.text = ""
 psa90.v0.number_rsv = "(90:0)"
 psa90.v0.number = "(90:0)"
@@ -5010,7 +5010,7 @@ psa90.v17.number = "(90:17)"
 psa90.v17.text = "Let the favor of the Lord our God be upon us, and establish thou the work of our hands upon us, yea, the work of our hands establish thou it.R"
 
 psa91.title = "Psalm 91"
-psa91.version = properties_en_US_alwb.RSV
+psa91.version = properties_en_US_scripture.RSV
 psa91.text = ""
 psa91.v1.number_rsv = "(91:1)"
 psa91.v1.number = "(91:1)"
@@ -5064,7 +5064,7 @@ psa91.v16.text = "With long life I will satisfy him, and show him my salvation."
 kathisma_13.title = "KATHISMA 13."
 
 psa92.title = "Psalm 92"
-psa92.version = properties_en_US_alwb.RSV
+psa92.version = properties_en_US_scripture.RSV
 psa92.text = ""
 psa92.v0.number_rsv = "(92:0)"
 psa92.v0.number = "(92:0)"
@@ -5116,7 +5116,7 @@ psa92.v15.number = "(92:15)"
 psa92.v15.text = "to show that the LORD is upright; he is my rock, and there is no unrighteousness in him."
 
 psa93.title = "Psalm 93"
-psa93.version = properties_en_US_alwb.RSV
+psa93.version = properties_en_US_scripture.RSV
 psa93.text = ""
 psa93.v1.number_rsv = "(93:1)"
 psa93.v1.number = "(93:1)"
@@ -5135,7 +5135,7 @@ psa93.v5.number = "(93:5)"
 psa93.v5.text = "Thy decrees are very sure; holiness befits thy house, O LORD, for evermore."
 
 psa94.title = "Psalm 94"
-psa94.version = properties_en_US_alwb.RSV
+psa94.version = properties_en_US_scripture.RSV
 psa94.text = ""
 psa94.v1.number_rsv = "(94:1)"
 psa94.v1.number = "(94:1)"
@@ -5208,7 +5208,7 @@ psa94.v23.number = "(94:23)"
 psa94.v23.text = "He will bring back on them their iniquityand wipe them out for their wickedness; the LORD our God will wipe them out."
 
 psa95.title = "Psalm 95"
-psa95.version = properties_en_US_alwb.RSV
+psa95.version = properties_en_US_scripture.RSV
 psa95.text = ""
 psa95.v1.number_rsv = "(95:1)"
 psa95.v1.number = "(95:1)"
@@ -5245,7 +5245,7 @@ psa95.v11.number = "(95:11)"
 psa95.v11.text = "Therefore I swore in my angerthat they should not enter my rest."
 
 psa96.title = "Psalm 96"
-psa96.version = properties_en_US_alwb.RSV
+psa96.version = properties_en_US_scripture.RSV
 psa96.text = ""
 psa96.v1.number_rsv = "(96:1)"
 psa96.v1.number = "(96:1)"
@@ -5288,7 +5288,7 @@ psa96.v13.number = "(96:13)"
 psa96.v13.text = "before the LORD, for he comes, for he comes to judge the earth.He will judge the world with righteousness, and the peoples with his truth."
 
 psa97.title = "Psalm 97"
-psa97.version = properties_en_US_alwb.RSV
+psa97.version = properties_en_US_scripture.RSV
 psa97.text = ""
 psa97.v1.number_rsv = "(97:1)"
 psa97.v1.number = "(97:1)"
@@ -5328,7 +5328,7 @@ psa97.v12.number = "(97:12)"
 psa97.v12.text = "Rejoice in the LORD, O you righteous, and give thanks to his holy name!"
 
 psa98.title = "Psalm 98"
-psa98.version = properties_en_US_alwb.RSV
+psa98.version = properties_en_US_scripture.RSV
 psa98.text = ""
 psa98.v0.number_rsv = "(98:0)"
 psa98.v0.number = "(98:0)"
@@ -5362,7 +5362,7 @@ psa98.v9.number = "(98:9)"
 psa98.v9.text = "before the LORD, for he comesto judge the earth.He will judge the world with righteousness, and the peoples with equity."
 
 psa99.title = "Psalm 99"
-psa99.version = properties_en_US_alwb.RSV
+psa99.version = properties_en_US_scripture.RSV
 psa99.text = ""
 psa99.v1.number_rsv = "(99:1)"
 psa99.v1.number = "(99:1)"
@@ -5393,7 +5393,7 @@ psa99.v9.number = "(99:9)"
 psa99.v9.text = "Extol the LORD our God, and worship at his holy mountain; for the LORD our God is holy!"
 
 psa100.title = "Psalm 100"
-psa100.version = properties_en_US_alwb.RSV
+psa100.version = properties_en_US_scripture.RSV
 psa100.text = ""
 psa100.v0.number_rsv = "(100:0)"
 psa100.v0.number = "(100:0)"
@@ -5415,7 +5415,7 @@ psa100.v5.number = "(100:5)"
 psa100.v5.text = "For the LORD is good; his steadfast love endures for ever, and his faithfulness to all generations."
 
 psa101.title = "Psalm 101"
-psa101.version = properties_en_US_alwb.RSV
+psa101.version = properties_en_US_scripture.RSV
 psa101.text = ""
 psa101.v0.number_rsv = "(101:0)"
 psa101.v0.number = "(101:0)"
@@ -5448,7 +5448,7 @@ psa101.v8.text = "Morning by morning I will destroyall the wicked in the land, c
 kathisma_14.title = "KATHISMA 14."
 
 psa102.title = "Psalm 102"
-psa102.version = properties_en_US_alwb.RSV
+psa102.version = properties_en_US_scripture.RSV
 psa102.text = ""
 psa102.v0.number_rsv = "(102:0)"
 psa102.v0.number = "(102:0)"
@@ -5539,7 +5539,7 @@ psa102.v28.number = "(102:28)"
 psa102.v28.text = "The children of thy servants shall dwell secure; their posterity shall be established before thee."
 
 psa103.title = "Psalm 103"
-psa103.version = properties_en_US_alwb.RSV
+psa103.version = properties_en_US_scripture.RSV
 psa103.text = ""
 psa103.v0.number_rsv = "(103:0)"
 psa103.v0.number = "(103:0)"
@@ -5612,7 +5612,7 @@ psa103.v22.number = "(103:22)"
 psa103.v22.text = "Bless the LORD, all his works, in all places of his dominion.Bless the LORD, O my soul!"
 
 psa104.title = "Psalm 104"
-psa104.version = properties_en_US_alwb.RSV
+psa104.version = properties_en_US_scripture.RSV
 psa104.text = ""
 psa104.v1.number_rsv = "(104:1)"
 psa104.v1.number = "(104:1)"
@@ -5721,7 +5721,7 @@ psa104.v35.number = "(104:35)"
 psa104.v35.text = "Let sinners be consumed from the earth, and let the wicked be no more! Bless the LORD, O my soul! Praise the LORD!"
 
 psa105.title = "Psalm 105"
-psa105.version = properties_en_US_alwb.RSV
+psa105.version = properties_en_US_scripture.RSV
 psa105.text = ""
 psa105.v1.number_rsv = "(105:1)"
 psa105.v1.number = "(105:1)"
@@ -5862,7 +5862,7 @@ psa105.v45.text = "to the end that they should keep his statutes, and observe hi
 kathisma_15.title = "KATHISMA 15."
 
 psa106.title = "Psalm 106"
-psa106.version = properties_en_US_alwb.RSV
+psa106.version = properties_en_US_scripture.RSV
 psa106.text = ""
 psa106.v1.number_rsv = "(106:1)"
 psa106.v1.number = "(106:1)"
@@ -6010,7 +6010,7 @@ psa106.v48.number = "(106:48)"
 psa106.v48.text = "Blessed be the LORD, the God of Israel, from everlasting to everlasting! And let all the people say, \"Amen!\"Praise the LORD!"
 
 psa107.title = "Psalm 107"
-psa107.version = properties_en_US_alwb.RSV
+psa107.version = properties_en_US_scripture.RSV
 psa107.text = ""
 psa107.v1.number_rsv = "(107:1)"
 psa107.v1.number = "(107:1)"
@@ -6143,7 +6143,7 @@ psa107.v43.number = "(107:43)"
 psa107.v43.text = "Whoever is wise, let him give heed to these things; let men consider the steadfast love of the LORD."
 
 psa108.title = "Psalm 108"
-psa108.version = properties_en_US_alwb.RSV
+psa108.version = properties_en_US_scripture.RSV
 psa108.text = ""
 psa108.v0.number_rsv = "(108:0)"
 psa108.v0.number = "(108:0)"
@@ -6189,7 +6189,7 @@ psa108.v13.number = "(108:13)"
 psa108.v13.text = "With God we shall do valiantly; it is he who will tread down our foes.R"
 
 psa109.title = "Psalm 109"
-psa109.version = properties_en_US_alwb.RSV
+psa109.version = properties_en_US_scripture.RSV
 psa109.text = ""
 psa109.v0.number_rsv = "(109:0)"
 psa109.v0.number = "(109:0)"
@@ -6291,7 +6291,7 @@ psa109.v31.text = "For he stands at the right hand of the needy, to save him fro
 kathisma_16.title = "KATHISMA 16."
 
 psa110.title = "Psalm 110"
-psa110.version = properties_en_US_alwb.RSV
+psa110.version = properties_en_US_scripture.RSV
 psa110.text = ""
 psa110.v0.number_rsv = "(110:0)"
 psa110.v0.number = "(110:0)"
@@ -6319,7 +6319,7 @@ psa110.v7.number = "(110:7)"
 psa110.v7.text = "He will drink from the brook by the way; therefore he will lift up his head."
 
 psa111.title = "Psalm 111"
-psa111.version = properties_en_US_alwb.RSV
+psa111.version = properties_en_US_scripture.RSV
 psa111.text = ""
 psa111.v1.number_rsv = "(111:1)"
 psa111.v1.number = "(111:1)"
@@ -6353,7 +6353,7 @@ psa111.v10.number = "(111:10)"
 psa111.v10.text = "The fear of the LORD is the beginning of wisdom; a good understanding have all those who practice it.His praise endures for ever!"
 
 psa112.title = "Psalm 112"
-psa112.version = properties_en_US_alwb.RSV
+psa112.version = properties_en_US_scripture.RSV
 psa112.text = ""
 psa112.v1.number_rsv = "(112:1)"
 psa112.v1.number = "(112:1)"
@@ -6387,7 +6387,7 @@ psa112.v10.number = "(112:10)"
 psa112.v10.text = "The wicked man sees it and is angry; he gnashes his teeth and melts away; the desire of the wicked man comes to nought."
 
 psa113.title = "Psalm 113"
-psa113.version = properties_en_US_alwb.RSV
+psa113.version = properties_en_US_scripture.RSV
 psa113.text = ""
 psa113.v1.number_rsv = "(113:1)"
 psa113.v1.number = "(113:1)"
@@ -6418,7 +6418,7 @@ psa113.v9.number = "(113:9)"
 psa113.v9.text = "He gives the barren woman a home, making her the joyous mother of children.Praise the LORD!"
 
 psa114.title = "Psalm 114"
-psa114.version = properties_en_US_alwb.RSV
+psa114.version = properties_en_US_scripture.RSV
 psa114.text = ""
 psa114.v1.number_rsv = "(114:1)"
 psa114.v1.number = "(114:1)"
@@ -6446,7 +6446,7 @@ psa114.v8.number = "(114:8)"
 psa114.v8.text = "who turns the rock into a pool of water, the flint into a spring of water."
 
 psa115.title = "Psalm 115"
-psa115.version = properties_en_US_alwb.RSV
+psa115.version = properties_en_US_scripture.RSV
 psa115.text = ""
 psa115.v1.number_rsv = "(115:1)"
 psa115.v1.number = "(115:1)"
@@ -6504,7 +6504,7 @@ psa115.v18.number = "(115:18)"
 psa115.v18.text = "But we will bless the LORDfrom this time forth and for evermore.Praise the LORD!"
 
 psa116.title = "Psalm 116"
-psa116.version = properties_en_US_alwb.RSV
+psa116.version = properties_en_US_scripture.RSV
 psa116.text = ""
 psa116.v1.number_rsv = "(116:1)"
 psa116.v1.number = "(116:1)"
@@ -6565,7 +6565,7 @@ psa116.v19.number = "(116:19)"
 psa116.v19.text = "in the courts of the house of the LORD, in your midst, O Jerusalem.Praise the LORD!"
 
 psa117.title = "Psalm 117"
-psa117.version = properties_en_US_alwb.RSV
+psa117.version = properties_en_US_scripture.RSV
 psa117.text = ""
 psa117.v1.number_rsv = "(117:1)"
 psa117.v1.number = "(117:1)"
@@ -6575,7 +6575,7 @@ psa117.v2.number = "(117:2)"
 psa117.v2.text = "For great is his steadfast love toward us; and the faithfulness of the LORD endures for ever.Praise the LORD!"
 
 psa118.title = "Psalm 118"
-psa118.version = properties_en_US_alwb.RSV
+psa118.version = properties_en_US_scripture.RSV
 psa118.text = ""
 psa118.v1.number_rsv = "(118:1)"
 psa118.v1.number = "(118:1)"
@@ -6668,7 +6668,7 @@ psa118.v29.text = "O give thanks to the LORD, for he is good; for his steadfast 
 kathisma_17.title = "KATHISMA 17."
 
 psa119.title = "Psalm 119"
-psa119.version = properties_en_US_alwb.RSV
+psa119.version = properties_en_US_scripture.RSV
 psa119.text = ""
 psa119.v1.number_rsv = "(119:1)"
 psa119.v1.number = "(119:1)"
@@ -7202,7 +7202,7 @@ psa119.v176.text = "I have gone astray like a lost sheep; seek thy servant, for 
 kathisma_18.title = "KATHISMA 18."
 
 psa120.title = "Psalm 120"
-psa120.version = properties_en_US_alwb.RSV
+psa120.version = properties_en_US_scripture.RSV
 psa120.text = ""
 psa120.v0.number_rsv = "(120:0)"
 psa120.v0.number = "(120:0)"
@@ -7230,7 +7230,7 @@ psa120.v7.number = "(120:7)"
 psa120.v7.text = "I am for peace; but when I speak, they are for war!"
 
 psa121.title = "Psalm 121"
-psa121.version = properties_en_US_alwb.RSV
+psa121.version = properties_en_US_scripture.RSV
 psa121.text = ""
 psa121.v0.number_rsv = "(121:0)"
 psa121.v0.number = "(121:0)"
@@ -7261,7 +7261,7 @@ psa121.v8.number = "(121:8)"
 psa121.v8.text = "The LORD will keepyour going out and your coming infrom this time forth and for evermore."
 
 psa122.title = "Psalm 122"
-psa122.version = properties_en_US_alwb.RSV
+psa122.version = properties_en_US_scripture.RSV
 psa122.text = ""
 psa122.v0.number_rsv = "(122:0)"
 psa122.v0.number = "(122:0)"
@@ -7295,7 +7295,7 @@ psa122.v9.number = "(122:9)"
 psa122.v9.text = "For the sake of the house of the LORD our God, I will seek your good."
 
 psa123.title = "Psalm 123"
-psa123.version = properties_en_US_alwb.RSV
+psa123.version = properties_en_US_scripture.RSV
 psa123.text = ""
 psa123.v0.number_rsv = "(123:0)"
 psa123.v0.number = "(123:0)"
@@ -7314,7 +7314,7 @@ psa123.v4.number = "(123:4)"
 psa123.v4.text = "Too long our soul has been satedwith the scorn of those who are at ease, the contempt of the proud."
 
 psa124.title = "Psalm 124"
-psa124.version = properties_en_US_alwb.RSV
+psa124.version = properties_en_US_scripture.RSV
 psa124.text = ""
 psa124.v0.number_rsv = "(124:0)"
 psa124.v0.number = "(124:0)"
@@ -7345,7 +7345,7 @@ psa124.v8.number = "(124:8)"
 psa124.v8.text = "Our help is in the name of the LORD, who made heaven and earth."
 
 psa125.title = "Psalm 126"
-psa125.version = properties_en_US_alwb.RSV
+psa125.version = properties_en_US_scripture.RSV
 psa125.text = ""
 psa125.v0.number_rsv = "(125:0)"
 psa125.v0.number = "(125:0)"
@@ -7367,7 +7367,7 @@ psa125.v5.number = "(125:5)"
 psa125.v5.text = "But those who turn aside upon their crooked waysthe LORD will lead away with evildoers! Peace be in Israel!"
 
 psa126.title = "Psalm 126"
-psa126.version = properties_en_US_alwb.RSV
+psa126.version = properties_en_US_scripture.RSV
 psa126.text = ""
 psa126.v0.number_rsv = "(126:0)"
 psa126.v0.number = "(126:0)"
@@ -7392,7 +7392,7 @@ psa126.v6.number = "(126:6)"
 psa126.v6.text = "He that goes forth weeping, bearing the seed for sowing, shall come home with shouts of joy, bringing his sheaves with him."
 
 psa127.title = "Psalm 127"
-psa127.version = properties_en_US_alwb.RSV
+psa127.version = properties_en_US_scripture.RSV
 psa127.text = ""
 psa127.v0.number_rsv = "(127:0)"
 psa127.v0.number = "(127:0)"
@@ -7414,7 +7414,7 @@ psa127.v5.number = "(127:5)"
 psa127.v5.text = "Happy is the man who hashis quiver full of them! He shall not be put to shamewhen he speaks with his enemies in the gate."
 
 psa128.title = "Psalm 128"
-psa128.version = properties_en_US_alwb.RSV
+psa128.version = properties_en_US_scripture.RSV
 psa128.text = ""
 psa128.v0.number_rsv = "(128:0)"
 psa128.v0.number = "(128:0)"
@@ -7439,7 +7439,7 @@ psa128.v6.number = "(128:6)"
 psa128.v6.text = "May you see your children\"s children! Peace be upon Israel!"
 
 psa129.title = "Psalm 129"
-psa129.version = properties_en_US_alwb.RSV
+psa129.version = properties_en_US_scripture.RSV
 psa129.text = ""
 psa129.v0.number_rsv = "(129:0)"
 psa129.v0.number = "(129:0)"
@@ -7470,7 +7470,7 @@ psa129.v8.number = "(129:8)"
 psa129.v8.text = "while those who pass by do not say,\"The blessing of the LORD be upon you! We bless you in the name of the LORD!\""
 
 psa130.title = "Psalm 130"
-psa130.version = properties_en_US_alwb.RSV
+psa130.version = properties_en_US_scripture.RSV
 psa130.text = ""
 psa130.v0.number_rsv = "(130:0)"
 psa130.v0.number = "(130:0)"
@@ -7501,7 +7501,7 @@ psa130.v8.number = "(130:8)"
 psa130.v8.text = "And he will redeem Israelfrom all his iniquities."
 
 psa131.title = "Psalm 131"
-psa131.version = properties_en_US_alwb.RSV
+psa131.version = properties_en_US_scripture.RSV
 psa131.text = ""
 psa131.v0.number_rsv = "(131:0)"
 psa131.v0.number = "(131:0)"
@@ -7517,7 +7517,7 @@ psa131.v3.number = "(131:3)"
 psa131.v3.text = "O Israel, hope in the LORDfrom this time forth and for evermore."
 
 psa132.title = "Psalm 132"
-psa132.version = properties_en_US_alwb.RSV
+psa132.version = properties_en_US_scripture.RSV
 psa132.text = ""
 psa132.v0.number_rsv = "(132:0)"
 psa132.v0.number = "(132:0)"
@@ -7578,7 +7578,7 @@ psa132.v18.number = "(132:18)"
 psa132.v18.text = "His enemies I will clothe with shame, but upon himself his crown will shed its luster.\""
 
 psa133.title = "Psalm 133"
-psa133.version = properties_en_US_alwb.RSV
+psa133.version = properties_en_US_scripture.RSV
 psa133.text = ""
 psa133.v0.number_rsv = "(133:0)"
 psa133.v0.number = "(133:0)"
@@ -7594,7 +7594,7 @@ psa133.v3.number = "(133:3)"
 psa133.v3.text = "It is like the dew of Hermon, which falls on the mountains of Zion! For there the LORD has commanded the blessing, life for evermore."
 
 psa134.title = "Psalm 134"
-psa134.version = properties_en_US_alwb.RSV
+psa134.version = properties_en_US_scripture.RSV
 psa134.text = ""
 psa134.v0.number_rsv = "(134:0)"
 psa134.v0.number = "(134:0)"
@@ -7612,7 +7612,7 @@ psa134.v3.text = "May the LORD bless you from Zion, he who made heaven and earth
 kathisma_19.title = "KATHISMA 19."
 
 psa135.title = "Psalm 135"
-psa135.version = properties_en_US_alwb.RSV
+psa135.version = properties_en_US_scripture.RSV
 psa135.text = ""
 psa135.v1.number_rsv = "(135:1)"
 psa135.v1.number = "(135:1)"
@@ -7679,7 +7679,7 @@ psa135.v21.number = "(135:21)"
 psa135.v21.text = "Blessed be the LORD from Zion, he who dwells in Jerusalem! Praise the LORD!"
 
 psa136.title = "Psalm 136"
-psa136.version = properties_en_US_alwb.RSV
+psa136.version = properties_en_US_scripture.RSV
 psa136.text = ""
 psa136.v1.number_rsv = "(136:1)"
 psa136.v1.number = "(136:1)"
@@ -7761,7 +7761,7 @@ psa136.v26.number = "(136:26)"
 psa136.v26.text = "O give thanks to the God of heaven, for his steadfast love endures for ever."
 
 psa137.title = "Psalm 137"
-psa137.version = properties_en_US_alwb.RSV
+psa137.version = properties_en_US_scripture.RSV
 psa137.text = ""
 psa137.v1.number_rsv = "(137:1)"
 psa137.v1.number = "(137:1)"
@@ -7792,7 +7792,7 @@ psa137.v9.number = "(137:9)"
 psa137.v9.text = "Happy shall he be who takes your little onesand dashes them against the rock!"
 
 psa138.title = "Psalm 138"
-psa138.version = properties_en_US_alwb.RSV
+psa138.version = properties_en_US_scripture.RSV
 psa138.text = ""
 psa138.v0.number_rsv = "(138:0)"
 psa138.v0.number = "(138:0)"
@@ -7823,7 +7823,7 @@ psa138.v8.number = "(138:8)"
 psa138.v8.text = "The LORD will fulfil his purpose for me; thy steadfast love, O LORD, endures for ever.Do not forsake the work of thy hands."
 
 psa139.title = "Psalm 139"
-psa139.version = properties_en_US_alwb.RSV
+psa139.version = properties_en_US_scripture.RSV
 psa139.text = ""
 psa139.v0.number_rsv = "(139:0)"
 psa139.v0.number = "(139:0)"
@@ -7902,7 +7902,7 @@ psa139.v24.number = "(139:24)"
 psa139.v24.text = "And see if there be any wicked way in me, and lead me in the way everlasting!"
 
 psa140.title = "Psalm 140"
-psa140.version = properties_en_US_alwb.RSV
+psa140.version = properties_en_US_scripture.RSV
 psa140.text = ""
 psa140.v0.number_rsv = "(140:0)"
 psa140.v0.number = "(140:0)"
@@ -7948,7 +7948,7 @@ psa140.v13.number = "(140:13)"
 psa140.v13.text = "Surely the righteous shall give thanks to thy name; the upright shall dwell in thy presence."
 
 psa141.title = "Psalm 141"
-psa141.version = properties_en_US_alwb.RSV
+psa141.version = properties_en_US_scripture.RSV
 psa141.text = ""
 psa141.v0.number_rsv = "(141:0)"
 psa141.v0.number = "(141:0)"
@@ -7985,7 +7985,7 @@ psa141.v10.number = "(141:10)"
 psa141.v10.text = "Let the wicked together fall into their own nets, while I escape.R"
 
 psa142.title = "Psalm 142"
-psa142.version = properties_en_US_alwb.RSV
+psa142.version = properties_en_US_scripture.RSV
 psa142.text = ""
 psa142.v0.number_rsv = "(142:0)"
 psa142.v0.number = "(142:0)"
@@ -8013,7 +8013,7 @@ psa142.v7.number = "(142:7)"
 psa142.v7.text = "Bring me out of prison, that I may give thanks to thy name! The righteous will surround me; for thou wilt deal bountifully with me."
 
 psa143.title = "Psalm 143"
-psa143.version = properties_en_US_alwb.RSV
+psa143.version = properties_en_US_scripture.RSV
 psa143.text = ""
 psa143.v0.number_rsv = "(143:0)"
 psa143.v0.number = "(143:0)"
@@ -8058,7 +8058,7 @@ psa143.v12.text = "And in thy steadfast love cut off my enemies, and destroy all
 kathisma_20.title = "KATHISMA 20."
 
 psa144.title = "Psalm 144"
-psa144.version = properties_en_US_alwb.RSV
+psa144.version = properties_en_US_scripture.RSV
 psa144.text = ""
 psa144.v0.number_rsv = "(144:0)"
 psa144.v0.number = "(144:0)"
@@ -8110,7 +8110,7 @@ psa144.v15.number = "(144:15)"
 psa144.v15.text = "Happy the people to whom such blessings fall! Happy the people whose God is the LORD!"
 
 psa145.title = "Psalm 145"
-psa145.version = properties_en_US_alwb.RSV
+psa145.version = properties_en_US_scripture.RSV
 psa145.text = ""
 psa145.v0.number_rsv = "(145:0)"
 psa145.v0.number = "(145:0)"
@@ -8180,7 +8180,7 @@ psa145.v21.number = "(145:21)"
 psa145.v21.text = "My mouth will speak the praise of the LORD, and let all flesh bless his holy name for ever and ever."
 
 psa146.title = "Psalm 146"
-psa146.version = properties_en_US_alwb.RSV
+psa146.version = properties_en_US_scripture.RSV
 psa146.text = ""
 psa146.v1.number_rsv = "(146:1)"
 psa146.v1.number = "(146:1)"
@@ -8214,7 +8214,7 @@ psa146.v10.number = "(146:10)"
 psa146.v10.text = "The LORD will reign for ever, thy God, O Zion, to all generations.Praise the LORD!"
 
 psa147.title = "Psalm 147"
-psa147.version = properties_en_US_alwb.RSV
+psa147.version = properties_en_US_scripture.RSV
 psa147.text = ""
 psa147.v1.number_rsv = "(147:1)"
 psa147.v1.number = "(147:1)"
@@ -8278,7 +8278,7 @@ psa147.v20.number = "(147:20)"
 psa147.v20.text = "He has not dealt thus with any other nation; they do not know his ordinances.Praise the LORD!"
 
 psa148.title = "Psalm 148"
-psa148.version = properties_en_US_alwb.RSV
+psa148.version = properties_en_US_scripture.RSV
 psa148.text = ""
 psa148.v1.number_rsv = "(148:1)"
 psa148.v1.number = "(148:1)"
@@ -8324,7 +8324,7 @@ psa148.v14.number = "(148:14)"
 psa148.v14.text = "He has raised up a horn for his people, praise for all his saints, for the people of Israel who are near to him.Praise the LORD!"
 
 psa149.title = "Psalm 149"
-psa149.version = properties_en_US_alwb.RSV
+psa149.version = properties_en_US_scripture.RSV
 psa149.text = ""
 psa149.v1.number_rsv = "(149:1)"
 psa149.v1.number = "(149:1)"
@@ -8355,7 +8355,7 @@ psa149.v9.number = "(149:9)"
 psa149.v9.text = "to execute on them the judgment written! This is glory for all his faithful ones.Praise the LORD!"
 
 psa150.title = "Psalm 150"
-psa150.version = properties_en_US_alwb.RSV
+psa150.version = properties_en_US_scripture.RSV
 psa150.text = ""
 psa150.v1.number_rsv = "(150:1)"
 psa150.v1.number = "(150:1)"
