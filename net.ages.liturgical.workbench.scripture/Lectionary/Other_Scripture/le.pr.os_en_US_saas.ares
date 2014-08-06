@@ -49,3 +49,17 @@ leosFUN.Key1202.book = bible_en_US_saas.Genesis
 leosFUN.Key1202.chapverse = "(3:19)"
 leosFUN.Key1202.text = "Earth you are, and to earth you shall return."
 
+leosH1.me.m12.d24.Verse1.version = properties_en_US_scripture.SAAS
+leosH1.me.m12.d24.Verse1.book = bible_en_US_saas.Habakkuk
+leosH1.me.m12.d24.Verse1.chapverse = "(3:3)"
+leosH1.me.m12.d24.Verse1.text = "God will come from Teman, the Holy One from the mount of shaded leafy trees."
+
+leosH1.me.m12.d24.Verse2.version = properties_en_US_scripture.SAAS
+leosH1.me.m12.d24.Verse2.book = bible_en_US_saas.Habakkuk
+leosH1.me.m12.d24.Verse2.chapverse = "(3:1)"
+leosH1.me.m12.d24.Verse2.text = "Lord, I have heard Your report and was afraid; I considered Your works and was greatly astonished."
+
+leosH9.ho.s09.Key0001.version = properties_en_US_scripture.SAAS
+leosH9.ho.s09.Key0001.book = bible_en_US_saas.Daniel
+leosH9.ho.s09.Key0001.chapverse = "(3:34-35)"
+leosH9.ho.s09.Key0001.text = "For Your name's sake, do not hand us over to he end, and do not reject Your covenant. Do not withdraw Your mercy from us for the sake of Abraham, who is loved by You, and for the sake of Isaac, Your servant, and of Israel, Your holy one."

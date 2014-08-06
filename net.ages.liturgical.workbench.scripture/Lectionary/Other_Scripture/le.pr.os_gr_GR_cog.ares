@@ -49,6 +49,17 @@ leosFUN.Key1202.book = bible_gr_GR_cog.Genesis
 leosFUN.Key1202.chapverse = "(3:19)"
 leosFUN.Key1202.text = "Γῆ εἶ καὶ εἰς γῆν ἀπελεύσει."
 
+leosH1.me.m12.d24.Verse1.version = ""
+leosH1.me.m12.d24.Verse1.book = bible_gr_GR_cog.Habakkuk
+leosH1.me.m12.d24.Verse1.chapverse = "(3:3)"
+leosH1.me.m12.d24.Verse1.text = "Ὁ Θεὸς ἀπὸ Θαιμὰν ἥξει καὶ ὁ ἅγιος ἐξ ὄρους κατασκίου δασέος."
 
+leosH1.me.m12.d24.Verse2.version = ""
+leosH1.me.m12.d24.Verse2.book = bible_gr_GR_cog.Habakkuk
+leosH1.me.m12.d24.Verse2.chapverse = "(3:2)"
+leosH1.me.m12.d24.Verse2.text = "Κύριε εἰσακήκοα τὴν ἀκοήν σου καὶ ἐφοβήθην· κατενόησα τὰ ἔργα σου καὶ ἐξέστην."
 
-
+leosH9.ho.s09.Key0001.version = ""
+leosH9.ho.s09.Key0001.book = bible_gr_GR_cog.Daniel
+leosH9.ho.s09.Key0001.chapverse = "(3:34-35)"
+leosH9.ho.s09.Key0001.text = "Μὴ δὴ παραδῴης ἡμᾶς εἰς τέλος, διὰ τὸ ὄνομά σου τὸ Ἅγιον· καὶ μὴ διασκεδάσῃς τὴν διαθήκην σου, καὶ μὴ ἀποστήσῃς τὸ ἔλεός σου ἀφ' ἡμῶν, διὰ Ἀβραὰμ τὸν ἠγαπημένον ὑπὸ σοῦ, καὶ διὰ Ἰσαὰκ τὸν δοῦλόν σου καὶ Ἰσραὴλ τὸν Ἅγιόν σου."
