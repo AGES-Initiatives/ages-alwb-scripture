@@ -1,13 +1,5 @@
 A_Resource_Whose_Name = le.ep.va.wedding_en_US_rsv 
 
-//levaWED.Epistle.Prokeimenon.title = ""
-levaWED.EpistleProkeimenon.version = properties_en_US_scripture.RSV
-levaWED.EpistleProkeimenon.mode = misc_en_US_public.Mode8
-levaWED.EpistleProkeimenon.source = "20"
-levaWED.EpistleProkeimenon.text = "You have set a crown of precious stones upon their heads."
-levaWED.EpistleProkeimenonVerse.source = "20"
-levaWED.EpistleProkeimenonVerse.text = "They asked, and you gave given them length of days."
-
 levaWED.Epistle.title = "At Weddings."
 levaWED.Epistle.version = properties_en_US_scripture.RSV
 levaWED.Epistle.book = bible_en_US_rsv.Ephesians

@@ -1,12 +1,5 @@
 A_Resource_Whose_Name = le.ep.va.wedding_gr_GR_cog 
 
-levaWED.EpistleProkeimenon.version = 
-levaWED.EpistleProkeimenon.mode = misc_gr_GR_cog.Mode8
-levaWED.EpistleProkeimenon.source = "20"
-levaWED.EpistleProkeimenon.text = "Ἔθηκας ἐπὶ τὴν κεφαλὴν αὐτῶν στεφάνους ἐκ λίθων τιμίων."
-levaWED.EpistleProkeimenonVerse.source = "20"
-levaWED.EpistleProkeimenonVerse.text = "Ζωὴν ᾐτήσαντό σε, καὶ ἔδωκας αὐτοῖς μακρότητα ἡμερῶν."
-
 levaWED.Epistle.title = "ΕΙΣ ΓΑΜΟΝ"
 levaWED.Epistle.version = 
 levaWED.Epistle.book = bible_gr_GR_cog.Ephesians
