@@ -6,12 +6,6 @@ lemcMA.Gospel.book = bible_gr_GR_cog.Matthew
 lemcMA.Gospel.chapverse = "(κηʹ 16 - 20)"
 lemcMA.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, οἱ ἕνδεκα μαθηταὶ ἐπορεύθησαν εἰς τὴν Γαλιλαίαν εἰς τὸ ὄρος οὗ ἐτάξατο αὐτοῖς ὁ Ἰησοῦς, καὶ ἰδόντες αὐτὸν προσεκύνησαν, οἱ δὲ ἐδίστασαν. καὶ προσελθὼν ὁ Ἰησοῦς ἐλάλησεν αὐτοῖς λέγων, Ἐδόθη μοι πᾶσα ἐξουσία ἐν οὐρανῷ καὶ ἐπὶ γῆς. πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος, διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδοὺ ἐγὼ μεθ' ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος."
 
-lemcLI.GospelAlleluia.mode = misc_gr_GR_cog.Mode8
-lemcLI.GospelAlleluia.version = 
-lemcLI.GospelAlleluiaVerse1.source = ""
-lemcLI.GospelAlleluiaVerse1.text = "Δεῦτε ἀγαλλιασώμεθα τῷ Κυρίῳ."
-lemcLI.GospelAlleluiaVerse2.source = ""
-lemcLI.GospelAlleluiaVerse2.text = "Ὅτι Θεὸς μέγας Κύριος."
 
 lemcLI.Gospel.title = "Τῌ ΚΥΡΙΑΚῌ ΤΟΥ ΑΝΤΙΠΑΣΧΑ ἤτοι ΤΟΥ ΑΓΙΟΥ ΑΠΟΣΤΟΛΟΥ ΘΩΜΑ"
 lemcLI.Gospel.version = 

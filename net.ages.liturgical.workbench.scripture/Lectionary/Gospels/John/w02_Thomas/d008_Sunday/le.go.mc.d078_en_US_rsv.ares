@@ -6,12 +6,6 @@ lemcMA.Gospel.book = bible_en_US_rsv.Matthew
 lemcMA.Gospel.chapverse = "(28:16-20)"
 lemcMA.Gospel.text = "At that time, the eleven disciples went to Galilee, to the mountain to which Jesus had directed them. And when they saw him they worshipped him; but some doubted. And Jesus came and said to them, \"All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you; and lo, I am with you always, to the close of the age. Amen.\""
 
-lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode8
-lemcLI.GospelAlleluia.version = properties_en_US_scripture.RSV
-lemcLI.GospelAlleluiaVerse1.source = "94:1"
-lemcLI.GospelAlleluiaVerse1.text = "O come, let us sing to the Lord; let us shout for joy to God our Savior."
-lemcLI.GospelAlleluiaVerse2.source = "94:3"
-lemcLI.GospelAlleluiaVerse2.text = "For the Lord is a great God, and a great king above all gods."
 
 lemcLI.Gospel.title = "Thomas Sunday"
 lemcLI.Gospel.version = properties_en_US_scripture.RSV

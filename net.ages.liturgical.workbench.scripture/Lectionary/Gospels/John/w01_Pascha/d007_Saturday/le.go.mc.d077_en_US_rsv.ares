@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d077_en_US_rsv
 
-lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode5
-lemcLI.GospelAlleluia.version = properties_en_US_scripture.RSV
-lemcLI.GospelAlleluiaVerse1.source = "92:1"
-lemcLI.GospelAlleluiaVerse1.text = "The Lord reigns; he has clothed himself in honor."
-lemcLI.GospelAlleluiaVerse2.source = "92:2"
-lemcLI.GospelAlleluiaVerse2.text = "For he has established the world, which shall not be moved."
 
 lemcLI.Gospel.title = "Renewal Saturday"
 lemcLI.Gospel.version = properties_en_US_scripture.RSV

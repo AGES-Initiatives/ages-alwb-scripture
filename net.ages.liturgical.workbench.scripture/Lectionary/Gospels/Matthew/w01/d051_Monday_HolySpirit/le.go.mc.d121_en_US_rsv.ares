@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d121_en_US_rsv
 
-lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode2
-lemcLI.GospelAlleluia.version = properties_en_US_scripture.RSV
-lemcLI.GospelAlleluiaVerse1.source = "50.1"
-lemcLI.GospelAlleluiaVerse1.text = "Have mercy upon me, O God, according to your great mercy."
-lemcLI.GospelAlleluiaVerse2.source = "50.10"
-lemcLI.GospelAlleluiaVerse2.text = "Turn your face away from my sins."
 
 lemcLI.Gospel.title = "Monday of the Holy Spirit"
 lemcLI.Gospel.version = properties_en_US_scripture.RSV

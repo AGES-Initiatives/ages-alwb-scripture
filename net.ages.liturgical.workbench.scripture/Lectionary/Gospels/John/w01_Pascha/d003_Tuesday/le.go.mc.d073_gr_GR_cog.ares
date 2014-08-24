@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d073_gr_GR_cog 
 
-lemcLI.GospelAlleluia.mode = misc_gr_GR_cog.Mode8
-lemcLI.GospelAlleluia.version = 
-lemcLI.GospelAlleluiaVerse1.source = "131"
-lemcLI.GospelAlleluiaVerse1.text = "Ἀνάστηθι Κύριε εἰς τὴν ἀνάπαυσίν σου."
-lemcLI.GospelAlleluiaVerse2.source = "131"
-lemcLI.GospelAlleluiaVerse2.text = "Ὤμοσε Κύριος τῷ Δαυῒδ ἀλήθειαν καὶ οὐ μὴ ἀθετήσῃ αὐτήν."
 
 lemcLI.Gospel.title = "Τῌ ΤΡΙΤῌ ΤΗΣ ΔΙΑΚΑΙΝΗΣΙΜΟΥ"
 lemcLI.Gospel.version = 

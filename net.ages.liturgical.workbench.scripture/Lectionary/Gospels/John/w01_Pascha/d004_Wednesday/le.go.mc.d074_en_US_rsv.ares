@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d074_en_US_rsv
 
-lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode3
-lemcLI.GospelAlleluia.version = properties_en_US_scripture.RSV
-lemcLI.GospelAlleluiaVerse1.source = "Luke 1"
-lemcLI.GospelAlleluiaVerse1.text = "My soul magnifies the Lord, and my spirit rejoices in God my Savior."
-lemcLI.GospelAlleluiaVerse2.source = "Luke 1"
-lemcLI.GospelAlleluiaVerse2.text = "For he has regarded the humility of his servant."
 
 lemcLI.Gospel.title = "Renewal Wednesday"
 lemcLI.Gospel.version = properties_en_US_scripture.RSV

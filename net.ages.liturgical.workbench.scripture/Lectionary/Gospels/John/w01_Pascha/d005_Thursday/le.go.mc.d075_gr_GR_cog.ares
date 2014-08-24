@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d075_gr_GR_cog
 
-lemcLI.GospelAlleluia.mode = misc_gr_GR_cog.Mode4
-lemcLI.GospelAlleluia.version = 
-lemcLI.GospelAlleluiaVerse1.source = ""
-lemcLI.GospelAlleluiaVerse1.text = "Ἔντεινε καὶ κατευοδοῦ καὶ βασίλευε."
-lemcLI.GospelAlleluiaVerse2.source = ""
-lemcLI.GospelAlleluiaVerse2.text = "Ἠγάπησαν δικαιοσύνην καὶ ἐμίσησας ἀνομίαν."
 
 lemcLI.Gospel.title = "Τῌ ΠΕΜΠΤῌ ΤΗΣ ΔΙΑΚΑΙΝΗΣΙΜΟΥ"
 lemcLI.Gospel.version = 

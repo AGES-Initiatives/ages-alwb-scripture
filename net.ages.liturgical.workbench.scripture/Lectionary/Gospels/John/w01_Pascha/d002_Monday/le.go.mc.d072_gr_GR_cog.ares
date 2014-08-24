@@ -8,12 +8,6 @@ lemcVE.Gospel.part1.text = "Οὔσης ὀψίας τῇ ἡμέρᾳ ἐκε
 lemcVE.Gospel.part2.text = "Εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς πάλιν· Εἰρήνη ὑμῖν· καθὼς ἀπέσταλκέ με ὁ Πατήρ, κἀγὼ πέμπω ὑμᾶς. Καὶ τοῦτο εἰπὼν ἐνεφύσησεν καὶ λέγει αὐτοῖς· Λάβετε Πνεῦμα ἅγιον· ἄν τινων ἀφῆτε τὰς ἁμαρτίας, ἀφέωνται αὐτοῖς· ἄν τινων κρατῆτε, κεκράτηνται. "
 lemcVE.Gospel.part3.text = "Θωμᾶς δέ, εἷς ἐκ τῶν δώδεκα, ὁ λεγόμενος Δίδυμος, οὐκ ἦν μετ' αὐτῶν ὅτε ἦλθεν ὁ Ἰησοῦς. Ἔλεγον οὖν αὐτῷ οἱ ἄλλοι μαθηταί· Ἑωράκαμεν τὸν Κύριον. Ὁ δὲ εἶπεν αὐτοῖς· Ἐὰν μὴ ἴδω ἐν ταῖς χερσὶν αὐτοῦ τὸν τύπον τῶν ἥλων καὶ βάλω τὸν δάκτυλόν μου εἰς τὸν τύπον τῶν ἥλων καὶ βάλω τὴν χεῖρά μου εἰς τὴν πλευρὰν αὐτοῦ, οὐ μὴ πιστεύσω."
 
-lemcLI.GospelAlleluia.mode = misc_gr_GR_cog.Mode1
-lemcLI.GospelAlleluia.version = 
-lemcLI.GospelAlleluiaVerse1.source = ""
-lemcLI.GospelAlleluiaVerse1.text = "Ἐξομολογήσονται οἱ οὐρανοὶ τὰ θαυμάσιά σου."
-lemcLI.GospelAlleluiaVerse2.source = ""
-lemcLI.GospelAlleluiaVerse2.text = "Ὁ Θεὸς ὁ ἐνδοξαζόμενος ἐν βουλῇ Ἁγίων."
 
 lemcLI.Gospel.title = "Τῌ ΔΕΥΤΕΡᾼ ΤΗΣ ΔΙΑΚΑΙΝΗΣΙΜΟΥ"
 lemcLI.Gospel.version = 
