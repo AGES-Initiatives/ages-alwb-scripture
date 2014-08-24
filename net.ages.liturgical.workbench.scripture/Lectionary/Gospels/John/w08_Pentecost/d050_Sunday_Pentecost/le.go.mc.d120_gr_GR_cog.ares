@@ -6,12 +6,6 @@ lemcMA.Gospel.book = bible_gr_GR_cog.John
 lemcMA.Gospel.chapverse = "(κʹ 19 - 23)"
 lemcMA.Gospel.text = "Οὔσης ὀψίας τῇ ἡμέρᾳ ἐκείνῃ τῇ μιᾷ σαββάτων, καὶ τῶν θυρῶν κεκλεισμένων ὅπου ἦσαν οἱ μαθηταὶ συνηγμένοι διὰ τὸν φόβον τῶν Ἰουδαίων, ἦλθεν ὁ Ἰησοῦς καὶ ἔστη εἰς τὸ μέσον, καὶ λέγει αὐτοῖς· Εἰρήνη ὑμῖν. καὶ τοῦτο εἰπὼν ἔδειξεν αὐτοῖς τὰς χεῖρας καὶ τὴν πλευρὰν αὐτοῦ. ἐχάρησαν οὖν οἱ μαθηταὶ ἰδόντες τὸν Κύριον. εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς πάλιν· Εἰρήνη ὑμῖν. καθὼς ἀπέσταλκέ με ὁ πατήρ, κἀγὼ πέμπω ὑμᾶς. καὶ τοῦτο εἰπὼν ἐνεφύσησε καὶ λέγει αὐτοῖς· Λάβετε Πνεῦμα ἅγιον· ἄν τινων ἀφῆτε τὰς ἁμαρτίας, ἀφίενται αὐτοῖς, ἄν τινων κρατῆτε, κεκράτηνται."
 
-lemcLI.GospelAlleluia.mode = misc_gr_GR_cog.Mode1
-lemcLI.GospelAlleluia.version = 
-lemcLI.GospelAlleluiaVerse1.source = ""
-lemcLI.GospelAlleluiaVerse1.text = "Τῷ λόγῳ Κυρίου οἱ οὐρανοὶ ἐστερεώθησαν."
-lemcLI.GospelAlleluiaVerse2.source = ""
-lemcLI.GospelAlleluiaVerse2.text = "Ἐξ οὐρανοῦ ἐπέβλεψεν ὁ Κύριος."
 
 lemcLI.Gospel.title = "ΚΥΡΙΑΚῌ ΟΓΔΟῌ ΤΗΣ ΠΕΝΤΗΚΟΣΤΗΣ"
 lemcLI.Gospel.version = 

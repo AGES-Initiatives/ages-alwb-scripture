@@ -1,12 +1,6 @@
 A_Resource_Whose_Name = le.go.mc.d076_gr_GR_cog 
 
 
-lemcLI.GospelAlleluia.mode = misc_gr_GR_cog.Mode1
-lemcLI.GospelAlleluia.version = 
-lemcLI.GospelAlleluiaVerse1.source = ""
-lemcLI.GospelAlleluiaVerse1.text = "Ἐξομολογήσονται οἱ οὐρανοὶ τὰ θαυμάσιά σου Κύριε."
-lemcLI.GospelAlleluiaVerse2.source = ""
-lemcLI.GospelAlleluiaVerse2.text = ""
 
 lemcLI.Gospel.title = "Τῌ ΠΑΡΑΣΚΕΥῌ ΤΗΣ ΔΙΑΚΑΙΝΗΣΙΜΟΥ"
 lemcLI.Gospel.version = 

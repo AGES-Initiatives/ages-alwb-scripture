@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d127_gr_GR_cog 
 
-lemcLI.GospelAlleluia.mode = misc_gr_GR_cog.Mode4
-lemcLI.GospelAlleluia.version = 
-lemcLI.GospelAlleluiaVerse1.source = ""
-lemcLI.GospelAlleluiaVerse1.text = "Ἐκέκραξαν οἱ δίκαιοι καὶ ὁ Κύριος εἰσήκουσεν αὐτῶν."
-lemcLI.GospelAlleluiaVerse2.source = ""
-lemcLI.GospelAlleluiaVerse2.text = "Πολλαὶ αἱ θλίψεις τῶν δικαίων καὶ ἐκ πασῶν αὐτῶν ῥύσεται αὐτοὺς ὁ Κύριος."
 
 lemcLI.Gospel.title = "ΚΥΡΙΑΚῌ ΠΡΩΤῌ ΤΩΝ ΑΓΙΩΝ ΠΑΝΤΩΝ"
 lemcLI.Gospel.version = 

@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d076_en_US_rsv
 
-lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode1
-lemcLI.GospelAlleluia.version = properties_en_US_scripture.RSV
-lemcLI.GospelAlleluiaVerse1.source = "88:5"
-lemcLI.GospelAlleluiaVerse1.text = "The heavens shall declare your wonders, O Lord."
-lemcLI.GospelAlleluiaVerse2.source = "88:7"
-lemcLI.GospelAlleluiaVerse2.text = "God is glorious in the council of the saints."
 
 lemcLI.Gospel.title = "Renewal Friday"
 lemcLI.Gospel.version = properties_en_US_scripture.RSV

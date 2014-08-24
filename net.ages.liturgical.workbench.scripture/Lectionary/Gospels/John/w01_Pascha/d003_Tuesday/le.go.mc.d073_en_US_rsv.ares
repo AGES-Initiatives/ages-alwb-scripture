@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d073_en_US_rsv
 
-lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode8
-lemcLI.GospelAlleluia.version = properties_en_US_scripture.RSV
-lemcLI.GospelAlleluiaVerse1.source = "131"
-lemcLI.GospelAlleluiaVerse1.text = "Arise, O Lord, into your rest."
-lemcLI.GospelAlleluiaVerse2.source = "131"
-lemcLI.GospelAlleluiaVerse2.text = "The Lord swore in truth to David, and he will not annul it."
 
 lemcLI.Gospel.title = "Renewal Tuesday"
 lemcLI.Gospel.version = properties_en_US_scripture.RSV

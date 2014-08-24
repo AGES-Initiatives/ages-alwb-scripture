@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d122_en_US_rsv
 
-lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode8
-lemcLI.GospelAlleluia.version = properties_en_US_scripture.RSV
-lemcLI.GospelAlleluiaVerse1.source = "88.1"
-lemcLI.GospelAlleluiaVerse1.text = "I will sing of your mercies, O Lord, for ever."
-lemcLI.GospelAlleluiaVerse2.source = "88.2"
-lemcLI.GospelAlleluiaVerse2.text = "For you have said: \"Mercy shall be built up for ever.\""
 
 lemcLI.Gospel.title = "Tuesday of the First Week"
 lemcLI.Gospel.version = properties_en_US_scripture.RSV

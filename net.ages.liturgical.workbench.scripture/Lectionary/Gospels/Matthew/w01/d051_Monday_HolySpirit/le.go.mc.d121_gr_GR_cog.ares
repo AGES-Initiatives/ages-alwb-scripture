@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d121_gr_GR_cog 
 
-lemcLI.GospelAlleluia.mode = misc_gr_GR_cog.Mode2
-lemcLI.GospelAlleluia.version = 
-lemcLI.GospelAlleluiaVerse1.source = ""
-lemcLI.GospelAlleluiaVerse1.text = "Ἐλέησόν με ὁ Θεὸς κατὰ τὸ μέγα ἔλεός σου."
-lemcLI.GospelAlleluiaVerse2.source = ""
-lemcLI.GospelAlleluiaVerse2.text = "Μὴ ἀποῤῥίψῃς με ἀπὸ τοῦ προσώπου σου."
 
 lemcLI.Gospel.title = "Τῌ ΔΕΥΤΕΡᾼ ΤΗΣ Αʹ ΕΒΔΟΜΑΔΟΣ, ἤτοι ΤΟΥ ΑΓΙΟΥ ΠΝΕΥΜΑΤΟΣ"
 lemcLI.Gospel.version = 

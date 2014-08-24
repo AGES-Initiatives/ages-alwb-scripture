@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d122_gr_GR_cog 
 
-lemcLI.GospelAlleluia.mode = misc_gr_GR_cog.Mode8
-lemcLI.GospelAlleluia.version = 
-lemcLI.GospelAlleluiaVerse1.source = ""
-lemcLI.GospelAlleluiaVerse1.text = "Τὰ ἐλέη σου Κύριε, εἰς τὸν αἰῶνα ᾄσομαι."
-lemcLI.GospelAlleluiaVerse2.source = ""
-lemcLI.GospelAlleluiaVerse2.text = "Ὅτι εἶπας· εἰς τὸν αἰῶνα ἔλεος οἰκοδομηθήσεται."
 
 lemcLI.Gospel.title = "Τῌ ΤΡΙΤῌ ΤΗΣ Αʹ ΕΒΔΟΜΑΔΟΣ"
 lemcLI.Gospel.version = 
