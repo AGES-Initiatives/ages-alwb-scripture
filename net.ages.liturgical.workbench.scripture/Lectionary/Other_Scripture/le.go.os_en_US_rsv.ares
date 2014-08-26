@@ -67,6 +67,12 @@ leosMA.Ode92.v10.text = "When the day shall dawn upon us from on high to give li
 leosMA.Ode92.v11.number = "()"
 leosMA.Ode92.v11.text = "To guide our feet into the way of peace."
 
+leosLI.pe.d095.CommunionHymn.title = "Communion Hymn for Mid-Pentecost."
+leosLI.pe.d095.CommunionHymn.version = properties_en_US_scripture.RSV
+leosLI.pe.d095.CommunionHymn.book = bible_en_US_rsv.John
+leosLI.pe.d095.CommunionHymn.number = "(6:56)"
+leosLI.pe.d095.CommunionHymn.text = "He who eats my flesh and drinks my blood abides in me, and I in him. So said the Lord."
+
 leosTY.Beatitudes.title = "THE BEATITUDES"
 leosTY.Beatitudes.version = properties_en_US_scripture.RSV
 leosTY.Beatitudes.book = bible_en_US_rsv.Matthew
