@@ -1,13 +1,5 @@
 A_Resource_Whose_Name = le.ep.va.deceased_gr_GR_cog 
 
-//levaLI.Epistle1.Prokeimenon.title = ""
-levaLI.Epistle1.Prokeimenon.version = 
-levaLI.Epistle1.Prokeimenon.mode = misc_gr_GR_cog.Mode6
-levaLI.Epistle1.Prokeimenon.source = "24"
-levaLI.Epistle1.Prokeimenon.text = "Αἱ ψυχαὶ αὐτῶν ἐν αγαθοῖς αὐλισθήσονται."
-levaLI.Epistle1.ProkeimenonVerse.source = "27"
-levaLI.Epistle1.ProkeimenonVerse.text = "Πρὸς σε, Κύριε, κεκράξομαι ὁ Θεός μου."
-
 levaLI.Epistle1.title = "ΕΙΣ ΚΟΙΜΗΘΕΝΤΑΣ"
 levaLI.Epistle1.version = 
 levaLI.Epistle1.book = bible_gr_GR_cog.Thessalonians1

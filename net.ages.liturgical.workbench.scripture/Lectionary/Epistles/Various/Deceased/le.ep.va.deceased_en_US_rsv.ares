@@ -1,12 +1,5 @@
 A_Resource_Whose_Name = le.ep.va.deceased_en_US_rsv 
 
-levaLI.Epistle1.Prokeimenon.version = properties_en_US_scripture.RSV
-levaLI.Epistle1.Prokeimenon.mode = misc_en_US_public.Mode6
-levaLI.Epistle1.Prokeimenon.source = "24"
-levaLI.Epistle1.Prokeimenon.text = "Their souls shall dwell in prosperity."
-levaLI.Epistle1.ProkeimenonVerse.source = "27"
-levaLI.Epistle1.ProkeimenonVerse.text = "To you, O Lord, have I cried, O my God."
-
 levaLI.Epistle1.title = "For Those Who Have Fallen Asleep"
 levaLI.Epistle1.version = properties_en_US_scripture.RSV
 levaLI.Epistle1.book = bible_en_US_rsv.Thessalonians1
