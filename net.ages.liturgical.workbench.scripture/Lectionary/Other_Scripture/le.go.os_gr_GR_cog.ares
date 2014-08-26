@@ -68,6 +68,12 @@ leosMA.Ode92.v10.text = "Ἐν οἷς ἐπεσκέψατο ἡμᾶς ἀνα
 leosMA.Ode92.v11.number = "()"
 leosMA.Ode92.v11.text = "Τοῦ κατευθῦναι τοὺς πόδας ἡμῶν εἰς ὁδὸν εἰρήνης."
 
+leosLI.pe.d095.CommunionHymn.title = ""
+leosLI.pe.d095.CommunionHymn.version = ""
+leosLI.pe.d095.CommunionHymn.book = bible_gr_GR_cog.John
+leosLI.pe.d095.CommunionHymn.number = "(6:56)"
+leosLI.pe.d095.CommunionHymn.text = "Ὁ τρώγων μου τὴν Σάρκα, καὶ πίνων μου τὸ Αἷμα, ἐν ἐμοὶ μένει, κἀγὼ ἐν αὐτῷ, εἶπεν ὁ Κύριος."
+
 leosTY.Beatitudes.title = "ΟΙ ΜΑΚΑΡΙΣΜΟΙ"
 leosTY.Beatitudes.version = 
 leosTY.Beatitudes.book = bible_gr_GR_cog.Matthew
