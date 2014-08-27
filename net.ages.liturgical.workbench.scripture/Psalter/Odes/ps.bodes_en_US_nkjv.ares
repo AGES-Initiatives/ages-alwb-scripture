@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = ps.bodes_en_US_nkjv
 
 pso.title = ""
-pso.version = properties_en_US_scripture.NKJV
+pso.version = bible_en_US_nkjv.version.designation
 
 pso1.title = ""
-pso1.version = properties_en_US_scripture.NKJV
+pso1.version = bible_en_US_nkjv.version.designation
 pso1.book  = ""
 pso1.heading1 = ""
 pso1.source = ""
@@ -14,7 +14,7 @@ pso1.v1.number = "()"
 pso1.v1.text = ""
 
 pso2.title = ""
-pso2.version = properties_en_US_scripture.NKJV
+pso2.version = bible_en_US_nkjv.version.designation
 pso2.book  = ""
 pso2.heading1 = ""
 pso2.source = ""
@@ -24,7 +24,7 @@ pso2.v1.number = "()"
 pso2.v1.text = ""
 
 pso3.title = ""
-pso3.version = properties_en_US_scripture.NKJV
+pso3.version = bible_en_US_nkjv.version.designation
 pso3.book  = ""
 pso3.heading1 = ""
 pso3.source = ""
@@ -34,7 +34,7 @@ pso3.v1.number = "()"
 pso3.v1.text = ""
 
 pso4.title = ""
-pso4.version = properties_en_US_scripture.NKJV
+pso4.version = bible_en_US_nkjv.version.designation
 pso4.book  = ""
 pso4.heading1 = ""
 pso4.source = ""
@@ -44,7 +44,7 @@ pso4.v1.number = "()"
 pso4.v1.text = ""
 
 pso5.title = ""
-pso5.version = properties_en_US_scripture.NKJV
+pso5.version = bible_en_US_nkjv.version.designation
 pso5.book  = ""
 pso5.heading1 = ""
 pso5.source = ""
@@ -54,7 +54,7 @@ pso5.v1.number = "()"
 pso5.v1.text = ""
 
 pso6.title = ""
-pso6.version = properties_en_US_scripture.NKJV
+pso6.version = bible_en_US_nkjv.version.designation
 pso6.book  = ""
 pso6.heading1 = ""
 pso6.source = ""
@@ -64,7 +64,7 @@ pso6.v1.number = "()"
 pso6.v1.text = ""
 
 pso7.title = ""
-pso7.version = properties_en_US_scripture.NKJV
+pso7.version = bible_en_US_nkjv.version.designation
 pso7.book  = ""
 pso7.heading1 = ""
 pso7.source = ""
@@ -74,7 +74,7 @@ pso7.v1.number = "()"
 pso7.v1.text = ""
 
 pso8.title = ""
-pso8.version = properties_en_US_scripture.NKJV
+pso8.version = bible_en_US_nkjv.version.designation
 pso8.book  = ""
 pso8.heading1 = ""
 pso8.source = ""
