@@ -25,6 +25,12 @@ lemeVE.Epistle.book =
 lemeVE.Epistle.chapverse = ""
 lemeVE.Epistle.text = 
 
+lemeGW.Epistle.title = ""
+lemeGW.Epistle.version = 
+lemeGW.Epistle.book = 
+lemeGW.Epistle.chapverse = ""
+lemeGW.Epistle.text = 
+
 lemeLI.Epistle.title = ""
 lemeLI.Epistle.rubric = 
 lemeLI.Epistle.version = 
