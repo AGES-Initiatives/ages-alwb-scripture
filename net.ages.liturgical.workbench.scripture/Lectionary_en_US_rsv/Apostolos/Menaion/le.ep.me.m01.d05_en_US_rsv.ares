@@ -1,0 +1,26 @@
+A_Resource_Whose_Name = le.ep.me.m01.d05_en_US_rsv 
+
+lemeH1.Epistle.title = "FIRST HOUR"
+lemeH1.Epistle.version = bible_en_US_rsv.version.designation
+lemeH1.Epistle.book = bible_en_US_rsv.Acts
+lemeH1.Epistle.chapverse = "(13:25-32)"
+lemeH1.Epistle.text = "In those days, as John was finishing his course, he said, \"What do you suppose that I am? I am not he. No, but after me one is coming, the sandals of whose feet I am not worthy to untie.\" Brethren, sons of the family of Abraham, and those among you that fear God, to us has been sent the message of this salvation. For those who live in Jerusalem and their rulers, because they did not recognize him nor understand the utterances of the prophets which are read every sabbath, fulfilled these by condemning him. Though they could charge him with nothing deserving death, yet they asked Pilate to have him killed. And when they had fulfilled all that was written of him, they took him down from the tree, and laid him in a tomb. But God raised him from the dead; and for many days he appeared to those who came up with him from Galilee to Jerusalem, who are now his witnesses to the people. And we bring you the good news that what God promised to the fathers, this he has fulfilled to us their children by raising Jesus."
+
+lemeH3.Epistle.title = "THIRD HOUR"
+lemeH3.Epistle.version = bible_en_US_rsv.version.designation
+lemeH3.Epistle.book = bible_en_US_rsv.Acts
+lemeH3.Epistle.chapverse = "(19:1-8)"
+lemeH3.Epistle.text = "In those days, while Apollos was at Corinth, Paul passed through the upper country and came to Ephesus. There he found some disciples. And he said to them, \"Did you receive the Holy Spirit when you believed?\" And they said, \"No, we have never even heard that there is a Holy Spirit.\" And he said, \"Into what then were you baptized?\" They said, \"Into John's baptism.\" And Paul said, \"John baptized with the baptism of repentance, telling the people to believe in the one who was to come after him, that is, Jesus.\" On hearing this, they were baptized in the name of the Lord Jesus. And when Paul had laid his hands upon them, the Holy Spirit came on them; and they spoke with tongues and prophesied. There were about twelve of them in all. And he entered the synagogue and for three months spoke boldly, arguing and pleading about the kingdom of God."
+
+lemeH6.Epistle.title = "SIXTH HOUR"
+lemeH6.Epistle.version = bible_en_US_rsv.version.designation
+lemeH6.Epistle.book = bible_en_US_rsv.Romans
+lemeH6.Epistle.chapverse = "(6:3-11)"
+lemeH6.Epistle.text = "Brethren, all who have been baptized into Christ Jesus were baptized into His death. We were buried therefore with Him by baptism into death, so that as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life. For if we have been united with Him in a death like His, we shall certainly be united with Him in a resurrection like His. We know that our old self was crucified with Him so that the sinful body might be destroyed, and we might no longer be enslaved to sin. For he who has died is freed from sin. But if we have died with Christ, we believe that we shall also live with Him. For we know that Christ being raised from the dead will never die again; death no longer has dominion over Him. The death He died He died to sin, once for all, but the life He lives He lives to God. So you also must consider yourselves dead to sin and alive to God in Christ Jesus our Lord."
+
+lemeH9.Epistle.title = "NINTH HOUR"
+lemeH9.Epistle.version = bible_en_US_rsv.version.designation
+lemeH9.Epistle.book = bible_en_US_rsv.Titus
+lemeH9.Epistle.chapverse = "(2:11-14; 3:4-7)"
+lemeH9.Epistle.text = "Titus, my son, the grace of God has appeared for the salvation of all men, training us to renounce irreligion and worldly passions, and to live sober, upright, and godly lives in this world, awaiting our blessed hope, the appearing of the glory of the great God and Savior Jesus Christ, who gave himself for us to redeem us from all iniquity and to purify for himself a people of his own who are zealous for good deeds. But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of deeds done by us in righteousness, but in virtue of his own mercy, by the washing of regeneration and renewal in the Holy Spirit, which he poured out upon us richly through Jesus Christ our Savior, so that we might be justified by his grace and become heirs in hope of eternal life."
+

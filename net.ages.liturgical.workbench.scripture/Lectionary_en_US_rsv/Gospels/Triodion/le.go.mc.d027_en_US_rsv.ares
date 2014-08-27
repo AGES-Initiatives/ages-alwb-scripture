@@ -1,0 +1,7 @@
+A_Resource_Whose_Name = le.go.mc.d027_en_US_rsv
+
+lemcCO.Gospel.title = "Gospel Reading at Compline on Thursday"
+lemcCO.Gospel.version = bible_en_US_rsv.version.designation
+lemcCO.Gospel.book = bible_en_US_rsv.Matthew
+lemcCO.Gospel.chapverse = "(7:7-11)"
+lemcCO.Gospel.text = "The Lord said, \"Ask, and it will be given you; seek, and you will find; knock, and it will be opened to you. For every one who asks receives, and he who seeks finds, and to him who knocks it will be opened. Or what man of you, if his son asks him for bread, will give him a stone? Or if he asks for a fish, will give him a serpent? If you then, who are evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!\""

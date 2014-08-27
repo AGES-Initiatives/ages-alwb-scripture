@@ -1,0 +1,65 @@
+A_Resource_Whose_Name = le.pr.os_gr_GR_cog 
+
+leosCO.Key0300.title = ""
+leosCO.Key0300.version = 
+leosCO.Key0300.book = bible_gr_GR_cog.Isaiah
+leosCO.Key0300.chapverse = "(8-9)"
+leosCO.Key0301.text = "Μεθ' ἡμῶν ὁ Θεός, γνῶτε ἔθνη καὶ ἡττᾶσθε."
+leosCO.Key0302.text = "Ὅτι μεθ' ἡμῶν ὁ Θεός."
+leosCO.Key0303.text = "Ἐπακούσατε ἕως ἐσχάτου τῆς γῆς."
+leosCO.Key0304.text = "Ἰσχυκότες ἡττᾶσθε."
+leosCO.Key0305.text = "Ἐὰν γὰρ πάλιν ἰσχύσητε, καὶ πάλιν ἡττηθήσεσθε"
+leosCO.Key0306.text = "Καὶ ἣν ἂν βουλὴν βουλεύσησθε, διασκεδάσει Κύριος."
+leosCO.Key0307.text = "Καὶ λόγον, ὃν ἐὰν λαλήσητε, οὐ μὴ ἐμμείνῃ ἐν ὑμῖν."
+leosCO.Key0308.text = "Τὸν δὲ φόβον ὑμῶν οὐ μὴ φοβηθῶμεν, ουδ' οὐ μὴ ταραχθῶμεν."
+leosCO.Key0309.text = "Κύριον δὲ τὸν Θεὸν ἡμῶν, αὐτὸν ἁγιάσωμεν, καὶ αὐτὸς ἔσται ἡμῖν φόβος."
+leosCO.Key0310.text = "Καὶ ἐὰν ἐπ' αὐτῷ πεποιθὼς ᾧ ἔσται μοι εἰς ἁγιασμόν."
+leosCO.Key0311.text = "Καὶ πεποιθὼς ἔσομαι ἐπ' αὐτῷ, καὶ σωθήσομαι δι' αὐτοῦ."
+leosCO.Key0312.text = "Ἰδοὺ ἐγὼ καὶ τὰ παιδία, ἃ μοι ἔδωκεν ὁ Θεός."
+leosCO.Key0313.text = "Ὁ λαὸς ὁ πορευόμενος ἐν σκότει, ἴδε φῶς μέγα."
+leosCO.Key0314.text = "Οἱ κατοικοῦντες ἐν χώρᾳ, καὶ σκιᾷ θανάτου, φῶς λάμψει ἐφ' ἡμᾶς."
+leosCO.Key0315.text = "Ὅτι Παιδίον ἐγεννήθη ἡμῖν, Υἱός, καὶ ἐδόθη ἡμῖν."
+leosCO.Key0316.text = "Οὗ ἡ ἀρχὴ ἐγενήθη ἐπὶ τοῦ ὤμου αὐτοῦ."
+leosCO.Key0317.text = "Καὶ τῆς εἰρήνης αὐτοῦ οὐκ ἔστιν ὅριον."
+leosCO.Key0318.text = "Καὶ καλεῖται τὸ ὄνομα αὐτοῦ, Μεγάλης Βουλῆς Ἄγγελος."
+leosCO.Key0319.text = "Θαυμαστὸς σύμβουλος."
+leosCO.Key0320.text = "Θεὸς ἰσχυρός, Ἐξουσιαστής, Ἄρχων εἰρήνης."
+leosCO.Key0321.text = "Πατὴρ τοῦ μέλλοντος αἰῶνος."
+
+
+leosMA.LentAlleluia.title = ""
+leosMA.LentAlleluia.version = 
+leosMA.LentAlleluia.book = bible_gr_GR_cog.Isaiah
+leosMA.LentAlleluia.chapverse = "(26:9-11)"
+leosMA.LentAlleluiaVerse1.text = "Ἐκ νυκτὸς ὀρθρίζει τὸ πνεῦμά μου πρὸς σέ, ὁ Θεός, διότι φῶς τὰ προστάγματά σου ἐπὶ τῆς γῆς."
+leosMA.LentAlleluiaVerse2.text = "Δικαιοσύνην μάθετε, οἱ ἐνοικοῦντες ἐπὶ τῆς γῆς."
+leosMA.LentAlleluiaVerse3.text = "Ζῆλος λήψεται λαὸν ἀπαίδευτον, καὶ νῦν πῦρ τοὺς ὑπεναντίους ἔδεται."
+leosMA.LentAlleluiaVerse4.text = "Πρόσθες αὐτοῖς κακά, Κύριε, πρόσθες αὐτοῖς κακά, τοῖς ἐνδόξοις τῆς γῆς."
+
+leosLI.pe.d113.EpistleProkeimenon.title = "Προσευχὴ τῶν Ἁγίων Τριῶν Παίδων."
+leosLI.pe.d113.EpistleProkeimenon.version = 
+leosLI.pe.d113.EpistleProkeimenon.book = bible_gr_GR_cog.Daniel
+leosLI.pe.d113.EpistleProkeimenon.chapverse = "(3:52a, 27)"
+leosLI.pe.d113.EpistleProkeimenon.text = "Εὐλογητὸς εἶ Κύριε ὁ Θεὸς τῶν πατέρων ἡμῶν, καὶ αἰνετὸν καὶ δεδοξασμένον τὸ ὄνομά σου εἰς τοὺς αἰῶνας."
+leosLI.pe.d113.EpistleProkeimenonVerse.text = "Ὅτι δίκαιος εἶ ἐπὶ πᾶσιν, οἷς ἐποίησας ἡμῖν, καὶ ἐπὶ τὴν πόλιν τὴν ἁγίαν τὴν τῶν Πατέρων ἡμῶν Ἱερουσαλήμ."
+
+leosFUN.Key1202.title = ""
+leosFUN.Key1202.version = 
+leosFUN.Key1202.book = bible_gr_GR_cog.Genesis
+leosFUN.Key1202.chapverse = "(3:19)"
+leosFUN.Key1202.text = "Γῆ εἶ καὶ εἰς γῆν ἀπελεύσει."
+
+leosH1.me.m12.d24.Verse1.version = ""
+leosH1.me.m12.d24.Verse1.book = bible_gr_GR_cog.Habakkuk
+leosH1.me.m12.d24.Verse1.chapverse = "(3:3)"
+leosH1.me.m12.d24.Verse1.text = "Ὁ Θεὸς ἀπὸ Θαιμὰν ἥξει καὶ ὁ ἅγιος ἐξ ὄρους κατασκίου δασέος."
+
+leosH1.me.m12.d24.Verse2.version = ""
+leosH1.me.m12.d24.Verse2.book = bible_gr_GR_cog.Habakkuk
+leosH1.me.m12.d24.Verse2.chapverse = "(3:2)"
+leosH1.me.m12.d24.Verse2.text = "Κύριε εἰσακήκοα τὴν ἀκοήν σου καὶ ἐφοβήθην· κατενόησα τὰ ἔργα σου καὶ ἐξέστην."
+
+leosH9.ho.s09.Key0001.version = ""
+leosH9.ho.s09.Key0001.book = bible_gr_GR_cog.Daniel
+leosH9.ho.s09.Key0001.chapverse = "(3:34-35)"
+leosH9.ho.s09.Key0001.text = "Μὴ δὴ παραδῴης ἡμᾶς εἰς τέλος, διὰ τὸ ὄνομά σου τὸ Ἅγιον· καὶ μὴ διασκεδάσῃς τὴν διαθήκην σου, καὶ μὴ ἀποστήσῃς τὸ ἔλεός σου ἀφ' ἡμῶν, διὰ Ἀβραὰμ τὸν ἠγαπημένον ὑπὸ σοῦ, καὶ διὰ Ἰσαὰκ τὸν δοῦλόν σου καὶ Ἰσραὴλ τὸν Ἅγιόν σου."

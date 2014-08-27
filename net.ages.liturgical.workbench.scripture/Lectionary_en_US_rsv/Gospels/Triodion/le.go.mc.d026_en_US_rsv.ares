@@ -1,0 +1,7 @@
+A_Resource_Whose_Name = le.go.mc.d026_en_US_rsv
+
+lemcCO.Gospel.title = "Gospel Reading at Compline on Wednesday"
+lemcCO.Gospel.version = bible_en_US_rsv.version.designation
+lemcCO.Gospel.book = bible_en_US_rsv.Mark
+lemcCO.Gospel.chapverse = "(11:22-26, Matt. 7:7-8)"
+lemcCO.Gospel.text = "The Lord said, \"Have faith in God. Truly, I say to you, whoever says to this mountain, 'Be taken up and cast into the sea,' and does not doubt in his heart, but believes that what he says will come to pass, it will be done for him. Therefore I tell you, whatever you ask in prayer, believe that you are receiving it, and it will be yours. And whenever you stand praying, forgive, if you have anything against anyone; so that your Father also who is in heaven may forgive you your trespasses. But if you do not forgive, neither will your Father who is in heaven forgive your trespasses. Ask, and it will be given you; seek, and you will find; knock, and it will be opened to you. For every one who asks receives, and he who seeks finds, and to him who knocks it will be opened.\""

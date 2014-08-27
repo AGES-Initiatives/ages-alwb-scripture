@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.go.me.m12.d17_gr_GR_cog 
+
+lemeMA.Gospel.title = "Εἰς τὸν ὄρθρον. Τοῦ Προφήτου."
+lemeMA.Gospel.version = le.go.lu.d046_gr_GR_cog.leluLI.Gospel.version
+lemeMA.Gospel.book = le.go.lu.d046_gr_GR_cog.leluLI.Gospel.book
+lemeMA.Gospel.chapverse = le.go.lu.d046_gr_GR_cog.leluLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.lu.d046_gr_GR_cog.leluLI.Gospel.text
+
+lemeLI.Gospel.title = "Εἰς τὴν Λειτουργίαν. Τοῦ Προφήτου."
+lemeLI.Gospel.version = le.go.me.m11.d13_gr_GR_cog.lemeLI.Gospel.version
+lemeLI.Gospel.book = le.go.me.m11.d13_gr_GR_cog.lemeLI.Gospel.book
+lemeLI.Gospel.chapverse = le.go.me.m11.d13_gr_GR_cog.lemeLI.Gospel.chapverse
+lemeLI.Gospel.text = le.go.me.m11.d13_gr_GR_cog.lemeLI.Gospel.text

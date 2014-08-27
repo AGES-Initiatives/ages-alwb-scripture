@@ -1,0 +1,72 @@
+A_Resource_Whose_Name = le.go.va.unction_en_US_rsv 
+
+levaUNC.Gospel1Alleluia.mode = misc_en_US_public.Mode8
+levaUNC.Gospel1Alleluia.version = 
+levaUNC.Gospel1AlleluiaVerse.source = ""
+levaUNC.Gospel1AlleluiaVerse.text = ""
+levaUNC.Gospel1.title = "1st Gospel"
+levaUNC.Gospel1.version = 
+levaUNC.Gospel1.book = bible_en_US_rsv.Luke
+levaUNC.Gospel1.chapverse = "(Luke 10:25-37)"
+levaUNC.Gospel1.text = "At that time, a lawyer stood up to put him to the test, saying, \"Teacher, what shall I do to inherit eternal life?\" He said to him, \"What is written in the law? How do you read?\" And he answered, \"You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself.\" And he said to him, \"You have answered right; do this, and you will live.\" But he, desiring to justify himself, said to Jesus, \"And who is my neighbor?\" Jesus replied, \"A man was going down from Jerusalem to Jericho, and he fell among robbers, who stripped him and beat him, and departed, leaving him half dead. Now by chance a priest was going down that road; and when he saw him he passed by on the other side. So likewise a Levite, when he came to the place and saw him, passed by on the other side. But a Samaritan, as he journeyed, came to where he was; and when he saw him, he had compassion, and went to him and bound up his wounds, pouring on oil and wine; then he set him on his own beast and brought him to an inn, and took care of him. And the next day he took out two denarii and gave them to the innkeeper, saying, 'Take care of him; and whatever more you spend, I will repay you when I come back.' Which of these three, do you think, proved neighbor to the man who fell among the robbers?\" He said, \"The one who showed mercy on him.\" And Jesus said to him, \"Go and do likewise.\""
+
+levaUNC.Gospel2Alleluia.mode = misc_en_US_public.Mode5
+levaUNC.Gospel2Alleluia.version = 
+levaUNC.Gospel2AlleluiaVerse.source = ""
+levaUNC.Gospel2AlleluiaVerse.text = ""
+levaUNC.Gospel2.title = ""
+levaUNC.Gospel2.version = 
+levaUNC.Gospel2.book = bible_en_US_rsv.Luke
+levaUNC.Gospel2.chapverse = "(Luke 19:1-10)"
+levaUNC.Gospel2.text = "At that time, Jesus was passing through Jericho. And there was a man named Zacchaeus; he was a chief tax collector, and rich. And he sought to see who Jesus was, but could not, on account of the crowd, because he was small of stature. So he ran on ahead and climbed up into a sycamore tree to see him, for he was to pass that way. And when Jesus came to the place, he looked up and said to him, \"Zacchaeus, make haste and come down; for I must stay at your house today.\" So he made haste and came down, and received him joyfully. And when they saw it they all murmured, \"He has gone in to be the guest of a man who is a sinner.\" And Zacchaeus stood and said to the Lord, \"Behold, Lord, the half of my goods I give to the poor; and if I have defrauded any one of anything, I restore it fourfold.\" And Jesus said to him, \"Today salvation has come to this house, since he also is a son of Abraham. For the Son of man came to seek and to save the lost.\""
+
+levaUNC.Gospel3Alleluia.mode = misc_en_US_public.Mode2
+levaUNC.Gospel3Alleluia.version = 
+levaUNC.Gospel3AlleluiaVerse.source = ""
+levaUNC.Gospel3AlleluiaVerse.text = ""
+levaUNC.Gospel3.title = "3rd Gospel"
+levaUNC.Gospel3.version = 
+levaUNC.Gospel3.book = bible_en_US_rsv.Matthew
+levaUNC.Gospel3.chapverse = "(Matthew 10:1, 5-8)"
+levaUNC.Gospel3.text = "At that time, Jesus called to him his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every disease and every infirmity. Jesus sent them out, charging them, \"Go nowhere among the Gentiles, and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel. And preach as you go, saying, 'The kingdom of heaven is at hand.' Heal the sick, raise the dead, cleanse lepers, cast out demons. You received without paying, give without pay.\""
+
+levaUNC.Gospel4Alleluia.mode = misc_en_US_public.Mode2
+levaUNC.Gospel4Alleluia.version = 
+levaUNC.Gospel4AlleluiaVerse.source = ""
+levaUNC.Gospel4AlleluiaVerse.text = ""
+levaUNC.Gospel4.title = "4th Gospel"
+levaUNC.Gospel4.version = 
+levaUNC.Gospel4.book = bible_en_US_rsv.Matthew
+levaUNC.Gospel4.chapverse = "(Matthew 8:14-23)"
+levaUNC.Gospel4.text = "At that time, when Jesus entered Peter's house, he saw his mother-in-law lying sick with a fever; he touched her hand, and the fever left her, and she rose and served him. That evening they brought to him many who were possessed with demons; and he cast out the spirits with a word, and healed all who were sick. This was to fulfill what was spoken by the prophet Isaiah, \"He took our infirmities and bore our diseases.\" Now when Jesus saw great crowds around him, he gave orders to go over to the other side. And a scribe came up and said to him, \"Teacher, I will follow you wherever you go.\" And Jesus said to him, \"Foxes have holes, and birds of the air have nests; but the Son of man has nowhere to lay his head.\" Another of the disciples said to him, \"Lord, let me first go and bury my father.\" But Jesus said to him, \"Follow me, and leave the dead to bury their own dead.\" And when he got into the boat, his disciples followed him."
+
+levaUNC.Gospel5Alleluia.mode = misc_en_US_public.Mode5
+levaUNC.Gospel5Alleluia.version = 
+levaUNC.Gospel5AlleluiaVerse.source = ""
+levaUNC.Gospel5AlleluiaVerse.text = ""
+levaUNC.Gospel5.title = "5th Gospel"
+levaUNC.Gospel5.version = 
+levaUNC.Gospel5.book = bible_en_US_rsv.Matthew
+levaUNC.Gospel5.chapverse = "(Matthew 25:1-13)"
+levaUNC.Gospel5.text = "The Lord said this parable, \"Then the kingdom of heaven shall be compared to ten maidens who took their lamps and went to meet the bridegroom. Five of them were foolish, and five were wise. For when the foolish took their lamps, they took no oil with them; but the wise took flasks of oil with their lamps. As the bridegroom was delayed, they all slumbered and slept. But at midnight there was a cry, 'Behold, the bridegroom! Come out to meet him.' Then all those maidens rose and trimmed their lamps. And the foolish said to the wise, 'Give us some of your oil, for our lamps are going out.' But the wise replied, 'Perhaps there will not be enough for us and for you; go rather to the dealers and buy for yourselves.' And while they went to buy, the bridegroom came, and those who were ready went in with him to the marriage feast; and the door was shut. Afterward the other maidens came also, saying, 'Lord, lord, open to us.' But he replied, 'Truly, I say to you, I do not know you.' Watch therefore, for you know neither the day nor the hour.\""
+
+levaUNC.Gospel6Alleluia.mode = misc_en_US_public.Mode6
+levaUNC.Gospel6Alleluia.version = 
+levaUNC.Gospel6AlleluiaVerse.source = ""
+levaUNC.Gospel6AlleluiaVerse.text = ""
+levaUNC.Gospel6.title = "6th Gospel"
+levaUNC.Gospel6.version = 
+levaUNC.Gospel6.book = bible_en_US_rsv.Matthew
+levaUNC.Gospel6.chapverse = "(Matthew 15:21-28)"
+levaUNC.Gospel6.text = "At that time, Jesus went to the district of Tyre and Sidon. And behold, a Canaanite woman from that region came out and cried, \"Have mercy on me, O Lord, Son of David; my daughter is severely possessed by a demon.\" But he did not answer her a word. And his disciples came and begged him, saying, \"Send her away, for she is crying after us.\" He answered, \"I was sent only to the lost sheep of the house of Israel.\" But she came and knelt before him, saying, \"Lord, help me.\" And he answered, \"It is not fair to take the children's bread and throw it to the dogs.\" She said, \"Yes, Lord, yet even the dogs eat the crumbs that fall from their masters' table.\" Then Jesus answered her, \"O woman, great is your faith! Be it done for you as you desire.\" And her daughter was healed instantly."
+
+levaUNC.Gospel7Alleluia.mode = misc_en_US_public.Mode2
+levaUNC.Gospel7Alleluia.version = 
+levaUNC.Gospel7AlleluiaVerse.source = ""
+levaUNC.Gospel7AlleluiaVerse.text = ""
+levaUNC.Gospel7.title = "7th Gospel"
+levaUNC.Gospel7.version = 
+levaUNC.Gospel7.book = bible_en_US_rsv.Matthew
+levaUNC.Gospel7.chapverse = "(Matthew 9:9-13)"
+levaUNC.Gospel7.text = "At that time, as Jesus passed on from there, he saw a man called Matthew sitting at the tax office; and he said to him, \"Follow me.\" And he rose and followed him. And as he sat at table in the house, behold, many tax collectors and sinners came and sat down with Jesus and his disciples. And when the Pharisees saw this, they said to his disciples, \"Why does your teacher eat with tax collectors and sinners?\" But when he heard it, he said, \"Those who are well have no need of a physician, but those who are sick. Go and learn what this means, 'I desire mercy, and not sacrifice.' For I came not to call the righteous, but sinners.\""
+

@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.ep.me.m09.d03_gr_GR_cog 
+
+lemeLI.Epistle.title = "Τοῦ Ἱερομάρτυρος."
+lemeLI.Epistle.version = le.ep.me.m01.d18_gr_GR_cog.lemeLI.Epistle.version
+lemeLI.Epistle.book = le.ep.me.m01.d18_gr_GR_cog.lemeLI.Epistle.book
+lemeLI.Epistle.chapverse = le.ep.me.m01.d18_gr_GR_cog.lemeLI.Epistle.chapverse
+lemeLI.Epistle.text = le.ep.me.m01.d18_gr_GR_cog.lemeLI.Epistle.text
+
+lemeLI.Epistle2.title = "Τοῦ Ὁσίου."
+lemeLI.Epistle2.version = le.ep.me.m12.d15_gr_GR_cog.lemeLI.Epistle.version
+lemeLI.Epistle2.book = le.ep.me.m12.d15_gr_GR_cog.lemeLI.Epistle.book
+lemeLI.Epistle2.chapverse = le.ep.me.m12.d15_gr_GR_cog.lemeLI.Epistle.chapverse
+lemeLI.Epistle2.text = le.ep.me.m12.d15_gr_GR_cog.lemeLI.Epistle.text

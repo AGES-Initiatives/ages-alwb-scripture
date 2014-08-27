@@ -1,0 +1,19 @@
+A_Resource_Whose_Name = le.go.me.m05.d08_en_US_rsv 
+
+lemeMA.Gospel.title = "For the Evangelist."
+lemeMA.Gospel.version = le.go.eo.w11_en_US_rsv.leeoMA.Gospel.version
+lemeMA.Gospel.book = le.go.eo.w11_en_US_rsv.leeoMA.Gospel.book
+lemeMA.Gospel.chapverse = le.go.eo.w11_en_US_rsv.leeoMA.Gospel.chapverse
+lemeMA.Gospel.text = le.go.eo.w11_en_US_rsv.leeoMA.Gospel.text
+
+lemeLI.Gospel.title = "For the Evangelist."
+lemeLI.Gospel.version = bible_en_US_rsv.version.designation
+lemeLI.Gospel.book = bible_en_US_rsv.John
+lemeLI.Gospel.chapverse = "(19:25-28, 21:24-25)"
+lemeLI.Gospel.text = "At that time, standing by the cross of Jesus were his mother, and his mother's sister, Mary the wife of Clopas, and Mary Magdalene. When Jesus saw his mother, and the disciple whom he loved standing near, he said to his mother, \"Woman, behold, your son!\" Then he said to the disciple, \"Behold, your mother!\" And from that hour the disciple took her to his own home. This is the disciple who is bearing witness to these things, and who has written these things; and we know that his testimony is true. But there are also many other things which Jesus did; were every one of them to be written, I suppose that the world itself could not contain the books that would be written."
+
+lemeLI.Gospel2.title = "For the Saint."
+lemeLI.Gospel2.version = bible_en_US_rsv.version.designation
+lemeLI.Gospel2.book = bible_en_US_rsv.Matthew
+lemeLI.Gospel2.chapverse = "(11:27-30)"
+lemeLI.Gospel2.text = "The Lord said to his disciples, \"All things have been delivered to me by my Father; and no one knows the Son except the Father, and no one knows the Father except the Son and any one to whom the Son chooses to reveal him. Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me; for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light.\""

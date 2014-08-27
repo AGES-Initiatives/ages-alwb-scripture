@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.mc.d056_en_US_rsv
+
+lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode8
+lemcLI.GospelAlleluia.version = bible_en_US_rsv.version.designation
+lemcLI.GospelAlleluiaVerse1.source = "131"
+lemcLI.GospelAlleluiaVerse1.text = "Arise, O Lord, into your rest."
+lemcLI.GospelAlleluiaVerse2.source = "131"
+lemcLI.GospelAlleluiaVerse2.text = "O Lord, remember David and all his meekness."
+
+lemcLI.Gospel.title = "Saturday of the Fifth Week of Lent"
+lemcLI.Gospel.version = bible_en_US_rsv.version.designation
+lemcLI.Gospel.book = bible_en_US_rsv.Mark
+lemcLI.Gospel.chapverse = "(8:27-31)"
+lemcLI.Gospel.text = "At that time, Jesus went on with his disciples, to the villages of Caesarea Philippi; and on the way he asked his disciples, \"Who do men say that I am?\" And they told him, \"John the Baptist; and others say, Elijah; and others one of the prophets.\" And he asked them, \"But who do you say that I am?\" Peter answered him, \"You are the Christ.\" And he charged them to tell no one about him. And he began to teach them that the Son of man must suffer many things, and be rejected by the elders and the chief priests and the scribes, and be killed, and after three days rise again."

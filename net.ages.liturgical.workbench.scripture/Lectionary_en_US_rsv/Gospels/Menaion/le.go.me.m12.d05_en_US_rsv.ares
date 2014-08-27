@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.go.me.m12.d05_en_US_rsv 
+
+lemeMA.Gospel.title = "For the Saint."
+lemeMA.Gospel.version = bible_en_US_rsv.version.designation
+lemeMA.Gospel.book = bible_en_US_rsv.Luke
+lemeMA.Gospel.chapverse = "(6:17-23)"
+lemeMA.Gospel.text = "At that time, Jesus stood on a level place, with a great crowd of his disciples and a great multitude of people from all Judea and Jerusalem and the seacoast of Tyre and Sidon, who came to hear him and to be healed of their diseases; and those who were troubled with unclean spirits were cured. And all the crowd sought to touch him, for power came forth from him and healed them all. And he lifted up his eyes on His disciples, and said: \"Blessed are you poor, for yours is the Kingdom of God. Blessed are you that hunger now, for you shall be satisfied. Blessed are you that weep now, for you shall laugh. Blessed are you when men hate you, and when they exclude you and revile you, and cast out your name as evil, on account of the Son of man! Rejoice in that day, and leap for joy, for behold, your reward is great in heaven.\""
+
+lemeLI.Gospel.title = "For the Saint."
+lemeLI.Gospel.version = bible_en_US_rsv.version.designation
+lemeLI.Gospel.book = bible_en_US_rsv.Matthew
+lemeLI.Gospel.chapverse = "(11:27-30)"
+lemeLI.Gospel.text = "The Lord said to his disciples, \"All things have been delivered to me by my Father; and no one knows the Son except the Father, and no one knows the Father except the Son and any one to whom the Son chooses to reveal him. Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me; for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light.\""

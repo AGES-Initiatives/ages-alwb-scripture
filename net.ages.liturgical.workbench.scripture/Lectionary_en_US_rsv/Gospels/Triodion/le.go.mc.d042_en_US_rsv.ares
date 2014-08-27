@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.mc.d042_en_US_rsv
+
+lemcLI.GospelAlleluia.mode = 
+lemcLI.GospelAlleluia.version = 
+lemcLI.GospelAlleluiaVerse1.source = ""
+lemcLI.GospelAlleluiaVerse1.text = ""
+lemcLI.GospelAlleluiaVerse2.source = ""
+lemcLI.GospelAlleluiaVerse2.text = ""
+
+lemcLI.Gospel.title = "Saturday of the Third Week of Lent"
+lemcLI.Gospel.version = bible_en_US_rsv.version.designation
+lemcLI.Gospel.book = bible_en_US_rsv.Mark
+lemcLI.Gospel.chapverse = "(2:14-17)"
+lemcLI.Gospel.text = "At that time, as Jesus passed on, he saw Levi the son of Alphaios sitting at the tax office, and he said to him, \"Follow me.\" And he rose and followed him. And as he sat at table in his house, many tax collectors and sinners were sitting with Jesus and his disciples; for there were many who followed him. And the scribes of the Pharisees, when they saw that he was eating with sinners and tax collectors, said to his disciples, \"Why does he eat with tax collectors and sinners?\" And when Jesus heard it, he said to them, \"Those who are well have no need of a physician, but those who are sick; I came not to call the righteous, but sinners.\""

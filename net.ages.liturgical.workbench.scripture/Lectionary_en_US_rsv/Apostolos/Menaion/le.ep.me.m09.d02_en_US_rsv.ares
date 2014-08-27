@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.ep.me.m09.d02_en_US_rsv 
+
+lemeLI.Epistle.title = "For St. Mamas."
+lemeLI.Epistle.version = bible_en_US_rsv.version.designation
+lemeLI.Epistle.book = bible_en_US_rsv.Romans
+lemeLI.Epistle.chapverse = "(8:28-39)"
+lemeLI.Epistle.text = "Brethren, we know that in everything God works for good with those who love him, who are called according to his purpose. For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the first-born among many brethren. And those whom he predestined he also called; and those whom he called he also justified; and those whom he justified he also glorified. What then shall we say to this? If God is for us, who is against us? He who did not spare his own Son but gave him up for us all, will he not also give us all things with him? Who shall bring any charge against God's elect? It is God who justifies; who is to condemn? Is it Christ Jesus, who died, yes, who was raised from the dead, who is at the right hand of God, who indeed intercedes for us? Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword? As it is written, \"For thy sake we are being killed all the day long; we are regarded as sheep to be slaughtered.\" No, in all these things we are more than conquerors through him who loved us. For I am sure that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord."
+
+lemeLI.Epistle2.title = "For St. John."
+lemeLI.Epistle2.version = le.ep.me.m11.d13_en_US_rsv.lemeLI.Epistle.version
+lemeLI.Epistle2.book = le.ep.me.m11.d13_en_US_rsv.lemeLI.Epistle.book
+lemeLI.Epistle2.chapverse = le.ep.me.m11.d13_en_US_rsv.lemeLI.Epistle.chapverse
+lemeLI.Epistle2.text = le.ep.me.m11.d13_en_US_rsv.lemeLI.Epistle.text

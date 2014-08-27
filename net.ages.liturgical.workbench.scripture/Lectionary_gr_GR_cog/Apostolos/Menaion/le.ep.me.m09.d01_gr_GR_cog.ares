@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.ep.me.m09.d01_gr_GR_cog
+
+lemeLI.Epistle.title = "Τῆς Ἰνδίκτου."
+lemeLI.Epistle.version = 
+lemeLI.Epistle.book = bible_gr_GR_cog.Timothy1
+lemeLI.Epistle.chapverse = "(2:1-7)"
+lemeLI.Epistle.text = "Τέκνον Τιμόθεε, παρακαλῶ οὖν πρῶτον πάντων ποιεῖσθαι δεήσεις, προσευχάς, ἐντεύξεις, εὐχαριστίας, ὑπὲρ πάντων ἀνθρώπων, ὑπὲρ βασιλέων καὶ πάντων τῶν ἐν ὑπεροχῇ ὄντων, ἵνα ἤρεμον καὶ ἡσύχιον βίον διάγωμεν ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι. Τοῦτο γὰρ καλὸν καὶ ἀπόδεκτον ἐνώπιον τοῦ σωτῆρος ἡμῶν Θεοῦ, ὃς πάντας ἀνθρώπους θέλει σωθῆναι καὶ εἰς ἐπίγνωσιν ἀληθείας ἐλθεῖν. Εἷς γὰρ Θεός, εἷς καὶ μεσίτης Θεοῦ καὶ ἀνθρώπων, ἄνθρωπος Χριστὸς ᾿Ιησοῦς, ὁ δοὺς ἑαυτὸν ἀντίλυτρον ὑπὲρ πάντων, τὸ μαρτύριον καιροῖς ἰδίοις, εἰς ὃ ἐτέθην ἐγὼ κήρυξ καὶ ἀπόστολος,- ἀλήθειαν λέγω ἐν Χριστῷ, οὐ ψεύδομαι,- διδάσκαλος ἐθνῶν ἐν πίστει καὶ ἀληθεία."
+
+lemeLI.Epistle2.title = "Ἕτερος τοῦ Ὁσίου."
+lemeLI.Epistle2.version = le.ep.mc.d330_gr_GR_cog.lemcLI.Epistle.version 
+lemeLI.Epistle2.book = le.ep.mc.d330_gr_GR_cog.lemcLI.Epistle.book
+lemeLI.Epistle2.chapverse = le.ep.mc.d330_gr_GR_cog.lemcLI.Epistle.chapverse 
+lemeLI.Epistle2.text = le.ep.mc.d330_gr_GR_cog.lemcLI.Epistle.text
+

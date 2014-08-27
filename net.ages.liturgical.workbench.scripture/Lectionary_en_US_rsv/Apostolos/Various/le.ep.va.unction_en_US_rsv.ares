@@ -1,0 +1,86 @@
+A_Resource_Whose_Name = le.ep.va.unction_en_US_rsv 
+
+levaUNC.Epistle1.title = "1st Epistle"
+levaUNC.Epistle1Prokeimenon.version = bible_en_US_rsv.version.designation
+levaUNC.Epistle1Prokeimenon.mode = misc_en_US_public.Mode1
+levaUNC.Epistle1Prokeimenon.source = ""
+levaUNC.Epistle1Prokeimenon.text = "Let your mercy, O Lord, be upon us. "
+levaUNC.Epistle1ProkeimenonVerse.source = ""
+levaUNC.Epistle1ProkeimenonVerse.text = "Rejoice in the Lord, O you righteous."
+levaUNC.Epistle1.version = bible_en_US_rsv.version.designation
+levaUNC.Epistle1.book = bible_en_US_rsv.James
+levaUNC.Epistle1.chapverse = "(5:10-16)"
+levaUNC.Epistle1.text = "Brethren, take as an example of suffering and patience the prophets who spoke in the name of the Lord. Behold, we call those happy who were steadfast. You have heard of the steadfastness of Job, and you have seen the purpose of the Lord, how the Lord is compassionate and merciful. But above all, my brethren, do not swear, either by heaven or by earth or with any other oath, but let your yes be yes and your no be no, that you may not fall under condemnation. Is any one among you suffering? Let him pray. Is any cheerful? Let him sing praise. Is any among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord; and the prayer of faith will save the sick man, and the Lord will raise him up; and if he has committed sins, he will be forgiven. Therefore confess your sins to one another, and pray for one another, that you may be healed. The prayer of a righteous man has great power in its effects."
+
+levaUNC.Epistle2.title = "2nd Epistle"
+levaUNC.Epistle2Prokeimenon.version = bible_en_US_rsv.version.designation
+levaUNC.Epistle2Prokeimenon.mode = misc_en_US_public.Mode2
+levaUNC.Epistle2Prokeimenon.source = ""
+levaUNC.Epistle2Prokeimenon.text = "The Lord is my strength and my song. "
+levaUNC.Epistle2ProkeimenonVerse.source = ""
+levaUNC.Epistle2ProkeimenonVerse.text = "The Lord has chastened me sorely."
+levaUNC.Epistle2.version = bible_en_US_rsv.version.designation
+levaUNC.Epistle2.book = bible_en_US_rsv.Romans
+levaUNC.Epistle2.chapverse = "(15:1-7)"
+levaUNC.Epistle2.text = "Brethren, we who are strong ought to bear with the failings of the weak, and not to please ourselves; let each of us please his neighbor for his good, to edify him. For Christ did not please himself; but, as it is written, \"The reproaches of those who reproached thee fell on me.\" For whatever was written in former days was written for our instruction, that by steadfastness and by the encouragement of the scriptures we might have hope. May the God of steadfastness and encouragement grant you to live in such harmony with one another, in accord with Christ Jesus, that together you may with one voice glorify the God and Father of our Lord Jesus Christ. Welcome one another, therefore, as Christ has welcomed you, for the glory of God."
+
+levaUNC.Epistle3.title = "3rd Epistle"
+levaUNC.Epistle3Prokeimenon.version = bible_en_US_rsv.version.designation
+levaUNC.Epistle3Prokeimenon.mode = misc_en_US_public.Mode3
+levaUNC.Epistle3Prokeimenon.source = ""
+levaUNC.Epistle3Prokeimenon.text = "The Lord is my light and my Savior. "
+levaUNC.Epistle3ProkeimenonVerse.source = ""
+levaUNC.Epistle3ProkeimenonVerse.text = "The Lord is the defender of my life."
+levaUNC.Epistle3.version = bible_en_US_rsv.version.designation
+levaUNC.Epistle3.book = bible_en_US_rsv.Corinthians1
+levaUNC.Epistle3.chapverse = "(12:27-13:8)"
+levaUNC.Epistle3.text = "Brethren, you are the body of Christ and individually members of it. And God has appointed in the church first apostles, second prophets, third teachers, then workers of miracles, then healers, helpers, administrators, speakers in various kinds of tongues. Are all apostles? Are all prophets? Are all teachers? Do all work miracles? Do all possess gifts of healing? Do all speak with tongues? Do all interpret? But earnestly desire the higher gifts. And I will show you a still more excellent way. If I speak in the tongues of men and of angels, but have not love, I am a noisy gong or a clanging cymbal. And if I have prophetic powers, and under­stand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but have not love, I am nothing. If I give away all I have, and if I deliver my body to be burned, but have not love, I gain nothing. Love is patient and kind; love is not jealous or boastful; it is not arrogant or rude. Love does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrong, but rejoices in the right. Love bears all things, believes all things, hopes all things, endures all things. Love never ends."
+
+levaUNC.Epistle4.title = "4th Epistle"
+levaUNC.Epistle4Prokeimenon.version = bible_en_US_rsv.version.designation
+levaUNC.Epistle4Prokeimenon.mode = misc_en_US_public.Mode4
+levaUNC.Epistle4Prokeimenon.source = ""
+levaUNC.Epistle4Prokeimenon.text = "In the day when I call upon you hear me speedily. "
+levaUNC.Epistle4ProkeimenonVerse.source = ""
+levaUNC.Epistle4ProkeimenonVerse.text = "Lord, hear my prayer."
+levaUNC.Epistle4.version = bible_en_US_rsv.version.designation
+levaUNC.Epistle4.book = bible_en_US_rsv.Corinthians2
+levaUNC.Epistle4.chapverse = "(6:16-7:1)"
+levaUNC.Epistle4.text = "Brethren, you are the temple of the living God; as God said, \"I will live in them and move among them, and I will be their God, and they shall be my people. Therefore come out from them, and be separate from them, says the Lord, and touch nothing unclean; then I will welcome you, and I will be a father to you, and you shall be my sons and daughters, says the Lord Almighty.\" Since we have these promises, beloved, let us cleanse ourselves from every defilement of body and spirit, and make holiness perfect in the fear of God."
+
+levaUNC.Epistle5.title = "5th Epistle"
+levaUNC.Epistle5Prokeimenon.version = bible_en_US_rsv.version.designation
+levaUNC.Epistle5Prokeimenon.mode = misc_en_US_public.Mode5
+levaUNC.Epistle5Prokeimenon.source = ""
+levaUNC.Epistle5Prokeimenon.text = "Do you, Lord, guard and keep us. "
+levaUNC.Epistle5ProkeimenonVerse.source = ""
+levaUNC.Epistle5ProkeimenonVerse.text = "Save me, O Lord, for there is no godly one left."
+levaUNC.Epistle5.version = bible_en_US_rsv.version.designation
+levaUNC.Epistle5.book = bible_en_US_rsv.Corinthians2
+levaUNC.Epistle5.chapverse = "(1:8-11)"
+levaUNC.Epistle5.text = "Brethren, we do not want you to be ignorant, brethren, of the affliction we experienced in Asia; for we were so utterly, unbearably crushed that we despaired of life itself. Why, we felt that we had received the sentence of death; but that was to make us rely not on ourselves but on God who raises the dead; he delivered us from so deadly a peril, and he will deliver us; on him we have set our hope that he will deliver us again. You also must help us by prayer, so that many will give thanks on our behalf for the blessing granted us in answer to many prayers."
+
+levaUNC.Epistle6.title = "6th Epistle"
+levaUNC.Epistle6Prokeimenon.version = bible_en_US_rsv.version.designation
+levaUNC.Epistle6Prokeimenon.mode = misc_en_US_public.Mode4
+levaUNC.Epistle6Prokeimenon.source = ""
+levaUNC.Epistle6Prokeimenon.text = "Have mercy on me, O God, according to Your great mercy; and according to the magnitude of Your compas­sion blot out my transgression."
+levaUNC.Epistle6ProkeimenonVerse.source = ""
+levaUNC.Epistle6ProkeimenonVerse.text = "Create in me a clean heart, O God."
+levaUNC.Epistle6.version = bible_en_US_rsv.version.designation
+levaUNC.Epistle6.book = bible_en_US_rsv.Galatians
+levaUNC.Epistle6.chapverse = "(5:22-6:2)"
+levaUNC.Epistle6.text = "Brethren, the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such there is no law. And those who belong to Christ Jesus have crucified the flesh with its passions and desires. If we live by the Spirit, let us also walk by the Spirit. Let us have no self-conceit, no provoking of one another, no envy of one another. Brethren, if a man is overtaken in any trespass, you who are spiritual should restore him in a spirit of gentleness. Look to yourself, lest you too be tempted. Bear one another's burdens, and so fulfill the law of Christ."
+
+levaUNC.Epistle7.title = "7th Epistle"
+levaUNC.Epistle7Prokeimenon.version = bible_en_US_rsv.version.designation
+levaUNC.Epistle7Prokeimenon.mode = misc_en_US_public.Mode4
+levaUNC.Epistle7Prokeimenon.source = ""
+levaUNC.Epistle7Prokeimenon.text = "O Lord, do not rebuke in your anger. "
+levaUNC.Epistle7ProkeimenonVerse.source = ""
+levaUNC.Epistle7ProkeimenonVerse.text = "Have mercy on me, O Lord, for I am weak."
+levaUNC.Epistle7.version = bible_en_US_rsv.version.designation
+levaUNC.Epistle7.book = bible_en_US_rsv.Thessalonians1
+levaUNC.Epistle7.chapverse = "(5:14-23)"
+levaUNC.Epistle7.text = "Brethren, we exhort you, admonish the idlers, encourage the fainthearted, help the weak, be patient with them all. See that none of you repays evil for evil, but always seek to do good to one another and to all. Rejoice always, pray constantly, give thanks in all circumstances; for this is the will of God in Christ Jesus for you. Do not quench the Spirit, do not despise prophesying, but test everything; hold fast what is good, abstain from every form of evil. May the God of peace himself sanctify you wholly; and may your spirit and soul and body be kept sound and blameless at the coming of our Lord Jesus Christ."
+

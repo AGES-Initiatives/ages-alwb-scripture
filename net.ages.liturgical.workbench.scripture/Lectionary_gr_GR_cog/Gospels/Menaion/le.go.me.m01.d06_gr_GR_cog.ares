@@ -1,0 +1,19 @@
+A_Resource_Whose_Name = le.go.me.m01.d06_gr_GR_cog 
+
+lemeVE.Gospel.title = "Τῆς Ἑορτῆς."
+lemeVE.Gospel.version = le.go.me.m01.d05_gr_GR_cog.lemeH9.Gospel.version
+lemeVE.Gospel.book = le.go.me.m01.d05_gr_GR_cog.lemeH9.Gospel.book
+lemeVE.Gospel.chapverse = le.go.me.m01.d05_gr_GR_cog.lemeH9.Gospel.chapverse
+lemeVE.Gospel.text = le.go.me.m01.d05_gr_GR_cog.lemeH9.Gospel.text
+
+lemeMA.Gospel.title = "Τῆς Ἑορτῆς."
+lemeMA.Gospel.version = 
+lemeMA.Gospel.book = bible_gr_GR_cog.Mark
+lemeMA.Gospel.chapverse = "(Αʹ 9-11)"
+lemeMA.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, ἦλθεν Ἰησοῦς ἀπὸ Ναζαρὲτ τῆς Γαλιλαίας καὶ ἐβαπτίσθη ὑπὸ Ἰωάννου εἰς τὸν Ἰορδάνην. Kαὶ εὐθέως ἀναβαίνων ἐκ τοῦ ὕδατος εἶδε σχιζομένους τοὺς οὐρανοὺς καὶ τὸ Πνεῦμα ὡς περιστερὰν καταβαῖνον ἐπ' αὐτόν. Καὶ φωνὴ ἐγένετο ἐκ τῶν οὐρανῶν· Σὺ εἶ ὁ Υἱός μου ὁ ἀγαπητός, ἐν ᾧ ηὐδόκησα."
+
+lemeLI.Gospel.title = "Τῆς Ἑορτῆς."
+lemeLI.Gospel.version = 
+lemeLI.Gospel.book = bible_gr_GR_cog.Matthew
+lemeLI.Gospel.chapverse = "(3:13-17)"
+lemeLI.Gospel.text = "Τῷ καιρῷ ἐκείνῳ, παραγίνεται ὁ ᾿Ιησοῦς ἀπὸ τῆς Γαλιλαίας ἐπὶ τὸν ᾿Ιορδάνην πρὸς τὸν ᾿Ιωάννην τοῦ βαπτισθῆναι ὑπ᾿ αὐτοῦ.ὁ δὲ ᾿Ιωάννης διεκώλυεν αὐτὸν λέγων· ἐγὼ χρείαν ἔχω ὑπὸ σοῦ βαπτισθῆναι, καὶ σὺ ἔρχῃ πρός με;ἀποκριθεὶς δὲ ὁ ᾿Ιησοῦς εἶπε πρὸς αὐτόν· ἄφες ἄρτι· οὕτω γὰρ πρέπον ἐστὶν ἡμῖν πληρῶσαι πᾶσαν δικαιοσύνην· τότε ἀφίησιν αὐτόν·καὶ βαπτισθεὶς ὁ ᾿Ιησοῦς ἀνέβη εὐθὺς ἀπὸ τοῦ ὕδατος· καὶ ἰδοὺ ἀνεῴχθησαν αὐτῷ οἱ οὐρανοί, καὶ εἶδε τὸ Πνεῦμα τοῦ Θεοῦ καταβαῖνον ὡσεὶ περιστερὰν καὶ ἐρχόμενον ἐπ᾿ αὐτόν·καὶ ἰδοὺ φωνὴ ἐκ τῶν οὐρανῶν λέγουσα· οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα."

@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.ep.me.m12.d25_en_US_rsv 
+
+lemeVE.Epistle.title = "For the Feast."
+lemeVE.Epistle.version = le.ep.mc.d028_en_US_rsv.lemcLI.Epistle.version
+lemeVE.Epistle.book = le.ep.mc.d028_en_US_rsv.lemcLI.Epistle.book
+lemeVE.Epistle.chapverse = le.ep.mc.d028_en_US_rsv.lemcLI.Epistle.chapverse
+lemeVE.Epistle.text = le.ep.mc.d028_en_US_rsv.lemcLI.Epistle.text 
+
+lemeLI.Epistle.title = "For the Feast."
+lemeLI.Epistle.version = bible_en_US_rsv.version.designation
+lemeLI.Epistle.book = bible_en_US_rsv.Galatians
+lemeLI.Epistle.chapverse = "(4:4-7)"
+lemeLI.Epistle.text = "Brethren, when the time had fully come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons. And because you are sons, God has sent the Spirit of his Son into our hearts, crying, \"Abba! Father!\" So you are no longer a slave but a son, and if a son then also an heir of God through Christ."

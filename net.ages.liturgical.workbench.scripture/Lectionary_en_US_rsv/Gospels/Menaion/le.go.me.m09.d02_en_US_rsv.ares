@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.go.me.m09.d02_en_US_rsv 
+
+lemeLI.Gospel.title = "For St. Mamas."
+lemeLI.Gospel.version = bible_en_US_rsv.version.designation
+lemeLI.Gospel.book = bible_en_US_rsv.John
+lemeLI.Gospel.chapverse = "(15:1-11)"
+lemeLI.Gospel.text = "The Lord said to his disciples, \"I am the true vine, and my Father is the vinedresser. Every branch of mine that bears no fruit, he takes away, and every branch that does bear fruit he prunes, that it may bear more fruit. You are already made clean by the word which I have spoken to you. Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me. I am the vine, you are the branches. He who abides in me, and I in him, he it is that bears much fruit, for apart from me you can do nothing. If a man does not abide in me, he is cast forth as a branch and withers; and the branches are gathered, thrown into the fire and burned. If you abide in me, and my words abide in you, ask whatever you will, and it shall be done for you. By this my Father is glorified, that you bear much fruit, and so prove to be my disciples. As the Father has loved me, so have I loved you; abide in my love. If you keep my commandments, you will abide in my love, just as I have kept my Father's commandments and abide in his love. These things I have spoken to you, that my joy may be in you, and that your joy may be full.\""
+
+lemeLI.Gospel2.title = "For St. John."
+lemeLI2.Gospel.version = le.go.me.m11.d13_en_US_rsv.lemeLI.Gospel.version
+lemeLI2.Gospel.book = le.go.me.m11.d13_en_US_rsv.lemeLI.Gospel.book
+lemeLI2.Gospel.chapverse = le.go.me.m11.d13_en_US_rsv.lemeLI.Gospel.chapverse
+lemeLI2.Gospel.text = le.go.me.m11.d13_en_US_rsv.lemeLI.Gospel.text

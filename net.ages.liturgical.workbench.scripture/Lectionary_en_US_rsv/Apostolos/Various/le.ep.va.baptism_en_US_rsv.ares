@@ -1,0 +1,16 @@
+A_Resource_Whose_Name = le.ep.va.baptism_en_US_rsv 
+
+//levaLI.Epistle1.Prokeimenon.title = ""
+levaLI.Epistle1.Prokeimenon.version = bible_en_US_rsv.version.designation
+levaLI.Epistle1.Prokeimenon.mode = misc_en_US_public.Mode1
+levaLI.Epistle1.Prokeimenon.source = "26"
+levaLI.Epistle1.Prokeimenon.text = "The Lord is my illumination and my Savior."
+levaLI.Epistle1.ProkeimenonVerse.source = "26"
+levaLI.Epistle1.ProkeimenonVerse.text = "The Lord is the defender of my life."
+
+levaLI.Epistle1.title = "At Baptisms."
+levaLI.Epistle1.version = bible_en_US_rsv.version.designation
+levaLI.Epistle1.book = bible_en_US_rsv.Romans
+levaLI.Epistle1.chapverse = "(6:3-11)"
+levaLI.Epistle1.text = "Brethren, all of us who have been baptized into Christ Jesus were baptized into his death. We were buried therefore with him by baptism into death, so that as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life. For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his. We know that our old self was crucified with him so that the sinful body might be destroyed, and we might no longer be enslaved to sin. For he who has died is freed from sin. But if we have died with Christ, we believe that we shall also live with him. For we know that Christ being raised from the dead will never die again; death no longer has dominion over him. The death he died he died to sin, once for all, but the life he lives he lives to God. So you also must consider yourselves dead to sin and alive to God in Christ Jesus."
+

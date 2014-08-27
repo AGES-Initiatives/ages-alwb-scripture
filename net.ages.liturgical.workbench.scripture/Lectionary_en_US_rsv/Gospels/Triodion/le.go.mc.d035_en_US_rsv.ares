@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.mc.d035_en_US_rsv
+
+lemcLI.GospelAlleluia.mode = 
+lemcLI.GospelAlleluia.version = 
+lemcLI.GospelAlleluiaVerse1.source = ""
+lemcLI.GospelAlleluiaVerse1.text = ""
+lemcLI.GospelAlleluiaVerse2.source = ""
+lemcLI.GospelAlleluiaVerse2.text = ""
+
+lemcLI.Gospel.title = "Saturday of the Second Week of Lent"
+lemcLI.Gospel.version = bible_en_US_rsv.version.designation
+lemcLI.Gospel.book = bible_en_US_rsv.Mark
+lemcLI.Gospel.chapverse = "(1:35-44)"
+lemcLI.Gospel.text = "At that time, Jesus rose and went out to a lonely place, and there he prayed. And Simon and those who were with him pursued him, and they found him and said to him, \"Everyone is searching for you.\" And he said to them, \"Let us go on to the next towns, that I may preach there also; for that is why I came out.\" And he went throughout all Galilee, preaching in their synagogues and casting out demons. And a leper came to him beseeching him, and kneeling said to him, \"If you will, you can make me clean.\" Moved with pity, he stretched out his hand and touched him, and said to him, \"I will; be clean.\" And immediately the leprosy left him, and he was made clean. And he sternly charged him, and sent him away at once, and said to him, \"See that you say nothing to any one; but go, show yourself to a priest, and offer for your cleansing what Moses commanded, for a proof to them.\""

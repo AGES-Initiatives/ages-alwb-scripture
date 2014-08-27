@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.go.me.m09.d01_en_US_rsv 
+
+lemeLI.Gospel.title = "For the Indiction."
+lemeLI.Gospel.version = bible_en_US_rsv.version.designation
+lemeLI.Gospel.book = bible_en_US_rsv.Luke
+lemeLI.Gospel.chapverse = "(4:16-22)"
+lemeLI.Gospel.text = "At that time, Jesus came to Nazareth, where he had been brought up; and he went to the synagogue, as his custom was, on the sabbath day. And he stood up to read; and there was given to him the book of the prophet Isaiah. He opened the book and found the place where it was written, \"The Spirit of the Lord is upon me, because he has anointed me to preach good news to the poor. He has sent me to proclaim release to the captives and recovering of sight to the blind, to set at liberty those who are oppressed, to proclaim the acceptable year of the Lord.\" And he closed the book, and gave it back to the attendant, and sat down; and the eyes of all in the synagogue were fixed on him. And he began to say to them, \"Today this scripture has been fulfilled in your hearing.\" And all spoke well of him, and wondered at the gracious words which proceeded out of his mouth."
+
+lemeLI.Gospel2.title = "For St. Symeon the Stylite."
+lemeLI.Gospel2.version = bible_en_US_rsv.version.designation
+lemeLI.Gospel2.book = bible_en_US_rsv.John
+lemeLI.Gospel2.chapverse = "(10:9-16)"
+lemeLI.Gospel2.text = "The Lord said, \"I am the door; if any one enters by me, he will be saved, and will go in and out and find pasture. The thief comes only to steal and kill and destroy; I came that they may have life, and have it abundantly. I am the good shepherd. The good shepherd lays down his life for the sheep. He who is a hireling and not a shepherd, whose own the sheep are not, sees the wolf coming and leaves the sheep and flees; and the wolf snatches them and scatters them. He flees because he is a hireling and cares nothing for the sheep. I am the good shepherd; I know my own and my own know me, as the Father knows me and I know the Father; and I lay down my life for the sheep. And I have other sheep, that are not of this fold; I must bring them also, and they will heed my voice. So there shall be one flock, one shepherd.\""

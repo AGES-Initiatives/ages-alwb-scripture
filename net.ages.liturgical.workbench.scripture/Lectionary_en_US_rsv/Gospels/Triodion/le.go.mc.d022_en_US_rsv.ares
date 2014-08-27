@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.mc.d022_en_US_rsv
+
+lemcLI.GospelAlleluia.mode = 
+lemcLI.GospelAlleluia.version = 
+lemcLI.GospelAlleluiaVerse1.source = ""
+lemcLI.GospelAlleluiaVerse1.text = ""
+lemcLI.GospelAlleluiaVerse2.source = ""
+lemcLI.GospelAlleluiaVerse2.text = ""
+
+lemcLI.Gospel.title = "Cheesefare Sunday"
+lemcLI.Gospel.version = bible_en_US_rsv.version.designation
+lemcLI.Gospel.book = bible_en_US_rsv.Matthew
+lemcLI.Gospel.chapverse = "(6:14-21)"
+lemcLI.Gospel.text = "The Lord said, \"If you forgive men their trespasses, your heavenly Father also will forgive you; but if you do not forgive men their trespasses, neither will your Father forgive your trespasses. And when you fast, do not look dismal, like the hypocrites, for they disfigure their faces that their fasting may be seen by men. Truly, I say to you, they have received their reward. But when you fast, anoint your head and wash your face, that your fasting may not be seen by men but by your Father who is in secret; and your Father who sees in secret will reward you. Do not lay up for yourselves treasures on earth, where moth and rust consume and where thieves break in and steal, but lay up for yourselves treasures in heaven, where neither moth nor rust consumes and where thieves do not break in and steal. For where your treasure is, there will your heart be also.\""
