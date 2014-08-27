@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.ep.mc.d070_en_US_rsv 
+
+lemcVE.Epistle.title = "HOLY AND GREAT FRIDAY"
+lemcVE.Epistle.version = bible_en_US_rsv.version.designation
+lemcVE.Epistle.book = bible_en_US_rsv.Corinthians1
+lemcVE.Epistle.chapverse = "(1:18-31; 2:1-2)"
+lemcVE.Epistle.text = "Brethren, the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God. For it is written, \"I will destroy the wisdom of the wise, and the cleverness of the clever I will thwart.\" Where is the wise man? Where is the scribe? Where is the debater of this age? Has not God made foolish the wisdom of the world? For since, in the wisdom of God, the world did not know God through wisdom, it pleased God through the folly of what we preach to save those who believe. For Jews demand signs and Greeks seek wisdom, but we preach Christ crucified, a stumbling block to Jews and folly to Gentiles, but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God. For the foolishness of God is wiser than men, and the weakness of God is stronger than men. For consider your call, brethren; not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth; but God chose what is foolish in the world to shame the wise, God chose what is weak in the world to shame the strong, God chose what is low and despised in the world, even things that are not, to bring to nothing things that are, so that no human being might boast in the presence of God. He is the source of your life in Christ Jesus, righteousness and sanctification and redemption; therefore, as it is written. \"Let him who boasts, boast of the Lord.\" When I came to you, brethren, I did not come proclaiming to you the testimony of God in lofty words or wisdom. For I decided to know nothing among you except Christ and him crucified."
+
+// This is at the end of Friday Night service
+lemcLI.Epistle.title = ""
+lemcLI.Epistle.version = bible_en_US_rsv.version.designation
+lemcLI.Epistle.book = bible_en_US_rsv.Corinthians1
+lemcLI.Epistle.chapverse = "(1 Cor. 5:6-8; Gal. 3:13-14)"
+lemcLI.Epistle.text = "Brethren, a little leaven leavens the whole lump. Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our paschal lamb, has been sacrificed. Let us, therefore, celebrate the festival, not with the old leaven, the leaven of malice and evil, but with the unleavened bread of sincerity and truth. Christ redeemed us from the curse of the law, having become a curse for us — for it is written, \"Cursed be everyone who hangs on a tree\" — that in Christ Jesus the blessing of Abraham might come upon the Gentiles, that we might receive the promise of the Spirit through faith."
+

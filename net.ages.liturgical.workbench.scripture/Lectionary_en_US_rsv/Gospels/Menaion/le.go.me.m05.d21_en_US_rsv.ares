@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.go.me.m05.d21_en_US_rsv 
+
+lemeMA.Gospel.title = "For the Saints."
+lemeMA.Gospel.version = le.go.me.m01.d30_en_US_rsv.lemeMA.Gospel.version
+lemeMA.Gospel.book = le.go.me.m01.d30_en_US_rsv.lemeMA.Gospel.book
+lemeMA.Gospel.chapverse = le.go.me.m01.d30_en_US_rsv.lemeMA.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m01.d30_en_US_rsv.lemeMA.Gospel.text
+
+lemeLI.Gospel.title = "For the Saints."
+lemeLI.Gospel.version = bible_en_US_rsv.version.designation
+lemeLI.Gospel.book = bible_en_US_rsv.John
+lemeLI.Gospel.chapverse = "(10:1-9)"
+lemeLI.Gospel.text = "The Lord said to the Jews who had come to him, \"Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber; but he who enters by the door is the shepherd of the sheep. To him the gatekeeper opens; the sheep hear his voice, and he calls his own sheep by name and leads them out. When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice. A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers.\" This figure Jesus used with them, but they did not understand what he was saying to them. So Jesus again said to them, \"Truly, truly, I say to you, I am the door of the sheep. All who came before me are thieves and robbers; but the sheep did not heed them. I am the door; if any one enters by me, he will be saved, and will go in and out and find pasture.\""

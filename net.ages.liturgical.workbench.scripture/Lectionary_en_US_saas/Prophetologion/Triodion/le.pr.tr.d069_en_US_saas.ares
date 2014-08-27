@@ -1,0 +1,77 @@
+A_Resource_Whose_Name = le.pr.tr.d069_en_US_saas
+
+lemcVE.Prokeimenon1.mode = misc_en_US_public.Mode1
+lemcVE.Prokeimenon1.source = ""
+lemcVE.Prokeimenon1.text = "Deliver me, O Lord, from the evil man, rescue me from the unjust man."
+
+lemcVE.Prokeimenon1Verse.source = ""
+lemcVE.Prokeimenon1Verse.text = "Who devised wrongdoing in their heart."
+
+lemcVE.Reading1.book = bible_en_US_saas.Exodus
+lemcVE.Reading1.version = bible_en_US_saas.version.designation
+lemcVE.Reading1.chapverse = "(19:10-19)"
+lemcVE.Reading1.text = "Again the Lord said to Moses, \"Go down and solemnly charge the people and sanctify them today and tomorrow, and let them wash their clothes. Let them be ready for the third day, for on the third day the Lord will descend upon Mount Sinai in the sight of all the people. You shall set bounds for the people all around, saying, 'Take heed to yourselves that you do not go up to the mountain or touch its base. Whoever touches the mountain shall surely die, surely be stoned or shot with an arrow; whether man or beast, he shall not live.' When the thunders, the trumpets, and the cloud depart from the mountain, they shall ascend the mountain.\" So Moses went down from the mountain to the people and sanctified them, and they washed their clothes. Then he said to the people, \"Be ready for the third day; do not come near your wives.\" So it was that on the third day in the morning, there were thunderings and lightnings and a dark cloud on Mount Sinai; and the sound of the trumpet was very loud, and all the people in the camp trembled. And Moses brought the people out of the camp to meet with God, and they stood at the foot of the mountain. Now Mount Sinai was completely enveloped in fire. Its smoke ascended like the smoke of a furnace, and the people were exceedingly amazed. And when the blast of the trumpet sounded long and became louder and louder, Moses spoke, and God answered him by voice."
+
+lemcVE.Prokeimenon2.mode = misc_en_US_public.Mode7
+lemcVE.Prokeimenon2.source = ""
+lemcVE.Prokeimenon2.text = "Rescue me from my enemies, O Lord."
+
+lemcVE.Prokeimenon2Verse.source = ""
+lemcVE.Prokeimenon2Verse.text = "Deliver me from the workers of lawlessness."
+
+lemcVE.Reading2.book = bible_en_US_saas.Job
+lemcVE.Reading2.version = bible_en_US_saas.version.designation
+lemcVE.Reading2.chapverse = "(38:1-21; 42:1-5)"
+lemcVE.Reading2.text = "The Lord spoke to Job out of the whirlwind and clouds, saying: \"Who is this who hides counsel from Me, and holds words in his heart and thinks to conceal them from Me? Gird your waist like a man; I will question you, and you shall answer Me. Where were you when I lake the foundations of the earth? Tell, Me, if you have understanding, who determined its measurements? Surely you know. Or who stretched the line upon it? To what were its foundations fastened, or who laid its cornerstone, when the stars were made and all My angels praised Me in a loud voice? I shut up the sea with doors when it burst forth and issued from the womb. I made the clouds its garment and wrapped it in mist. I fixed My limit for it and set bars and doors. I said, 'This far you may come, but no further. And here your waves must stop.' Did I order the morning light in your time, and did the morning star see its appointed place, to lay hold of the ends of the earth and to shake the ungodly out of it? Or did you take clay of the ground and form a living creature, and set it with the power of speech upon the earth? Have you removed light from the ungodly and crushed the arm of the arrogant? Have you come upon the fountain of the sea and walked in the tracks of the deep? Do the gates of death open to you for fear, and did the doorkeepers of Hades quake when they saw you? Have you been instructed in the breadth of the earth under heaven? Tell Me now, what is the extent of it? In what kind of land does the light dwell, and what kind is the place of darkness? If you would bring Me to their boundaries, and also if you understand their paths, then I know you were born at that time, and the number of your years is great.\" Then Job answered the Lord and said: \"I know You can do all things, and nothing is impossible for You. For who is he who hides counsel from You? Who keeps back his words and thinks to hide them from You? Who will tell me what I knew not, things too great and wonderful, which I did not know? But hear me, O Lord, that I also may speak. I will ask You, and please teach Me.  I have heard of You by the hearing of the ear. But now my eye sees You.\""
+
+lemcTE.Reading1.book = bible_en_US_saas.Isaiah
+lemcTE.Reading1.version = bible_en_US_saas.version.designation
+lemcTE.Reading1.chapverse = "(50:4-11)"
+lemcTE.Reading1.text = "The Lord gives Me the tongue of the learned, so as to know when to speak a word at a fitting time; and He causes My ear to listen each morning. The Lord's instruction open My ears, and I am not disobedient, nor do I contradict Him. I gave My back to whips, and My cheeks to blows; and I turned not away My face from the shame of spitting. The Lord became My helper; therefore, I was not disgraced. But I made My face like a solid rock and knew I would not be ashamed. For He who pronounces Me righteous draws near. Who is he who judges Me? Let him oppose Me at the same time. Who is he who judges He? Let him come near Me. Behold, the Lord will help Me. Who will harm Me? Behold, all of you will grow old like a garment, and old age will devour you, as a moth does a garment. Who among you fears the Lord? Let him listen to the voice of His Servant. You who walk in darkness and have not light, trust in the name of the Lord and rely upon God. Behold, all of you kindle a fire and feed a flame. Walk in the light of your fire and the flame you kindled. This happened to you for My sake, and you shall lie down in sorrow."
+
+lemcH1.Prokeimenon.source = ""
+lemcH1.Prokeimenon.mode = misc_en_US_public.Mode4
+lemcH1.Prokeimenon.text = "He went forth and spoke the same. All my enemies whisper together against me."
+
+lemcH1.ProkeimenonVerse.source = ""
+lemcH1.ProkeimenonVerse.text = "Blessed is he who understands the poor and needy; the Lord will deliver him in an evil day."
+
+lemcH1.Prophecy.book = bible_en_US_saas.Zechariah
+lemcH1.Prophecy.chapverse = "(11:10-13)"
+lemcH1.Prophecy.text = "Thus says the Lord: I shall take my staff Beauty, and I shall cast it away, to break my covenant which I made with all the people. And in that day they will be scattered about. And the Canaanites shall know the flock is kept safe, for this is the word of the Lord. And I shall say to them, \"If it is fitting in your judgment, give me my payment, or refuse it.\" And they established my wage at thirty pieces of silver. And the Lord said to me, \"Drop them into the smelting furnace and see if it is proven, as in the same manner I was proven for their sake.\" And I took the thirty pieces of silver and threw them into the smelting furnace in the house of the Lord, as the Lord commanded me."
+
+lemcH3.Prokeimenon.source = ""
+lemcH3.Prokeimenon.mode = misc_en_US_public.Mode4
+lemcH3.Prokeimenon.text = "For I am ready for wounds."
+
+lemcH3.ProkeimenonVerse.source = ""
+lemcH3.ProkeimenonVerse.text = "O Lord, do not rebuke me in Your wrath."
+
+lemcH3.Prophecy.book = bible_en_US_saas.Isaiah
+lemcH3.Prophecy.chapverse = "(50:4-11)"
+lemcH3.Prophecy.text = "\"The Lord gives Me the tongue of the learned, so as to know when to speak a word at a fitting time; and He causes My ear to listen each morning. The Lord's instruction opens My ears, and I am not disobedient, nor do I contradict Him. I gave My back to whips, and My cheeks to blows; and I turned not away My face from the shame of spitting. The Lord became My helper; therefore, I was not disgraced. But I made My face like a solid rock and knew I would not be ashamed. For He who pronounces Me righteous draws near. Who is he who judges Me? Let him oppose Me at the same time. Who is he who judges Me? Let him come near Me. Behold, the Lord will help Me. Who will harm Me? Behold, all of you will grow old like a garment, and old age will devour you, as a moth does a garment. Who among you fears the Lord? Let him listen to the voice of His Servant. You who walk in the darkness and have not light, trust in the name of the Lord and rely upon God. Behold, all of you kindle a fire and feed a flame. Walk in the light of your fire and the flame you kindled. This happened to you for My sake, and you shall lie down in sorrow.\""
+
+lemcH6.Prokeimenon.source = ""
+lemcH6.Prokeimenon.mode = misc_en_US_public.Mode4
+lemcH6.Prokeimenon.text = "O Lord, our Lord, how wondrous is Your name in all the earth."
+
+lemcH6.ProkeimenonVerse.source = ""
+lemcH6.ProkeimenonVerse.text = "For Your splendor is exalted far beyond the heavens."
+
+lemcH6.Prophecy.book = bible_en_US_saas.Isaiah
+lemcH6.Prophecy.chapverse = "(52:13 – 54:1)"
+lemcH6.Prophecy.text = "Thus says the Lord: Behold My Servant shall have wisdom, and He shall be exalted and glorified exceedingly. Just as many shall be astonished at You, so Your form and glory shall be dishonored by men. Thus many nations shall marvel at Him, and kings shall shut their mouth, because they to whom no report was brought concerning Him shall see; and they who did not hear shall understand.
+O Lord, who has believed our report, and to whom was the arm of the Lord revealed? We proclaimed His presence as a Child, as a Root in a thirsty land. He had no form or glory, and we saw Him; and He had no form or beauty. But in comparison to all men, His form was lacking in honor. He was a man in suffering and knew how to bear sickness. His face was turned away, and He was dishonored and not esteemed. He bears our sins and suffers for us, yet we considered Him to be in pain, suffering, and ill-treatment. But He was wounded because of our lawlessness, and became sick because of our sins. The chastisement of our peace was upon Him, and by His bruise we are healed. All we like sheep have gone astray. Man has gone astray in his way, and the Lord delivered Him over for our sins. Although He was ill-treated, He opened not His mouth. He was led as a sheep to the slaughter, and as a lamb is silent before his shearers, so He opens not His mouth. In His humiliation His judgment was taken away, and who will declare His generation? For His life is taken from the earth, and because of the lawlessness of My people He was led to death. I will appoint evil men for His burial and rich men for His death, because He committed no lawlessness, nor was deceit found in His mouth. The Lord wishes to cleanse Him of His wound, and if You give an offering for sin, Your soul shall see a long-lived seed. The Lord wishes to take away the pain of His soul, to show Him light, to form Him with understanding, and to pronounce righteous the Righteous One who serves many well; and He shall bear their sins. Therefore He shall inherit many, and will divide the spoil with the strong, because His soul was delivered over to death. He was considered among the lawless, and He bore the sins of many, and was delivered over because of their sins. 
+\"Be glad, O barren woman who does not bear; break forth and cry out, you who are not in travail, for more are the children of the desolate than the children of the married woman,\" says the Lord."
+
+lemcH9.Prokeimenon.source = ""
+lemcH9.Prokeimenon.mode = misc_en_US_public.Mode6
+lemcH9.Prokeimenon.text = "The fool said in his heart, \"There is no God.\""
+
+lemcH9.ProkeimenonVerse.source = ""
+lemcH9.ProkeimenonVerse.text = "There is none who does good, not even one."
+
+lemcH9.Prophecy.book = bible_en_US_saas.Jeremiah
+lemcH9.Prophecy.chapverse = "(11:17-22; 12:1-5, 9-11, 14-15.)"
+lemcH9.Prophecy.text = "O Lord, teach me, and I will know. Then I saw their purpose. For I did not know I was like an innocent lamb led to be sacrificed. They plotted an evil device against me, saying, \"Come, let us put wood in his bread, and destroy him root and branch from the land of the living, so his name might not be remembered any longer.\" But, O Lord, You who judge righteously, who tests minds and hearts, let me see Your vengeance on them, for I have revealed my righteous plea to You. Therefore thus says the Lord against the men of Anathoth, against those who seek my life, and who say, \"Do not prophesy in the name of the Lord, lest you die by our hands\"— \"Behold, I will visit them. The young men shall die by the sword, and their sons and daughters shall die by famine. There shall be no remnant of them, for I will bring calamities on the inhabitants of Anathoth in the year of their visitation.\" O Lord, You are righteous, that I may plead my case with You, to speak to You concerning judgments. Why does the way of the ungodly prosper, and all who deal treacherously flourish? You planted them, and they took root. They bear children and are fruitful. You are near in their mouth, but far from their mind. But You, O Lord, know me. You have proven my heart before You. Set them apart for the day of slaughter. How long will the land mourn and the grass of the field wither, because of the vices of those who dwell in it? The cattle and the birds are destroyed, because they said, \"God will not see our ways.\" \"Your feet run and grow weary. Gather together all the wild beasts of the field and let them come to devour her. Many shepherds destroyed My vineyard and defiled My portion. They turned My pleasant portion into an impassable desert. It was made a complete ruin.\" For thus says the Lord: \"Concerning all the evil neighbors who touch My inheritance, which I divided to My people Israel—behold, I shall draw them away from their land and will cast out Judah from their midst. Then it shall come to pass, after I cast them out, that I will return them and have mercy on them. I will settle them, each in his inheritance and each in his land.\""
+

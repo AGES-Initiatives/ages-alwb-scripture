@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.go.me.m11.d13_en_US_rsv 
+
+lemeMA.Gospel.title = "Matins Gospel. For the Hierarch."
+lemeMA.Gospel.version = bible_en_US_rsv.version.designation
+lemeMA.Gospel.book = bible_en_US_rsv.John
+lemeMA.Gospel.chapverse = "(10:1-9)"
+lemeMA.Gospel.text = "The Lord said to the Jews who had come to him, \"Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber; but he who enters by the door is the shepherd of the sheep. To him the gatekeeper opens; the sheep hear his voice, and he calls his own sheep by name and leads them out. When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice. A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers.\" This figure Jesus used with them, but they did not understand what he was saying to them. So Jesus again said to them, \"Truly, truly, I say to you, I am the door of the sheep. All who came before me are thieves and robbers; but the sheep did not heed them. I am the door; if any one enters by me, he will be saved, and will go in and out and find pasture.\""
+
+lemeLI.Gospel.title = "Liturgy Gospel. For the Hierarch."
+lemeLI.Gospel.version = bible_en_US_rsv.version.designation
+lemeLI.Gospel.book = bible_en_US_rsv.John
+lemeLI.Gospel.chapverse = "(10:9-16)"
+lemeLI.Gospel.text = "The Lord said, \"I am the door; if any one enters by me, he will be saved, and will go in and out and find pasture. The thief comes only to steal and kill and destroy; I came that they may have life, and have it abundantly. I am the good shepherd. The good shepherd lays down his life for the sheep. He who is a hireling and not a shepherd, whose own the sheep are not, sees the wolf coming and leaves the sheep and flees; and the wolf snatches them and scatters them. He flees because he is a hireling and cares nothing for the sheep. I am the good shepherd; I know my own and my own know me, as the Father knows me and I know the Father; and I lay down my life for the sheep. And I have other sheep, that are not of this fold; I must bring them also, and they will heed my voice. So there shall be one flock, one shepherd.\""

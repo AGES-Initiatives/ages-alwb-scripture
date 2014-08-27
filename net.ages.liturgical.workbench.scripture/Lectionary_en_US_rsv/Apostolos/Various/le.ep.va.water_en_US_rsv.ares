@@ -1,0 +1,7 @@
+A_Resource_Whose_Name = le.ep.va.water_en_US_rsv 
+
+levaSW.Epistle.title = "At Small Blessing of Water."
+levaSW.Epistle.version = bible_en_US_rsv.version.designation
+levaSW.Epistle.book = le.ep.me.m03.d25_en_US_rsv.lemeLI.Epistle.book
+levaSW.Epistle.chapverse = le.ep.me.m03.d25_en_US_rsv.lemeLI.Epistle.chapverse
+levaSW.Epistle.text = le.ep.me.m03.d25_en_US_rsv.lemeLI.Epistle.text

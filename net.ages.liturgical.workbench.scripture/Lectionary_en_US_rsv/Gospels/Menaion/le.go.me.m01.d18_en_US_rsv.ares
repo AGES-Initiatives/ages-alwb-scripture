@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.go.me.m01.d18_en_US_rsv 
+
+lemeMA.Gospel.title = "For the Saints."
+lemeMA.Gospel.version = le.go.me.m11.d13_en_US_rsv.lemeLI.Gospel.version
+lemeMA.Gospel.book = le.go.me.m11.d13_en_US_rsv.lemeLI.Gospel.book
+lemeMA.Gospel.chapverse = le.go.me.m11.d13_en_US_rsv.lemeLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m11.d13_en_US_rsv.lemeLI.Gospel.text
+
+lemeLI.Gospel.title = "For the Saints."
+lemeLI.Gospel.version = bible_en_US_rsv.version.designation
+lemeLI.Gospel.book = bible_en_US_rsv.Matthew
+lemeLI.Gospel.chapverse = "(5:14-19)"
+lemeLI.Gospel.text = "The Lord said to his disciples, \"You are the light of the world. A city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. Let your light so shine before men, that they may see your good works and give glory to your Father who is in heaven. Think not that I have come to abolish the law and the prophets; I have come not to abolish them but to fulfill them. For truly, I say to you, till heaven and earth pass away, not an iota, not a dot, will pass from the law until all is accomplished. Whoever then relaxes one of the least of these commandments and teaches men so, shall be called least in the kingdom of heaven; but he who does them and teaches them shall be called great in the kingdom of heaven.\""

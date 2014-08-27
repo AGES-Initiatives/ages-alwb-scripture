@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.mc.d029_en_US_rsv
+
+lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode4
+lemcLI.GospelAlleluia.version = bible_en_US_rsv.version.designation
+lemcLI.GospelAlleluiaVerse1.source = "98"
+lemcLI.GospelAlleluiaVerse1.text = "Moses and Aaron are among his priests."
+lemcLI.GospelAlleluiaVerse2.source = "33"
+lemcLI.GospelAlleluiaVerse2.text = "They call on the Lord and he hears them."
+
+lemcLI.Gospel.title = "The First Sunday in Lent"
+lemcLI.Gospel.version = bible_en_US_rsv.version.designation
+lemcLI.Gospel.book = bible_en_US_rsv.John
+lemcLI.Gospel.chapverse = "(1:43-51)"
+lemcLI.Gospel.text = "At that time, Jesus decided to go to Galilee. And he found Philip and said to him, \"Follow me.\" Now Philip was from Bethsaida, the city of Andrew and Peter. Philip found Nathanael, and he said to him, \"We have found him of whom Moses in the law and also the prophets wrote, Jesus of Nazareth, the son of Joseph.\" Nathanael said to him, \"Can anything good come out of Nazareth?\" Philip said to him, \"Come and see.\" Jesus saw Nathanael coming to him, and said of him, \"Behold, an Israelite indeed, in whom is no guile!\" Nathanael said to him, \"How do you know me?\" Jesus answered him, \"Before Philip called you, when you were under the fig tree, I saw you.\" Nathanael answered him, \"Rabbi, you are the son of God! You are the King of Israel!\" Jesus answered him, \"Because I said to you, I saw you under the fig tree, do you believe? You shall see greater things than these.\" And he said to him, \"Truly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending upon the Son of man.\""

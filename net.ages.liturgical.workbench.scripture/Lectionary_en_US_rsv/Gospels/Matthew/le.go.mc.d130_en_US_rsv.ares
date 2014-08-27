@@ -1,0 +1,7 @@
+A_Resource_Whose_Name = le.go.mc.d130_en_US_rsv
+
+lemcLI.Gospel.title = "Wednesday of the Second Week"
+lemcLI.Gospel.version = bible_en_US_rsv.version.designation
+lemcLI.Gospel.book = bible_en_US_rsv.Matthew
+lemcLI.Gospel.chapverse = "(7:21-23)"
+lemcLI.Gospel.text = "The Lord said, \"Not every one who says to me, 'Lord, Lord,' shall enter the kingdom of heaven, but he who does the will of my Father who is in heaven. On that day many will say to me, 'Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?' And then will I declare to them, 'I never knew you; depart from me, you evildoers.' \""

@@ -1,0 +1,33 @@
+A_Resource_Whose_Name = le.ep.mc.d069_en_US_rsv 
+
+
+lemcLI.Epistle.title = ""
+lemcLI.Epistle.version = bible_en_US_rsv.version.designation
+lemcLI.Epistle.book = bible_en_US_rsv.Corinthians1
+lemcLI.Epistle.chapverse = "(11:23-32)"
+lemcLI.Epistle.text = "Brethren, I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, and when he had given thanks, he broke it, and said, \"This is my body which is for you. Do this in remembrance of me.\" In the same way also the cup, after supper, saying, \"This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.\" For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes. Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of profaning the body and blood of the Lord. Let a man examine himself, and so eat of the bread and drink of the cup. For any one who eats and drinks without discerning the body eats and drinks judgment upon himself. That is why many of you are weak and ill, and some have died. But if we judged ourselves truly, we should not be judged. But when we are judged by the Lord, we are chastened so that we may not be condemned along with the world."
+
+lemcH1.Epistle.title = "HOLY AND GREAT FRIDAY, FIRST HOUR"
+lemcH1.Epistle.version = bible_en_US_rsv.version.designation
+lemcH1.Epistle.book = bible_en_US_rsv.Galatians
+lemcH1.Epistle.chapverse = "(6:14-18)"
+lemcH1.Epistle.text = "Brethren, far be it from me to glory except in the cross of our Lord Jesus Christ, by which the world has been crucified to me, and I to the world. For neither circumcision counts for anything, nor uncircumcision, but a new creation. Peace and mercy be upon all who walk by this rule, upon the Israel of God. Henceforth let no man trouble me; for I bear on my body the marks of Jesus. The grace of our Lord Jesus Christ be with your spirit, brethren. Amen"
+
+lemcH3.Epistle.title = "HOLY AND GREAT FRIDAY, THIRD HOUR"
+lemcH3.Epistle.version = bible_en_US_rsv.version.designation
+lemcH3.Epistle.book = bible_en_US_rsv.Romans
+lemcH3.Epistle.chapverse = "(5:6-10)"
+lemcH3.Epistle.text = "Brethren, we were still weak, at the right time Christ died for the ungodly. Why, one will hardly die for a righteous man—though perhaps for a good man one will dare even to die. But God shows his love for us in that while we were yet sinners Christ died for us. Since, therefore, we are now justified by his blood, much more shall we be saved by him from the wrath of God. For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life."
+
+lemcH6.Epistle.title = "HOLY AND GREAT FRIDAY, SIXTH HOUR"
+lemcH6.Epistle.version = bible_en_US_rsv.version.designation
+lemcH6.Epistle.book = le.ep.me.m03.d25_en_US_rsv.lemeLI.Epistle.book
+lemcH6.Epistle.chapverse = le.ep.me.m03.d25_en_US_rsv.lemeLI.Epistle.chapverse
+lemcH6.Epistle.text = le.ep.me.m03.d25_en_US_rsv.lemeLI.Epistle.text
+
+lemcH9.Epistle.title = "HOLY AND GREAT FRIDAY, NINTH HOUR"
+lemcH9.Epistle.version = bible_en_US_rsv.version.designation
+lemcH9.Epistle.book = bible_en_US_rsv.Hebrews
+lemcH9.Epistle.chapverse = "(10:19-31)"
+lemcH9.Epistle.text = "Brethren, since we have confidence to enter the sanctuary by the blood of Jesus, by the new and living way which he opened for us through the curtain, that is, through his flesh, and since we have a great priest over the house of God, let us draw near with a true heart in full assurance of faith, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water. Let us hold fast the confession of our hope without wavering, for he who promised is faithful; and let us consider how to stir up one another to love good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near. For if we sin deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins, but a fearful prospect of judgment, and a fury of fire which will consume the adversaries. A man who has violated the law of Moses dies without mercy at the testimony of two or three witnesses. How much worse punishment do you think will be deserved by the man who has spurned the Son of God, and profaned the blood of the covenant by which he was sanctified, and outraged the Spirit of grace? For we know him who said, \"Vengeance is mine, I will repay.\" And again, \"The Lord will judge his people.\" It is a fearful thing to fall into the hands of the living God."
+

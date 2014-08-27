@@ -1,0 +1,42 @@
+A_Resource_Whose_Name = le.pr.tr.d068_en_US_saas
+
+lemcVE.Prokeimenon1.mode = misc_en_US_public.Mode4
+lemcVE.Prokeimenon1.source = "Psalm 135."
+lemcVE.Prokeimenon1.text = ""
+
+lemcVE.Prokeimenon1Verse.source = "135"
+lemcVE.Prokeimenon1Verse.text = ""
+
+lemcVE.Reading1.book = bible_en_US_saas.Exodus
+lemcVE.Reading1.chapverse = ""
+lemcVE.Reading1.text = ""
+
+lemcVE.Prokeimenon2.mode = misc_en_US_public.Mode4
+lemcVE.Prokeimenon2.source = "Psalm 137."
+lemcVE.Prokeimenon2.text = ""
+
+lemcVE.Prokeimenon2Verse.source = "137"
+lemcVE.Prokeimenon2Verse.text = ""
+
+lemcVE.Reading2.book = bible_en_US_saas.Job
+lemcVE.Reading2.chapverse = ""
+lemcVE.Reading2.text = ""
+
+lemcTE.Prokeimenon1.mode = misc_en_US_public.Mode1
+lemcTE.Prokeimenon1.source = ""
+lemcTE.Prokeimenon1.text = "Let the Gentiles know Your name is the Lord."
+
+lemcTE.Prokeimenon1Verse.source = ""
+lemcTE.Prokeimenon1Verse.text = "O God, who can be likened to You?"
+
+lemcTE.Reading1.book = bible_en_US_saas.Jeremiah
+lemcTE.Reading1.version = bible_en_US_saas.version.designation
+lemcTE.Reading1.chapverse = "(11:17-12:5a. 9b-11a.14-15)"
+lemcTE.Reading1.text = "O Lord, teach me and I will know. Then I saw their purpose. For I did not know I was like an innocent lamb led to be sacrificed. They plotted an evil device against me, saying, \"Come, let us put wood in his bread, and destroy him root and branch from the land of the living, so his name might not be remembered any longer.\" But, O Lord, You who judge righteously, who tests minds and hearts, let me see Your vengeance on them, for I have revealed my righteous plea to You. Therefore thus says the Lord against the men of Anathoth, against those who seek my life, and who say, \"Do not prophesy in the name of the Lord, lest you die by our hands.\" - \"Behold, I will visit them. The young men shall die by the sword, and their sons and daughters shall die by famine. There shall be no remnant of them, for I will bring calamities on the inhabitants of Anathoth in the year of their visitation.\" O Lord, You are righteous, that I may plead my case with You, to speak to You concerning judgments. Why does the way of the ungodly prosper, and all who deal treacherously flourish? You planted them, and they took root. They bear children and are fruitful. You are near in their mouth, but far from their mind. But You, O Lord, know me. You have proven my heart before You. Set them apart for the day of slaughter. How long will the land mourn and the grass of the field wither, because of the vices of those who dwell in it? The cattle and the birds are destroyed, because they said, \"God will not see our ways.\" \"Your feet run and grow weary... Gather together all the wild beasts of the field and let them come to devour her. Many shepherds destroyed My vineyard and defiled My portion. They turned My pleasant portion into an impassable desert. It was made a complete ruin.\" For thus says the Lord: \"Concerning all the evil neighbors who touch My inheritance, which I divided to My people Israel—behold, I shall draw them away from their land and will cast out Judah from their midst. Then it shall come to pass, after I cast them out, that I will return them and have mercy on them. I will settle them each in his inheritance and each in his land.\" (SAAS)"
+
+lemcTE.Prokeimenon2.mode = misc_en_US_public.Mode6
+lemcTE.Prokeimenon2.source = ""
+lemcTE.Prokeimenon2.text = "Pray and return to the Lord Your God."
+
+lemcTE.Prokeimenon2Verse.source = ""
+lemcTE.Prokeimenon2Verse.text = "In Judah God is known."

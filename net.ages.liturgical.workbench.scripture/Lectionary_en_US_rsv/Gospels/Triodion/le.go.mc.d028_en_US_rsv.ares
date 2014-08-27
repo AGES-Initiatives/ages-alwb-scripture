@@ -1,0 +1,20 @@
+A_Resource_Whose_Name = le.go.mc.d028_en_US_rsv
+
+lemcCO.Gospel.title = "Gospel Reading at Compline on Friday"
+lemcCO.Gospel.version = bible_en_US_rsv.version.designation
+lemcCO.Gospel.book = bible_en_US_rsv.John
+lemcCO.Gospel.chapverse = "(15:1-7)"
+lemcCO.Gospel.text = "I am the true vine, and my Father is the vinedresser. Every branch of mine that bears no fruit, he takes away, and every branch that does bear fruit he prunes, that it may bear more fruit. You are already made clean by the word which I have spoken to you. Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me. I am the vine, you are the branches. He who abides in me, and I in him, he it is that bears much fruit, for apart from me you can do nothing. If a man does not abide in me, he is cast forth as a branch and withers; and the branches are gathered, thrown into the fire and burned. If you abide in me, and my words abide in you, ask whatever you will, and it shall be done for you."
+
+lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode4
+lemcLI.GospelAlleluia.version = 
+lemcLI.GospelAlleluiaVerse1.source = "91"
+lemcLI.GospelAlleluiaVerse1.text = "The righteous shall flourish like a palm tree, and shall grow like a cedar in Lebanon."
+lemcLI.GospelAlleluiaVerse2.source = "91"
+lemcLI.GospelAlleluiaVerse2.text = "Those who are planted in the house of the Lord shall flourish in the courts of our God."
+
+lemcLI.Gospel.title = ""
+lemcLI.Gospel.version = bible_en_US_rsv.version.designation
+lemcLI.Gospel.book = bible_en_US_rsv.Mark
+lemcLI.Gospel.chapverse = "(2:23-28; 3:1-5)"
+lemcLI.Gospel.text = "At that time, Jesus was going through the grainfields; and as they made their way his disciples began to pluck heads of grain. And the Pharisees said to him, \"Look, why are they doing what is not lawful on the sabbath?\" And he said to them, \"Have you never read what David did, when he was in need and was hungry, he and those who were with him: how he entered the house of God, when Abiathar was high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him?\" And he said to them, \"The sabbath was made for man, not man for the sabbath; so the Son of man is lord even of the sabbath.\" Again he entered the synagogue, and a man was there who had a withered hand. And they watched him, to see whether he would heal him on the sabbath, so that they might accuse him. And he said to the man who had the withered hand, \"Come here.\" And he said to them, \"Is it lawful on the sabbath to do good or to do harm, to save life or to kill?\" But they were silent. And he looked around at them with anger, grieved at their hardness of heart, and said to the man, \"Stretch it out,\" and his hand was restored."

@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.va.baptism_en_US_rsv
+
+levaBAP.GospelAlleluia.mode = misc_en_US_public.Mode6
+levaBAP.GospelAlleluia.version = bible_en_US_rsv.version.designation
+levaBAP.GospelAlleluiaVerse1.source = "44"
+levaBAP.GospelAlleluiaVerse1.text = "My heart overflows with a good word."
+levaBAP.GospelAlleluiaVerse2.source = "44"
+levaBAP.GospelAlleluiaVerse2.text = "Grace is poured upon your lips."
+
+levaBAP.Gospel.title = ""
+levaBAP.Gospel.version = bible_en_US_rsv.version.designation
+levaBAP.Gospel.book = bible_en_US_rsv.Matthew
+levaBAP.Gospel.chapverse = "(28:16-20)"
+levaBAP.Gospel.text = "At that time, the eleven disciples went to Galilee, to the mountain to which Jesus had directed them. And when they saw him, they worshipped him; but some doubted. And Jesus came and said to them, \"All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded to you; and lo, I am with you always, to the close of the age. Amen.\""

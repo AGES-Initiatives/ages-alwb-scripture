@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.mc.d043_en_US_rsv
+
+lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode6
+lemcLI.GospelAlleluia.version = bible_en_US_rsv.version.designation
+lemcLI.GospelAlleluiaVerse1.source = "73"
+lemcLI.GospelAlleluiaVerse1.text = "Remember your congregation which you have acquired from the beginning."
+lemcLI.GospelAlleluiaVerse2.source = "73"
+lemcLI.GospelAlleluiaVerse2.text = "God is our eternal king; he has worked salvation in the midst of the earth."
+
+lemcLI.Gospel.title = "The Third Sunday in Lent"
+lemcLI.Gospel.version = bible_en_US_rsv.version.designation
+lemcLI.Gospel.book = bible_en_US_rsv.Mark
+lemcLI.Gospel.chapverse = "(Mark 8:34-38; 9:1)"
+lemcLI.Gospel.text = "The Lord said: \"If anyone wishes to come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it; and whoever loses his life for my sake and the gospel's will save it. For what does it profit a man, to gain the whole world and forfeit his life? For what can a man give in return for his life? For whoever is ashamed of me and my words in this adulterous and sinful generation, of him will the Son of man also be ashamed, when he comes in the glory of his Father with the holy angels.\" And he said to them, \"Truly, I say to you, there are some standing here who will not taste death before they see the kingdom of God come with power.\""

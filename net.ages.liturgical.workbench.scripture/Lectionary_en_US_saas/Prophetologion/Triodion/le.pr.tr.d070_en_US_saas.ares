@@ -1,0 +1,46 @@
+A_Resource_Whose_Name = le.pr.tr.d070_en_US_saas
+
+lemcVE.Prokeimenon1.mode = misc_en_US_public.Mode4
+lemcVE.Prokeimenon1.source = ""
+lemcVE.Prokeimenon1.text = "They divided my garments among themselves, and for my clothing they cast lots."
+
+lemcVE.Prokeimenon1Verse.source = ""
+lemcVE.Prokeimenon1Verse.text = "O God, my God, hear me; why have You forsaken me?"
+
+lemcVE.Reading1.version = bible_en_US_saas.version.designation
+lemcVE.Reading1.book = bible_en_US_saas.Exodus
+lemcVE.Reading1.chapverse = "(Ex. 33:11-23)"
+lemcVE.Reading1.text = "Thus the Lord spoke to Moses face to face, as a man speaks to his friend. Then he would return to the camp, but his servant Joshua the son of Nun, a young man, did not depart from the tabernacle. Then Moses said to the Lord, \"Behold, You say to me, 'Bring up this people.' But You have not let me know whom You will send with me. Yet You have said, 'I know you above all, and you have also found grace in My sight.' Now therefore, I pray, if I have found grace in Your sight, reveal Yourself to me, that I may see You clearly and find grace in Your sight, and know this great nations is Your people.\" So He said, \"I Myself will go before you and give you rest.\" Then he said to Him, \"If You Yourself do not go up with us, do not bring us up from here. For how then will it be know that Your people and I found grace in Your sight, except You go with us? So both I and Your people shall be glorified beyond all the nations on the earth.\" The Lord then said to Moses, \"I will also do this thing you have spoken; for you have found grace in My sight, and I  know you above all.\" Moses replied, \"Reveal Yourself to me.\" Then God said, \"I will pass before you in My glory, and I will proclaim My name, the Lord, before you. I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.\" But He said, \"You cannot see My face; for no man can see My face and live.\" Moreover, the Lord said, \"Here is a place by Me; you shall stand on the rock. So it shall be, while My glory passes by, that I will put you in the cleft of the rock, and will cover you with My hand while I pass by. Then I will take away My hand, and you shall see My back; but My face shall not be seen.\""
+
+lemcVE.Prokeimenon2.mode = misc_en_US_public.Mode4
+lemcVE.Prokeimenon2.source = ""
+lemcVE.Prokeimenon2.text = "O Lord, judge those who injure me."
+
+lemcVE.Prokeimenon2Verse.source = ""
+lemcVE.Prokeimenon2Verse.text = "They repaid me evil for good."
+
+lemcVE.Reading2.version = bible_en_US_saas.version.designation
+lemcVE.Reading2.book = bible_en_US_saas.Job
+lemcVE.Reading2.chapverse = "(Job 42:12-17)"
+lemcVE.Reading2.text = "Now the Lord blessed the latter days of Job more than his beginning. He had fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, and one thousand donkeys. He also had seven sons and three daughters. And he named the first, Day, the second, Cassia, and the third, Amalthia's Horn. In all the land, there were found no women so beautiful as the daughters of Job, and their father gave them an inheritance among their brothers. After this affliction, Job lived one hundred and seventy years, and all the years he lived were two hundred forty-eight; and Job saw his children and grandchildren for four generations. So Job died, old and full of days. It is written that he will rise with those whom the Lord resurrects. This man is described in the Syriac book as living in the land of Ausitis, on the border of Edom and Arabia. Previously his name was Jobab. He took an Arabian wife and begot a son named Ennon. But he himself was the son of his father Zare, one of the sons of Esau, and of his mother Bosorra. Thus, he was the fifth son from Abraham. "
+
+lemcVE.Reading3.version = bible_en_US_saas.version.designation
+lemcVE.Reading3.book = bible_en_US_saas.Isaiah
+lemcVE.Reading3.chapverse = "(Is. 52:14 – 54:1)"
+lemcVE.Reading3.text = "Thus says the Lord: Behold, My Servant shall have wisdom, and He shall be exalted and glorified exceedingly. Just as many shall be astonished at You, so Your form and glory shall be dishonored by men. Thus many nations shall marvel at Him, and kings shall shut their mouth, because they to whom no report was brought concerning Him shall see; and they who did not hear shall understand. O Lord, who has believed our report, and to whom was the arm of the Lord revealed? We proclaimed His presence as a Child, as a Root in the thirsty land. He had no form or glory, and we saw Him; and He had no form or beauty. But in comparison to all men, His form was lacking in honor. He was a man in suffering and knew how to bear sickness. His face was turned away, and He was dishonored and not esteemed. He bears our sins and suffers for us, yet we considered Him to be in pain, suffering, and ill-treatment. But He was wounded because of our lawlessness, and became sick because of our sins. The chastisement of our peace was upon Him, and by His bruise we are healed. All we like sheep have gone astray. Man has gone astray in this way, and the Lord delivered Him over for our sins. Although He was ill-treated, He opened not His mouth. He was led as a sheep to the slaughter, and as a lamb is silent before his shearers, so He open not His mouth. In His humiliation His judgment was taken away, and who will declare His generation? For His life is taken from the earth, and because of the lawlessness of My people He was led to death. I will appoint evil men for His burial and rich men for His death, because He committed no lawlessness, nor was deceit found in His mouth. The Lord wishes  to cleanse Him of His wound, and if You give an offering for sin, Your soul shall see a long-lived seed. The Lord wishes to take away the pain of His soul, to show Him light, to form Him with understanding, and to pronounce righteous the Righteous One who serves many well; and He shall bear their sins. Therefore He shall inherit many, and will divide the spoil with the strong, because His soul was delivered over to death. He was considered among the lawless, and He bore the sins of many, and was delivered over because of their sins. \"Be glad, O barren woman who does not bear; break forth and cry out, you who are not in travail, for more are the children of the desolate than the children of the married woman.\""
+
+lemcTE.Troparion.mode = tr.d070_en_US_public.trTE.Troparion.mode
+lemcTE.Troparion.text = tr.d070_en_US_public.trTE.Troparion.text
+lemcTE.Troparion2.text = "" //last line in lash
+
+lemcTE.Prokeimenon1.mode = misc_en_US_public.Mode4
+lemcTE.Prokeimenon1.source = ""
+lemcTE.Prokeimenon1.text = "Arise, O Lord; help us, and redeem us for Your name's glory."
+
+lemcTE.Prokeimenon1Verse.source = ""
+lemcTE.Prokeimenon1Verse.text = "O God, we heard with our ears; our fathers proclaimed it to us."
+
+lemcTE.Reading1.version = bible_en_US_saas.version.designation
+lemcTE.Reading1.book = bible_en_US_saas.Ezekiel
+lemcTE.Reading1.chapverse = "(Ez. 37:1-14)"
+lemcTE.Reading1.text = "Again the hand of the Lord came upon me, and brought me by the Spirit of the Lord, and set me in the midst of the plain, which was full of human bones. So He led me round about them, and behold, there was a great multitude of bones on the face of the plain. They were very dry. Then He said to me, \"Son of man, can these bones live?\" So I answered, \"O Lord, You know this.\" Then He said to me, \"Prophesy to these bones and say to them, 'O dry bones, hear the word of the of the Lord. Thus says the Lord to these bones: \"Behold, I will bring the Spirit of life upon you. I will put muscles on you and bring flesh upon you. I will cover you with skin and put my Spirit into you. Then you shall live and know that I am the Lord.\"'\" So I prophesied as He commanded me, and it came to pass while I prophesied that, behold, there was a shaking, and the bones Came together, each one to its joint. So I looked, and behold, muscle and flesh grew upon them, and skin covered them over; but no breath was in them. Then He said to me, \"Prophesy to the wind, prophesy, son of man, and say to the wind, 'Thus says the Lord: \"Come from the four winds and breathe upon these dead men; and let them live.\"'\" So I prophesied as He commanded me, and the Spirit entered into them; and they lived and stood upon their feet, an exceedingly great assembly. Again the Lord spoke to me, saying, \"Son of man, these bones are the whole house of Israel. They say, 'Our bones are dry, our hope has perished, and we are lost.' Therefore prophesy and say to them, 'Thus says the Lord; \"Behold, I will open your tombs, bring you up from your graves, and bring you into the land of Israel. Then you will know that I am the Lord, when I open your tombs to lead you, My people, up from their graves. I will put My Spirit in you, and you will live; and I will place you in your own land. Then you will know that I am the Lord, I have spoken, and I will do it,\" says the Lord.'\""

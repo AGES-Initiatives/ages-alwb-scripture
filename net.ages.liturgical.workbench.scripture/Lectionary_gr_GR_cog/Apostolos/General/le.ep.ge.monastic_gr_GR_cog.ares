@@ -1,0 +1,8 @@
+A_Resource_Whose_Name = le.ep.ge.monastic_gr_GR_cog 
+
+
+legeLI.Epistle.title = "Εἰς Ὅσιον"
+legeLI.Epistle.version = 
+legeLI.Epistle.book = bible_gr_GR_cog.Galatians
+legeLI.Epistle.chapverse = "(5:22-26; 6:1-2)"
+legeLI.Epistle.text = le.ep.mc.d308_gr_GR_cog.lemcLI.Epistle.text
