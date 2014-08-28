@@ -5579,13 +5579,17 @@ psa131.v18.text = "His enemies I shall clothe with shame; Upon him shall My sanc
 
 psa132.title = "Psalm 132 (133)."
 psa132.version = bible_en_US_saas.version.designation
-psa132.text = "Behold now, what is so good or so pleasant As for brothers to dwell together in unity? It is like fragrant oil running down upon the beard, The beard of Aaron, Running down upon the border of his garment; It is like the dew of Hermon, running down upon the mountains of Zion; for there the Lord commanded the blessing and life forever."
+psa132.text = "Behold now, what is so good or so pleasant as for brothers to dwell together in unity? It is like fragrant oil running down upon the beard, The beard of Aaron, Running down upon the border of his garment; It is like the dew of Hermon, running down upon the mountains of Zion; for there the Lord commanded the blessing and life forever."
 psa132.v1.number = "(132:1)"
 psa132.v1.text = "Behold now, what is so good or so pleasant As for brothers to dwell together in unity?"
 psa132.v2.number = "(132:2)"
 psa132.v2.text = "It is like fragrant oil running down upon the beard, The beard of Aaron, Running down upon the border of his garment."
 psa132.v3.number = "(132:3)"
 psa132.v3.text = "It is like the dew of Hermon, running down upon the mountains of Zion; for there the Lord commanded the blessing and life forever."
+psa132.v3a.number = "(132:3a)"
+psa132.v3a.text = "It is like the dew of Hermon, running down upon the mountains of Zion."
+psa132.v3b.number = "(132:3b)"
+psa132.v3b.text = "For there the Lord commanded the blessing and life forever."
 
 psa133.title = "Psalm 133 (134)."
 psa133.version = bible_en_US_saas.version.designation
