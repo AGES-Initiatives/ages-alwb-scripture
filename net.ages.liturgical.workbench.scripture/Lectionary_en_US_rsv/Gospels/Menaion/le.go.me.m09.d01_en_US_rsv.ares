@@ -1,5 +1,11 @@
 A_Resource_Whose_Name = le.go.me.m09.d01_en_US_rsv 
 
+lemeMA.Gospel.title = "For the Saint."
+lemeMA.Gospel.version = bible_en_US_rsv.version.designation
+lemeMA.Gospel.book = le.go.me.m12.d05_en_US_rsv.lemeLI.Gospel.book
+lemeMA.Gospel.chapverse = le.go.me.m12.d05_en_US_rsv.lemeLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m12.d05_en_US_rsv.lemeLI.Gospel.text
+
 lemeLI.Gospel.title = "For the Indiction."
 lemeLI.Gospel.version = bible_en_US_rsv.version.designation
 lemeLI.Gospel.book = bible_en_US_rsv.Luke
