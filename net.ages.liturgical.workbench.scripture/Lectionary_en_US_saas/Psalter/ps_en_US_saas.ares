@@ -6191,7 +6191,7 @@ psa150.v6.number = "(150:6)"
 psa150.v6.text = "Let everything that breathes praise the Lord. Alleluia."
 psa150.v6a.number = "(150:6a)"
 psa150.v6a.text = "Let everything that breathes praise the Lord."
-pas150.v6aalt.text = "Let everything that breathes praise the Lord."
+psa150.v6aalt.text = "Let everything that breathes praise the Lord."
 psa150.v6b.number = "(150:6b)"
 psa150.v6b.text = "Alleluia."
 
