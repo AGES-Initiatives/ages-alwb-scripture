@@ -36,14 +36,6 @@ lemcMA.Gospel.book =
 lemcMA.Gospel.chapverse = "()"
 lemcMA.Gospel.text = ""
 
-lemcLI.GospelAlleluia.mode = 
-lemcLI.GospelAlleluia.version = 
-lemcLI.GospelAlleluiaVerse1.source = ""
-lemcLI.GospelAlleluiaVerse1.text = ""
-lemcLI.GospelAlleluiaVerse2.source = ""
-lemcLI.GospelAlleluiaVerse2.text = ""
-lemcLI.GospelAlleluiaVerse3.source = ""
-lemcLI.GospelAlleluiaVerse3.text = ""
 
 lemcLI.Gospel.title = ""
 lemcLI.Gospel.version = 
