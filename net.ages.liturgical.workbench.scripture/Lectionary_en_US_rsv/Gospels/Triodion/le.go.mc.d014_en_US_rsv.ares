@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d014_en_US_rsv 
 
-lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode6
-lemcLI.GospelAlleluia.version = bible_en_US_rsv.version.designation
-lemcLI.GospelAlleluiaVerse1.source = "64"
-lemcLI.GospelAlleluiaVerse1.text = "Blessed, O Lord, are they whom you have chosen and taken to yourself."
-lemcLI.GospelAlleluiaVerse2.source = "101"
-lemcLI.GospelAlleluiaVerse2.text = "Their remembrance will endure from generation to generation."
 
 lemcLI.Gospel.title = "Saturday of Souls"
 lemcLI.Gospel.version = bible_en_US_rsv.version.designation

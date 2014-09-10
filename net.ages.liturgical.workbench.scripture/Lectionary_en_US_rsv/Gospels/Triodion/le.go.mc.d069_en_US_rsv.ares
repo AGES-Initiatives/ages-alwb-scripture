@@ -1,13 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d069_en_US_rsv
 
-lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode6
-lemcLI.GospelAlleluia.version = bible_en_US_rsv.version.designation
-lemcLI.GospelAlleluiaVerse1.source = "40"
-lemcLI.GospelAlleluiaVerse1.text = "Blessed is he who considers the poor and the needy."
-lemcLI.GospelAlleluiaVerse2.source = "40"
-lemcLI.GospelAlleluiaVerse2.text = "My enemies have spoken evil against me, saying: \"When will he die and his name perish?\""
-lemcLI.GospelAlleluiaVerse3.source = "40"
-lemcLI.GospelAlleluiaVerse3.text = "He who ate my bread has lifted up his heel against me."
 
 lemcLI.Gospel.title = ""
 lemcLI.Gospel.version = bible_en_US_rsv.version.designation

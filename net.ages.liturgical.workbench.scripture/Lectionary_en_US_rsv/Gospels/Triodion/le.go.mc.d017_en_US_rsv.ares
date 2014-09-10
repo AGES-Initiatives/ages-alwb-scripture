@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d017_en_US_rsv
 
-lemcLI.GospelAlleluia.mode = 
-lemcLI.GospelAlleluia.version = 
-lemcLI.GospelAlleluiaVerse1.source = ""
-lemcLI.GospelAlleluiaVerse1.text = ""
-lemcLI.GospelAlleluiaVerse2.source = ""
-lemcLI.GospelAlleluiaVerse2.text = ""
 
 lemcLI.Gospel.title = "Cheesefare Tuesday"
 lemcLI.Gospel.version = bible_en_US_rsv.version.designation

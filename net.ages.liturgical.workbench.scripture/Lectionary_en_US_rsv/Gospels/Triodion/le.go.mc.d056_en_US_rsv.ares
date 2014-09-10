@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d056_en_US_rsv
 
-lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode8
-lemcLI.GospelAlleluia.version = bible_en_US_rsv.version.designation
-lemcLI.GospelAlleluiaVerse1.source = "131"
-lemcLI.GospelAlleluiaVerse1.text = "Arise, O Lord, into your rest."
-lemcLI.GospelAlleluiaVerse2.source = "131"
-lemcLI.GospelAlleluiaVerse2.text = "O Lord, remember David and all his meekness."
 
 lemcLI.Gospel.title = "Saturday of the Fifth Week of Lent"
 lemcLI.Gospel.version = bible_en_US_rsv.version.designation
