@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d043_en_US_rsv
 
-lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode6
-lemcLI.GospelAlleluia.version = bible_en_US_rsv.version.designation
-lemcLI.GospelAlleluiaVerse1.source = "73"
-lemcLI.GospelAlleluiaVerse1.text = "Remember your congregation which you have acquired from the beginning."
-lemcLI.GospelAlleluiaVerse2.source = "73"
-lemcLI.GospelAlleluiaVerse2.text = "God is our eternal king; he has worked salvation in the midst of the earth."
 
 lemcLI.Gospel.title = "The Third Sunday in Lent"
 lemcLI.Gospel.version = bible_en_US_rsv.version.designation

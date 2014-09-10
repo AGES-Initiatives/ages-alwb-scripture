@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d029_en_US_rsv
 
-lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode4
-lemcLI.GospelAlleluia.version = bible_en_US_rsv.version.designation
-lemcLI.GospelAlleluiaVerse1.source = "98"
-lemcLI.GospelAlleluiaVerse1.text = "Moses and Aaron are among his priests."
-lemcLI.GospelAlleluiaVerse2.source = "33"
-lemcLI.GospelAlleluiaVerse2.text = "They call on the Lord and he hears them."
 
 lemcLI.Gospel.title = "The First Sunday in Lent"
 lemcLI.Gospel.version = bible_en_US_rsv.version.designation

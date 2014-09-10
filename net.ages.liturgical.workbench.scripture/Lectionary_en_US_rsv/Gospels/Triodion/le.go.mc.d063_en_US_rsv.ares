@@ -1,11 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d063_en_US_rsv
 
-lemcLI.GospelAlleluia.mode = misc_en_US_public.Mode5
-lemcLI.GospelAlleluia.version = bible_en_US_rsv.version.designation
-lemcLI.GospelAlleluiaVerse1.source = "92"
-lemcLI.GospelAlleluiaVerse1.text = "The Lord reigns; he has clothed himself in honor."
-lemcLI.GospelAlleluiaVerse2.source = "92"
-lemcLI.GospelAlleluiaVerse2.text = "For he has established the world, which shall not be moved."
 
 lemcLI.Gospel.title = "Saturday of Lazarus"
 lemcLI.Gospel.version = bible_en_US_rsv.version.designation
