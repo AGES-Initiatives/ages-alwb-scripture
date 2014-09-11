@@ -1,12 +1,5 @@
 A_Resource_Whose_Name = le.go.va.wedding_en_US_rsv
 
-levaWED.GospelAlleluia.mode = misc_en_US_public.Mode5
-levaWED.GospelAlleluia.version = bible_en_US_rsv.version.designation
-levaWED.GospelAlleluiaVerse1.source = "11"
-levaWED.GospelAlleluiaVerse1.text = "O Lord, You shall keep us and You shall preserve us."
-levaWED.GospelAlleluiaVerse2.source = "11"
-levaWED.GospelAlleluiaVerse2.text = "Save me, O Lord, for the godly man has failed."
-
 levaWED.Gospel.title = ""
 levaWED.Gospel.version = bible_en_US_rsv.version.designation
 levaWED.Gospel.book = bible_en_US_rsv.John

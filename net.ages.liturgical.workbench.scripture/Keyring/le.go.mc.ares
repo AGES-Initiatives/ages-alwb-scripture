@@ -1,14 +1,5 @@
 A_Resource_Whose_Name = le.go.mc
 
-lemcVE.GospelAlleluia.mode = 
-lemcVE.GospelAlleluia.version = 
-lemcVE.GospelAlleluiaVerse1.source = ""
-lemcVE.GospelAlleluiaVerse1.text = ""
-lemcVE.GospelAlleluiaVerse2.source = ""
-lemcVE.GospelAlleluiaVerse2.text = ""
-lemcVE.GospelAlleluiaVerse3.source = ""
-lemcVE.GospelAlleluiaVerse3.text = ""
-
 lemcVE.Gospel.title = ""
 lemcVE.Gospel.version = 
 lemcVE.Gospel.book = 
@@ -21,21 +12,11 @@ lemcCO.Gospel.book =
 lemcCO.Gospel.chapverse = "()"
 lemcCO.Gospel.text = ""
 
-lemcMA.GospelAlleluia.mode = 
-lemcMA.GospelAlleluia.version = 
-lemcMA.GospelAlleluiaVerse1.source = ""
-lemcMA.GospelAlleluiaVerse1.text = ""
-lemcMA.GospelAlleluiaVerse2.source = ""
-lemcMA.GospelAlleluiaVerse2.text = ""
-lemcMA.GospelAlleluiaVerse3.source = ""
-lemcMA.GospelAlleluiaVerse3.text = ""
-
 lemcMA.Gospel.title = ""
 lemcMA.Gospel.version = 
 lemcMA.Gospel.book = 
 lemcMA.Gospel.chapverse = "()"
 lemcMA.Gospel.text = ""
-
 
 lemcLI.Gospel.title = ""
 lemcLI.Gospel.version = 

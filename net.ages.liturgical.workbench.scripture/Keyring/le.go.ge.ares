@@ -6,13 +6,6 @@ legeMA.Gospel.book =
 legeMA.Gospel.chapverse = "()"
 legeMA.Gospel.text = ""
 
-legeLI.GospelAlleluia.mode = 
-legeLI.GospelAlleluia.version = 
-legeLI.GospelAlleluiaVerse1.source = ""
-legeLI.GospelAlleluiaVerse1.text = ""
-legeLI.GospelAlleluiaVerse2.source = ""
-legeLI.GospelAlleluiaVerse2.text = ""
-
 legeLI.Gospel.title = ""
 legeLI.Gospel.version = 
 legeLI.Gospel.book = 

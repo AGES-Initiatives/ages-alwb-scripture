@@ -1,13 +1,5 @@
 A_Resource_Whose_Name = le.ep.mc 
 
-//lemcLI.EpistleProkeimenon.title = ""
-lemcLI.EpistleProkeimenon.version = 
-lemcLI.EpistleProkeimenon.mode = 
-lemcLI.EpistleProkeimenon.source = ""
-lemcLI.EpistleProkeimenon.text = ""
-lemcLI.EpistleProkeimenonVerse.source = ""
-lemcLI.EpistleProkeimenonVerse.text = ""
-
 lemcLI.Epistle.title = ""
 lemcLI.Epistle.version = 
 lemcLI.Epistle.book = 
