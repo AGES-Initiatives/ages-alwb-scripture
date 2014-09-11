@@ -110,12 +110,6 @@ lemcTE.Troparion.mode =
 lemcTE.Troparion.text = ""
 lemcTE.Troparion2.text = "" //last line in lash
 
-lemcTE.Prokeimenon1.version = 
-lemcTE.Prokeimenon1.mode = 
-lemcTE.Prokeimenon1.source = ""
-lemcTE.Prokeimenon1.text = ""
-lemcTE.Prokeimenon1Verse.source = ""
-lemcTE.Prokeimenon1Verse.text = ""
 
 lemcTE.Reading1.title = ""
 lemcTE.Reading1.version = 
@@ -123,12 +117,6 @@ lemcTE.Reading1.book =
 lemcTE.Reading1.chapverse = ""
 lemcTE.Reading1.text = ""
 
-lemcTE.Prokeimenon2.version = 
-lemcTE.Prokeimenon2.mode = 
-lemcTE.Prokeimenon2.source = ""
-lemcTE.Prokeimenon2.text = ""
-lemcTE.Prokeimenon2Verse.source = ""
-lemcTE.Prokeimenon2Verse.text = ""
 
 // Great Hours
 lemcH1.Prokeimenon.version = 
