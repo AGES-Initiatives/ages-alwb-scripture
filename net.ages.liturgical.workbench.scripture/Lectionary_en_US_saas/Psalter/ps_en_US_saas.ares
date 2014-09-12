@@ -23,7 +23,6 @@ psa1.v5.text = "Therefore the ungodly shall not rise in the judgment, nor sinner
 psa1.v6.number = "(1:6)"
 psa1.v6.text = "For the Lord knows the way of the righteous, but the way of the ungodly shall perish."
 
-
 psa2.title = "Psalm 2."
 psa2.version = bible_en_US_saas.version.designation
 psa2.text = "Why do the nations rage, and the people meditate on vain things? The kings of the earth set themselves, and the rulers gather together Against the Lord and against His anointed, saying, \"Let us break their bands, and cast away their yokes from us.\" He who sits in the heavens shall laugh at them; the Lord shall mock them. Then shall He speak to them in His wrath and trouble them in His anger, \"But I was established as King by Him overHis holy hill of Zion, Declaring the Lord's decree. The Lord said to Me, 'You are My Son, todayI have begotten You; ask of Me, and I will give You The nations for Your inheritance and the ends of the earth for Your possession. You shall shepherd them with an iron staff; You shall shatter them like a potter's vessel.'\" And now, O kings, understand; be instructed, all you judges of the earth. Serve the Lord with fear and rejoice in Him with trembling. Lay hold of His instruction, lest the Lord be angry, and you perish from the righteous way when His fury shall be quickly kindled. Blessed are all who trust in Him."
@@ -51,7 +50,6 @@ psa2.v11.number = "(2:11)"
 psa2.v11.text = "Serve the Lord with fear and rejoice in Him with trembling."
 psa2.v12.number = "(2:12)"
 psa2.v12.text = "Lay hold of His instruction, lest the Lord be angry, and you perish from the righteous way when His fury shall be quickly kindled. Blessed are all who trust in Him."
-
 
 psa3.title = "Psalm 3."
 psa3.version = bible_en_US_saas.version.designation
@@ -1280,6 +1278,8 @@ psa35.v10.text = "For with You is the fountain of life; in Your light we shall s
 psa35.v10alt.text = "For with You is the fountain of life; O Lord, in Your light we shall see light."
 psa35.v11.number = "(35:11)"
 psa35.v11.text = "Extend Your mercy to those who know You, and Your righteousness to the upright in heart."
+psa35.v11a.number = "(35:11a)"
+psa35.v11a.text = "Extend Your mercy to those who know You."
 psa35.v12.number = "(35:12)"
 psa35.v12.text = "Let not the foot of arrogance come against me, and may the hand of sinners not shake me."
 psa35.v13.number = "(35:13)"
@@ -5950,6 +5950,7 @@ psa142.v9.number = "(142:9)"
 psa142.v9.text = "Deliver me from my enemies, O Lord, for to You I flee for refuge."
 psa142.v10.number = "(142:10)"
 psa142.v10.text = "Teach me to do Your will, for You are my God; Your good Spirit shall guide me in the land of uprightness."
+psa142.v10alt.text = "O Lord, to You I flee for refuge. Teach me to do Your will, for You are my God."
 psa142.v10a.number = "(142:10a)"
 psa142.v10a.text = "Teach me to do Your will, for You are my God."
 psa142.v10b.number = "(142:10b)"
