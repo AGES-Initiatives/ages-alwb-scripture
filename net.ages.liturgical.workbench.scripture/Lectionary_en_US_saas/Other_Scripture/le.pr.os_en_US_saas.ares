@@ -26,7 +26,6 @@ leosCO.Key0319.text = "Wonderful Councilor."
 leosCO.Key0320.text = "Mighty God, Master, Prince of Peace."
 leosCO.Key0321.text = "Father of the age to come."
 
-
 leosMA.LentAlleluia.title = ""
 leosMA.LentAlleluia.version = bible_en_US_saas.version.designation
 leosMA.LentAlleluia.book = bible_en_US_saas.Isaiah
@@ -35,6 +34,12 @@ leosMA.LentAlleluiaVerse1.text = "My spirit rises early in the morning to You, O
 leosMA.LentAlleluiaVerse2.text = "Learn righteousness, you who dwell on the earth."
 leosMA.LentAlleluiaVerse3.text = "Jealousy will seize an untaught people; and now fire will devour the adversaries."
 leosMA.LentAlleluiaVerse4.text = "Bring more evils on them, O Lord, bring more evils on them, on the glorious of the earth."
+
+leosMA.GreatDoxology.v09.title = ""
+leosMA.GreatDoxology.v09.version = bible_en_US_saas.version.designation
+leosMA.GreatDoxology.v09.book = bible_en_US_saas.Daniel
+leosMA.GreatDoxology.v09.chapverse = "(3:26)"
+leosMA.GreatDoxology.v09.text = "Blessed are You and praiseworthy, O Lord, the God of our fathers, and praised and glorified is Your name unto the ages. Amen."
 
 leosLI.pe.d113.EpistleProkeimenon.title = "The Prayer of Azariah."
 leosLI.pe.d113.EpistleProkeimenon.version = bible_en_US_saas.version.designation
