@@ -5619,6 +5619,7 @@ psa133.v1b.number = "(133:1b)"
 psa133.v1b.text = "Who stand in the house of the Lord, in the courts of the house of our God."
 psa133.v2.number = "(133:2)"
 psa133.v2.text = "In the nights, lift up your hands to the holy of holies and bless the Lord."
+psa133.v2alt.text = "Lift up your hands to the holy of holies and bless the Lord."
 psa133.v3.number = "(133:3)"
 psa133.v3.text = "May the Lord bless you from Zion, He who made heaven and earth."
 
