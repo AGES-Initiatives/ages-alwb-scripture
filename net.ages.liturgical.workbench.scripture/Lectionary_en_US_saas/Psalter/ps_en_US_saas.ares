@@ -22,6 +22,7 @@ psa1.v5.number = "(1:5)"
 psa1.v5.text = "Therefore the ungodly shall not rise in the judgment, nor sinners in the counsel of the righteous."
 psa1.v6.number = "(1:6)"
 psa1.v6.text = "For the Lord knows the way of the righteous, but the way of the ungodly shall perish."
+psa1.v6alt.text = "The Lord knows the way of the righteous, but the way of the ungodly shall perish."
 
 psa2.title = "Psalm 2."
 psa2.version = bible_en_US_saas.version.designation
