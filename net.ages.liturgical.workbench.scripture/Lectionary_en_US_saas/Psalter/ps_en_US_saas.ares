@@ -977,6 +977,9 @@ psa27.v8.text = "The Lord is the strength of His people, and the protector of th
 psa27.v9.number = "(27:9)"
 psa27.v9.text = "Save Your people, and bless Your inheritance; and shepherd them, and raise them up forever."
 psa27.v9alt.text = "O Lord, save Your people, and bless Your inheritance; and shepherd them, and raise them up forever."
+psa27.v9aalt.text = "O God, save Your people, and bless Your inheritance."
+psa27.v9b.number = "(27:9)"
+psa27.v9b.text = "And shepherd them, and raise them up forever."
 
 psa28.title = "Psalm 28 (29)."
 psa28.version = bible_en_US_saas.version.designation
