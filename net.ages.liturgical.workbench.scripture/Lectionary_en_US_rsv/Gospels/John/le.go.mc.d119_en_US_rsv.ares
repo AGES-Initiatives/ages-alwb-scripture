@@ -1,6 +1,5 @@
 A_Resource_Whose_Name = le.go.mc.d119_en_US_rsv
 
-
 lemcLI.Gospel.title = "Seventh Saturday after Pascha" // Saturday of Souls, Saturday before Pentecost
 lemcLI.Gospel.version = bible_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.John
