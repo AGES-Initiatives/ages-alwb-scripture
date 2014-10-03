@@ -6,7 +6,6 @@ lemcCO.Gospel.book = bible_en_US_rsv.John
 lemcCO.Gospel.chapverse = "(15:1-7)"
 lemcCO.Gospel.text = "I am the true vine, and my Father is the vinedresser. Every branch of mine that bears no fruit, he takes away, and every branch that does bear fruit he prunes, that it may bear more fruit. You are already made clean by the word which I have spoken to you. Abide in me, and I in you. As the branch cannot bear fruit by itself, unless it abides in the vine, neither can you, unless you abide in me. I am the vine, you are the branches. He who abides in me, and I in him, he it is that bears much fruit, for apart from me you can do nothing. If a man does not abide in me, he is cast forth as a branch and withers; and the branches are gathered, thrown into the fire and burned. If you abide in me, and my words abide in you, ask whatever you will, and it shall be done for you."
 
-
 lemcLI.Gospel.title = ""
 lemcLI.Gospel.version = bible_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.Mark

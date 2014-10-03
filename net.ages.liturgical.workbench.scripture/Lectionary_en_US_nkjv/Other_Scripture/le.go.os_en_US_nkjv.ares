@@ -14,7 +14,6 @@ leosMA.SixPsalmsIntro1.book = bible_en_US_nkjv.Luke
 leosMA.SixPsalmsIntro1.chapverse = "(2:14)"
 leosMA.SixPsalmsIntro1.text = "Glory to God in the highest, and on earth peace, good will toward men."
 
-
 leosMA.Ode91.title = ""
 leosMA.Ode91.version = bible_en_US_nkjv.version.designation
 leosMA.Ode91.book = bible_en_US_nkjv.Luke
@@ -34,7 +33,6 @@ leosMA.Ode91.v5.number = "()"
 leosMA.Ode91.v5.text = "He put down the mighty from their thrones, and exalted the lowly; He has filled the hungry with good things, and the rich He has sent away empty."
 leosMA.Ode91.v6.number = "()"
 leosMA.Ode91.v6.text = "He has helped His servant Israel, in remembrance of His mercy, as He spoke to our fathers, to Abraham and his seed forever."
-
 
 leosMA.Ode92.title = ""
 leosMA.Ode92.version = bible_en_US_nkjv.version.designation

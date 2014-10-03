@@ -1,6 +1,5 @@
 A_Resource_Whose_Name = le.ep.ge.monastic_en_US_rsv
 
-
 legeLI.Epistle.title = "For Monastics"
 legeLI.Epistle.version = bible_en_US_rsv.version.designation
 legeLI.Epistle.book = bible_en_US_rsv.Galatians

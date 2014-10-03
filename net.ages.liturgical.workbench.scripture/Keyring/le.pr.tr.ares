@@ -1,24 +1,10 @@
 A_Resource_Whose_Name = le.pr.tr 
 
-lemcVE.Prokeimenon1.version = 
-lemcVE.Prokeimenon1.mode = 
-lemcVE.Prokeimenon1.source = ""
-lemcVE.Prokeimenon1.text = ""
-lemcVE.Prokeimenon1Verse.source = ""
-lemcVE.Prokeimenon1Verse.text = ""
-
 lemcVE.Reading1.title = ""
 lemcVE.Reading1.version = 
 lemcVE.Reading1.book = 
 lemcVE.Reading1.chapverse = ""
 lemcVE.Reading1.text = ""
-
-lemcVE.Prokeimenon2.version = 
-lemcVE.Prokeimenon2.mode = 
-lemcVE.Prokeimenon2.source = ""
-lemcVE.Prokeimenon2.text = ""
-lemcVE.Prokeimenon2Verse.source = ""
-lemcVE.Prokeimenon2Verse.text = ""
 
 lemcVE.Reading2.title = ""
 lemcVE.Reading2.version = 
@@ -110,21 +96,13 @@ lemcTE.Troparion.mode =
 lemcTE.Troparion.text = ""
 lemcTE.Troparion2.text = "" //last line in lash
 
-
 lemcTE.Reading1.title = ""
 lemcTE.Reading1.version = 
 lemcTE.Reading1.book = 
 lemcTE.Reading1.chapverse = ""
 lemcTE.Reading1.text = ""
 
-
 // Great Hours
-lemcH1.Prokeimenon.version = 
-lemcH1.Prokeimenon.mode = 
-lemcH1.Prokeimenon.source = ""
-lemcH1.Prokeimenon.text = ""
-lemcH1.ProkeimenonVerse.source = ""
-lemcH1.ProkeimenonVerse.text = ""
 
 lemcH1.Reading1.title = ""
 lemcH1.Reading1.version = 
@@ -132,38 +110,17 @@ lemcH1.Reading1.book =
 lemcH1.Reading1.chapverse = ""
 lemcH1.Reading1.text = ""
 
-lemcH3.Prokeimenon.version = 
-lemcH3.Prokeimenon.mode = 
-lemcH3.Prokeimenon.source = ""
-lemcH3.Prokeimenon.text = ""
-lemcH3.ProkeimenonVerse.source = ""
-lemcH3.ProkeimenonVerse.text = ""
-
 lemcH3.Reading1.title = ""
 lemcH3.Reading1.version = 
 lemcH3.Reading1.book = 
 lemcH3.Reading1.chapverse = ""
 lemcH3.Reading1.text = ""
 
-lemcH6.Prokeimenon.version = 
-lemcH6.Prokeimenon.mode = 
-lemcH6.Prokeimenon.source = ""
-lemcH6.Prokeimenon.text = ""
-lemcH6.ProkeimenonVerse.source = ""
-lemcH6.ProkeimenonVerse.text = ""
-
 lemcH6.Reading1.title = ""
 lemcH6.Reading1.version = 
 lemcH6.Reading1.book = 
 lemcH6.Reading1.chapverse = ""
 lemcH6.Reading1.text = ""
-
-lemcH9.Prokeimenon.version = 
-lemcH9.Prokeimenon.mode = 
-lemcH9.Prokeimenon.source = ""
-lemcH9.Prokeimenon.text = ""
-lemcH9.ProkeimenonVerse.source = ""
-lemcH9.ProkeimenonVerse.text = ""
 
 lemcH9.Reading1.title = ""
 lemcH9.Reading1.version = 
