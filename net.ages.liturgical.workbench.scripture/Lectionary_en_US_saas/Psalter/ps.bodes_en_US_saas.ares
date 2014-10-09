@@ -1,13 +1,13 @@
 A_Resource_Whose_Name = ps.bodes_en_US_saas
 
-bode.title = "(1:9)"
+bode.title = ""
 bode.version = ""
 
 bode1.title = "Ode One"
 bode1.version = ""
 bode1.book = bible_en_US_saas.Exodus
 bode1.heading1 = "An Ode of Moses"
-bode1.chapverse = "ps.bodes__bode.title"
+bode1.chapverse = "(15:1-19)"
 bode1.heading2 = "When he had completely submerged Pharaoh, Moses said:"
 bode1.intro = "Let us sing to the Lord, for He is greatly glorified."
 bode1.v1.number = "(1:1)"
@@ -28,7 +28,7 @@ bode1.v7.number = "(1:7)"
 bode1.v7.text = "You sent forth Your wrath; it consumed them like stubble."
 bode1.v8.number = "(1:8)"
 bode1.v8.text = "By the Spirit of Your anger the waters were gathered together; the waves stood upright in the midst of the sea; the depths congealed in the heart of the sea."
-bode1.v9.number = "ps.bodes__bode.title"
+bode1.v9.number = "(1:9)"
 bode1.v9.text = "The enemy said, 'I will pursue, I will overtake, I will divide the spoils; I will satisfy my soul; I will destroy with my sword; my hand shall have dominion.'"
 bode1.v10.number = "(1:10)"
 bode1.v10.text = "You sent forth Your Spirit; the sea covered them; they sank like lead in the mighty waters."
