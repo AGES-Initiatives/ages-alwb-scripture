@@ -458,13 +458,13 @@ bode8.v18.text = ""
 bode8.v19.number = "(8:19)"
 bode8.v19.text = ""
 
-bode9.title = ""
-bode9.version = ""
+bode9.title = "Ode Nine"
+bode9.version = bible_en_US_nkjv.version.designation
 bode9_mag.book = bible_en_US_nkjv.Luke
-bode9_mag.heading1 = ""
+bode9_mag.heading1 = "Song of the Theotokos"
 bode9_mag.chapverse = "(1:46-56)"
 bode9_mag.heading2 = "The Maiden Mother sings a hymn to her Son and God."
-bode9_mag.intro = "Let us magnify in hymns the Theotokos."
+bode9_mag.intro = "Let us magnify in hymns the Theotokos [and Mother of the Light]."
 bode9_mag.v1.number = "(9a:1)"
 bode9_mag.v1.text = "My soul magnifies the Lord, and my spirit has rejoiced in God my Savior."
 bode9_mag.v2.number = "(9a:2)"
