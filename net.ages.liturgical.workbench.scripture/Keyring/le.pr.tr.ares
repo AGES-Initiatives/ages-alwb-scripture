@@ -92,9 +92,6 @@ lemcVE.Reading15.chapverse = ""
 lemcVE.Reading15.text = ""
 
 //Trithekte i.e. Sixth Hour
-lemcTE.Troparion.mode = 
-lemcTE.Troparion.text = ""
-lemcTE.Troparion2.text = "" //last line in lash
 
 lemcTE.Reading1.title = ""
 lemcTE.Reading1.version = 
