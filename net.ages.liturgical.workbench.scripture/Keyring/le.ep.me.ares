@@ -1,23 +1,23 @@
 A_Resource_Whose_Name = le.ep.me
 
 //for Apostles who have Epistle readings for Prophecies at Vespers
-lemeVE.Reading1.title = ""
-lemeVE.Reading1.version = 
-lemeVE.Reading1.book = 
-lemeVE.Reading1.chapverse = ""
-lemeVE.Reading1.text = ""
+lemeVE.reading1.title = ""
+lemeVE.reading1.version = 
+lemeVE.reading1.book = 
+lemeVE.reading1.chapverse = ""
+lemeVE.reading1.text = ""
 
-lemeVE.Reading2.title = ""
-lemeVE.Reading2.version = 
-lemeVE.Reading2.book = 
-lemeVE.Reading2.chapverse = ""
-lemeVE.Reading2.text = ""
+lemeVE.reading2.title = ""
+lemeVE.reading2.version = 
+lemeVE.reading2.book = 
+lemeVE.reading2.chapverse = ""
+lemeVE.reading2.text = ""
 
-lemeVE.Reading3.title = ""
-lemeVE.Reading3.version = 
-lemeVE.Reading3.book = 
-lemeVE.Reading3.chapverse = ""
-lemeVE.Reading3.text = ""
+lemeVE.reading3.title = ""
+lemeVE.reading3.version = 
+lemeVE.reading3.book = 
+lemeVE.reading3.chapverse = ""
+lemeVE.reading3.text = ""
 
 lemeVE.Epistle.title = ""
 lemeVE.Epistle.version = 
