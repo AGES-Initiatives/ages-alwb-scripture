@@ -3434,6 +3434,7 @@ psa82.v18.number = "(82:18)"
 psa82.v18.text = "Let them be disgraced and troubled unto ages of ages, and let them be shamed and destroyed."
 psa82.v19.number = "(82:19)"
 psa82.v19.text = "And let them know Your name is the Lord, that You alone are Most High over all the earth."
+psa82.v19alt.text = "Let the Gentiles know Your name is the Lord, that You alone are Most High over all the earth."
 
 psa83.title = "Psalm 83 (84)."
 psa83.version = bible_en_US_saas.version.designation
