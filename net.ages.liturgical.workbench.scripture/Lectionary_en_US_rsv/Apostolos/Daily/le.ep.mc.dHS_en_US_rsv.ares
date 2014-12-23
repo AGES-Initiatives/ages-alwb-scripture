@@ -1,8 +1,0 @@
-A_Resource_Whose_Name = le.ep.mc.dHS_en_US_rsv 
-
-// This is really vespers of Pascha, pe.d001
-lemcLI.Epistle.title = "HOLY SATURDAY"
-lemcLI.Epistle.version = bible_en_US_rsv.version.designation
-lemcLI.Epistle.book = bible_en_US_rsv.Romans
-lemcLI.Epistle.chapverse = "(6:3-11)"
-lemcLI.Epistle.text = "Brethren, all who have been baptized into Christ Jesus were baptized into His death. We were buried therefore with Him by baptism into death, so that as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life. For if we have been united with Him in a death like His, we shall certainly be united with Him in a resurrection like His. We know that our old self was crucified with Him so that the sinful body might be destroyed, and we might no longer be enslaved to sin. For he who has died is freed from sin. But if we have died with Christ, we believe that we shall also live with Him. For we know that Christ being raised from the dead will never die again; death no longer has dominion over Him. The death He died He died to sin, once for all, but the life He lives He lives to God. So you also must consider yourselves dead to sin and alive to God in Christ Jesus our Lord."
