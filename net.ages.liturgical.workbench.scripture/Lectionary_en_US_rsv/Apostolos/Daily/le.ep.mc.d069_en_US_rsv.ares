@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = le.ep.mc.d069_en_US_rsv 
 
-lemcLI.Epistle.title = ""
-lemcLI.Epistle.version = bible_en_US_rsv.version.designation
-lemcLI.Epistle.book = bible_en_US_rsv.Corinthians1
-lemcLI.Epistle.chapverse = "(11:23-32)"
-lemcLI.Epistle.text = "Brethren, I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, and when he had given thanks, he broke it, and said, \"This is my body which is for you. Do this in remembrance of me.\" In the same way also the cup, after supper, saying, \"This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.\" For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes. Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of profaning the body and blood of the Lord. Let a man examine himself, and so eat of the bread and drink of the cup. For any one who eats and drinks without discerning the body eats and drinks judgment upon himself. That is why many of you are weak and ill, and some have died. But if we judged ourselves truly, we should not be judged. But when we are judged by the Lord, we are chastened so that we may not be condemned along with the world."
+lemcVE.Epistle.title = ""
+lemcVE.Epistle.version = bible_en_US_rsv.version.designation
+lemcVE.Epistle.book = bible_en_US_rsv.Corinthians1
+lemcVE.Epistle.chapverse = "(11:23-32)"
+lemcVE.Epistle.text = "Brethren, I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, and when he had given thanks, he broke it, and said, \"This is my body which is for you. Do this in remembrance of me.\" In the same way also the cup, after supper, saying, \"This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.\" For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes. Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of profaning the body and blood of the Lord. Let a man examine himself, and so eat of the bread and drink of the cup. For any one who eats and drinks without discerning the body eats and drinks judgment upon himself. That is why many of you are weak and ill, and some have died. But if we judged ourselves truly, we should not be judged. But when we are judged by the Lord, we are chastened so that we may not be condemned along with the world."
 
 lemcH1.Epistle.title = "HOLY AND GREAT FRIDAY, FIRST HOUR"
 lemcH1.Epistle.version = bible_en_US_rsv.version.designation
