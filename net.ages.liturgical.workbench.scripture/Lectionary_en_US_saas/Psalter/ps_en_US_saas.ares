@@ -5883,6 +5883,10 @@ psa137.v7.number = "(137:7)"
 psa137.v7.text = "If I walk in the midst of affliction, You shall make me live; You stretched out Your hand against the wrath of my enemies, and Your right hand saved me."
 psa137.v8.number = "(137:8)"
 psa137.v8.text = "The Lord shall repay them on my behalf. O Lord, Your mercy endures forever; do not forsake the works of Your hands."
+psa137.v8a.number = "(137:8a)"
+psa137.v8a.text = "The Lord shall repay them on my behalf."
+psa137.v8b.number = "(137:8b)"
+psa137.v8b.text = "O Lord, Your mercy endures forever; do not forsake the works of Your hands."
 
 psa138.title = "Psalm 138 (139)."
 psa138.version = bible_en_US_saas.version.designation
