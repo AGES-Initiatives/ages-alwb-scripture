@@ -11,6 +11,7 @@ lemeLI.Gospel.version =
 lemeLI.Gospel.book = 
 lemeLI.Gospel.chapverse = ""
 lemeLI.Gospel.text = ""
+lemeLI.Gospel.page = ""
 
 lemeH1.Gospel.title = ""
 lemeH1.Gospel.version = 
