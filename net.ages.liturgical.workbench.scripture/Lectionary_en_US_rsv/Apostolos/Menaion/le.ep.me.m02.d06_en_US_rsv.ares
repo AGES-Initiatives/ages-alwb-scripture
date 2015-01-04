@@ -5,3 +5,4 @@ lemeLI.Epistle.version = le.ep.ge.hierarch_en_US_rsv.legeLI.Epistle.version
 lemeLI.Epistle.book = le.ep.ge.hierarch_en_US_rsv.legeLI.Epistle.book
 lemeLI.Epistle.chapverse = le.ep.ge.hierarch_en_US_rsv.legeLI.Epistle.chapverse
 lemeLI.Epistle.text = le.ep.ge.hierarch_en_US_rsv.legeLI.Epistle.text
+lemeLI.Epistle.pagenumber = ""

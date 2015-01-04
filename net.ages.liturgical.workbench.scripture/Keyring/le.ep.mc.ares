@@ -1,10 +1,18 @@
 A_Resource_Whose_Name = le.ep.mc 
 
+lemcVE.Epistle.title = ""
+lemcVE.Epistle.version = 
+lemcVE.Epistle.book = 
+lemcVE.Epistle.chapverse = "()"
+lemcVE.Epistle.text = ""
+lemcVE.Epistle.pagenumber = ""
+
 lemcLI.Epistle.title = ""
 lemcLI.Epistle.version = 
 lemcLI.Epistle.book = 
 lemcLI.Epistle.chapverse = "()"
 lemcLI.Epistle.text = ""
+lemcLI.Epistle.pagenumber = ""
 
 lemcH1.Epistle.title = ""
 lemcH1.Epistle.version = 

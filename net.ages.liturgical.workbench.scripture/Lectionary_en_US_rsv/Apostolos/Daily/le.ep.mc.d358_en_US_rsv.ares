@@ -5,3 +5,4 @@ lemcLI.Epistle.version = bible_en_US_rsv.version.designation
 lemcLI.Epistle.book = le.ep.mc.d008_en_US_rsv.lemcLI.Epistle.book
 lemcLI.Epistle.chapverse = le.ep.mc.d008_en_US_rsv.lemcLI.Epistle.chapverse
 lemcLI.Epistle.text = le.ep.mc.d008_en_US_rsv.lemcLI.Epistle.text
+lemcLI.Epistle.pagenumber = le.ep.mc.d008_en_US_rsv.lemcLI.Epistle.pagenumber

@@ -23,4 +23,5 @@ lemeLI.Epistle.version = bible_en_US_rsv.version.designation
 lemeLI.Epistle.book = le.ep.mc.d017_en_US_rsv.lemcLI.Epistle.book
 lemeLI.Epistle.chapverse = "(1:1-25)"
 lemeLI.Epistle.text = le.ep.mc.d017_en_US_rsv.lemcLI.Epistle.text
+lemeLI.Epistle.pagenumber = ""
 lemeLI.Epistle2.text = le.ep.mc.d019_en_US_rsv.lemcLI.Epistle.text
