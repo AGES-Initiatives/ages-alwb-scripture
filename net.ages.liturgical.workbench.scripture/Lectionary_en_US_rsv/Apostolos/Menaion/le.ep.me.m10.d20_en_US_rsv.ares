@@ -5,6 +5,7 @@ lemeLI.Epistle.version = le.ep.me.m10.d26_en_US_rsv.lemeLI.Epistle.version
 lemeLI.Epistle.book = le.ep.me.m10.d26_en_US_rsv.lemeLI.Epistle.book
 lemeLI.Epistle.chapverse = le.ep.me.m10.d26_en_US_rsv.lemeLI.Epistle.chapverse
 lemeLI.Epistle.text = le.ep.me.m10.d26_en_US_rsv.lemeLI.Epistle.text
+lemeLI.Epistle.pagenumber = ""
 
 lemeLI.Epistle2.title = "For St. Gerasimos."
 lemeLI.Epistle2.version = le.ep.mc.d308_en_US_rsv.lemcLI.Epistle.version
