@@ -5,3 +5,6 @@ lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.Luke
 lemcLI.Gospel.chapverse = "(18:10-14)"
 lemcLI.Gospel.text = le.go.lu.d112_en_US_rsv.leluLI.Gospel.text
+lemcLI.Gospel.pagenumber = ""
+
+lemcLI.Gospel.pagenumber = ""
