@@ -5,3 +5,5 @@ lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book = bible_en_US_rsv.Mark
 lemeLI.Gospel.chapverse = "(1:1-8)"
 lemeLI.Gospel.text = le.go.me.m01.d05_en_US_rsv.lemeH3.Gospel.text
+lemeLI.Gospel.pagenumber = ""
+

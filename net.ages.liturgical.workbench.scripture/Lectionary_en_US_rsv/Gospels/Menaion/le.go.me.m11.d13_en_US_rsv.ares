@@ -11,3 +11,5 @@ lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book = bible_en_US_rsv.John
 lemeLI.Gospel.chapverse = "(10:9-16)"
 lemeLI.Gospel.text = "The Lord said, \"I am the door; if any one enters by me, he will be saved, and will go in and out and find pasture. The thief comes only to steal and kill and destroy; I came that they may have life, and have it abundantly. I am the good shepherd. The good shepherd lays down his life for the sheep. He who is a hireling and not a shepherd, whose own the sheep are not, sees the wolf coming and leaves the sheep and flees; and the wolf snatches them and scatters them. He flees because he is a hireling and cares nothing for the sheep. I am the good shepherd; I know my own and my own know me, as the Father knows me and I know the Father; and I lay down my life for the sheep. And I have other sheep, that are not of this fold; I must bring them also, and they will heed my voice. So there shall be one flock, one shepherd.\""
+lemeLI.Gospel.pagenumber = ""
+
