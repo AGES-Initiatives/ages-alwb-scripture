@@ -5,3 +5,5 @@ lemeLI.Gospel.version = le.go.mc.d029_en_US_rsv.lemcLI.Gospel.version
 lemeLI.Gospel.book = le.go.mc.d029_en_US_rsv.lemcLI.Gospel.book
 lemeLI.Gospel.chapverse = le.go.mc.d029_en_US_rsv.lemcLI.Gospel.chapverse
 lemeLI.Gospel.text = le.go.mc.d029_en_US_rsv.lemcLI.Gospel.text
+lemeLI.Gospel.pagenumber = ""
+

@@ -11,3 +11,5 @@ lemeLI.Gospel.version = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.version
 lemeLI.Gospel.book = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.book
 lemeLI.Gospel.chapverse = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.chapverse
 lemeLI.Gospel.text = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.text
+lemeLI.Gospel.pagenumber = ""
+
