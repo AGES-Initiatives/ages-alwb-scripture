@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = properties_en_US_net
+
+version.designation = "NET"
+version.translator = ""
+
+version.copyright1 = "Scripture and/or notes quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C.  All rights reserved."
+version.copyright2 = ""
+version.copyright3 = ""
+
+contact.address_1 = ""
+contact.address_2 = ""
+contact.address_3 = ""
+contact.phone = ""
+contact.email = ""
+contact.url = "http://netbible.com/content/net-bible-copyright"

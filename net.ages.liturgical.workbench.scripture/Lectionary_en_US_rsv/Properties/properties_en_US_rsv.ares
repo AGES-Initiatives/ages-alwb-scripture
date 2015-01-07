@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = properties_en_US_rsv
+
+version.designation = "RSV"
+version.translator = ""
+
+version.copyright1 = "Revised Standard Version of the Bible, copyright © 1946, 1952, and 1971 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved."
+version.copyright2 = ""
+version.copyright3 = ""
+
+contact.address_1 = ""
+contact.address_2 = ""
+contact.address_3 = ""
+contact.phone = ""
+contact.email = ""
+contact.url = "http://www.nrsv.net/contact/licensing-permissions/"

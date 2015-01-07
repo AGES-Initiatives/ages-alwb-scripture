@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.os_en_US_nkjv
 
 leosVE.Prayer_NynApolyeis.title = "Song of Simeon."
-leosVE.Prayer_NynApolyeis.version = bible_en_US_nkjv.version.designation
+leosVE.Prayer_NynApolyeis.version = properties_en_US_nkjv.version.designation
 leosVE.Prayer_NynApolyeis.book = bible_en_US_nkjv.Luke
 leosVE.Prayer_NynApolyeis.chapverse = "(2:29-32)"
 leosVE.Prayer_NynApolyeis.text = "Lord, now You are letting Your servant depart in peace, according to Your word; for my eyes have seen Your salvation which You have prepared before the face of all peoples, a light to bring revelation to the Gentiles, and the glory of Your people Israel."
@@ -9,7 +9,7 @@ leosVE.Prayer_NynApolyeis1.text = "Lord, now You are letting Your servant depart
 leosVE.Prayer_NynApolyeis2.text = "A light to bring revelation to the Gentiles, and the glory of Your people Israel."
 
 leosMA.SixPsalmsIntro1.title = ""
-leosMA.SixPsalmsIntro1.version = bible_en_US_nkjv.version.designation
+leosMA.SixPsalmsIntro1.version = properties_en_US_nkjv.version.designation
 leosMA.SixPsalmsIntro1.book = bible_en_US_nkjv.Luke
 leosMA.SixPsalmsIntro1.chapverse = "(2:14)"
 leosMA.SixPsalmsIntro1.text = "Glory to God in the highest, and on earth peace, good will toward men."
@@ -38,7 +38,7 @@ leosMA.Ode91.v6.number = ps.bodes_en_US_nkjv.bode9_mag.v6.number
 leosMA.Ode91.v6.text = ps.bodes_en_US_nkjv.bode9_mag.v6.text
 
 leosMA.Ode92.title = ""
-leosMA.Ode92.version = bible_en_US_nkjv.version.designation
+leosMA.Ode92.version = properties_en_US_nkjv.version.designation
 leosMA.Ode92.book = bible_en_US_nkjv.Luke
 leosMA.Ode92.heading1 = ps.bodes_en_US_nkjv.bode9.heading1
 leosMA.Ode92.source = ps.bodes_en_US_nkjv.bode9.chapverse

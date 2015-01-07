@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = properties_en_US_nkjv
+
+version.designation = "NKJV"
+version.translator = ""
+
+version.copyright1 = "Scripture taken from the New King James Version™. Copyright © 1982 by Thomas Nelson, Inc. Used by permission. All rights reserved."
+version.copyright2 = ""
+version.copyright3 = ""
+
+contact.address_1 = ""
+contact.address_2 = ""
+contact.address_3 = ""
+contact.phone = ""
+contact.email = ""

@@ -459,7 +459,7 @@ bode8.v19.number = "(8:19)"
 bode8.v19.text = ""
 
 bode9.title = "Ode Nine"
-bode9.version  = bible_en_US_rsv.version.designation
+bode9.version  = properties_en_US_rsv.version.designation
 bode9_mag.book  = bible_en_US_rsv.Luke
 bode9_mag.heading1 = "Mary's Song of Praise. The Magnificat."
 bode9_mag.chapverse = "(1:46-55)"

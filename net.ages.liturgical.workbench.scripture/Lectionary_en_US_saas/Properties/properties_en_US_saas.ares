@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = properties_en_US_saas
+
+version.designation = "SAAS"
+version.translator = ""
+
+version.copyright1 = "Scripture taken from the St. Athanasius Academy Septuagint™. Copyright © 2008 by St. Athanasius Academy of Orthodox Theology. Used by permission. All rights reserved."
+version.copyright2 = ""
+version.copyright3 = ""
+
+contact.address_1 = ""
+contact.address_2 = ""
+contact.address_3 = ""
+contact.phone = ""
+contact.email = ""
