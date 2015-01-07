@@ -1,7 +1,5 @@
 A_Resource_Whose_Name = bible_en_US_rsv
 
-version.designation = "(RSV)"
-
 Matthew = "Matthew." // add period after each name
 Mark = "Mark."
 Luke = "Luke."
