@@ -11,3 +11,5 @@ lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.Matthew
 lemcLI.Gospel.chapverse = "(27:62-66)"
 lemcLI.Gospel.text = "Next day, that is, after the day of Preparation, the chief priests and the Pharisees gathered before Pilate and said, \"Sir, we remember how that impostor said, while he was still alive, 'After three days I will rise again.' Therefore order the sepulcher to be made secure until the third day, lest his disciples go and steal him away, and tell the people, 'He has risen from the dead,' and the last fraud will be worse than the first.\" Pilate said to them, \"You have a guard of soldiers; go, make it as secure as you can.\" So they went and made the sepulcher secure by sealing the stone and setting a guard."
+lemcLI.Gospel.pagenumber = ""
+
