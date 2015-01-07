@@ -5,4 +5,4 @@ lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.Luke
 lemcLI.Gospel.chapverse = "(15:11-32)"
 lemcLI.Gospel.text = le.go.lu.d119_en_US_rsv.leluLI.Gospel.text
-lemcLI.Gospel.pagenumber = ""
+lemcLI.Gospel.pagenumber = "130"
