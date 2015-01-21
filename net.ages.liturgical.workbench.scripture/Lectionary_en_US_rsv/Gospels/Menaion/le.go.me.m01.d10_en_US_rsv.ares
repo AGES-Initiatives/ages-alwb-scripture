@@ -7,7 +7,6 @@ lemeLI.Gospel.chapverse = le.go.lu.d001_en_US_rsv.leluLI.Gospel.chapverse
 lemeLI.Gospel.text = le.go.lu.d001_en_US_rsv.leluLI.Gospel.text
 lemeLI.Gospel.pagenumber = ""
 
-
 lemeLI.Gospel2.title = "For the Saint."
 lemeLI.Gospel2.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel2.book = bible_en_US_rsv.Matthew
