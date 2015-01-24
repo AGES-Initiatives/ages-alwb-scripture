@@ -33,7 +33,7 @@ levaUNC.Epistle5.text = "Brethren, we do not want you to be ignorant, brethren, 
 levaUNC.Epistle6.title = "6th Epistle"
 levaUNC.Epistle6.version = properties_en_US_rsv.version.designation
 levaUNC.Epistle6.book = bible_en_US_rsv.Galatians
-levaUNC.Epistle6.chapverse = "(5:22-6:2)"
+levaUNC.Epistle6.chapverse = "(5:22-26, 6:1-2)"
 levaUNC.Epistle6.text = "Brethren, the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such there is no law. And those who belong to Christ Jesus have crucified the flesh with its passions and desires. If we live by the Spirit, let us also walk by the Spirit. Let us have no self-conceit, no provoking of one another, no envy of one another. Brethren, if a man is overtaken in any trespass, you who are spiritual should restore him in a spirit of gentleness. Look to yourself, lest you too be tempted. Bear one another's burdens, and so fulfill the law of Christ."
 
 levaUNC.Epistle7.title = "7th Epistle"

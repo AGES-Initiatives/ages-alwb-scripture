@@ -3,7 +3,7 @@ A_Resource_Whose_Name = le.ep.me.m01.d05_en_US_rsv
 lemeH1.Epistle.title = "FIRST HOUR"
 lemeH1.Epistle.version = properties_en_US_rsv.version.designation
 lemeH1.Epistle.book = bible_en_US_rsv.Acts
-lemeH1.Epistle.chapverse = "(13:25-32)"
+lemeH1.Epistle.chapverse = "(13:25-33)"
 lemeH1.Epistle.text = "In those days, as John was finishing his course, he said, \"What do you suppose that I am? I am not he. No, but after me one is coming, the sandals of whose feet I am not worthy to untie.\" Brethren, sons of the family of Abraham, and those among you that fear God, to us has been sent the message of this salvation. For those who live in Jerusalem and their rulers, because they did not recognize him nor understand the utterances of the prophets which are read every sabbath, fulfilled these by condemning him. Though they could charge him with nothing deserving death, yet they asked Pilate to have him killed. And when they had fulfilled all that was written of him, they took him down from the tree, and laid him in a tomb. But God raised him from the dead; and for many days he appeared to those who came up with him from Galilee to Jerusalem, who are now his witnesses to the people. And we bring you the good news that what God promised to the fathers, this he has fulfilled to us their children by raising Jesus."
 
 lemeH3.Epistle.title = "THIRD HOUR"
