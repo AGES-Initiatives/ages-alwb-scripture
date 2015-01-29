@@ -1,0 +1,8 @@
+A_Resource_Whose_Name = le.ep.va.wedding_en_US_eob 
+
+levaWED.Epistle.title = "At Weddings."
+levaWED.Epistle.version = properties_en_US_eob.version.designation
+levaWED.Epistle.book = bible_en_US_eob.Ephesians
+levaWED.Epistle.chapverse = "(5:20-33)"
+levaWED.Epistle.text = ""
+

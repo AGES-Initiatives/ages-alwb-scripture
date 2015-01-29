@@ -1,0 +1,26 @@
+A_Resource_Whose_Name = le.ep.me.m01.d05_en_US_eob 
+
+lemeH1.Epistle.title = "FIRST HOUR"
+lemeH1.Epistle.version = properties_en_US_eob.version.designation
+lemeH1.Epistle.book = bible_en_US_eob.Acts
+lemeH1.Epistle.chapverse = "(13:25-33)"
+lemeH1.Epistle.text = ""
+
+lemeH3.Epistle.title = "THIRD HOUR"
+lemeH3.Epistle.version = properties_en_US_eob.version.designation
+lemeH3.Epistle.book = bible_en_US_eob.Acts
+lemeH3.Epistle.chapverse = "(19:1-8)"
+lemeH3.Epistle.text = ""
+
+lemeH6.Epistle.title = "SIXTH HOUR"
+lemeH6.Epistle.version = properties_en_US_eob.version.designation
+lemeH6.Epistle.book = bible_en_US_eob.Romans
+lemeH6.Epistle.chapverse = "(6:3-11)"
+lemeH6.Epistle.text = ""
+
+lemeH9.Epistle.title = "NINTH HOUR"
+lemeH9.Epistle.version = properties_en_US_eob.version.designation
+lemeH9.Epistle.book = bible_en_US_eob.Titus
+lemeH9.Epistle.chapverse = "(2:11-14; 3:4-7)"
+lemeH9.Epistle.text = ""
+

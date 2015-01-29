@@ -1,0 +1,8 @@
+A_Resource_Whose_Name = le.ep.ge.hierarch_en_US_eob 
+
+legeLI.Epistle.title = "For a Hierarch"
+legeLI.Epistle.version = properties_en_US_eob.version.designation
+legeLI.Epistle.book = bible_en_US_eob.Hebrews
+legeLI.Epistle.chapverse = "(7:26-28; 8:1-2)"
+legeLI.Epistle.text = ""
+

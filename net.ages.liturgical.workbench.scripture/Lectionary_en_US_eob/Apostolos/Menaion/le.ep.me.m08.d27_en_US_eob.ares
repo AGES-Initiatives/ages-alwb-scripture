@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.ep.me.m08.d27_en_US_eob 
+
+lemeLI.Epistle.title = "For St. Poimen."
+lemeLI.Epistle.version = le.ep.mc.d308_en_US_eob.lemcLI.Epistle.version
+lemeLI.Epistle.book = le.ep.mc.d308_en_US_eob.lemcLI.Epistle.book
+lemeLI.Epistle.chapverse = le.ep.mc.d308_en_US_eob.lemcLI.Epistle.chapverse
+lemeLI.Epistle.text = le.ep.mc.d308_en_US_eob.lemcLI.Epistle.text
+lemeLI.Epistle.pagenumber = ""
+
+lemeLI.Epistle2.title = "For St. Phanourios."
+lemeLI.Epistle2.version = le.ep.mc.d309_en_US_eob.lemcLI.Epistle.version
+lemeLI.Epistle2.book = le.ep.mc.d309_en_US_eob.lemcLI.Epistle.book
+lemeLI.Epistle2.chapverse = le.ep.mc.d309_en_US_eob.lemcLI.Epistle.chapverse
+lemeLI.Epistle2.text = le.ep.mc.d309_en_US_eob.lemcLI.Epistle.text

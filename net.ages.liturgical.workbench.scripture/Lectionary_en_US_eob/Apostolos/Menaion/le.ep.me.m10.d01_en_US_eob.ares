@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.ep.me.m10.d01_en_US_eob 
+
+lemeLI.Epistle.title = "For the Theotokos."
+lemeLI.Epistle.version = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.version
+lemeLI.Epistle.book = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.book
+lemeLI.Epistle.chapverse = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.chapverse
+lemeLI.Epistle.text = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.text
+lemeLI.Epistle.pagenumber = ""
+
+lemeLI.Epistle2.title = "For the Apostle."
+lemeLI.Epistle2.version = properties_en_US_eob.version.designation
+lemeLI.Epistle2.book = bible_en_US_eob.Acts
+lemeLI.Epistle2.chapverse = "(9:10-19)"
+lemeLI.Epistle2.text = ""

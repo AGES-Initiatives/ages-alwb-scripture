@@ -1,0 +1,8 @@
+A_Resource_Whose_Name = le.ep.me.m02.d02_en_US_eob 
+
+lemeLI.Epistle.title = "For the Feast."
+lemeLI.Epistle.version = properties_en_US_eob.version.designation
+lemeLI.Epistle.book = bible_en_US_eob.Hebrews
+lemeLI.Epistle.chapverse = "(7:7-17)"
+lemeLI.Epistle.text = ""
+lemeLI.Epistle.pagenumber = ""

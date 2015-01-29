@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.ep.me.m12.d25_en_US_eob 
+
+lemeVE.Epistle.title = "For the Feast."
+lemeVE.Epistle.version = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.version
+lemeVE.Epistle.book = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.book
+lemeVE.Epistle.chapverse = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.chapverse
+lemeVE.Epistle.text = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.text 
+
+lemeLI.Epistle.title = "For the Feast."
+lemeLI.Epistle.version = properties_en_US_eob.version.designation
+lemeLI.Epistle.book = bible_en_US_eob.Galatians
+lemeLI.Epistle.chapverse = "(4:4-7)"
+lemeLI.Epistle.text = ""
+lemeLI.Epistle.pagenumber = ""

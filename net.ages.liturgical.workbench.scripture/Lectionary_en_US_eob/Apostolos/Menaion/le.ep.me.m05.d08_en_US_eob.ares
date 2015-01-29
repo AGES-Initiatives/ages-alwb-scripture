@@ -1,0 +1,26 @@
+A_Resource_Whose_Name = le.ep.me.m05.d08_en_US_eob 
+
+lemeVE.Reading1.title = "For the Evangelist."
+lemeVE.Reading1.version = properties_en_US_eob.version.designation
+lemeVE.Reading1.book = bible_en_US_eob.John1
+lemeVE.Reading1.chapverse = "(3:21-24; 4:1-6)"
+lemeVE.Reading1.text = ""
+
+lemeVE.Reading2.title = "For the Evangelist."
+lemeVE.Reading2.version = properties_en_US_eob.version.designation
+lemeVE.Reading2.book = bible_en_US_eob.John1
+lemeVE.Reading2.chapverse = "(4:11-16)"
+lemeVE.Reading2.text = ""
+
+lemeVE.Reading3.title = "For the Evangelist."
+lemeVE.Reading3.version = properties_en_US_eob.version.designation
+lemeVE.Reading3.book = bible_en_US_eob.John1
+lemeVE.Reading3.chapverse = "(4:20-221; 5:1-5)"
+lemeVE.Reading3.text = ""
+
+lemeLI.Epistle.title = "For the Evangelist."
+lemeLI.Epistle.version = properties_en_US_eob.version.designation
+lemeLI.Epistle.book = bible_en_US_eob.John1
+lemeLI.Epistle.chapverse = "(1:1-7)"
+lemeLI.Epistle.text = ""
+lemeLI.Epistle.pagenumber = ""
