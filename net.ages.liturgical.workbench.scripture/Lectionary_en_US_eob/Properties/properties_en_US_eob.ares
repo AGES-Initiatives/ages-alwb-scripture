@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = properties_en_US_eob
+
+version.designation = "EOB"
+version.translator = ""
+
+version.copyright1 = "The EOB can is can be freely obtained in PDF format upon request by individuals and parishes and to be printed for the use of individuals and parishes. The PDF may not be posted to distributed by anyone on the Internet without permission."
+version.copyright2 = "Only commercial printing is held as a restricted right."
+version.copyright3 = "Intellectual property applies to the EOB text, logo, artwork and web site; but these can be reproduced and cited for information purposes."
+
+contact.address_1 = ""
+contact.address_2 = ""
+contact.address_3 = ""
+contact.phone = ""
+contact.email = "eobeditor@orthodox-church.info"
+contact.url = "http://www.orthodox-church.info/eob/index.asp"
