@@ -1,0 +1,17 @@
+A_Resource_Whose_Name = le.ep.mc.d070_en_US_eob 
+
+lemcVE.Epistle.title = "HOLY AND GREAT FRIDAY"
+lemcVE.Epistle.version = properties_en_US_eob.version.designation
+lemcVE.Epistle.book = bible_en_US_eob.Corinthians1
+lemcVE.Epistle.chapverse = "(1:18-31; 2:1-2)"
+lemcVE.Epistle.text = ""
+lemcVE.Epistle.pagenumber = ""
+
+// This is at the end of Friday Night service
+lemcLI.Epistle.title = ""
+lemcLI.Epistle.version = properties_en_US_eob.version.designation
+lemcLI.Epistle.book = bible_en_US_eob.Corinthians1
+lemcLI.Epistle.chapverse = "(1 Cor. 5:6-8; Gal. 3:13-14)"
+lemcLI.Epistle.text = ""
+lemcLI.Epistle.pagenumber = ""
+

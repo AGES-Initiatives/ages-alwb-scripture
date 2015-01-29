@@ -1,0 +1,7 @@
+A_Resource_Whose_Name = le.ep.ge.monastic_en_US_eob
+
+legeLI.Epistle.title = "For Monastics"
+legeLI.Epistle.version = properties_en_US_eob.version.designation
+legeLI.Epistle.book = bible_en_US_eob.Galatians
+legeLI.Epistle.chapverse = "(5:22-26; 6:1-2)"
+legeLI.Epistle.text = le.ep.mc.d308_en_US_eob.lemcLI.Epistle.text

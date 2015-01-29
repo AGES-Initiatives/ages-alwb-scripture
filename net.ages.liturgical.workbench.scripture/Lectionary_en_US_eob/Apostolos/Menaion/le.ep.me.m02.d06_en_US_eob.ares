@@ -1,0 +1,8 @@
+A_Resource_Whose_Name = le.ep.me.m02.d06_en_US_eob 
+
+lemeLI.Epistle.title = "For the Saint."
+lemeLI.Epistle.version = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.version
+lemeLI.Epistle.book = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.book
+lemeLI.Epistle.chapverse = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.chapverse
+lemeLI.Epistle.text = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.text
+lemeLI.Epistle.pagenumber = ""

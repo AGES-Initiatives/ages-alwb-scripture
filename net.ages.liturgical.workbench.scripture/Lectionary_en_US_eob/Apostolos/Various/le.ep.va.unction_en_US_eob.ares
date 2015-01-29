@@ -1,0 +1,44 @@
+A_Resource_Whose_Name = le.ep.va.unction_en_US_eob 
+
+levaUNC.Epistle1.title = "1st Epistle"
+levaUNC.Epistle1.version = properties_en_US_eob.version.designation
+levaUNC.Epistle1.book = bible_en_US_eob.James
+levaUNC.Epistle1.chapverse = "(5:10-16)"
+levaUNC.Epistle1.text = ""
+
+levaUNC.Epistle2.title = "2nd Epistle"
+levaUNC.Epistle2.version = properties_en_US_eob.version.designation
+levaUNC.Epistle2.book = bible_en_US_eob.Romans
+levaUNC.Epistle2.chapverse = "(15:1-7)"
+levaUNC.Epistle2.text = ""
+
+levaUNC.Epistle3.title = "3rd Epistle"
+levaUNC.Epistle3.version = properties_en_US_eob.version.designation
+levaUNC.Epistle3.book = bible_en_US_eob.Corinthians1
+levaUNC.Epistle3.chapverse = "(12:27-13:8)"
+levaUNC.Epistle3.text = ""
+
+levaUNC.Epistle4.title = "4th Epistle"
+levaUNC.Epistle4.version = properties_en_US_eob.version.designation
+levaUNC.Epistle4.book = bible_en_US_eob.Corinthians2
+levaUNC.Epistle4.chapverse = "(6:16-7:1)"
+levaUNC.Epistle4.text = ""
+
+levaUNC.Epistle5.title = "5th Epistle"
+levaUNC.Epistle5.version = properties_en_US_eob.version.designation
+levaUNC.Epistle5.book = bible_en_US_eob.Corinthians2
+levaUNC.Epistle5.chapverse = "(1:8-11)"
+levaUNC.Epistle5.text = ""
+
+levaUNC.Epistle6.title = "6th Epistle"
+levaUNC.Epistle6.version = properties_en_US_eob.version.designation
+levaUNC.Epistle6.book = bible_en_US_eob.Galatians
+levaUNC.Epistle6.chapverse = "(5:22-26, 6:1-2)"
+levaUNC.Epistle6.text = ""
+
+levaUNC.Epistle7.title = "7th Epistle"
+levaUNC.Epistle7.version = properties_en_US_eob.version.designation
+levaUNC.Epistle7.book = bible_en_US_eob.Thessalonians1
+levaUNC.Epistle7.chapverse = "(5:14-23)"
+levaUNC.Epistle7.text = ""
+

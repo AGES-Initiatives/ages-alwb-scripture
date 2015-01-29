@@ -1,0 +1,26 @@
+A_Resource_Whose_Name = le.ep.me.m11.d30_en_US_eob 
+
+lemeVE.Reading1.title = ""
+lemeVE.Reading1.version = properties_en_US_eob.version.designation
+lemeVE.Reading1.book = le.ep.me.m06.d29_en_US_eob.lemeVE.Reading1.book
+lemeVE.Reading1.chapverse = le.ep.me.m06.d29_en_US_eob.lemeVE.Reading1.chapverse
+lemeVE.Reading1.text = le.ep.me.m06.d29_en_US_eob.lemeVE.Reading1.text
+
+lemeVE.Reading2.title = ""
+lemeVE.Reading2.version = properties_en_US_eob.version.designation
+lemeVE.Reading2.book = le.ep.me.m06.d29_en_US_eob.lemeVE.Reading2.book
+lemeVE.Reading2.chapverse = le.ep.me.m06.d29_en_US_eob.lemeVE.Reading2.chapverse
+lemeVE.Reading2.text = le.ep.me.m06.d29_en_US_eob.lemeVE.Reading2.text
+
+lemeVE.Reading3.title = ""
+lemeVE.Reading3.version = properties_en_US_eob.version.designation
+lemeVE.Reading3.book = le.ep.me.m06.d29_en_US_eob.lemeVE.Reading3.book
+lemeVE.Reading3.chapverse = le.ep.me.m06.d29_en_US_eob.lemeVE.Reading3.chapverse
+lemeVE.Reading3.text = le.ep.me.m06.d29_en_US_eob.lemeVE.Reading3.text
+
+lemeLI.Epistle.title = "For the Apostle."
+lemeLI.Epistle.version = le.ep.mc.d190_en_US_eob.lemcLI.Epistle.version
+lemeLI.Epistle.book = le.ep.mc.d190_en_US_eob.lemcLI.Epistle.book
+lemeLI.Epistle.chapverse = le.ep.mc.d190_en_US_eob.lemcLI.Epistle.chapverse
+lemeLI.Epistle.text = le.ep.mc.d190_en_US_eob.lemcLI.Epistle.text 
+lemeLI.Epistle.pagenumber = ""

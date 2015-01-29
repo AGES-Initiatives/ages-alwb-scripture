@@ -1,0 +1,8 @@
+A_Resource_Whose_Name = le.ep.me.m01.d02_en_US_eob
+
+lemeLI.Epistle.title = "For the Saint."
+lemeLI.Epistle.version = properties_en_US_eob.version.designation
+lemeLI.Epistle.book = bible_en_US_eob.Hebrews
+lemeLI.Epistle.chapverse = "(5:4-10)"
+lemeLI.Epistle.text = ""
+lemeLI.Epistle.pagenumber = ""

@@ -1,0 +1,25 @@
+A_Resource_Whose_Name = le.ep.va.deceased_en_US_eob 
+
+levaDEC.Epistle1.title = "For Those Who Have Fallen Asleep"
+levaDEC.Epistle1.version = properties_en_US_eob.version.designation
+levaDEC.Epistle1.book = bible_en_US_eob.Thessalonians1
+levaDEC.Epistle1.chapverse = "(4:13-18)"
+levaDEC.Epistle1.text = ""
+
+levaDEC.Epistle2.title = "Another for the Deceased."
+levaDEC.Epistle2.version = properties_en_US_eob.version.designation
+levaDEC.Epistle2.book = bible_en_US_eob.Corinthians1
+levaDEC.Epistle2.chapverse = "(15:47-57)"
+levaDEC.Epistle2.text = ""
+
+levaDEC.Epistle3.title = "Another for the Deceased."
+levaDEC.Epistle3.version = properties_en_US_eob.version.designation
+levaDEC.Epistle3.book = bible_en_US_eob.Corinthians1
+levaDEC.Epistle3.chapverse = "(15:20-28)"
+levaDEC.Epistle3.text = ""
+
+levaDEC.Epistle4.title = "Another for the Deceased."
+levaDEC.Epistle4.version = properties_en_US_eob.version.designation
+levaDEC.Epistle4.book = bible_en_US_eob.Romans
+levaDEC.Epistle4.chapverse = "(14:6-9)"
+levaDEC.Epistle4.text = ""

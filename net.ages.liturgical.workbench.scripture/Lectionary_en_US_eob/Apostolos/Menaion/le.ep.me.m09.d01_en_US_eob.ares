@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.ep.me.m09.d01_en_US_eob 
+
+lemeLI.Epistle.title = "For the Indiction."
+lemeLI.Epistle.version = properties_en_US_eob.version.designation
+lemeLI.Epistle.book = bible_en_US_eob.Timothy1
+lemeLI.Epistle.chapverse = "(2:1-7)"
+lemeLI.Epistle.text = ""
+lemeLI.Epistle.pagenumber = ""
+
+lemeLI.Epistle2.title = "For St. Symeon the Stylite."
+lemeLI.Epistle2.version = le.ep.mc.d330_en_US_eob.lemcLI.Epistle.version 
+lemeLI.Epistle2.book = le.ep.mc.d330_en_US_eob.lemcLI.Epistle.book
+lemeLI.Epistle2.chapverse = le.ep.mc.d330_en_US_eob.lemcLI.Epistle.chapverse 
+lemeLI.Epistle2.text = le.ep.mc.d330_en_US_eob.lemcLI.Epistle.text

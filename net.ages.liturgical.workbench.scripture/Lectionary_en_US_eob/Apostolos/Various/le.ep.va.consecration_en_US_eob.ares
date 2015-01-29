@@ -1,0 +1,20 @@
+A_Resource_Whose_Name = le.ep.va.consecration_en_US_eob 
+
+levaCON.Epistle1.title = "At the Consecration of a Church."
+levaCON.Epistle1.version = properties_en_US_eob.version.designation
+levaCON.Epistle1.book = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.book
+levaCON.Epistle1.chapverse = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.chapverse
+levaCON.Epistle1.text = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.text
+
+levaCON.Epistle2.title = "Another."
+levaCON.Epistle2.version = properties_en_US_eob.version.designation
+levaCON.Epistle2.book = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.book
+levaCON.Epistle2.chapverse = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.chapverse
+levaCON.Epistle2.text = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.text
+
+levaLI.Epistle.title = "Another."
+levaLI.Epistle.version = properties_en_US_eob.version.designation
+levaLI.Epistle.book = le.ep.me.m09.d13_en_US_eob.lemeLI.Epistle.book
+levaLI.Epistle.chapverse = le.ep.me.m09.d13_en_US_eob.lemeLI.Epistle.chapverse
+levaLI.Epistle.text = le.ep.me.m09.d13_en_US_eob.lemeLI.Epistle.text
+

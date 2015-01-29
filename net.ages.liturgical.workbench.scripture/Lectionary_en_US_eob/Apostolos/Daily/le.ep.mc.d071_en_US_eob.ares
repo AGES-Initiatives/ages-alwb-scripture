@@ -1,0 +1,16 @@
+A_Resource_Whose_Name = le.ep.mc.d071_en_US_eob 
+
+lemcVE.Epistle.title = "HOLY SATURDAY"
+lemcVE.Epistle.version = properties_en_US_eob.version.designation
+lemcVE.Epistle.book = bible_en_US_eob.Romans
+lemcVE.Epistle.chapverse = "(6:3-11)"
+lemcVE.Epistle.text = ""
+lemcVE.Epistle.pagenumber = ""
+
+lemcLI.Epistle.title = "HOLY AND GREAT SUNDAY OF EASTER"
+lemcLI.Epistle.version = properties_en_US_eob.version.designation
+lemcLI.Epistle.book = bible_en_US_eob.Acts
+lemcLI.Epistle.chapverse = "(1:1-8)"
+lemcLI.Epistle.text = ""
+lemcLI.Epistle.pagenumber = ""
+

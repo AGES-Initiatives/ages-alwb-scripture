@@ -1,0 +1,8 @@
+A_Resource_Whose_Name = le.ep.va.baptism_en_US_eob 
+
+levaBAP.Epistle.title = "At Baptism."
+levaBAP.Epistle.version = properties_en_US_eob.version.designation
+levaBAP.Epistle.book = bible_en_US_eob.Romans
+levaBAP.Epistle.chapverse = "(6:3-11)"
+levaBAP.Epistle.text = ""
+

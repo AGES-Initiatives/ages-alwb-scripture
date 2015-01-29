@@ -1,0 +1,8 @@
+A_Resource_Whose_Name = le.ep.me.m08.d25_en_US_eob 
+
+lemeLI.Epistle.title = "For the Apostles."
+lemeLI.Epistle.version = properties_en_US_eob.version.designation
+lemeLI.Epistle.book = bible_en_US_eob.Titus
+lemeLI.Epistle.chapverse = "(1:1-5; 2:15; 3:1-2, 12-15)"
+lemeLI.Epistle.text = ""
+lemeLI.Epistle.pagenumber = ""

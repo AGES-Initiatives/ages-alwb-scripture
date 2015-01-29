@@ -1,0 +1,33 @@
+A_Resource_Whose_Name = le.ep.mc.d069_en_US_eob 
+
+lemcVE.Epistle.title = ""
+lemcVE.Epistle.version = properties_en_US_eob.version.designation
+lemcVE.Epistle.book = bible_en_US_eob.Corinthians1
+lemcVE.Epistle.chapverse = "(11:23-32)"
+lemcVE.Epistle.text = ""
+lemcVE.Epistle.pagenumber = ""
+
+lemcH1.Epistle.title = "HOLY AND GREAT FRIDAY, FIRST HOUR"
+lemcH1.Epistle.version = properties_en_US_eob.version.designation
+lemcH1.Epistle.book = bible_en_US_eob.Galatians
+lemcH1.Epistle.chapverse = "(6:14-18)"
+lemcH1.Epistle.text = ""
+
+lemcH3.Epistle.title = "HOLY AND GREAT FRIDAY, THIRD HOUR"
+lemcH3.Epistle.version = properties_en_US_eob.version.designation
+lemcH3.Epistle.book = bible_en_US_eob.Romans
+lemcH3.Epistle.chapverse = "(5:6-10)"
+lemcH3.Epistle.text = ""
+
+lemcH6.Epistle.title = "HOLY AND GREAT FRIDAY, SIXTH HOUR"
+lemcH6.Epistle.version = properties_en_US_eob.version.designation
+lemcH6.Epistle.book = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.book
+lemcH6.Epistle.chapverse = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.chapverse
+lemcH6.Epistle.text = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.text
+
+lemcH9.Epistle.title = "HOLY AND GREAT FRIDAY, NINTH HOUR"
+lemcH9.Epistle.version = properties_en_US_eob.version.designation
+lemcH9.Epistle.book = bible_en_US_eob.Hebrews
+lemcH9.Epistle.chapverse = "(10:19-31)"
+lemcH9.Epistle.text = ""
+

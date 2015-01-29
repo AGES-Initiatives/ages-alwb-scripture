@@ -1,0 +1,8 @@
+A_Resource_Whose_Name = le.ep.mc.d127_en_US_eob
+
+lemcLI.Epistle.title = "FIRST SUNDAY, SUNDAY OF ALL SAINTS"
+lemcLI.Epistle.book = bible_en_US_eob.Hebrews
+lemcLI.Epistle.version = properties_en_US_eob.version.designation
+lemcLI.Epistle.chapverse = "11:33-40; 12:1-2"
+lemcLI.Epistle.text = ""
+lemcLI.Epistle.pagenumber = ""

@@ -1,0 +1,7 @@
+A_Resource_Whose_Name = le.ep.va.dooropening_en_US_eob 
+
+levaCDO.Epistle.title = "At Thyranixia (Church Opening)"
+levaCDO.Epistle.version = properties_en_US_eob.version.designation
+levaCDO.Epistle.book = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.book
+levaCDO.Epistle.chapverse = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.chapverse
+levaCDO.Epistle.text = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.text
