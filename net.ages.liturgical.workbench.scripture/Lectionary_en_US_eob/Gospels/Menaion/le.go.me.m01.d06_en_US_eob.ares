@@ -1,0 +1,21 @@
+A_Resource_Whose_Name = le.go.me.m01.d06_en_US_eob 
+
+lemeVE.Gospel.title = "For the Feast."
+lemeVE.Gospel.version = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.version
+lemeVE.Gospel.book = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.book
+lemeVE.Gospel.chapverse = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.chapverse
+lemeVE.Gospel.text = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.text
+
+lemeMA.Gospel.title = "For the Feast."
+lemeMA.Gospel.version = properties_en_US_eob.version.designation
+lemeMA.Gospel.book = bible_en_US_eob.Mark
+lemeMA.Gospel.chapverse = "(1:9-11)"
+lemeMA.Gospel.text = ""
+
+lemeLI.Gospel.title = "For the Feast."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.Matthew
+lemeLI.Gospel.chapverse = "(3:13-17)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""
+

@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.me.m09.d14_en_US_eob 
+
+lemeMA.Gospel.title = "For the Cross."
+lemeMA.Gospel.version = properties_en_US_eob.version.designation
+lemeMA.Gospel.book = bible_en_US_eob.John
+lemeMA.Gospel.chapverse = "(12:28-36)"
+lemeMA.Gospel.text = ""
+
+lemeLI.Gospel.title = "For the Cross."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.John
+lemeLI.Gospel.chapverse = "(19:6-11, 13-20, 25-28, 30)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""
+

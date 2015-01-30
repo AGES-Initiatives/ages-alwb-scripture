@@ -1,0 +1,96 @@
+A_Resource_Whose_Name = le.go.os_en_US_eob
+
+leosVE.Prayer_NynApolyeis.title = "Song of Simeon."
+leosVE.Prayer_NynApolyeis.version = properties_en_US_eob.version.designation
+leosVE.Prayer_NynApolyeis.book = bible_en_US_eob.Luke
+leosVE.Prayer_NynApolyeis.chapverse = "(2:29-32)"
+leosVE.Prayer_NynApolyeis.text = ""
+leosVE.Prayer_NynApolyeis1.text = ""
+leosVE.Prayer_NynApolyeis2.text = ""
+
+leosMA.SixPsalmsIntro1.title = ""
+leosMA.SixPsalmsIntro1.version = properties_en_US_eob.version.designation
+leosMA.SixPsalmsIntro1.book = bible_en_US_eob.Luke
+leosMA.SixPsalmsIntro1.chapverse = "(2:14)"
+leosMA.SixPsalmsIntro1.text = ""
+
+//The NT Odes are referenced here and the template (MatinsParts) references these leos keys
+//so that the Scripture version of these NT texts will be controlled by the version option
+//for NT and not the option for Psalter, which is where the Odes live
+leosMA.Ode91.title = ps.bodes_en_US_eob.bode9.title
+leosMA.Ode91.version = 
+leosMA.Ode91.book = bible_en_US_eob.Luke
+leosMA.Ode91.heading1 = ps.bodes_en_US_eob.bode9_mag.heading1
+leosMA.Ode91.source = ps.bodes_en_US_eob.bode9_mag.chapverse
+leosMA.Ode91.heading2 = ps.bodes_en_US_eob.bode9_mag.heading2
+leosMA.Ode91.intro = ps.bodes_en_US_eob.bode9_mag.intro
+leosMA.Ode91.v1.number = ps.bodes_en_US_eob.bode9_mag.v1.number
+leosMA.Ode91.v1.text = ps.bodes_en_US_eob.bode9_mag.v1.text
+leosMA.Ode91.v2.number = ps.bodes_en_US_eob.bode9_mag.v2.number
+leosMA.Ode91.v2.text = ps.bodes_en_US_eob.bode9_mag.v2.text
+leosMA.Ode91.v3.number = ps.bodes_en_US_eob.bode9_mag.v3.number
+leosMA.Ode91.v3.text = ps.bodes_en_US_eob.bode9_mag.v3.text
+leosMA.Ode91.v4.number = ps.bodes_en_US_eob.bode9_mag.v4.number
+leosMA.Ode91.v4.text = ps.bodes_en_US_eob.bode9_mag.v4.text
+leosMA.Ode91.v5.number = ps.bodes_en_US_eob.bode9_mag.v5.number
+leosMA.Ode91.v5.text = ps.bodes_en_US_eob.bode9_mag.v5.text
+leosMA.Ode91.v6.number = ps.bodes_en_US_eob.bode9_mag.v6.number
+leosMA.Ode91.v6.text = ps.bodes_en_US_eob.bode9_mag.v6.text
+
+leosMA.Ode92.title = ""
+leosMA.Ode92.version = 
+leosMA.Ode92.book = bible_en_US_eob.Luke
+leosMA.Ode92.heading1 = ps.bodes_en_US_eob.bode9.heading1
+leosMA.Ode92.source = ps.bodes_en_US_eob.bode9.chapverse
+leosMA.Ode92.heading2 = ""
+leosMA.Ode92.intro = ps.bodes_en_US_eob.bode9.intro
+leosMA.Ode92.v1.number = ps.bodes_en_US_eob.bode9.v1.number
+leosMA.Ode92.v1.text = ps.bodes_en_US_eob.bode9.v1.text
+leosMA.Ode92.v2.number = ps.bodes_en_US_eob.bode9.v2.number
+leosMA.Ode92.v2.text = ps.bodes_en_US_eob.bode9.v2.text
+leosMA.Ode92.v3.number = ps.bodes_en_US_eob.bode9.v3.number
+leosMA.Ode92.v3.text = ps.bodes_en_US_eob.bode9.v3.text
+leosMA.Ode92.v4.number = ps.bodes_en_US_eob.bode9.v4.number
+leosMA.Ode92.v4.text = ps.bodes_en_US_eob.bode9.v4.text
+leosMA.Ode92.v5.number = ps.bodes_en_US_eob.bode9.v5.number
+leosMA.Ode92.v5.text = ps.bodes_en_US_eob.bode9.v5.text
+leosMA.Ode92.eight = "" 
+leosMA.Ode92.v6.number = ps.bodes_en_US_eob.bode9.v6.number
+leosMA.Ode92.v6.text = ps.bodes_en_US_eob.bode9.v6.text
+leosMA.Ode92.v7.number = ps.bodes_en_US_eob.bode9.v7.number
+leosMA.Ode92.v7.text = ps.bodes_en_US_eob.bode9.v7.text
+leosMA.Ode92.six = "" 
+leosMA.Ode92.v8.number = ps.bodes_en_US_eob.bode9.v8.number
+leosMA.Ode92.v8.text = ps.bodes_en_US_eob.bode9.v8.text
+leosMA.Ode92.v9.number = ps.bodes_en_US_eob.bode9.v9.number
+leosMA.Ode92.v9.text = ps.bodes_en_US_eob.bode9.v9.text
+leosMA.Ode92.four = "" 
+leosMA.Ode92.v10.number = ps.bodes_en_US_eob.bode9.v10.number
+leosMA.Ode92.v10.text = ps.bodes_en_US_eob.bode9.v10.text
+leosMA.Ode92.v11.number = ps.bodes_en_US_eob.bode9.v11.number
+leosMA.Ode92.v11.text = ps.bodes_en_US_eob.bode9.v11.text
+
+leosLI.pe.d095.CommunionHymn.title = "Communion Hymn for Mid-Pentecost."
+leosLI.pe.d095.CommunionHymn.version = properties_en_US_eob.version.designation
+leosLI.pe.d095.CommunionHymn.book = bible_en_US_eob.John
+leosLI.pe.d095.CommunionHymn.number = "(6:56)"
+leosLI.pe.d095.CommunionHymn.text = ""
+
+leosTY.Beatitudes.title = "THE BEATITUDES"
+leosTY.Beatitudes.version = properties_en_US_eob.version.designation
+leosTY.Beatitudes.book = bible_en_US_eob.Matthew
+leosTY.Beatitudes.chapverse = "(5)"
+leosTY.Beatitudes_Intro.text = ""
+leosTY.Beatitudes_v01.text = ""
+leosTY.Beatitudes_v02.text = ""
+leosTY.Beatitudes_v03.text = ""
+leosTY.Beatitudes_v04.text = ""
+leosTY.Beatitudes_v05.text = ""
+leosTY.Beatitudes_v06.text = ""
+leosTY.Beatitudes_v07.text = ""
+leosTY.Beatitudes_v08.text = ""
+leosTY.Beatitudes_v09.text = ""
+leosTY.Beatitudes_v10.text = ""
+leosTY.Beatitudes_Refrain1.text = ""
+leosTY.Beatitudes_Refrain2.text = ""
+leosTY.Beatitudes_Refrain3.text = ""

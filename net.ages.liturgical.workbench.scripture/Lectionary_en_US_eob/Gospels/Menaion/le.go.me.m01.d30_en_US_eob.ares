@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.me.m01.d30_en_US_eob 
+
+lemeMA.Gospel.title = "For the Saints."
+lemeMA.Gospel.version = properties_en_US_eob.version.designation
+lemeMA.Gospel.book = bible_en_US_eob.John
+lemeMA.Gospel.chapverse = "(10:9-16)"
+lemeMA.Gospel.text = ""
+
+lemeLI.Gospel.title = "For the Saints."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.Matthew
+lemeLI.Gospel.chapverse = "(5:14-19)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""
+

@@ -1,0 +1,21 @@
+A_Resource_Whose_Name = le.go.me.m12.d25_en_US_eob 
+
+lemeVE.Gospel.title = "For the Feast."
+lemeVE.Gospel.version = properties_en_US_eob.version.designation
+lemeVE.Gospel.book = bible_en_US_eob.Luke
+lemeVE.Gospel.chapverse = "(2:1-20)"
+lemeVE.Gospel.text = ""
+
+lemeMA.Gospel.title = "For the Feast."
+lemeMA.Gospel.version = properties_en_US_eob.version.designation
+lemeMA.Gospel.book = bible_en_US_eob.Matthew
+lemeMA.Gospel.chapverse = "(1:18-25)"
+lemeMA.Gospel.text = ""
+
+lemeLI.Gospel.title = "For the Feast."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.Matthew
+lemeLI.Gospel.chapverse = "(2:1-12)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""
+

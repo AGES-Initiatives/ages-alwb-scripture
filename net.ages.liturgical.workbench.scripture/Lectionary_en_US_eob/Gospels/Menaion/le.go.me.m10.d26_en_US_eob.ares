@@ -1,0 +1,20 @@
+A_Resource_Whose_Name = le.go.me.m10.d26_en_US_eob 
+
+lemeMA.Gospel.title = "For the Saint."
+lemeMA.Gospel.version = properties_en_US_eob.version.designation
+lemeMA.Gospel.book = bible_en_US_eob.Luke
+lemeMA.Gospel.chapverse = "(21:12-19)"
+lemeMA.Gospel.text = ""
+
+lemeLI.Gospel.title = "For the Saint."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.John
+lemeLI.Gospel.chapverse = "(15:17-27; 16:1-2)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""
+
+lemeLI.Gospel2.title = "For the Earthquake."
+lemeLI.Gospel2.version = le.go.mc.d131_en_US_eob.lemcLI.Gospel.version
+lemeLI.Gospel2.book = le.go.mc.d131_en_US_eob.lemcLI.Gospel.book
+lemeLI.Gospel2.chapverse = le.go.mc.d131_en_US_eob.lemcLI.Gospel.chapverse
+lemeLI.Gospel2.text = le.go.mc.d131_en_US_eob.lemcLI.Gospel.text

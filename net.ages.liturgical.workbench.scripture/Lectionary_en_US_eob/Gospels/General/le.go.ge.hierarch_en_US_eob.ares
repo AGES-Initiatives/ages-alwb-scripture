@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.go.ge.hierarch_en_US_eob 
+
+legeMA.Gospel.title = "For a Hierarch"
+legeMA.Gospel.version = properties_en_US_eob.version.designation
+legeMA.Gospel.book = bible_en_US_eob.John
+legeMA.Gospel.chapverse = "(10:1-9)"
+legeMA.Gospel.text = ""
+
+legeLI.Gospel.title = "For a Hierarch"
+legeLI.Gospel.version = properties_en_US_eob.version.designation
+legeLI.Gospel.book = bible_en_US_eob.John
+legeLI.Gospel.chapverse = "(10:9-16)"
+legeLI.Gospel.text = ""

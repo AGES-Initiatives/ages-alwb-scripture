@@ -1,0 +1,7 @@
+A_Resource_Whose_Name = le.go.mc.d026_en_US_eob
+
+lemcCO.Gospel.title = "Gospel Reading at Compline on Wednesday"
+lemcCO.Gospel.version = properties_en_US_eob.version.designation
+lemcCO.Gospel.book = bible_en_US_eob.Mark
+lemcCO.Gospel.chapverse = "(11:22-26, Matt. 7:7-8)"
+lemcCO.Gospel.text = ""

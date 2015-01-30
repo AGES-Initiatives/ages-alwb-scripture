@@ -3,8 +3,8 @@ A_Resource_Whose_Name = properties_en_US_eob
 version.designation = "EOB"
 version.translator = ""
 
-version.copyright1 = "The EOB can is can be freely obtained in PDF format upon request by individuals and parishes and to be printed for the use of individuals and parishes. The PDF may not be posted to distributed by anyone on the Internet without permission."
-version.copyright2 = "Only commercial printing is held as a restricted right."
+version.copyright1 = "© Laurent Cleenewerck, Editor, 2007-2011. All rights reserved. Permissions to use, quote, reproduce and modify for non-commercial, liturgical or scholarly purposes is hereby granted to all institutions, parishes, clergy, or lay members affiliated to the affiliated jurisdictions and agencies of the Assembly of Canonical Orthodox Bishops of North and Central America, as well as all jurisdictions in communion with the Ecumenical Patriarchate of Constantinople. This clause applies to the biblical text and footnotes only, not to Introductory. It is requested that any modifications be communicated to: eobeditor@easternorthodoxbible.org for possible inclusion in future editions of the EOB."
+version.copyright2 = "The EOB can is can be freely obtained in PDF format upon request by individuals and parishes and to be printed for the use of individuals and parishes. The PDF may not be posted to distributed by anyone on the Internet without permission. Only commercial printing is held as a restricted right."
 version.copyright3 = "Intellectual property applies to the EOB text, logo, artwork and web site; but these can be reproduced and cited for information purposes."
 
 contact.address_1 = ""

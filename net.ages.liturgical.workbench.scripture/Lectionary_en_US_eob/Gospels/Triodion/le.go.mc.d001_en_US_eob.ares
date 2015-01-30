@@ -1,0 +1,8 @@
+A_Resource_Whose_Name = le.go.mc.d001_en_US_eob
+
+lemcLI.Gospel.title = "Sunday of the Publican and Pharisee"
+lemcLI.Gospel.version = properties_en_US_eob.version.designation
+lemcLI.Gospel.book = bible_en_US_eob.Luke
+lemcLI.Gospel.chapverse = "(18:10-14)"
+lemcLI.Gospel.text = le.go.lu.d112_en_US_eob.leluLI.Gospel.text
+lemcLI.Gospel.pagenumber = ""

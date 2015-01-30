@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.mc.d068_en_US_eob
+
+lemcVE.Gospel.title = "Great and Holy Wednesday"
+lemcVE.Gospel.version = properties_en_US_eob.version.designation
+lemcVE.Gospel.book = bible_en_US_eob.Matthew
+lemcVE.Gospel.chapverse = "(26:6-16)"
+lemcVE.Gospel.text = ""
+
+lemcMA.Gospel.title = "Great and Holy Thursday"
+lemcMA.Gospel.version = properties_en_US_eob.version.designation
+lemcMA.Gospel.book = bible_en_US_eob.Luke
+lemcMA.Gospel.chapverse = "(22:1-39)"
+lemcMA.Gospel.text = ""
+

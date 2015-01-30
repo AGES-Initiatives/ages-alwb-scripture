@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.mc.d106_en_US_eob
+
+lemcMA.Gospel.title = "Sunday of the Blind Man"
+lemcMA.Gospel.version = properties_en_US_eob.version.designation
+lemcMA.Gospel.book = bible_en_US_eob.John
+lemcMA.Gospel.chapverse = "(20:11-18)"
+lemcMA.Gospel.text = ""
+
+lemcLI.Gospel.title = "Sunday of the Blind Man"
+lemcLI.Gospel.version = properties_en_US_eob.version.designation
+lemcLI.Gospel.book = bible_en_US_eob.John
+lemcLI.Gospel.chapverse = "(9:1-38)"
+lemcLI.Gospel.text = ""
+lemcLI.Gospel.pagenumber = ""

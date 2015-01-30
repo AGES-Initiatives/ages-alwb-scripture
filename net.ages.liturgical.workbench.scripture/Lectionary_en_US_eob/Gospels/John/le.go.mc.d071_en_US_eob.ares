@@ -1,0 +1,20 @@
+A_Resource_Whose_Name = le.go.mc.d071_en_US_eob
+
+lemcVE.Gospel.title = "Great and Holy Saturday Morning"
+lemcVE.Gospel.version = properties_en_US_eob.version.designation
+lemcVE.Gospel.book = bible_en_US_eob.Matthew
+lemcVE.Gospel.chapverse = "(28:1-20)"
+lemcVE.Gospel.text = ""
+
+lemcMA.Gospel.title = "Gospel of the Resurrection"
+lemcMA.Gospel.version = properties_en_US_eob.version.designation
+lemcMA.Gospel.book = bible_en_US_eob.Mark
+lemcMA.Gospel.chapverse = "(16:1-8)"
+lemcMA.Gospel.text = ""
+
+lemcLI.Gospel.title = "Great and Holy Pascha"
+lemcLI.Gospel.version = properties_en_US_eob.version.designation
+lemcLI.Gospel.book = bible_en_US_eob.John
+lemcLI.Gospel.chapverse = "(1:1-17)"
+lemcLI.Gospel.text = ""
+lemcLI.Gospel.pagenumber = ""

@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.mc.d064_en_US_eob
+
+lemcMA.Gospel.title = "Palm Sunday"
+lemcMA.Gospel.version = properties_en_US_eob.version.designation
+lemcMA.Gospel.book = bible_en_US_eob.Matthew
+lemcMA.Gospel.chapverse = "(21:1-11; 15-17)"
+lemcMA.Gospel.text = ""
+
+lemcLI.Gospel.title = "Palm Sunday"
+lemcLI.Gospel.version = properties_en_US_eob.version.designation
+lemcLI.Gospel.book = bible_en_US_eob.John
+lemcLI.Gospel.chapverse = "(12:1-18)"
+lemcLI.Gospel.text = ""
+lemcLI.Gospel.pagenumber = ""
+

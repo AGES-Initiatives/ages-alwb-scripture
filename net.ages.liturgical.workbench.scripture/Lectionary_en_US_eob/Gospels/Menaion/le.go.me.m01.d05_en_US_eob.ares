@@ -1,0 +1,25 @@
+A_Resource_Whose_Name = le.go.me.m01.d05_en_US_eob 
+
+lemeH1.Gospel.title = "Gospel for the First Hour"
+lemeH1.Gospel.version = properties_en_US_eob.version.designation
+lemeH1.Gospel.book = bible_en_US_eob.Matthew
+lemeH1.Gospel.chapverse = "(3:1-6)"
+lemeH1.Gospel.text = ""
+
+lemeH3.Gospel.title = "Gospel for the Third Hour"
+lemeH3.Gospel.version = properties_en_US_eob.version.designation
+lemeH3.Gospel.book = bible_en_US_eob.Mark
+lemeH3.Gospel.chapverse = "(1:1-8)"
+lemeH3.Gospel.text = ""
+
+lemeH6.Gospel.title = "Gospel for the Sixth Hour"
+lemeH6.Gospel.version = properties_en_US_eob.version.designation
+lemeH6.Gospel.book = bible_en_US_eob.Mark
+lemeH6.Gospel.chapverse = "(1:9-11)"
+lemeH6.Gospel.text = ""
+
+lemeH9.Gospel.title = "Gospel for the Ninth Hour"
+lemeH9.Gospel.version = properties_en_US_eob.version.designation
+lemeH9.Gospel.book = bible_en_US_eob.Luke
+lemeH9.Gospel.chapverse = "(3:1-18)"
+lemeH9.Gospel.text = ""

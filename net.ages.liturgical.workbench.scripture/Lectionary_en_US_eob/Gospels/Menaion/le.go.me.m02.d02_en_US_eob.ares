@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.me.m02.d02_en_US_eob 
+
+lemeMA.Gospel.title = "For the Feast."
+lemeMA.Gospel.version = properties_en_US_eob.version.designation
+lemeMA.Gospel.book = bible_en_US_eob.Luke
+lemeMA.Gospel.chapverse = "(2:25-32)"
+lemeMA.Gospel.text = ""
+
+lemeLI.Gospel.title = "For the Feast."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.Luke
+lemeLI.Gospel.chapverse = "(2:22-40)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""
+

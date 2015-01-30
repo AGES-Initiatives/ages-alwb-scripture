@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.me.m02.d06_en_US_eob 
+
+lemeMA.Gospel.title = "For the Saint."
+lemeMA.Gospel.version = le.go.ge.hierarch_en_US_eob.legeMA.Gospel.version
+lemeMA.Gospel.book = le.go.ge.hierarch_en_US_eob.legeMA.Gospel.book
+lemeMA.Gospel.chapverse = le.go.ge.hierarch_en_US_eob.legeMA.Gospel.chapverse
+lemeMA.Gospel.text = le.go.ge.hierarch_en_US_eob.legeMA.Gospel.text
+
+lemeLI.Gospel.title = "For the Saint."
+lemeLI.Gospel.version = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.version
+lemeLI.Gospel.book = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.book
+lemeLI.Gospel.chapverse = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.chapverse
+lemeLI.Gospel.text = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.text
+lemeLI.Gospel.pagenumber = ""
+

@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.mc.d070_en_US_eob
+
+lemcVE.Gospel.title = "Great and Holy Friday" //Friday Afternoon
+lemcVE.Gospel.version = properties_en_US_eob.version.designation
+lemcVE.Gospel.book = bible_en_US_eob.Matthew
+lemcVE.Gospel.chapverse = "(Matthew 27:1-38, Luke 23:39-43, Matthew 27:39-54, John 19:31-37, Matthew 27:55-61)"
+lemcVE.Gospel.text = ""
+
+lemcLI.Gospel.title = "Friday Night" //Friday night at Matins
+lemcLI.Gospel.version = properties_en_US_eob.version.designation
+lemcLI.Gospel.book = bible_en_US_eob.Matthew
+lemcLI.Gospel.chapverse = "(27:62-66)"
+lemcLI.Gospel.text = ""
+lemcLI.Gospel.pagenumber = ""
+

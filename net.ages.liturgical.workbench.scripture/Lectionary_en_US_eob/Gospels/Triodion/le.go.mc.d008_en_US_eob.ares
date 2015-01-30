@@ -1,0 +1,8 @@
+A_Resource_Whose_Name = le.go.mc.d008_en_US_eob
+
+lemcLI.Gospel.title = "The 17th Sunday: The Prodigal Son"
+lemcLI.Gospel.version = properties_en_US_eob.version.designation
+lemcLI.Gospel.book = bible_en_US_eob.Luke
+lemcLI.Gospel.chapverse = "(15:11-32)"
+lemcLI.Gospel.text = le.go.lu.d119_en_US_eob.leluLI.Gospel.text
+lemcLI.Gospel.pagenumber = ""

@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.mc.d120_en_US_eob
+
+lemcMA.Gospel.title = "Holy Pentecost"
+lemcMA.Gospel.version = properties_en_US_eob.version.designation
+lemcMA.Gospel.book = bible_en_US_eob.John
+lemcMA.Gospel.chapverse = "(20:19-23)"
+lemcMA.Gospel.text = ""
+
+lemcLI.Gospel.title = "Holy Pentecost"
+lemcLI.Gospel.version = properties_en_US_eob.version.designation
+lemcLI.Gospel.book = bible_en_US_eob.John
+lemcLI.Gospel.chapverse = "(7:37-52; 8:12)"
+lemcLI.Gospel.text = ""
+lemcLI.Gospel.pagenumber = ""

@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.me.m12.d04_en_US_eob 
+
+lemeMA.Gospel.title = "Orthros. For the Saint."
+lemeMA.Gospel.version = properties_en_US_eob.version.designation
+lemeMA.Gospel.book = bible_en_US_eob.Matthew
+lemeMA.Gospel.chapverse = "(25:1-13)"
+lemeMA.Gospel.text = ""
+
+lemeLI.Gospel.title = "Liturgy. For the Saint."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.Mark
+lemeLI.Gospel.chapverse = "(5:24-34)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""

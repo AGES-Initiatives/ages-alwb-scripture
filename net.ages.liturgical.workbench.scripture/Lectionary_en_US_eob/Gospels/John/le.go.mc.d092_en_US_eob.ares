@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.mc.d092_en_US_eob
+
+lemcMA.Gospel.title = "Sunday of the Paralytic"
+lemcMA.Gospel.version = properties_en_US_eob.version.designation
+lemcMA.Gospel.book = bible_en_US_eob.Luke
+lemcMA.Gospel.chapverse = "(24:13-35)"
+lemcMA.Gospel.text = ""
+
+lemcLI.Gospel.title = "Sunday of the Paralytic"
+lemcLI.Gospel.version = properties_en_US_eob.version.designation
+lemcLI.Gospel.book = bible_en_US_eob.John
+lemcLI.Gospel.chapverse = "(5:1-15)"
+lemcLI.Gospel.text = ""
+lemcLI.Gospel.pagenumber = ""

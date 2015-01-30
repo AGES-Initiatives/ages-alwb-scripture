@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.me.m12.d06_en_US_eob 
+
+lemeMA.Gospel.title = "Orthros. For the Saint."
+lemeMA.Gospel.version = properties_en_US_eob.version.designation
+lemeMA.Gospel.book = bible_en_US_eob.John
+lemeMA.Gospel.chapverse = "(10:1-9)"
+lemeMA.Gospel.text = ""
+
+lemeLI.Gospel.title = "Liturgy. For the Saint."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.Luke
+lemeLI.Gospel.chapverse = "(6:17-23)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""
+

@@ -1,0 +1,8 @@
+A_Resource_Whose_Name = le.go.mc.d119_en_US_eob
+
+lemcLI.Gospel.title = "Seventh Saturday after Pascha" // Saturday of Souls, Saturday before Pentecost
+lemcLI.Gospel.version = properties_en_US_eob.version.designation
+lemcLI.Gospel.book = bible_en_US_eob.John
+lemcLI.Gospel.chapverse = "(21:14-25)"
+lemcLI.Gospel.text = ""
+lemcLI.Gospel.pagenumber = ""

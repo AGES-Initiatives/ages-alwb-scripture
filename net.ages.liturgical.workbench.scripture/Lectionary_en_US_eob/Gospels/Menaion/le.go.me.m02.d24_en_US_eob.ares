@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.me.m02.d24_en_US_eob 
+
+lemeMA.Gospel.title = "For the Forerunner."
+lemeMA.Gospel.version = properties_en_US_eob.version.designation
+lemeMA.Gospel.book = bible_en_US_eob.Luke
+lemeMA.Gospel.chapverse = "(7:17-30)"
+lemeMA.Gospel.text = ""
+
+lemeLI.Gospel.title = "For the Forerunner."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.Matthew
+lemeLI.Gospel.chapverse = "(11:2-15)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""
+
