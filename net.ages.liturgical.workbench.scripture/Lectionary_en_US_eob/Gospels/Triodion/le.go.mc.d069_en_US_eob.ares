@@ -1,0 +1,116 @@
+A_Resource_Whose_Name = le.go.mc.d069_en_US_eob
+
+lemcVE.Gospel.title = ""
+lemcVE.Gospel.version = properties_en_US_eob.version.designation
+lemcVE.Gospel.book = bible_en_US_eob.Matthew
+lemcVE.Gospel.chapverse = "(Matthew 26:1-20; John 13:3-17; Matthew 26:21-39; Luke 22:43-44; Matthew 26:40-75; 27:1-2)"
+lemcVE.Gospel.text = ""
+
+lemcHW.NiptirGospel1.title = ""
+lemcHW.NiptirGospel1.version = properties_en_US_eob.version.designation
+lemcHW.NiptirGospel1.book = bible_en_US_eob.John
+lemcHW.NiptirGospel1.chapverse = "(13:3-11)"
+lemcHW.NiptirGospel1.text = ""
+
+lemcHW.NiptirGospel2.title = ""
+lemcHW.NiptirGospel2.version = properties_en_US_eob.version.designation
+lemcHW.NiptirGospel2.book = bible_en_US_eob.John
+lemcHW.NiptirGospel2.chapverse = "(13:12-17)"
+lemcHW.NiptirGospel2.text = ""
+
+lemcHW.PassionGospel01.title = "GOSPEL 1"
+lemcHW.PassionGospel01.version = properties_en_US_eob.version.designation
+lemcHW.PassionGospel01.book = bible_en_US_eob.John
+lemcHW.PassionGospel01.chapverse = "(13:31-38; 14-18:1)"
+lemcHW.PassionGospel01.text = ""
+
+lemcHW.PassionGospel02.title = "GOSPEL 2"
+lemcHW.PassionGospel02.version = properties_en_US_eob.version.designation
+lemcHW.PassionGospel02.book = bible_en_US_eob.John
+lemcHW.PassionGospel02.chapverse = "(18:1-28)"
+lemcHW.PassionGospel02.text = ""
+
+lemcHW.PassionGospel03.title = "GOSPEL 3"
+lemcHW.PassionGospel03.version = properties_en_US_eob.version.designation
+lemcHW.PassionGospel03.book = bible_en_US_eob.Matthew
+lemcHW.PassionGospel03.chapverse = "(26:57-75)"
+lemcHW.PassionGospel03.text = ""
+
+lemcHW.PassionGospel04.title = "GOSPEL 4"
+lemcHW.PassionGospel04.version = properties_en_US_eob.version.designation
+lemcHW.PassionGospel04.book = bible_en_US_eob.John
+lemcHW.PassionGospel04.chapverse = "(18:28-40; 19:1-16)"
+lemcHW.PassionGospel04.text = ""
+
+lemcHW.PassionGospel05.title = "GOSPEL 5"
+lemcHW.PassionGospel05.version = properties_en_US_eob.version.designation
+lemcHW.PassionGospel05.book = bible_en_US_eob.Matthew
+lemcHW.PassionGospel05.chapverse = "(27:3-32)"
+lemcHW.PassionGospel05.text = ""
+
+lemcHW.PassionGospel06.title = "GOSPEL 6"
+lemcHW.PassionGospel06.version = properties_en_US_eob.version.designation
+lemcHW.PassionGospel06.book = bible_en_US_eob.Mark
+lemcHW.PassionGospel06.chapverse = "(15:16-32)"
+lemcHW.PassionGospel06.text = ""
+
+lemcHW.PassionGospel07.title = "GOSPEL 7"
+lemcHW.PassionGospel07.version = properties_en_US_eob.version.designation
+lemcHW.PassionGospel07.book = bible_en_US_eob.Matthew
+lemcHW.PassionGospel07.chapverse = "(27:33-54)"
+lemcHW.PassionGospel07.text = ""
+
+lemcHW.PassionGospel08.title = "GOSPEL 8"
+lemcHW.PassionGospel08.version = properties_en_US_eob.version.designation
+lemcHW.PassionGospel08.book = bible_en_US_eob.Luke
+lemcHW.PassionGospel08.chapverse = "(23:32-49)"
+lemcHW.PassionGospel08.text = ""
+
+lemcHW.PassionGospel09.title = "GOSPEL 9"
+lemcHW.PassionGospel09.version = properties_en_US_eob.version.designation
+lemcHW.PassionGospel09.book = bible_en_US_eob.John
+lemcHW.PassionGospel09.chapverse = "(19:25-37)"
+lemcHW.PassionGospel09.text = ""
+
+lemcHW.PassionGospel10.title = "GOSPEL 10"
+lemcHW.PassionGospel10.version = properties_en_US_eob.version.designation
+lemcHW.PassionGospel10.book = bible_en_US_eob.Mark
+lemcHW.PassionGospel10.chapverse = "(15:43-47)"
+lemcHW.PassionGospel10.text = ""
+
+lemcHW.PassionGospel11.title = "GOSPEL 11"
+lemcHW.PassionGospel11.version = properties_en_US_eob.version.designation
+lemcHW.PassionGospel11.book = bible_en_US_eob.John
+lemcHW.PassionGospel11.chapverse = "(19:38-42)"
+lemcHW.PassionGospel11.text = ""
+
+lemcHW.PassionGospel12.title = "GOSPEL 12"
+lemcHW.PassionGospel12.version = properties_en_US_eob.version.designation
+lemcHW.PassionGospel12.book = bible_en_US_eob.Matthew
+lemcHW.PassionGospel12.chapverse = "(27:62-66)"
+lemcHW.PassionGospel12.text = ""
+
+lemcH1.Gospel.title = "Great and Holy Friday Gospel of the First Hour"
+lemcH1.Gospel.version = properties_en_US_eob.version.designation
+lemcH1.Gospel.book = bible_en_US_eob.Matthew
+lemcH1.Gospel.chapverse = "(27:1-56)"
+lemcH1.Gospel.text = ""
+
+lemcH3.Gospel.title = "Great and Holy Friday Gospel of the Third Hour"
+lemcH3.Gospel.version = properties_en_US_eob.version.designation
+lemcH3.Gospel.book = bible_en_US_eob.Mark
+lemcH3.Gospel.chapverse = "(15:16-41)"
+lemcH3.Gospel.text = ""
+
+lemcH6.Gospel.title = "Great and Holy Friday Gospel of the Sixth Hour"
+lemcH6.Gospel.version = properties_en_US_eob.version.designation
+lemcH6.Gospel.book = bible_en_US_eob.Luke
+lemcH6.Gospel.chapverse = "(23:32-49)"
+lemcH6.Gospel.text = ""
+
+lemcH9.Gospel.title = "Great and Holy Friday Gospel of the Ninth Hour"
+lemcH9.Gospel.version = properties_en_US_eob.version.designation
+lemcH9.Gospel.book = bible_en_US_eob.John
+lemcH9.Gospel.chapverse = "(19:23-37)"
+lemcH9.Gospel.text = ""
+

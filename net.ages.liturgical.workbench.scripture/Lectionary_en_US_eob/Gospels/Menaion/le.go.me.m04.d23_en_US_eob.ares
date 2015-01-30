@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.me.m04.d23_en_US_eob 
+
+lemeMA.Gospel.title = "For the Saint."
+lemeMA.Gospel.version = properties_en_US_eob.version.designation
+lemeMA.Gospel.book = bible_en_US_eob.Luke
+lemeMA.Gospel.chapverse = "(21:12-19)"
+lemeMA.Gospel.text = ""
+
+lemeLI.Gospel.title = "For the Saint."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.John
+lemeLI.Gospel.chapverse = "(15:17-27; 16:1-2)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""
+

@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.mc.d085_en_US_eob
+
+lemcMA.Gospel.title = "Sunday of the Myrrh-Bearing Women"
+lemcMA.Gospel.version = properties_en_US_eob.version.designation
+lemcMA.Gospel.book = bible_en_US_eob.Luke
+lemcMA.Gospel.chapverse = "(24:1-12)"
+lemcMA.Gospel.text = ""
+
+lemcLI.Gospel.title = "Sunday of the Myrrh-Bearing Women"
+lemcLI.Gospel.version = properties_en_US_eob.version.designation
+lemcLI.Gospel.book = bible_en_US_eob.Mark
+lemcLI.Gospel.chapverse = "(15:43-47; 16:1-8)"
+lemcLI.Gospel.text = ""
+lemcLI.Gospel.pagenumber = ""

@@ -1,0 +1,16 @@
+A_Resource_Whose_Name = le.go.me.m01.d11_en_US_eob 
+
+lemeLI.Gospel.title = "For the Afterfeast."
+lemeLI.Gospel.version = le.go.lu.d003_en_US_eob.leluLI.Gospel.version
+lemeLI.Gospel.book = le.go.lu.d003_en_US_eob.leluLI.Gospel.book
+lemeLI.Gospel.chapverse = le.go.lu.d003_en_US_eob.leluLI.Gospel.chapverse
+lemeLI.Gospel.text = le.go.lu.d003_en_US_eob.leluLI.Gospel.text
+lemeLI.Gospel.pagenumber = ""
+
+lemeLI.Gospel2.title = "For the Saint."
+lemeLI.Gospel2.version = le.go.me.m12.d05_en_US_eob.lemeLI.Gospel.version
+lemeLI.Gospel2.book = le.go.me.m12.d05_en_US_eob.lemeLI.Gospel.book
+lemeLI.Gospel2.chapverse = le.go.me.m12.d05_en_US_eob.lemeLI.Gospel.chapverse
+lemeLI.Gospel2.text = le.go.me.m12.d05_en_US_eob.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = ""
+

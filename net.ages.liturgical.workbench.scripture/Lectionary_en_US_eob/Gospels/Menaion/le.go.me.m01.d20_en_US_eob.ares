@@ -1,0 +1,16 @@
+A_Resource_Whose_Name = le.go.me.m01.d20_en_US_eob 
+
+lemeMA.Gospel.title = "For the Saint."
+lemeMA.Gospel.version = le.go.me.m12.d05_en_US_eob.lemeLI.Gospel.version
+lemeMA.Gospel.book = le.go.me.m12.d05_en_US_eob.lemeLI.Gospel.book
+lemeMA.Gospel.chapverse = le.go.me.m12.d05_en_US_eob.lemeLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m12.d05_en_US_eob.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = ""
+
+lemeLI.Gospel.title = "For the Saint."
+lemeLI.Gospel.version = le.go.me.m12.d05_en_US_eob.lemeMA.Gospel.version
+lemeLI.Gospel.book = le.go.me.m12.d05_en_US_eob.lemeMA.Gospel.book
+lemeLI.Gospel.chapverse = le.go.me.m12.d05_en_US_eob.lemeMA.Gospel.chapverse
+lemeLI.Gospel.text = le.go.me.m12.d05_en_US_eob.lemeMA.Gospel.text
+lemeLI.Gospel.pagenumber = ""
+

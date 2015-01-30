@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.me.m01.d01_en_US_eob 
+
+lemeMA.Gospel.title = "For the Saint."
+lemeMA.Gospel.version = le.go.me.m11.d13_en_US_eob.lemeMA.Gospel.version
+lemeMA.Gospel.book = le.go.me.m11.d13_en_US_eob.lemeMA.Gospel.book
+lemeMA.Gospel.chapverse = le.go.me.m11.d13_en_US_eob.lemeMA.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m11.d13_en_US_eob.lemeMA.Gospel.text
+
+lemeLI.Gospel.title = "For the Feast."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.Luke
+lemeLI.Gospel.chapverse = "(2:20-21, 40-52)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""
+

@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.me.m05.d21_en_US_eob 
+
+lemeMA.Gospel.title = "For the Saints."
+lemeMA.Gospel.version = le.go.me.m01.d30_en_US_eob.lemeMA.Gospel.version
+lemeMA.Gospel.book = le.go.me.m01.d30_en_US_eob.lemeMA.Gospel.book
+lemeMA.Gospel.chapverse = le.go.me.m01.d30_en_US_eob.lemeMA.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m01.d30_en_US_eob.lemeMA.Gospel.text
+
+lemeLI.Gospel.title = "For the Saints."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.John
+lemeLI.Gospel.chapverse = "(10:1-9)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""
+

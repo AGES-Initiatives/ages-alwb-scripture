@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.go.ge.martyr_en_US_eob 
+
+legeMA.Gospel.title = "For a Martyr"
+legeMA.Gospel.version = properties_en_US_eob.version.designation
+legeMA.Gospel.book = bible_en_US_eob.Luke
+legeMA.Gospel.chapverse = "(21:12-19)"
+legeMA.Gospel.text = ""
+
+legeLI.Gospel.title = "For a Martyr"
+legeLI.Gospel.version = properties_en_US_eob.version.designation
+legeLI.Gospel.book = bible_en_US_eob.John
+legeLI.Gospel.chapverse = "(15:17-27; 16:1-2)"
+legeLI.Gospel.text = ""

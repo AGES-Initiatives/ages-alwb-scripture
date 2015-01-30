@@ -1,0 +1,16 @@
+A_Resource_Whose_Name = le.go.me.m09.d02_en_US_eob 
+
+lemeLI.Gospel.title = "For St. Mamas."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.John
+lemeLI.Gospel.chapverse = "(15:1-11)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""
+
+lemeLI.Gospel2.title = "For St. John."
+lemeLI2.Gospel.version = le.go.me.m11.d13_en_US_eob.lemeLI.Gospel.version
+lemeLI2.Gospel.book = le.go.me.m11.d13_en_US_eob.lemeLI.Gospel.book
+lemeLI2.Gospel.chapverse = le.go.me.m11.d13_en_US_eob.lemeLI.Gospel.chapverse
+lemeLI2.Gospel.text = le.go.me.m11.d13_en_US_eob.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = ""
+

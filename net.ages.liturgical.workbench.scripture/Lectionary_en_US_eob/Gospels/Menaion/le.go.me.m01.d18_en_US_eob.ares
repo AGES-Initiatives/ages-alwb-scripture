@@ -1,0 +1,16 @@
+A_Resource_Whose_Name = le.go.me.m01.d18_en_US_eob 
+
+lemeMA.Gospel.title = "For the Saints."
+lemeMA.Gospel.version = le.go.me.m11.d13_en_US_eob.lemeLI.Gospel.version
+lemeMA.Gospel.book = le.go.me.m11.d13_en_US_eob.lemeLI.Gospel.book
+lemeMA.Gospel.chapverse = le.go.me.m11.d13_en_US_eob.lemeLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m11.d13_en_US_eob.lemeLI.Gospel.text
+lemeLI.Gospel.pagenumber = ""
+
+lemeLI.Gospel.title = "For the Saints."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.Matthew
+lemeLI.Gospel.chapverse = "(5:14-19)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""
+

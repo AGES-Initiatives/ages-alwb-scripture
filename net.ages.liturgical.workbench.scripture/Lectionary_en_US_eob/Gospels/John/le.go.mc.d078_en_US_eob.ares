@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.mc.d078_en_US_eob 
+
+lemcMA.Gospel.title = "Thomas Sunday"
+lemcMA.Gospel.version = properties_en_US_eob.version.designation
+lemcMA.Gospel.book = bible_en_US_eob.Matthew
+lemcMA.Gospel.chapverse = "(28:16-20)"
+lemcMA.Gospel.text = ""
+
+lemcLI.Gospel.title = "Thomas Sunday"
+lemcLI.Gospel.version = properties_en_US_eob.version.designation
+lemcLI.Gospel.book = bible_en_US_eob.John
+lemcLI.Gospel.chapverse = "(20:19-31)"
+lemcLI.Gospel.text = ""
+lemcLI.Gospel.pagenumber = ""

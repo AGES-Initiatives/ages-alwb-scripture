@@ -1,0 +1,7 @@
+A_Resource_Whose_Name = le.go.mc.d025_en_US_eob
+
+lemcCO.Gospel.title = "Gospel Reading at Compline on Tuesday"
+lemcCO.Gospel.version = properties_en_US_eob.version.designation
+lemcCO.Gospel.book = bible_en_US_eob.Matthew
+lemcCO.Gospel.chapverse = "(6:1-13)"
+lemcCO.Gospel.text = ""

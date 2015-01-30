@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = le.go.mc.d028_en_US_eob
+
+lemcCO.Gospel.title = "Gospel Reading at Compline on Friday"
+lemcCO.Gospel.version = properties_en_US_eob.version.designation
+lemcCO.Gospel.book = bible_en_US_eob.John
+lemcCO.Gospel.chapverse = "(15:1-7)"
+lemcCO.Gospel.text = ""
+
+lemcLI.Gospel.title = ""
+lemcLI.Gospel.version = properties_en_US_eob.version.designation
+lemcLI.Gospel.book = bible_en_US_eob.Mark
+lemcLI.Gospel.chapverse = "(2:23-28; 3:1-5)"
+lemcLI.Gospel.text = ""
+lemcLI.Gospel.pagenumber = ""
+

@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.mc.d110_en_US_eob
+
+lemcMA.Gospel.title = "Holy Ascension"
+lemcMA.Gospel.version = properties_en_US_eob.version.designation
+lemcMA.Gospel.book = bible_en_US_eob.Mark
+lemcMA.Gospel.chapverse = "(16:9-20)"
+lemcMA.Gospel.text = ""
+
+lemcLI.Gospel.title = "Holy Ascension"
+lemcLI.Gospel.version = properties_en_US_eob.version.designation
+lemcLI.Gospel.book = bible_en_US_eob.Luke
+lemcLI.Gospel.chapverse = "(24:36-53)"
+lemcLI.Gospel.text = ""
+lemcLI.Gospel.pagenumber = ""

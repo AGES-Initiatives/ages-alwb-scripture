@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.go.mc.d067_en_US_eob
+
+lemcVE.Gospel.title = "Great and Holy Tuesday"
+lemcVE.Gospel.version = properties_en_US_eob.version.designation
+lemcVE.Gospel.book = bible_en_US_eob.Matthew
+lemcVE.Gospel.chapverse = "(24:36-51; 25:1-46; 26:1-2)"
+lemcVE.Gospel.text = ""
+
+lemcMA.Gospel.title = ""
+lemcMA.Gospel.version = properties_en_US_eob.version.designation
+lemcMA.Gospel.book = bible_en_US_eob.John
+lemcMA.Gospel.chapverse = "(12:17-50)"
+lemcMA.Gospel.text = ""

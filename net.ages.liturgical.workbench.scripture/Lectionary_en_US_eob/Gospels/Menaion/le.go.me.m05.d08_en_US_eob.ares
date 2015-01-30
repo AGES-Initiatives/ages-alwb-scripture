@@ -1,0 +1,20 @@
+A_Resource_Whose_Name = le.go.me.m05.d08_en_US_eob 
+
+lemeMA.Gospel.title = "For the Evangelist."
+lemeMA.Gospel.version = le.go.eo.w11_en_US_eob.leeoMA.Gospel.version
+lemeMA.Gospel.book = le.go.eo.w11_en_US_eob.leeoMA.Gospel.book
+lemeMA.Gospel.chapverse = le.go.eo.w11_en_US_eob.leeoMA.Gospel.chapverse
+lemeMA.Gospel.text = le.go.eo.w11_en_US_eob.leeoMA.Gospel.text
+
+lemeLI.Gospel.title = "For the Evangelist."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.John
+lemeLI.Gospel.chapverse = "(19:25-28, 21:24-25)"
+lemeLI.Gospel.text = ""
+lemeLI.Gospel.pagenumber = ""
+
+lemeLI.Gospel2.title = "For the Saint."
+lemeLI.Gospel2.version = properties_en_US_eob.version.designation
+lemeLI.Gospel2.book = bible_en_US_eob.Matthew
+lemeLI.Gospel2.chapverse = "(11:27-30)"
+lemeLI.Gospel2.text = ""
