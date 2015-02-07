@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.me.m02.d19_en_US_rsv
+
+lemeMA.Gospel.title = ""
+lemeMA.Gospel.version = properties_en_US_rsv.version.designation
+lemeMA.Gospel.book = bible_en_US_rsv.Matthew
+lemeMA.Gospel.chapverse = "(6:19-21)"
+lemeMA.Gospel.text = "The Lord said to His Disciples, \"Do not lay up for yourselves treasures on earth, where moth and rust consume and where thieves break in and steal, but lay up for yourselves treasures in heaven, where neither moth nor rust consumes and where thieves do not break in and steal. For where your treasure is, there will your heart be also.\""
+
+lemeLI.Gospel.title = "For the Saint."
+lemeLI.Gospel.version = properties_en_US_rsv.version.designation
+lemeLI.Gospel.book = bible_en_US_rsv.John
+lemeLI.Gospel.chapverse = "(15:12-13, 18-19)"
+lemeLI.Gospel.text = "The Lord said to His Disciples, \"This is my commandment, that you love one another as I have loved you. Greater love has no man than this, that a man lay down his life for his friends. If the world hates you, know that it has hated me before it hated you. If you were of the world, the world would love its own; but because you are not of the world, but I chose you out of the world, therefore the world hates you.\""
+lemeLI.Gospel.pagenumber = ""
