@@ -1,14 +1,14 @@
-A_Resource_Whose_Name = le.go.mc.d078_en_US_eob 
+A_Resource_Whose_Name = le.go.mc.d078_en_US_eob
 
 lemcMA.Gospel.title = "Thomas Sunday"
 lemcMA.Gospel.version = properties_en_US_eob.version.designation
 lemcMA.Gospel.book = bible_en_US_eob.Matthew
 lemcMA.Gospel.chapverse = "(28:16-20)"
-lemcMA.Gospel.text = ""
+lemcMA.Gospel.text = "At that time, the eleven disciples went into Galilee, to the mountain where Jesus had directed them. When they saw him, they expressed adoration to him, but they doubted. Jesus came to them and said, “All authority has been given to me in heaven and on earth. Go [therefore] and make disciples of all nations, baptizing them in the Name of the Father and of the Son and of the Holy Spirit, teaching them to observe all the things that I have commanded you. Behold, I am with you always, even to the end of the age.” Amen!"
 
 lemcLI.Gospel.title = "Thomas Sunday"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book = bible_en_US_eob.John
 lemcLI.Gospel.chapverse = "(20:19-31)"
-lemcLI.Gospel.text = ""
+lemcLI.Gospel.text = "In the evening on that [same] day (the first day of the week), and as the doors [of the place] where the disciples were assembled were locked for fear of the Jews, Jesus came and stood among them and said, “Peace be with you.” When he had said this, he showed them his hands and his side. At this, the disciples rejoiced when they saw the Lord. Then again, Jesus said, “Peace be with you! As the Father has sent me, I also send you.” When he had said this, he breathed on them and told them, “Receive the Holy Spirit! If you forgive anyone’s sins, they are forgiven; if you retain anyone’s sins, they are retained.” However, Thomas, called the Twin, one of the Twelve, was not with them when Jesus came. So the other disciples told him, “We have seen the Lord!” But Thomas replied, “Unless I see in his hands the print of the nails and put my hand into his side, I will not believe!” After eight days, his disciples were inside once again, and Thomas was with them. Although the doors were locked, Jesus came and stood among them, and he said, “Peace be with you.” Then he said to Thomas, “Put your finger here, and see my hands! Place your hand here and put it into my side. Do not be unbelieving, but believing!” And Thomas answered him, “My Lord and my God!” Jesus said to him, “Because you have seen me, you have believed. Blessed are those who have not seen, and have believed.” Now Jesus accomplished many other signs in the presence of his disciples, which are not written in this book. However, these ones are written, so that you may believe that Jesus is the Christ, the Son of God, and that believing, you may have life in his Name."
 lemcLI.Gospel.pagenumber = ""
