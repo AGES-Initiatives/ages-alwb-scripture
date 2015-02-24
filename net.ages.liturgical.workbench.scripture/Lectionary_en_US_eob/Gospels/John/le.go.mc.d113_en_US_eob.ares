@@ -2,9 +2,9 @@ A_Resource_Whose_Name = le.go.mc.d113_en_US_eob
 
 lemcMA.Gospel.title = "Sunday of the Holy Fathers"
 lemcMA.Gospel.version = properties_en_US_eob.version.designation
-lemcMA.Gospel.book = bible_en_US_eob.Mark
-lemcMA.Gospel.chapverse = "(16:9-20)"
-lemcMA.Gospel.text = ""
+lemcMA.Gospel.book = le.go.eo.w10_en_US_eob.leeoMA.Gospel.book
+lemcMA.Gospel.chapverse = le.go.eo.w10_en_US_eob.leeoMA.Gospel.chapverse
+lemcMA.Gospel.text = le.go.eo.w10_en_US_eob.leeoMA.Gospel.text
 
 lemcLI.Gospel.title = "Sunday of the Holy Fathers"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
