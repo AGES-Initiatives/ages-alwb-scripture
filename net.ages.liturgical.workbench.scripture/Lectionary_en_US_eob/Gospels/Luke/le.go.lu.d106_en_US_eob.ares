@@ -1,8 +1,8 @@
-A_Resource_Whose_Name = le.go.lu.d106_en_US_eob 
+A_Resource_Whose_Name = le.go.lu.d106_en_US_eob
 
 leluLI.Gospel.title = "Monday of the Sixteenth Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book = bible_en_US_eob.Mark
 leluLI.Gospel.chapverse = "(12:13-17)"
-leluLI.Gospel.text = ""
+leluLI.Gospel.text = "At that time, the chief priests and scribes sent some of the Pharisees and Herodians to Jesus, in order to trap him in what he said. They came to him and said, “Teacher, we know that you are truthful, and that you are not afraid of anyone because you do not look at human rank but truly teach the way of God. Tell us therefore, is it lawful to pay taxes to Caesar, or not? Shall we give, or shall we not give?” But knowing their hypocrisy, Jesus replied, “Why do you test me? Bring me a denarius, so that I may see it.” They brought it. Jesus then asked them, “Whose image and inscription is this?” They answered, “Caesar’s.” Jesus then replied to them, “Render to Caesar what belongs to Caesar, and to God what belongs to God.”"
 leluLI.Gospel.pagenumber = ""
