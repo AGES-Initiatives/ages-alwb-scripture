@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = le.go.mc.d239_en_US_eob
 
-lemcLI.Gospel.title = "Seventeenth Sunday" //Sunday of the Canaanite Woman
+lemcLI.Gospel.title = "Seventeenth Sunday" // Sunday of the Canaanite Woman
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book = bible_en_US_eob.Matthew
 lemcLI.Gospel.chapverse = "(15:21-28)"
-lemcLI.Gospel.text = ""
+lemcLI.Gospel.text = "At that time, Jesus left that area and withdrew into the region of Tyre and Sidon. Behold, a Canaanite woman came out from those borders and cried out, “Have mercy on me, Lord, son of David! My daughter is severely demonized!” But Jesus did not answer her a word. His disciples came and begged him, saying, “Send her away! She is shouting after us!” However, Jesus answered, “I was not sent to anyone but the lost sheep of the house of Israel.” Still, the woman came forward and expressed adoration to him, saying, “Lord, help me.” But he answered, “It is not right to take the children’s bread and throw it to the little dogs.” But she replied, “Yes, Lord, but even the little dogs eat the crumbs which fall from their masters’ table.” Then Jesus answered her, “Woman, great is your faith! Let it be it done to you even as you desire.” And her daughter was healed from that hour."
 lemcLI.Gospel.pagenumber = ""
