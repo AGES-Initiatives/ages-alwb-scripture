@@ -1,9 +1,9 @@
-A_Resource_Whose_Name = le.go.me.m11.d01_en_US_eob 
+A_Resource_Whose_Name = le.go.me.m11.d01_en_US_eob
 
 lemeLI.Gospel.title = "For the Saints."
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
 lemeLI.Gospel.book = bible_en_US_eob.Matthew
 lemeLI.Gospel.chapverse = "(10:1, 5-8)"
-lemeLI.Gospel.text = ""
+lemeLI.Gospel.text = "At that time, Jesus called to himself his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every kind of disease and sickness. Jesus sent these Twelve out and gave them this instruction: “Do not go among the Gentiles and do not enter into any city of the Samaritans. Rather, go to the lost sheep of the house of Israel. As you go, preach and say: ‘The Kingdom of Heaven is at hand!’ Heal the sick, cleanse the lepers, raise the dead , and cast out demons. Freely you have received, give freely as well."
 lemeLI.Gospel.pagenumber = ""
 

@@ -1,9 +1,9 @@
-A_Resource_Whose_Name = le.go.me.m06.d19_en_US_eob 
+A_Resource_Whose_Name = le.go.me.m06.d19_en_US_eob
 
 lemeLI.Gospel.title = "For the Apostle."
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
 lemeLI.Gospel.book = bible_en_US_eob.John
 lemeLI.Gospel.chapverse = "(14:21-24)"
-lemeLI.Gospel.text = ""
+lemeLI.Gospel.text = "The Lord said to his disciples: “Whoever has my commandments and keeps them, that person is the one who loves me. Whoever loves me will be loved by my Father, and I will love and reveal myself to such a person.” Judas (not Iscariot) asked him, “Lord, what has happened that you are about to reveal yourself to us, and not to the world?” Jesus answered him, “The one who loves me will keep my word; my Father will love him and we shall come to him and make a home in him. Whoever does not love me does not keep my words. The word which you hear is not mine, but it belongs to the Father who sent me.”"
 lemeLI.Gospel.pagenumber = ""
 
