@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.go.me.m07.d27_en_US_rsv 
 
-lemeLI.Gospel.title = titles_en_US_public.TouMartyros
+lemeLI.Gospel.title = "For the Martyr"
 lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book = bible_en_US_rsv.Luke
 lemeLI.Gospel.chapverse = "(21:12-19)"
