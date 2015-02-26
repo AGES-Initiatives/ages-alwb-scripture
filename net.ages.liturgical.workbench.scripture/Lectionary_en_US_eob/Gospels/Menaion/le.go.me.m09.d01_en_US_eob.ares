@@ -5,7 +5,7 @@ lemeMA.Gospel.version = properties_en_US_eob.version.designation
 lemeMA.Gospel.book = le.go.me.m12.d05_en_US_eob.lemeLI.Gospel.book
 lemeMA.Gospel.chapverse = le.go.me.m12.d05_en_US_eob.lemeLI.Gospel.chapverse
 lemeMA.Gospel.text = le.go.me.m12.d05_en_US_eob.lemeLI.Gospel.text
-lemeLI.Gospel.pagenumber = ""
+lemeMA.Gospel.pagenumber = ""
 
 lemeLI.Gospel.title = "For the Indiction."
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
