@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.me.m02.d19_en_US_eob
+
+lemeMA.Gospel.title = ""
+lemeMA.Gospel.version = properties_en_US_eob.version.designation
+lemeMA.Gospel.book = bible_en_US_eob.Matthew
+lemeMA.Gospel.chapverse = "(6:19-21)"
+lemeMA.Gospel.text = "The Lord said to His Disciples, \"Do not store up treasures for yourselves on the earth, where moth and rust consume and where thieves break in and steal. Instead, store for yourselves treasures in heaven, where neither moth nor rust consume, and where thieves do not break in and steal. For where your treasure is, there your heart will be also.\""
+
+lemeLI.Gospel.title = "For the Saint."
+lemeLI.Gospel.version = properties_en_US_eob.version.designation
+lemeLI.Gospel.book = bible_en_US_eob.John
+lemeLI.Gospel.chapverse = "(15:12-13, 18-19)"
+lemeLI.Gospel.text = "The Lord said to His Disciples, \"This is my commandment: that you love one another, even as I have loved you. No one has a greater love than this: that someone would lay down his life for his friends. If the world hates you, you know that it has hated me before it hated you. If you were of the world, the world would love its own! But you are not of the world, since I chose you out of the world, and so the world hates you.\""
+lemeLI.Gospel.pagenumber = ""
