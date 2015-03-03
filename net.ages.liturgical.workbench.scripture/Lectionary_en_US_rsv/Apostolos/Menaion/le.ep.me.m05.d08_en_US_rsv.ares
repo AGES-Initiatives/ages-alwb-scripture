@@ -15,7 +15,7 @@ lemeVE.Reading2.text = "Beloved, if God so loved us, we also ought to love one a
 lemeVE.Reading3.title = "For the Evangelist."
 lemeVE.Reading3.version = properties_en_US_rsv.version.designation
 lemeVE.Reading3.book = bible_en_US_rsv.John1
-lemeVE.Reading3.chapverse = "(4:20-221; 5:1-5)"
+lemeVE.Reading3.chapverse = "(4:20-21; 5:1-5)"
 lemeVE.Reading3.text = "If any one says, \"I love God,\" and hates his brother, he is a liar; for he who does not love his brother whom he has seen, cannot love God whom he has not seen. And this commandment we have from him, that he who loves God should love his brother also. Every one who believes that Jesus is the Christ is a child of God, and every one who loves the parent loves the child. By this we know that we love the children of God, when we love God and obey his commandments. For this is the love of God, that we keep his commandments. And his commandments are not burdensome. For whatever is born of God overcomes the world; and this is the victory that overcomes the world, our faith. Who is it that overcomes the world but he who believes that Jesus is the Son of God?"
 
 lemeLI.Epistle.title = "For the Evangelist."
