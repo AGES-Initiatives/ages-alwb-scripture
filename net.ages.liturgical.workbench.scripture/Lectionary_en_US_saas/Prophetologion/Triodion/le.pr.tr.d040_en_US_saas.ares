@@ -1,19 +1,19 @@
-A_Resource_Whose_Name = le.pr.tr.d040_en_US_saas 
+A_Resource_Whose_Name = le.pr.tr.d040_en_US_saas
 
 lemcVE.reading1.title = ""
-lemcVE.reading1.version = 
+lemcVE.reading1.version = ""
 lemcVE.reading1.book = bible_en_US_saas.Genesis
-lemcVE.reading1.chapverse = ""
-lemcVE.reading1.text = ""
+lemcVE.reading1.chapverse = "(7:6-9)"
+lemcVE.reading1.text = "Now Noah was six hundred years old when the flood of waters came on the earth. Then Noah, with his sons, his wife, and his sons’ wives, entered the ark because of the flood waters. Also the clean and unclean birds, the clean and unclean cattle, and everything that creeps on the earth, entered with Noah into the ark, two by two, male and female, as God commanded him."
 
 lemcVE.reading2.title = ""
-lemcVE.reading2.version = 
+lemcVE.reading2.version = ""
 lemcVE.reading2.book = bible_en_US_saas.Proverbs
-lemcVE.reading2.chapverse = ""
-lemcVE.reading2.text = ""
+lemcVE.reading2.chapverse = "(9:12-25)"
+lemcVE.reading2.text = "My son, if you become wise in yourself, you shall also be wise toward your neighbor; But if you prove to be evil, you alone will go through troubles. He who supports himself with lies will shepherd winds And chase flying birds; For he abandoned the ways of his own vineyard And strayed from paths of his own farming; And he will pass through a waterless desert, A land assigned to drought, And he gathers barrenness with his hands. A woman in need of a morsel is without discernment and overbold; She has no sense of shame. She sits upon the doors of her own house, Upon a seat openly in the streets, Calling to those who pass by And who go straight along their paths, “He who is very lacking in discernment, let him turn aside to me; And he who is in need of discernment, I exhort, saying, ‘Grasp with pleasure the secret bread And the sweet water of theft.’ ” But he does not know that the inhabitants of the earth perish beside her, And he happens upon a snare of Hades. But hurry off, do not continue in that place, Neither set your eye toward her; For so you shall pass through strange water And cross beyond a strange river; And keep away from strange water, And do not drink from a strange fountain; That you may live a long time And add years of life to yourself."
 
 lemcTE.reading1.title = ""
-lemcTE.reading1.version = 
+lemcTE.reading1.version = ""
 lemcTE.reading1.book = bible_en_US_saas.Isaiah
 lemcTE.reading1.chapverse = ""
 lemcTE.reading1.text = ""
