@@ -1,19 +1,19 @@
-A_Resource_Whose_Name = le.pr.tr.d026_en_US_saas 
+A_Resource_Whose_Name = le.pr.tr.d026_en_US_saas
 
 lemcVE.reading1.title = ""
-lemcVE.reading1.version = 
+lemcVE.reading1.version = ""
 lemcVE.reading1.book = bible_en_US_saas.Genesis
-lemcVE.reading1.chapverse = ""
-lemcVE.reading1.text = ""
+lemcVE.reading1.chapverse = "(1:24-31, 2:1-3)"
+lemcVE.reading1.text = "Then God said, “Let the earth bring forth the living creature according to its kind: the quadrupeds, the creeping things, and the wild animals of the earth according to their kind.” It was so. So God made the wild animals of the earth according to their kind, the cattle according to their kind, and all the creeping things on earth according to their kind. God saw that it was good. Then God said, “Let Us make man in Our image, according to Our likeness. Let them have dominion over the fish of the sea, over the birds of heaven, over the cattle, and over all the earth, and over every creeping thing that moves on the earth.” So God made man; in the image of God He made him; male and female He made them. Then God blessed them; and God said to them, “Be fruitful and multiply; fill the earth and subdue it, and have dominion over the fish of the sea, over the birds of heaven, and over every living thing that moves on the earth.” Then God said, “Behold, I have given you every seed-bearing herb that sows seed on the face of all the earth, and every tree whose fruit yields seed; to you it shall be for food. I also give every green plant as food for all the wild animals of the earth, for all the birds of heaven, and for everything that creeps on the earth in which is the breath of life.” It was so. Then God saw everything He had made, and indeed, it was very good. So evening and morning were the sixth day. Thus heaven and earth and all their adornment were finished. And on the seventh day God finished the works He made, and He rested on the seventh day from all the works He made. Then God blessed the seventh day and sanctified it, because in it He rested from all His works God began to make."
 
 lemcVE.reading2.title = ""
-lemcVE.reading2.version = 
+lemcVE.reading2.version = ""
 lemcVE.reading2.book = bible_en_US_saas.Proverbs
-lemcVE.reading2.chapverse = ""
-lemcVE.reading2.text = ""
+lemcVE.reading2.chapverse = "(2:1-23)"
+lemcVE.reading2.text = "My son, if you receive the words of my commandment And hide them within yourself, Your ear will be obedient to wisdom, And you will incline your heart to understanding; You will entrust it to your son as an admonition. For if he calls upon wisdom, And you utter your voice for understanding; If you seek perception with a strong voice, If you seek her as silver And search for her as treasure, Then you will understand the fear of the Lord And find the knowledge of God. For the Lord gives wisdom, And from His face come knowledge and understanding; And He stores up salvation for the upright; He will protect their journey, That He might guard the ways of His ordinances; And He will carefully guard the way of those who reverence Him. Then you will understand righteousness and judgment, And accomplish successfully every good path for yourself. Holy Thinking For if wisdom comes into your mind, And the perception in your soul seems to be good, Then good counsel will guard you, And holy thinking will keep you; That it might rescue you from an evil way And from a man who speaks nothing trustworthy. Woe to those who forsake the paths of uprightness So they may walk in the ways of darkness, Who delight in evils And rejoice in evil perversion, Whose ways are crooked And their paths devious, So they may cause you to be far from the straight way And a stranger to righteous judgment. My son, do not lay hold of evil counsel, Nor forsake the teaching of your youth And forget the divine covenant; For it establishes its house with death, And its paths beside Hades with the dead; All who journey there do not return, Nor do they lay hold of straight paths; For they do not comprehend the years of life. For if they walked in good paths, They would find the smooth paths of righteousness. The inhabitants of the land will be good, And the simple will be left in it; For the upright will dwell in the land, And the holy will be left in it. The ways of the ungodly shall perish from the land, And the lawless shall be banished from it."
 
 lemcTE.reading1.title = ""
-lemcTE.reading1.version = 
+lemcTE.reading1.version = ""
 lemcTE.reading1.book = bible_en_US_saas.Isaiah
 lemcTE.reading1.chapverse = ""
 lemcTE.reading1.text = ""
