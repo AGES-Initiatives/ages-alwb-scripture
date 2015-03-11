@@ -1,19 +1,19 @@
-A_Resource_Whose_Name = le.pr.tr.d054_en_US_saas 
+A_Resource_Whose_Name = le.pr.tr.d054_en_US_saas
 
 lemcVE.reading1.title = ""
-lemcVE.reading1.version = 
+lemcVE.reading1.version = ""
 lemcVE.reading1.book = bible_en_US_saas.Genesis
-lemcVE.reading1.chapverse = ""
-lemcVE.reading1.text = ""
+lemcVE.reading1.chapverse = "(17:1-9)"
+lemcVE.reading1.text = "When Abram was ninety-nine years old, the Lord appeared to Abram and said to him, “I am your God; be pleasing before Me and blameless. I will establish My covenant between Me and you, and will multiply you exceedingly.” Then Abram fell on his face, and God talked with him, saying, “As for Me, behold, My covenant is with you, and you shall be a father of many nations. No longer shall your name be called Abram, but your name shall be Abraham; for I have made you a father of many nations. I will make you exceedingly fruitful; and I will make nations of you, and kings shall come from you. I will establish My covenant between Me and you and your seed after you in their generations, for an everlasting covenant, to be your God and the God of your seed after you. Also I will give you and your seed after you the land you are occupying as a sojourner, all the land of Canaan, as an everlasting possession; and I will be their God.” Then God said to Abraham, “As for you, you shall keep My covenant, you and your seed after you throughout their generations."
 
 lemcVE.reading2.title = ""
-lemcVE.reading2.version = 
+lemcVE.reading2.version = ""
 lemcVE.reading2.book = bible_en_US_saas.Proverbs
-lemcVE.reading2.chapverse = ""
-lemcVE.reading2.text = ""
+lemcVE.reading2.chapverse = "(15:22-33, 36-38; 16:1-5; 15:34-35)"
+lemcVE.reading2.text = "A wise son gladdens a father, But a son without discernment treats his mother with contempt. The paths of one without understanding are in need of discernment, But a man with discernment walks uprightly. Those not honoring councils defer their deliberations, But counsel remains in the hearts of those who resolve to do it. The evil man will not obey counsel, Nor will he speak anything appropriate, even something for the common good. The thoughts of a wise man are his ways of life, That he might turn aside and be saved from Hades. The Lord will destroy the houses of the arrogant, But He will strengthen the boundary of a widow. The thinking of the unrighteous man is an abomination to the Lord, But the words of the holy are sacred. He who receives bribes utterly destroys himself, But he who hates the receiving of bribes saves himself. Sins are cleansed by almsgiving and faithfulness, And by the fear of the Lord everyone turns aside from evil. The hearts of the righteous care about faithfulness, But the mouth of the ungodly answers evil things. The ways of righteous men are acceptable before the Lord, And through them even enemies become friends. God is far from the ungodly, But He hears the prayers of the righteous. The eye that beholds good things gladdens the heart, But a good report enriches the bones. He who rejects instruction hates himself, But he who gives heed to reproofs loves his soul. The fear of God is instruction and wisdom, And the beginning of glory will respond to it. All the works of the humble are evident before the Lord, But the ungodly will be destroyed in the evil day. Every high-hearted man is unclean before the Lord, And he who joins hands with the unrighteous will not go unpunished. The beginning of a good way is to do righteous things, And this is more acceptable to God than to offer sacrifices. He who seeks the Lord will find knowledge with righteousness, And those who seek Him rightly will find peace. All the works of the Lord are with righteousness, But the ungodly man is kept for an evil day. Better is a small yield with the righteous Than abundant fruits with the unrighteous. Let the heart of a man think righteous things That he may make his steps straight under God. "
 
 lemcTE.reading1.title = ""
-lemcTE.reading1.version = 
+lemcTE.reading1.version = ""
 lemcTE.reading1.book = bible_en_US_saas.Isaiah
 lemcTE.reading1.chapverse = ""
 lemcTE.reading1.text = ""
