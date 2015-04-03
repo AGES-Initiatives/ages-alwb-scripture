@@ -3,5 +3,5 @@ A_Resource_Whose_Name = le.pr.me.r66_en_US_saas
 leprVE.reading.title = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
 leprVE.reading.book = bible_en_US_saas.Kings1
-leprVE.reading.chapverse = ""
-leprVE.reading.text = ""
+//leprVE.reading.chapverse = ""
+//leprVE.reading.text = ""
