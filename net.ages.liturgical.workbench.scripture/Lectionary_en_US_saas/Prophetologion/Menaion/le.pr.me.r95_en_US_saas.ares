@@ -1,7 +1,9 @@
-A_Resource_Whose_Name = le.pr.me.r95_en_US_saas 
+A_Resource_Whose_Name = le.pr.me.r95_en_US_saas
 
 leprVE.reading.title = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
 leprVE.reading.book = bible_en_US_saas.Isaiah
 //leprVE.reading.chapverse = ""
 //leprVE.reading.text = ""
+leprVE.reading.text = "Thus says the Lord: There shall come forth a rod from the root of Jesse, and a flower shall grow out of his root. The Spirit of God shall rest upon Him, the Spirit of wisdom and understanding, the Spirit of counsel and might, the Spirit of knowledge and godliness. The Spirit of the fear of God shall fill Him. He shall not judge by reputation nor convict by common talk. But He will judge the cause of the humble, and reprove the humble of the earth. He shall strike the earth with the word of His mouth, and with the breath of His lips He shall slay the ungodly. He shall gird His loins with righteousness and cover his sides with truth. “The wolf shall feed with the lamb, the leopard shall lie down with the young goat, and the calf, the bull, and the lion shall feed together; and a little child shall lead them. The cow and the bear shall graze together, and their young ones shall lie down together. The lion and the ox shall eat straw together. The nursing child shall play by the hole of asps, and the weaned child shall put his hand in the den of asps. They shall not hurt nor be able to destroy anyone on My holy mountain, for the whole world shall be filled with the knowledge of the Lord, as much water covers the seas. “It shall come to pass in that day that there shall be a Root of Jesse who shall arise to rule nations. The Gentiles shall hope in Him, and His resting place shall be honorable.”"
+leprVE.reading.chapverse = "(11:1-10)"
