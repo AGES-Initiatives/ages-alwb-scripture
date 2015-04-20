@@ -1,7 +1,9 @@
-A_Resource_Whose_Name = le.pr.me.r74_en_US_saas 
+A_Resource_Whose_Name = le.pr.me.r74_en_US_saas
 
 leprVE.reading.title = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
 leprVE.reading.book = bible_en_US_saas.Proverbs
 //leprVE.reading.chapverse = ""
 //leprVE.reading.text = ""
+leprVE.reading.text = "Wisdom built her house, and she supported it with seven pillars. She offered her sacrifices; she mixed her wine in a bowl and prepared her table. She sent her servants, inviting people to the bowl with a lofty proclamation, saying, “He who is without discernment, let him turn aside to me”; and to those in need of discernment, she says, “Come, eat my bread and drink the wine I mixed for you; forsake lack of discernment, and you shall live; seek discernment so you may live, and keep straight your understanding with knowledge.” He who chastises evil men shall receive dishonor to himself, and he who reproves the ungodly man shall be blamed himself. Do not reprove evil men, so they may not hate you; reprove a wise man, and he will love you. Give the opportunity to a wise man, and he will be wiser; instruct a righteous man, and he shall continue to receive it. The fear of the Lord is the beginning of wisdom, and the counsel of saints is understanding; for to know the law is characteristic of a good mind. For in this manner you will live a long time, and the years of your life shall be increased."
+leprVE.reading.chapverse = "(9:1-11)"

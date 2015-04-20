@@ -1,7 +1,9 @@
-A_Resource_Whose_Name = le.pr.me.r16_en_US_saas 
+A_Resource_Whose_Name = le.pr.me.r16_en_US_saas
 
 leprVE.reading.title = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
 leprVE.reading.book = bible_en_US_saas.Kings2
 //leprVE.reading.chapverse = ""
 //leprVE.reading.text = ""
+leprVE.reading.text = "Then Elijah said to Elisha, “Stay here, please, for the Lord sent me on to the Jordan.” But Elisha said, “As the Lord lives, and as your soul lives, I will not leave you!” So both of them went on. Fifty men of the sons of the prophets went and stood facing them at a distance, while the two of them stood by the Jordan. Now Elijah took his mantle, rolled it up, and struck the water. The water divided this way and that, and the two of them crossed on dry ground. So it was that during the time they crossed over, Elijah said to Elisha, “Ask what I may do for you, before I am taken away from you.” Elisha said, “Please let a double portion of your spirit be upon me.” So Elijah said, “You have asked a hard thing. If you see me when I am taken up from you, it shall be so for you; and if not, it shall not be so.” Thus it came to be, as they walked and continued to talk, behold a chariot of fire appeared with horses of fire, and the fire separated them one from the other; and Elijah was taken up into heaven by a whirlwind. Then Elisha saw it and cried aloud, “Father, O father, the chariot of Israel and its horsemen!” He saw Elijah no more, and he took hold of his own clothes and tore them into two pieces. Then he raised Elijah’s mantle, which fell from Elijah and upon Elisha, and Elisha returned and stood on the bank of the River Jordan. He took Elijah’s mantle which had fallen upon him and struck the water, but it did not divide. Then he said, “Where is the Lord God of Elijah himself?” And he struck the water again, and it divided this way and that. So Elisha crossed over."
+leprVE.reading.chapverse = "(2:6-14)"
