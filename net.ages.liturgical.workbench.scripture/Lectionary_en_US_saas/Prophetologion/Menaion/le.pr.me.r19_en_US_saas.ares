@@ -1,7 +1,9 @@
-A_Resource_Whose_Name = le.pr.me.r19_en_US_saas 
+A_Resource_Whose_Name = le.pr.me.r19_en_US_saas
 
 leprVE.reading.title = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
-leprVE.reading.book = 
+leprVE.reading.book = ""
 //leprVE.reading.chapverse = ""
 //leprVE.reading.text = ""
+leprVE.reading.text = "Then the daughter of Pharaoh came down to bathe at the river, and her maidens walked along the riverside; and seeing the ark among the reeds, she sent a maid to get it. So when she opened the ark, she saw the child crying, and the daughter of Pharaoh had compassion on him and said, “This is one of the Hebrews’ children.” Then his sister said to Pharaoh’s daughter, “Shall I go and call a nurse for you from the Hebrew women, that she may nurse the child for you?” So Pharaoh’s daughter said to her, “Go.” Then the maiden went and called the child’s mother. Pharaoh’s daughter then said to her, “Take this child and nurse him for me, and I will pay you.” So the woman took the child and nursed him. Now when the boy was grown, she brought him to Pharaoh’s daughter, and he became her son; and she called his name Moses, saying, “Because I drew him out of the water.”"
+leprVE.reading.chapverse = "(2:5-10)"
