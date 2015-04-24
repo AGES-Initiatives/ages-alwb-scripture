@@ -1,10 +1,10 @@
-A_Resource_Whose_Name = le.ep.va.deceased_en_US_eob 
+A_Resource_Whose_Name = le.ep.va.deceased_en_US_eob
 
 levaDEC.Epistle1.title = "For Those Who Have Fallen Asleep"
 levaDEC.Epistle1.version = properties_en_US_eob.version.designation
 levaDEC.Epistle1.book = bible_en_US_eob.Thessalonians1
 levaDEC.Epistle1.chapverse = "(4:13-18)"
-levaDEC.Epistle1.text = ""
+levaDEC.Epistle1.text = "We do not want you to be ignorant, brethren, concerning those who have fallen asleep, so that you may not grieve like those who have no hope. For if we believe that Jesus died and rose again, in the same way God will bring with him those who have fallen asleep in Jesus. We tell you the following by the word of the Lord: we who are alive and remain until the coming of the Lord will not precede those who have fallen asleep. For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with the trumpet of God. The dead in Christ will rise first, then we who are alive and remain will be caught up together with them in the clouds, to meet the Lord in the air. And so, we will always be with the Lord. Therefore, comfort one another with these words."
 
 levaDEC.Epistle2.title = "Another for the Deceased."
 levaDEC.Epistle2.version = properties_en_US_eob.version.designation
