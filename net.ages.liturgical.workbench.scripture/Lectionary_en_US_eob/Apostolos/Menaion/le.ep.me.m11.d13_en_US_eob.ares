@@ -1,8 +1,8 @@
-A_Resource_Whose_Name = le.ep.me.m11.d13_en_US_eob 
+A_Resource_Whose_Name = le.ep.me.m11.d13_en_US_eob
 
 lemeLI.Epistle.title = "For the Hierarch."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book = bible_en_US_eob.Hebrews
 lemeLI.Epistle.chapverse = "(7:26-28; 8:1-2)"
-lemeLI.Epistle.text = ""
+lemeLI.Epistle.text = "Brethren, such a high priest was fitting for us: holy, blameless, undefiled, separated from sinners and made higher than the heavens. He does not need, like those [former] high priests, to offer up sacrifices daily, first for his own sins and then for the sins of the people. Instead, he did this once for all, when he offered himself up. For the law appoints as high priests men who have weaknesses, but the word of the oath which came after the law appoints forever a Son who has been perfected. The point of what we are saying is this: we have such a high priest, who sat down at the right hand of the throne of the Majesty on high, a servant of the sanctuary and of the true tabernacle, which the Lord has set up, and not man."
 lemeLI.Epistle.pagenumber = ""
