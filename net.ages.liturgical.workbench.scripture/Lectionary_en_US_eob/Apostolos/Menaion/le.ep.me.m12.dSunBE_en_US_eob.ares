@@ -1,9 +1,9 @@
-A_Resource_Whose_Name = le.ep.me.m12.dSunBE_en_US_eob 
+A_Resource_Whose_Name = le.ep.me.m12.dSunBE_en_US_eob
 
 lemeLI.Epistle.title = "SUNDAY BEFORE THEOPHANY"
 lemeLI.Epistle.rubric = "(From December 30 to January 5)"
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book = bible_en_US_eob.Timothy2
 lemeLI.Epistle.chapverse = "(4:5-8)"
-lemeLI.Epistle.text = ""
+lemeLI.Epistle.text = "Timothy, my child, be sober in all things, endure hardship, do the work of one who proclaims the Good News and fulfill your ministry. As for me, I am already being offered in sacrifice, and the time of my release has come. I have fought the good fight! I have finished the course! I have kept the faith! From now on, the crown of righteousness is reserved for me, which the Lord—the righteous judge—will give me on that Day, and not only to me but also to all those who have loved his appearing."
 lemeLI.Epistle.pagenumber = ""
