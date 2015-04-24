@@ -1,10 +1,10 @@
-A_Resource_Whose_Name = le.ep.mc.d070_en_US_eob 
+A_Resource_Whose_Name = le.ep.mc.d070_en_US_eob
 
 lemcVE.Epistle.title = "HOLY AND GREAT FRIDAY"
 lemcVE.Epistle.version = properties_en_US_eob.version.designation
 lemcVE.Epistle.book = bible_en_US_eob.Corinthians1
 lemcVE.Epistle.chapverse = "(1:18-31; 2:1-2)"
-lemcVE.Epistle.text = ""
+lemcVE.Epistle.text = "Brethren, the word of the cross is foolishness to those who are dying, but to us who are being saved it is the power of God. As it is written: I will destroy the wisdom of the wise, I will bring the discernment of the discerning to nothing. Where is the wise? Where is the expert of the law? Where is the debater of this world? Has not God ridiculed the wisdom of this world? Since in God’s wisdom, the world through its ‘wisdom’ did not know God, it was God’s good pleasure (through the foolishness of this proclamation) to save those who believe. Jews ask for a sign and Greeks seek after wisdom, but we preach Christ crucified; a stumbling block to Jews, and foolishness to Greeks. However, to those who are called, (both Jews and Greeks), Christ is the power of God and the wisdom of God, because God’s ‘foolishness’ is wiser than human wisdom, and the weakness of God is stronger than human strength. Consider your calling, brethren, that not many [among you] were wise according to the flesh, not many powerful, and not [many] of noble birth. Nevertheless, God chose the foolish things of the world to put to shame those who are ‘wise.’ [Yes], God chose the weak things of the world in order to put to shame the things that are strong. God also chose the lowly things of the world, the things that are despised and even the things that are ‘nothing,’ so that he might bring to nothing the things that are {thought to be important}, so that no flesh should boast before God. But by God’s doing, you are in Christ Jesus, who was made to us wisdom from God, as well as righteousness, sanctification, and redemption; so that as it is written, “Whoever boasts should boast in the Lord.” When I came to you, brethren, I did not come with excellence of speech or wisdom, proclaiming to you the testimony of God. Indeed, I resolved not to know anything among you, except Jesus Christ, and him crucified."
 lemcVE.Epistle.pagenumber = ""
 
 // This is at the end of Friday Night service
@@ -12,6 +12,6 @@ lemcLI.Epistle.title = ""
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book = bible_en_US_eob.Corinthians1
 lemcLI.Epistle.chapverse = "(1 Cor. 5:6-8; Gal. 3:13-14)"
-lemcLI.Epistle.text = ""
+lemcLI.Epistle.text = "Brethren, a little yeast leavens the whole lump. Purge out the old yeast, so that you may be a new lump, even as you are unleavened. And certainly, Christ, [who is] our Passover, has been sacrificed in our place. Therefore, let us keep the feast, not with old yeast, neither with the yeast of malice and wickedness, but with the unleavened bread of sincerity and truth. Christ redeemed us from the curse of the law, having become a curse for our sake. For it is written, “Cursed is everyone who hangs on a tree,” so that Abraham’s blessing might also come to the Gentiles through Christ Jesus, and that we might {all} receive the promise of the Spirit through faith."
 lemcLI.Epistle.pagenumber = ""
 

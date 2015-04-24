@@ -1,8 +1,8 @@
-A_Resource_Whose_Name = le.ep.mc.d056_en_US_eob 
+A_Resource_Whose_Name = le.ep.mc.d056_en_US_eob
 
 lemcLI.Epistle.title = "SATURDAY OF THE FIFTH WEEK IN LENT, SATURDAY OF THE AKATHISTOS HYMN"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book = bible_en_US_eob.Hebrews
 lemcLI.Epistle.chapverse = "(9:24-28)"
-lemcLI.Epistle.text = ""
+lemcLI.Epistle.text = "Brethren, Christ did not enter into holy places made with hands, which are representations of the true [holy places], but into heaven itself in order to appear in the presence of God for us. Yet, this did not take place so that he would offer himself often, as the [Levitical] high priest does when he enters into the holy place year by year, with blood that is not his own. Otherwise, Christ would have had to suffer often since the foundation of the world. But now, at the end of the ages, he has been revealed once to put away sin by the sacrifice of himself. It is appointed for humans to die once, and after this comes the judgment. It is the same with Christ: having been offered once to bear the sins of many, he will appear a second time, apart from sin-offering, to those who are eagerly waiting for him for salvation."
 lemcLI.Epistle.pagenumber = ""
