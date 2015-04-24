@@ -1,8 +1,8 @@
-A_Resource_Whose_Name = le.ep.mc.d049_en_US_eob 
+A_Resource_Whose_Name = le.ep.mc.d049_en_US_eob
 
 lemcLI.Epistle.title = "SATURDAY OF THE FOURTH WEEK IN LENT"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book = bible_en_US_eob.Hebrews
 lemcLI.Epistle.chapverse = "(6:9-12)"
-lemcLI.Epistle.text = ""
+lemcLI.Epistle.text = "Brethren, we are persuaded of better things for you, of things that accompany salvation. God is not unrighteous, so as to forget your work and the labor of love which you showed for his Name by serving the saints even as you still serve them. We desire that each one of you may show the same zeal to the end, to [obtain] the fullness of hope. Do not be sluggish, but imitate those who through faith and patience have inherited the promises."
 lemcLI.Epistle.pagenumber = ""

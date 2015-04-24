@@ -1,8 +1,8 @@
-A_Resource_Whose_Name = le.ep.mc.d001_en_US_eob 
+A_Resource_Whose_Name = le.ep.mc.d001_en_US_eob
 
 lemcLI.Epistle.title = "The 33rd Sunday, of the Publican and Pharisee"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book = bible_en_US_eob.Timothy2
 lemcLI.Epistle.chapverse = "(3:10-15)"
-lemcLI.Epistle.text = ""
+lemcLI.Epistle.text = "Timothy, my child, you have paid close attention to my teaching, conduct, purpose, faith, patience, love, steadfastness, persecutions, and sufferings. You know what happened to me at Antioch, Iconium, and Lystra. I endured those persecutions and the Lord delivered me out of them all! Yes, all those who desire to lead godly lives in Christ Jesus will be persecuted. But wicked impostors will go from bad to worse, deceiving others, being themselves deceived. As for you, remain in what you have learned, which is what you firmly believe, knowing from whom you have learned them. From infancy, you have known the Holy Scriptures which are able to make you wise for salvation through faith, which is in Christ Jesus."
 lemcLI.Epistle.pagenumber = ""

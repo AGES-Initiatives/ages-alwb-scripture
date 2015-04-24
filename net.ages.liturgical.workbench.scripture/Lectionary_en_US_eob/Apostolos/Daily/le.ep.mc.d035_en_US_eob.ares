@@ -1,8 +1,8 @@
-A_Resource_Whose_Name = le.ep.mc.d035_en_US_eob 
+A_Resource_Whose_Name = le.ep.mc.d035_en_US_eob
 
 lemcLI.Epistle.title = "SATURDAY OF THE SECOND WEEK IN LENT"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book = bible_en_US_eob.Hebrews
 lemcLI.Epistle.chapverse = "(3:12-16)"
-lemcLI.Epistle.text = ""
+lemcLI.Epistle.text = "Beware, brethren, for fear that one of you may have an evil and unbelieving heart that would fall away from the living God. Instead, encourage one another day by day, as long as it is called “today,” for fear that one of you may be hardened by the deceitfulness of sin. For we have become partakers of Christ, if we hold on to our first confidence until the end, as long as these words apply: Today if you will hear his voice, do not harden your hearts, as in the rebellion. But who is it that rebelled when they heard? Were they not all those that Moses had led out of Egypt?"
 lemcLI.Epistle.pagenumber = ""
