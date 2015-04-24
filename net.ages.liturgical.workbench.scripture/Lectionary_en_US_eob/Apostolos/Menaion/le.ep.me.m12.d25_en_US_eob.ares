@@ -1,14 +1,14 @@
-A_Resource_Whose_Name = le.ep.me.m12.d25_en_US_eob 
+A_Resource_Whose_Name = le.ep.me.m12.d25_en_US_eob
 
 lemeVE.Epistle.title = "For the Feast."
 lemeVE.Epistle.version = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.version
 lemeVE.Epistle.book = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.book
 lemeVE.Epistle.chapverse = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.chapverse
-lemeVE.Epistle.text = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.text 
+lemeVE.Epistle.text = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.text
 
 lemeLI.Epistle.title = "For the Feast."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book = bible_en_US_eob.Galatians
 lemeLI.Epistle.chapverse = "(4:4-7)"
-lemeLI.Epistle.text = ""
+lemeLI.Epistle.text = "Brethren, when the fullness of the time came, God sent forth his Son, born of a woman, born under the law, so that he might redeem those who were under the law and so that we might receive adoption as children. And because you are children, God has sent forth the Spirit of his Son into your hearts, crying, “Abba, Father!” Now you are no longer slaves, but children; and if [you are] children, then [you are] heirs of God through Christ."
 lemeLI.Epistle.pagenumber = ""
