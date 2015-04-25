@@ -1,19 +1,19 @@
 A_Resource_Whose_Name = le.pr.tr.d033_en_US_saas
 
 lemcVE.reading1.title = ""
-lemcVE.reading1.version = ""
+lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book = bible_en_US_saas.Genesis
 lemcVE.reading1.chapverse = "(4:16-26)"
 lemcVE.reading1.text = "Then Cain went out from the presence of the Lord and dwelt in the land of Nod opposite Eden. And Cain knew his wife, and she conceived and bore Enoch. And he built a city, and called the name of the city after the name of his son Enoch. To Enoch was born Irad; and Irad begot Mehujael; and Mehujael begot Methushael; and Methushael begot Lamech. Then Lamech took two wives for himself: the name of one was Adah, and the name of the second was Zillah. So Adah bore Jabal . He was the father of those who dwell in tents and have livestock. His brother’s name was Jubal. He is the one who invented the psaltery and harp. As for Zillah, she also bore Tubal-Cain, a smith and a manufacturer of bronze and iron. And the sister of Tubal-Cain was Naamah. Then Lamech said to his wives Adah and Zillah: “Hear my voice, you wives of Lamech, And listen carefully to my words, Because I killed a man for wounding me And a young man for hurting me. If Cain shall be avenged sevenfold, Then Lamech seventy-sevenfold.” Again Adam knew his wife Eve, and she conceived and bore a son, and he named him Seth, saying, “God has appointed another seed for me instead of Abel, whom Cain killed.” As for Seth, to him also a son was born . He named him Enosh, and he hoped in the Lord God and called upon His name."
 
 lemcVE.reading2.title = ""
-lemcVE.reading2.version = ""
+lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book = bible_en_US_saas.Proverbs
 lemcVE.reading2.chapverse = "(5:15-23, 6:1-3)"
 lemcVE.reading2.text = "Drink waters from your vessels And from the fountains of your spring. Do not let the waters from your fountain be spilled by you, But let your waters pass through your wide places; Let them be only for you, And let no stranger partake with you; Let the fountain of your water be for you alone, And rejoice together with the wife of your youth. Let your loving deer and graceful colt keep company with you, And let her alone go before you and be with you at all times; For in living with her love, you will be great. Do not be intimate with a strange woman, Neither cling to the embrace of a woman not your own; For the ways of man are before the eyes of God, And He keeps close watch on all his paths. Lawless women ensnare a man, But each man is bound by the chains of his own sins. Such a man dies with the uninstructed And is cast forth from the abundance of his own substance; And he is destroyed by lack of discernment. My son, if you assume the debt of your friend, You will deliver your hand to an enemy; For a man’s own lips become a strong snare to him, And he is conquered by the utterances of his own mouth. My son, do what I command you, and you will save yourself."
 
 lemcTE.reading1.title = ""
-lemcTE.reading1.version = ""
+lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book = bible_en_US_saas.Isaiah
 lemcTE.reading1.chapverse = ""
 lemcTE.reading1.text = ""
