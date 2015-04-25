@@ -1,19 +1,19 @@
 A_Resource_Whose_Name = le.pr.tr.d047_en_US_saas
 
 lemcVE.reading1.title = ""
-lemcVE.reading1.version = ""
+lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book = bible_en_US_saas.Genesis
 lemcVE.reading1.chapverse = "(9:18-29, 10:1)"
 lemcVE.reading1.text = "Now the sons of Noah who went out of the ark were Shem, Ham, and Japheth; and Ham was the father of Canaan. These three were the sons of Noah, and from these the whole earth was populated. Then Noah began to be a husbandman, and he planted a vineyard. So he drank of the wine and was drunk and naked in his house. Now Ham, the father of Canaan, saw the nakedness of his father, and told his two brothers outside. But Shem and Japheth took a garment, laid it on both their shoulders, and walking backwards they covered their father’s nakedness. Since their faces were turned away, they did not see his nakedness. Thus when Noah became sober and knew what his younger son had done to him, he said: “Cursed be Canaan; A servant of servants shall he be to his brothers.” He also said, “Blessed be the Lord God of Shem, And Canaan shall be his servant. May God enlarge Japheth, And let him dwell in the habitations of Shem. Let Canaan be his servant as well.” Now Noah lived three hundred and fifty years after the flood. So all the days of Noah were nine hundred and fifty years, and he died. Now this is the genealogy of Noah’s sons: Shem, Ham, and Japheth, and sons were born to them after the flood."
 
 lemcVE.reading2.title = ""
-lemcVE.reading2.version = ""
+lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book = bible_en_US_saas.Proverbs
 lemcVE.reading2.chapverse = "(12:25-31, 13:1-10)"
 lemcVE.reading2.text = "A man of understanding is a throne of perception, But the heart of the undiscerning will meet with curses. The hand of the chosen shall prevail easily, But the deceitful shall be for captivity. A fearful word troubles the heart of a righteous man, But a good message makes him glad. A righteous arbiter shall be his own friend, But the decisions of the ungodly are unreasonable. Evil things shall pursue sinners, And the way of the ungodly will lead them astray. A deceitful man will not gain his prey, But a pure man is a precious possession. In the ways of righteousness there is life, But the ways of remembering wrongs are unto death. An astute son is obedient to his father, But a disobedient son is for destruction. A good man eats from the fruits of righteousness, But the souls of the lawless will destroy themselves before their time. He who guards his mouth keeps his own soul, But he who is hasty with his lips will dismay himself. Every idle man has desire, But the hands of the courageous are diligent. A righteous man hates an unrighteous word, But an ungodly man is ashamed and will not have confidence. Righteousness guards the simple, But sin makes the ungodly worthless. There are those with nothing who make themselves rich, And there are those, though very rich, who humble themselves. The ransom of a man’s soul is his own wealth, But the poor man does not withstand a threat. Light is with the righteous continually, But the light of the ungodly is extinguished. Deceitful souls are led astray in sins, But the righteous have compassion and are merciful."
 
 lemcTE.reading1.title = ""
-lemcTE.reading1.version = ""
+lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book = bible_en_US_saas.Isaiah
 lemcTE.reading1.chapverse = ""
 lemcTE.reading1.text = ""
