@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.go.me.m09.d17_en_US_rsv 
+
+lemeMA.Gospel.title = "For the Martyrs."
+lemeMA.Gospel.version = properties_en_US_rsv.version.designation
+lemeMA.Gospel.book = bible_en_US_rsv.Matthew
+lemeMA.Gospel.chapverse = "(25:1-13)"
+lemeMA.Gospel.text = "The Lord said to his disciples: The kingdom of heaven shall be compared to ten maidens who took their lamps and went to meet the bridegroom. Five of them were foolish, and five were wise. For when the foolish took their lamps, they took no oil with them; but the wise took flasks of oil with their lamps. As the bridegroom was delayed, they all slumbered and slept. But at midnight there was a cry, 'Behold, the bridegroom! Come out to meet him.' Then all those maidens rose and trimmed their lamps. And the foolish said to the wise, 'Give us some of your oil, for our lamps are going out.' But the wise replied, 'Perhaps there will not be enough for us and for you; go rather to the dealers and buy for yourselves.' And while they went to buy, the bridegroom came, and those who were ready went in with him to the marriage feast; and the door was shut. Afterward the other maidens came also, saying, 'Lord, Lord, open to us.' But he replied, 'Truly, I say to you, I do not know you.' Watch therefore, for you know neither the day nor the hour when the Son of man shall come."
+
+lemeLI.Gospel.title = "For the Martyrs."
+lemeLI.Gospel.version = properties_en_US_rsv.version.designation
+lemeLI.Gospel.book = le.go.mc.d139_en_US_rsv.lemcLI.Gospel.book
+lemeLI.Gospel.chapverse = le.go.mc.d139_en_US_rsv.lemcLI.Gospel.chapverse
+lemeLI.Gospel.text = le.go.mc.d139_en_US_rsv.lemcLI.Gospel.text
+lemeLI.Gospel.pagenumber = ""
