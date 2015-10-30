@@ -3,11 +3,11 @@ A_Resource_Whose_Name = le.go.ge
 legeMA.Gospel.title = ""
 legeMA.Gospel.version = 
 legeMA.Gospel.book = 
-legeMA.Gospel.chapverse = "()"
+legeMA.Gospel.chapverse = ""
 legeMA.Gospel.text = ""
 
 legeLI.Gospel.title = ""
 legeLI.Gospel.version = 
 legeLI.Gospel.book = 
-legeLI.Gospel.chapverse = "()"
+legeLI.Gospel.chapverse = ""
 legeLI.Gospel.text = ""
