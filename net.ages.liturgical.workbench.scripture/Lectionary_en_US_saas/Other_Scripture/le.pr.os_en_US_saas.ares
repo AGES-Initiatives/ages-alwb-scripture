@@ -41,6 +41,12 @@ leosMA.GreatDoxology.v09.book = bible_en_US_saas.Daniel
 leosMA.GreatDoxology.v09.chapverse = "(3:26)"
 leosMA.GreatDoxology.v09.text = "Blessed are You and praiseworthy, O Lord, the God of our fathers, and praised and glorified is Your name unto the ages. Amen."
 
+leosMA.tr.d036.LaudsSundayVerse1.title = ""
+leosMA.tr.d036.LaudsSundayVerse1.version = properties_en_US_saas.version.designation
+leosMA.tr.d036.LaudsSundayVerse1.book = bible_en_US_saas.Proverbs
+leosMA.tr.d036.LaudsSundayVerse1.chapverse = "(10:32a-33a)"
+leosMA.tr.d036.LaudsSundayVerse1.text = "The mouth of a righteous man distills wisdom; the lips of righteous men distill grace."
+
 leosLI.pe.d113.EpistleProkeimenon.title = "The Prayer of Azariah."
 leosLI.pe.d113.EpistleProkeimenon.version = properties_en_US_saas.version.designation
 leosLI.pe.d113.EpistleProkeimenon.book = bible_en_US_saas.Daniel
