@@ -1,0 +1,40 @@
+[
+{
+  "language": "en"
+  , "country" : "US"
+  , "realm" : "eob"
+  , "description" : "English, USA, Eastern Orthodox Bible"
+},
+{
+  "language": "en"
+  , "country" : "US"
+  , "realm" : "nkjv"
+  , "description" : "English, USA, New King James Version"
+},
+{
+  "language": "en"
+  , "country" : "US"
+  , "realm" : "rsv"
+  , "description" : "English, USA, Revised Standard Version"
+},
+{
+  "language": "en"
+  , "country" : "US"
+  , "realm" : "saas"
+  , "description" : "English, USA, St. Athanasius Academy Septuagint"
+},
+{
+  "language": "en"
+  , "country" : "UK"
+  , "realm" : "kjv"
+  , "description" : "English, USA, King James Version"
+},
+{
+  "language": "en"
+  , "country" : "US"
+  , "realm" : "net"
+  , "description" : "English, USA, NET Bible"
+},
+
+
+]
