@@ -2,15 +2,15 @@ A_Resource_Whose_Name = le.pr.tr.d071_en_US_saas
 
 lemcVE.reading1.title = ""
 lemcVE.reading1.version = properties_en_US_saas.version.designation
-lemcVE.reading1.book = bible_en_US_saas.Genesis
-lemcVE.reading1.chapverse = "(1:1-13)"
-lemcVE.reading1.text = "In the beginning God made heaven and earth. The earth was invisible and unfinished; and darkness was over the deep. The Spirit of God was hovering over the face of the water. Then God said, \"Let there be light\"; and there was light. God saw the light; it was good; and God divided the light from the darkness. God called the light Day; the darkness He called Night; and there was evening and morning, one day. Then God said, \"Let there be a firmament in the midst of the water, and let it divide the water from the water\"; and it was so. Thus God made the firmament, and God divided the water under the firmament from the water above the firmament. So God called the firmament Heaven, and God saw that it was good; and there was evening and morning, the second day. Then God said, \"Let the water under heaven be gathered together into one place, and let the dry land appear\"; and it was so. The water under heaven was gathered into its places, and the dry land appeared. So God called the dry land Earth, and the gathering together of the waters He called Seas; and God saw that it was good. Then God said, \"Let the earth bring forth the herb of grass, bearing seed according to its kind and likeness. Let the fruit tree bear fruit, whose seed is in itself according to its kind on earth.\" It was so. Thus the earth brought forth the herb of grass, bearing seed according to its kind and likeness. The fruit tree bore fruit, whose seed is in itself according to its kind on earth. God saw that it was good. So evening and morning were the third day."
+lemcVE.reading1.book = le.pr.me.r12_en_US_saas.leprVE.reading.book
+lemcVE.reading1.chapverse = le.pr.me.r12_en_US_saas.leprVE.reading.chapverse
+lemcVE.reading1.text = le.pr.me.r12_en_US_saas.leprVE.reading.text
 
 lemcVE.reading2.title = ""
 lemcVE.reading2.version = properties_en_US_saas.version.designation
-lemcVE.reading2.book = bible_en_US_saas.Isaiah
-lemcVE.reading2.chapverse = "(60:1-16)"
-lemcVE.reading2.text = "Shine, shine, O Jerusalem, for your light is come, and the glory of the Lord is risen upon you. Behold, darkness and gloom shall cover the earth upon the nations, but the Lord will shine on you; and His glory shall be seen upon you. Kings shall come to your light, and the Gentiles to your brightness. Lift up your eyes all around, and see your children gathered together. Behold, all your sons come from afar, and your daughters shall be lifted upon their shoulders. Then you will see, fear and be amazed in your heart, because the wealth of the sea and of nations and peoples shall change their course and turn to you. Herds of camels shall come to you, and the camels of Midian and Ephah shall cover you. All those from Sheba shall come bearing gold, and they shall bring frankincense and proclaim the good news of the Lord’s salvation. All the sheep of Kedar shall be gathered together to you, and the rams of Nebaioth shall come to you. They shall offer acceptable sacrifices upon My altar, and My house of prayer shall be glorified. Who are these who fly like clouds and like doves with young? The coastlands waited for Me, and the ships of Tarshish among the first, to bring your children from afar, and silver and gold with them for the sake of the Lord’s name, and because the Holy One of Israel is glorified. Foreigners shall build your walls, and their kings shall defend you; for I struck you because of My wrath, and I loved you because of My mercy. Your gates shall be opened continually, and they shall not be shut day or night, to bring you the power of the Gentiles, and their kings leading them. For the nations and their kings who will not serve you shall perish, and those nations will be utterly desolate. The glory of Lebanon shall come to you, with the cypress, the pine, and the cedar together, to glorify My holy place. The sons of those who humbled and provoked you shall go to you in fear, and you shall be called City of the Lord, Zion of the Holy One of Israel. Because you were forsaken and hated, and there was no one to help you, therefore I will make you an eternal joy, the gladness of generations to generations. You shall drink the milk of the Gentiles and eat the wealth of kings. You shall know I am the Lord who saves you and the God of Israel who delivers you."
+lemcVE.reading2.book = le.pr.me.r51_en_US_saas.leprVE.reading.book
+lemcVE.reading2.chapverse = le.pr.me.r51_en_US_saas.leprVE.reading.chapverse
+lemcVE.reading2.text = le.pr.me.r51_en_US_saas.leprVE.reading.text
 
 lemcVE.reading3.title = ""
 lemcVE.reading3.version = properties_en_US_saas.version.designation
@@ -50,9 +50,9 @@ lemcVE.reading8.text = "Again the word of the Lord came to Elijah, saying, “Ar
 
 lemcVE.reading9.title = ""
 lemcVE.reading9.version = properties_en_US_saas.version.designation
-lemcVE.reading9.book = bible_en_US_saas.Isaiah
-lemcVE.reading9.chapverse = "(61:10-11, 62:1-5)"
-lemcVE.reading9.text = "Let my soul rejoice exceedingly in the Lord, for He clothed me with the garment of salvation and the tunic of gladness. He put a miter around me like a bridegroom and adorned me with ornaments like a bride. As the earth causes its flower to grow, and as a garden its seeds, so shall the Lord cause righteousness to rise up, and exceeding joy before all the Gentiles. For Zion’s sake I will not be silent, and for Jerusalem’s sake I will not rest, until My righteousness goes forth as light, and My salvation burns like a lamp. The Gentiles will see your righteousness, and kings your glory; and one will call you by your new name, which the Lord shall name. You shall also be a crown of beauty in the Lord’s hand, and the diadem of a kingdom in the hand of your God. You shall no longer be called Forsaken, and your land shall not be called Desert; for you shall be called My Will, and in your land, the Inhabited Earth. As a young man lives in wedlock with a virgin, so shall your sons dwell with you, and as a bridegroom rejoices over his bride, so the Lord shall rejoice over you."
+lemcVE.reading9.book = le.pr.me.r50_en_US_saas.leprVE.reading.book
+lemcVE.reading9.chapverse = le.pr.me.r50_en_US_saas.leprVE.reading.chapverse
+lemcVE.reading9.text = le.pr.me.r50_en_US_saas.leprVE.reading.text
 
 lemcVE.reading10.title = ""
 lemcVE.reading10.version = properties_en_US_saas.version.designation
