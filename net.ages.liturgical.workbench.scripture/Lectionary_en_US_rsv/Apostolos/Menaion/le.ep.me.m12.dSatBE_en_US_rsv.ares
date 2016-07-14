@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m12.dSatBE_en_US_rsv 
 
 lemeLI.Epistle.title = "Saturday before Epiphany"
+lemeLI.Epistle.rubric = "(Prokeimenon and Alleluia of the day.)"
 lemeLI.Epistle.version = properties_en_US_rsv.version.designation
 lemeLI.Epistle.book = bible_en_US_rsv.Timothy1
 lemeLI.Epistle.chapverse = "(3:13-16; 4:1-5)"
