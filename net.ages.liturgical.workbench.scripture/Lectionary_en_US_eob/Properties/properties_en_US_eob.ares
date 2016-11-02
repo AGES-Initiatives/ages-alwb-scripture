@@ -13,3 +13,5 @@ contact.address_3 = ""
 contact.phone = ""
 contact.email = "eobeditor@orthodox-church.info"
 contact.url = "http://www.orthodox-church.info/eob/index.asp"
+
+media.key = "For media only."

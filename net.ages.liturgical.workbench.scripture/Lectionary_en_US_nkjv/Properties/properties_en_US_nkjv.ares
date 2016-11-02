@@ -12,3 +12,5 @@ contact.address_2 = ""
 contact.address_3 = ""
 contact.phone = ""
 contact.email = ""
+
+media.key = "For media only."

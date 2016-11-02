@@ -13,3 +13,5 @@ contact.address_3 = ""
 contact.phone = ""
 contact.email = ""
 contact.url = "http://www.nrsv.net/contact/licensing-permissions/"
+
+media.key = "For media only."
