@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.go.mc.d185_en_US_rsv
 
-lemcLI.Gospel.title = "Tuesday of the Tenth Week"
+lemcLI.Gospel.title = "Tuesday of the Tenth Week of Matthew"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.Matthew
 lemcLI.Gospel.chapverse = "(21:23-27)"

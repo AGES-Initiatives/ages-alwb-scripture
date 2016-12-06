@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.go.mc.d210_en_US_rsv
 
-lemcLI.Gospel.title = "Saturday of the Thirteenth Week"
+lemcLI.Gospel.title = "Saturday of the Thirteenth Week of Matthew"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.Matthew
 lemcLI.Gospel.chapverse = "(22:15-22)"

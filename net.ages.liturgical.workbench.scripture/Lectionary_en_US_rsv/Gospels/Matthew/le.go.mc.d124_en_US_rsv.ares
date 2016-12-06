@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.go.mc.d124_en_US_rsv
 
-lemcLI.Gospel.title = "Thursday of the First Week"
+lemcLI.Gospel.title = "Thursday of the First Week of Matthew"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.Matthew
 lemcLI.Gospel.chapverse = "(5:27-32)"

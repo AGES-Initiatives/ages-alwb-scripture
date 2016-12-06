@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.go.mc.d155_en_US_rsv
 
-lemcLI.Gospel.title = "Fifth Sunday"
+lemcLI.Gospel.title = "Fifth Sunday of Matthew"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.Matthew
 lemcLI.Gospel.chapverse = "(8:28-34, 9:1)"

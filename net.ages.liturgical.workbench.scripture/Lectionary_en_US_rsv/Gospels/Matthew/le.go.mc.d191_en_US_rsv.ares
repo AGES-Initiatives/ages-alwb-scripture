@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.go.mc.d191_en_US_rsv
 
-lemcLI.Gospel.title = "Monday of the Eleventh Week"
+lemcLI.Gospel.title = "Monday of the Eleventh Week of Matthew"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.Matthew
 lemcLI.Gospel.chapverse = "(23:13-22)"

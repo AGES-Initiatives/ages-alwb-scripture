@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.go.mc.d162_en_US_rsv
 
-lemcLI.Gospel.title = "Sixth Sunday"
+lemcLI.Gospel.title = "Sixth Sunday of Matthew"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.Matthew
 lemcLI.Gospel.chapverse = "(9:1-8)"

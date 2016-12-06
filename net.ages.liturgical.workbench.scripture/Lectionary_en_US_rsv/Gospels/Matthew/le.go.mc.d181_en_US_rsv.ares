@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.go.mc.d181_en_US_rsv
 
-lemcLI.Gospel.title = "Friday of the Ninth Week"
+lemcLI.Gospel.title = "Friday of the Ninth Week of Matthew"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.Matthew
 lemcLI.Gospel.chapverse = "(21:12-14, 17-20)"

@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.go.mc.d128_en_US_rsv
 
-lemcLI.Gospel.title = "Monday of the Second Week"
+lemcLI.Gospel.title = "Monday of the Second Week of Matthew"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.Matthew
 lemcLI.Gospel.chapverse = "(6:31-34; 7:9-11)"

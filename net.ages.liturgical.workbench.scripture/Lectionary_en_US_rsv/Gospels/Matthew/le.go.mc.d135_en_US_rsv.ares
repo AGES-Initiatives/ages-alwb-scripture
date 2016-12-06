@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.go.mc.d135_en_US_rsv
 
-lemcLI.Gospel.title = "Monday of the Third Week"
+lemcLI.Gospel.title = "Monday of the Third Week of Matthew"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.Matthew
 lemcLI.Gospel.chapverse = "(9:36-38; 10:1-8)"

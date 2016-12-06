@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.go.mc.d165_en_US_rsv
 
-lemcLI.Gospel.title = "Wednesday of the Seventh Week"
+lemcLI.Gospel.title = "Wednesday of the Seventh Week of Matthew"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book = bible_en_US_rsv.Matthew
 lemcLI.Gospel.chapverse = "(14:35-36; 15:1-11)"
