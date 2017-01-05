@@ -16,5 +16,5 @@ lemcTE.reading1.title = ""
 lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book = le.pr.me.r33_en_US_saas.leprVE.reading.book
 lemcTE.reading1.chapverse = le.pr.me.r33_en_US_saas.leprVE.reading.chapverse
-lemcTE.reading1.text = le.pr.me.r33_en_US_saas.leprVE.reading.book
+lemcTE.reading1.text = le.pr.me.r33_en_US_saas.leprVE.reading.text
 
