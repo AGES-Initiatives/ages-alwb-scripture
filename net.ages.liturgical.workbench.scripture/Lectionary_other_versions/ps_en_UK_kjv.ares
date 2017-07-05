@@ -2404,7 +2404,7 @@ psa44.v17.text = ""
 psa44.v18.number_kjv = "(44:18)"
 psa44.v18.number = "(44:18)"
 psa44.v18.text = ""
-psa44.v18alt.text = ""
+psa44.v18aalt.text = ""
 
 psa45.title = "Psalm 45 (46)."
 psa45.version = properties_en_UK_kjv.version.designation

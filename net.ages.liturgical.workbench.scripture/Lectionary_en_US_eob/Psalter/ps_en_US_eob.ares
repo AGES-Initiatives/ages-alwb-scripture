@@ -1775,7 +1775,7 @@ psa44.v17.number = "(44:17)"
 psa44.v17.text = "Instead of your fathers, children are born to you: you shall make them princes over all the earth."
 psa44.v18.number = "(44:18)"
 psa44.v18.text = "They shall make mention of your name from generation to generation: therefore shall the nations give thanks to you for ever, even unto ages of ages."
-psa44.v18alt.text = "They shall make mention of your name from generation to generation."
+psa44.v18aalt.text = "They shall make mention of your name from generation to generation."
 
 psa45.title = "Psalm 45 (46)."
 psa45.version = properties_en_US_eob.version.designation
