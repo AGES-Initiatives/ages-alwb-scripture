@@ -14,7 +14,8 @@ lemeLI.Gospel.text = "At that time, there were standing by the cross of Jesus hi
 lemeLI.Gospel.pagenumber = ""
 
 lemeLI.Gospel2.title = "For the Saint."
-lemeLI.Gospel2.version = properties_en_US_eob.version.designation
-lemeLI.Gospel2.book = bible_en_US_eob.Matthew
-lemeLI.Gospel2.chapverse = "(11:27-30)"
-lemeLI.Gospel2.text = "The Lord said to his disciples: “All things have been delivered to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and the one to whom the Son desires to reveal him. Come to me, all of you who labor and are heavily burdened, and I will give you rest! Take my yoke upon you and learn from me because I am gentle and humble of heart, and you will find rest for your souls. Indeed, my yoke is easy and my burden is light.”"
+lemeLI.Gospel2.version = le.go.mc.d145_en_US_eob.lemcLI.Gospel.version
+lemeLI.Gospel2.book =  le.go.mc.d145_en_US_eob.lemcLI.Gospel.book
+lemeLI.Gospel2.chapverse =  le.go.mc.d145_en_US_eob.lemcLI.Gospel.chapverse
+lemeLI.Gospel2.text =  le.go.mc.d145_en_US_eob.lemcLI.Gospel.text
+lemeLI.Gospel2.pagenumber = ""

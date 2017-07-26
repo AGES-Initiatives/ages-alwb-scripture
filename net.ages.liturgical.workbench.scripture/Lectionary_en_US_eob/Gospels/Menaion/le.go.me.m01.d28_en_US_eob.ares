@@ -1,9 +1,8 @@
 A_Resource_Whose_Name = le.go.me.m01.d28_en_US_eob
 
 lemeLI.Gospel.title = "For the Saint."
-lemeLI.Gospel.version = properties_en_US_eob.version.designation
-lemeLI.Gospel.book = bible_en_US_eob.Luke
-lemeLI.Gospel.chapverse = "(6:17-23)"
-lemeLI.Gospel.text = "At that time, Jesus stood on a level place, and a number of his disciples and a great multitude of people from all Judea, Jerusalem, and the sea coast of Tyre and Sidon came to hear him and to be healed of their diseases. Those who were troubled by unclean spirits also came, and they were healed. The whole multitude desired to touch him because power came out from him and healed them all. Jesus looked up to his disciples, and said: Blessed are you who are poor, for yours is the Kingdom of God. Blessed are you who hunger now, for you will be filled. Blessed are you who weep now, for you will laugh. Blessed are you when men shall hate you, and when they shall exclude and mock you, and throw out your name as evil for the sake of the Son of Man. Rejoice in that day, and leap for joy, for behold, your reward is great in heaven."
+lemeLI.Gospel.version = le.go.lu.d012_en_US_eob.leluLI.Gospel.version
+lemeLI.Gospel.book = le.go.lu.d012_en_US_eob.leluLI.Gospel.book
+lemeLI.Gospel.chapverse = le.go.lu.d012_en_US_eob.leluLI.Gospel.chapverse
+lemeLI.Gospel.text = le.go.lu.d012_en_US_eob.leluLI.Gospel.text
 lemeLI.Gospel.pagenumber = ""
-

@@ -1,16 +1,16 @@
 A_Resource_Whose_Name = le.go.me.m01.d20_en_US_rsv 
 
 lemeMA.Gospel.title = "For the Saint."
-lemeMA.Gospel.version = le.go.me.m12.d05_en_US_rsv.lemeLI.Gospel.version
-lemeMA.Gospel.book = le.go.me.m12.d05_en_US_rsv.lemeLI.Gospel.book
-lemeMA.Gospel.chapverse = le.go.me.m12.d05_en_US_rsv.lemeLI.Gospel.chapverse
-lemeMA.Gospel.text = le.go.me.m12.d05_en_US_rsv.lemeLI.Gospel.text
-lemeLI.Gospel.pagenumber = ""
+lemeMA.Gospel.version = le.go.mc.d145_en_US_rsv.lemcLI.Gospel.version
+lemeMA.Gospel.book =  le.go.mc.d145_en_US_rsv.lemcLI.Gospel.book
+lemeMA.Gospel.chapverse =  le.go.mc.d145_en_US_rsv.lemcLI.Gospel.chapverse
+lemeMA.Gospel.text =  le.go.mc.d145_en_US_rsv.lemcLI.Gospel.text
+lemeMA.Gospel.pagenumber = "" //le.go.mc.d145_en_US_rsv.lemcLI.Gospel.pagemumber
 
 lemeLI.Gospel.title = "For the Saint."
-lemeLI.Gospel.version = le.go.me.m12.d05_en_US_rsv.lemeMA.Gospel.version
-lemeLI.Gospel.book = le.go.me.m12.d05_en_US_rsv.lemeMA.Gospel.book
-lemeLI.Gospel.chapverse = le.go.me.m12.d05_en_US_rsv.lemeMA.Gospel.chapverse
-lemeLI.Gospel.text = le.go.me.m12.d05_en_US_rsv.lemeMA.Gospel.text
+lemeLI.Gospel.version = le.go.lu.d012_en_US_rsv.leluLI.Gospel.version
+lemeLI.Gospel.book = le.go.lu.d012_en_US_rsv.leluLI.Gospel.book
+lemeLI.Gospel.chapverse = le.go.lu.d012_en_US_rsv.leluLI.Gospel.chapverse
+lemeLI.Gospel.text = le.go.lu.d012_en_US_rsv.leluLI.Gospel.text
 lemeLI.Gospel.pagenumber = ""
 
