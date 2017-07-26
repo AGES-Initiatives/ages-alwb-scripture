@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = le.go.me.m01.d30_en_US_eob
 
 lemeMA.Gospel.title = "For the Saints."
-lemeMA.Gospel.version = properties_en_US_eob.version.designation
-lemeMA.Gospel.book = bible_en_US_eob.John
-lemeMA.Gospel.chapverse = "(10:9-16)"
-lemeMA.Gospel.text = "The Lord said: “I am the gate! Anyone who enters in by me will be saved, and go in and out, and will find pasture. The thief only comes to steal, kill, and destroy. I came so that people may have life, and have it in abundance. I am the good shepherd! The good shepherd lays down his life for the sheep. The one who is a hired hand, not a shepherd, and who does not own the sheep, leaves the sheep and flees when he sees the wolf coming. Then the wolf snatches the sheep and scatters them. The hired hand flees because he is a hired hand and does not care for the sheep. I am the good shepherd! I know my own, and I am known by my own; even as the Father knows me, and I know the Father. I lay down my life for the sheep. I have other sheep, which are not of this fold. I must bring them also, and they will hear my voice. And there will be one flock—one shepherd.”"
+lemeMA.Gospel.version = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.version
+lemeMA.Gospel.book = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.book
+lemeMA.Gospel.chapverse = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.text
 
 lemeLI.Gospel.title = "For the Saints."
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
