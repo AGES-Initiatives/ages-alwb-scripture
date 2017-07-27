@@ -5,11 +5,11 @@ lemeMA.Gospel.version = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.version
 lemeMA.Gospel.book = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.book
 lemeMA.Gospel.chapverse = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.chapverse
 lemeMA.Gospel.text = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.text
+lemeMA.Gospel.pagenumber = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.pagenumber
 
 lemeLI.Gospel.title = "For the Saints."
-lemeLI.Gospel.version = properties_en_US_eob.version.designation
-lemeLI.Gospel.book = bible_en_US_eob.Matthew
-lemeLI.Gospel.chapverse = "(5:14-19)"
-lemeLI.Gospel.text = "The Lord said to his disciples: “You are the light of the world! A city located on a hill cannot be hidden. Neither do you light a lamp and place it under a measuring basket, but on a stand. And so it shines to all who are in the house. Likewise, let your light shine before all, so that they may see your good works and glorify your Father who is in heaven. Do not think that I came to destroy the law or the prophets. I did not come to destroy, but to fulfill! Amen, I tell you: until heaven and earth pass away, not even one smallest letter or one tiny pen stroke shall in any way pass away from the law, until all things are accomplished. Whoever, therefore, shall break one of these least commandments and teach others to do so shall be called least in the Kingdom of Heaven; but whoever shall do and teach them shall be called great in the Kingdom of Heaven.”"
-lemeLI.Gospel.pagenumber = ""
-
+lemeLI.Gospel.version = le.go.ge.hierarch_en_US_eob.legeLI.Gospel2.version
+lemeLI.Gospel.book = le.go.ge.hierarch_en_US_eob.legeLI.Gospel2.book
+lemeLI.Gospel.chapverse = le.go.ge.hierarch_en_US_eob.legeLI.Gospel2.chapverse
+lemeLI.Gospel.text = le.go.ge.hierarch_en_US_eob.legeLI.Gospel2.text
+lemeLI.Gospel.pagenumber = le.go.ge.hierarch_en_US_eob.legeLI.Gospel2.pagenumber
