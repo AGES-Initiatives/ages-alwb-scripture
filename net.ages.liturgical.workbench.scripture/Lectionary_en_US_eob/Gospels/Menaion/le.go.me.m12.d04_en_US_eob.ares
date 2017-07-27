@@ -1,14 +1,15 @@
 A_Resource_Whose_Name = le.go.me.m12.d04_en_US_eob
 
-lemeMA.Gospel.title = "Orthros. For the Saint."
+lemeMA.Gospel.title = "For St. Barbara."
 lemeMA.Gospel.version = properties_en_US_eob.version.designation
-lemeMA.Gospel.book = bible_en_US_eob.Matthew
-lemeMA.Gospel.chapverse = "(25:1-13)"
-lemeMA.Gospel.text = "The Lord said this parable: “The Kingdom of Heaven will be like ten virgins who took their lamps and went out to meet the bridegroom. Five of them were wise, and five were foolish. Those who were foolish took their lamps but brought no oil along with them, whereas the wise ones brought oil in their vessels along with their lamps. Now since the bridegroom was late, they all became tired and fell asleep. But at midnight there was a cry, ‘Behold! The bridegroom is coming! Come out to meet him!’ Then all those virgins arose and trimmed their lamps. The foolish virgins said to the wise ones, ‘Give us some of your oil because our lamps are going out.’ But the wise virgins answered: ‘What if there is not enough for us and you? But go rather to those who sell [oil] and buy some for yourselves.’ While they went away to buy [oil], the bridegroom came, and those who were ready went in with him to the marriage feast, and then the door was shut. Afterwards, the other virgins also arrived and said: ‘Lord, Lord, open to us!’ But he answered, ‘Amen, I tell you that I do not know you!’ Watch therefore, for you do not know the day or the hour that the Son of Man is coming.”"
+lemeMA.Gospel.book = le.go.mc.d238_en_US_eob.lemcLI.Gospel.book
+lemeMA.Gospel.chapverse = le.go.mc.d238_en_US_eob.lemcLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.mc.d238_en_US_eob.lemcLI.Gospel.text
+lemeMA.Gospel.pagenumber = le.go.mc.d238_en_US_eob.lemcLI.Gospel.pagenumber
 
-lemeLI.Gospel.title = "Liturgy. For the Saint."
+lemeLI.Gospel.title = "For St. Barbara."
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
-lemeLI.Gospel.book = bible_en_US_eob.Mark
-lemeLI.Gospel.chapverse = "(5:24-34)"
-lemeLI.Gospel.text = "At that time, a great multitude followed Jesus, pressing upon him on all sides. There was a certain woman who had an issue of blood for twelve years. She had endured much at the hands of many physicians and spent all that she had. Yet, she was not feeling better but worse. Having heard about Jesus, she came up behind him in the crowd and touched his clothes. For she thought, “If I just touch his clothes, I will be made well!” And immediately, the flow of her blood was dried up, and she felt in her body that she was healed of her affliction. Jesus, perceiving in himself at once that power had gone out from him, turned around in the crowd and asked, “Who touched my clothes?” His disciples said to him, “You see the multitude pressing against you, and you ask, ‘Who touched me?’” Jesus looked around to see the woman who had done this. But she, fearing and trembling, knowing what had been done to her, came forward and fell down before him, and told him all the truth. Jesus said to her, “Daughter, your faith has made you well! Go in peace, and be cured of your disease.”"
+lemeLI.Gospel.book = le.go.mc.d219_en_US_eob.lemcLI.Gospel.book
+lemeLI.Gospel.chapverse = le.go.mc.d219_en_US_eob.lemcLI.Gospel.chapverse
+lemeLI.Gospel.text = le.go.mc.d219_en_US_eob.lemcLI.Gospel.text
 lemeLI.Gospel.pagenumber = ""

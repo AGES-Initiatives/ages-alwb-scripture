@@ -1,12 +1,13 @@
 A_Resource_Whose_Name = le.go.me.m12.d04_en_US_rsv 
 
-lemeMA.Gospel.title = "For the Saint."
+lemeMA.Gospel.title = "For St. Barbara."
 lemeMA.Gospel.version = properties_en_US_rsv.version.designation
 lemeMA.Gospel.book = le.go.mc.d238_en_US_rsv.lemcLI.Gospel.book
 lemeMA.Gospel.chapverse = le.go.mc.d238_en_US_rsv.lemcLI.Gospel.chapverse
 lemeMA.Gospel.text = le.go.mc.d238_en_US_rsv.lemcLI.Gospel.text
+lemeMA.Gospel.pagenumber = le.go.mc.d238_en_US_rsv.lemcLI.Gospel.pagenumber
 
-lemeLI.Gospel.title = "For the Saint."
+lemeLI.Gospel.title = "For St. Barbara."
 lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book = le.go.mc.d219_en_US_rsv.lemcLI.Gospel.book
 lemeLI.Gospel.chapverse = le.go.mc.d219_en_US_rsv.lemcLI.Gospel.chapverse
