@@ -1,10 +1,11 @@
 A_Resource_Whose_Name = le.go.me.m04.d23_en_US_eob
 
 lemeMA.Gospel.title = "For the Saint."
-lemeMA.Gospel.version = properties_en_US_eob.version.designation
-lemeMA.Gospel.book = bible_en_US_eob.Luke
-lemeMA.Gospel.chapverse = "(21:12-19)"
-lemeMA.Gospel.text = "The Lord said to his disciples: “Be careful of men, for they will lay their hands upon you, and you will be persecuted; you will be handed over to synagogues and prisons, and brought before kings and governors for my Name’s sake. But it will turn out for you as an occasion to bear witness. Therefore, settle it in your hearts not to ponder in advance how to answer, for I will give you a mouth and wisdom which all your adversaries will not be able to contradict or withstand. You will be handed over even by parents, relatives, friends, and brothers. Some of you will be put to death. You will be hated by all for my Name’s sake, yet not a hair of your head will perish. By your endurance acquire your lives.”"
+lemeMA.Gospel.version = le.go.lu.d079_en_US_eob.leluLI.Gospel.version
+lemeMA.Gospel.book = le.go.lu.d079_en_US_eob.leluLI.Gospel.book
+lemeMA.Gospel.chapverse = le.go.lu.d079_en_US_eob.leluLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.lu.d079_en_US_eob.leluLI.Gospel.text
+lemeMA.Gospel.pagenumber = le.go.lu.d079_en_US_eob.leluLI.Gospel.pagenumber
 
 lemeLI.Gospel.title = "For the Saint."
 lemeLI.Gospel.version = le.go.mc.d091_en_US_eob.lemcLI.Gospel.version

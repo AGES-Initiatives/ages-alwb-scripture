@@ -1,13 +1,15 @@
 A_Resource_Whose_Name = le.go.ge.martyr_en_US_eob 
 
 legeMA.Gospel.title = "For a Martyr"
-legeMA.Gospel.version = properties_en_US_eob.version.designation
-legeMA.Gospel.book = bible_en_US_eob.Luke
-legeMA.Gospel.chapverse = "(21:12-19)"
-legeMA.Gospel.text = ""
+legeMA.Gospel.version = le.go.lu.d079_en_US_eob.leluLI.Gospel.version
+legeMA.Gospel.book = le.go.lu.d079_en_US_eob.leluLI.Gospel.book
+legeMA.Gospel.chapverse = le.go.lu.d079_en_US_eob.leluLI.Gospel.chapverse
+legeMA.Gospel.text = le.go.lu.d079_en_US_eob.leluLI.Gospel.text
+legeMA.Gospel.pagenumber = le.go.lu.d079_en_US_eob.leluLI.Gospel.pagenumber
 
 legeLI.Gospel.title = "For a Martyr"
-legeLI.Gospel.version = properties_en_US_eob.version.designation
-legeLI.Gospel.book = bible_en_US_eob.John
-legeLI.Gospel.chapverse = "(15:17-27; 16:1-2)"
-legeLI.Gospel.text = ""
+legeLI.Gospel.version = le.go.mc.d091_en_US_eob.lemcLI.Gospel.version
+legeLI.Gospel.book = le.go.mc.d091_en_US_eob.lemcLI.Gospel.book
+legeLI.Gospel.chapverse = le.go.mc.d091_en_US_eob.lemcLI.Gospel.chapverse
+legeLI.Gospel.text = le.go.mc.d091_en_US_eob.lemcLI.Gospel.text
+legeLI.Gospel.pagenumber = le.go.mc.d091_en_US_eob.lemcLI.Gospel.pagenumber
