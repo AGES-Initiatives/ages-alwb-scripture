@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = le.go.me.m11.d21_en_US_rsv 
 
-lemeMA.Gospel.title = "Orthros. For the Feast."
-lemeMA.Gospel.version = le.go.me.m09.d08_en_US_rsv.lemeMA.Gospel.version
-lemeMA.Gospel.book = le.go.me.m09.d08_en_US_rsv.lemeMA.Gospel.book
-lemeMA.Gospel.chapverse = le.go.me.m09.d08_en_US_rsv.lemeMA.Gospel.chapverse
-lemeMA.Gospel.text = le.go.me.m09.d08_en_US_rsv.lemeMA.Gospel.text
+lemeMA.Gospel.title = "For the Feast."
+lemeMA.Gospel.version = le.go.ge.theotokos_en_US_rsv.legeMA.Gospel.version
+lemeMA.Gospel.book = le.go.ge.theotokos_en_US_rsv.legeMA.Gospel.book
+lemeMA.Gospel.chapverse = le.go.ge.theotokos_en_US_rsv.legeMA.Gospel.chapverse
+lemeMA.Gospel.text = le.go.ge.theotokos_en_US_rsv.legeMA.Gospel.text
+lemeMA.Gospel.pagenumber = le.go.ge.theotokos_en_US_rsv.legeMA.Gospel.pagenumber
 
-lemeLI.Gospel.title = "Liturgy. For the Feast."
-lemeLI.Gospel.version = le.go.me.m09.d08_en_US_rsv.lemeLI.Gospel.version
-lemeLI.Gospel.book = le.go.me.m09.d08_en_US_rsv.lemeLI.Gospel.book
-lemeLI.Gospel.chapverse = le.go.me.m09.d08_en_US_rsv.lemeLI.Gospel.chapverse
-lemeLI.Gospel.text = le.go.me.m09.d08_en_US_rsv.lemeLI.Gospel.text
-lemeLI.Gospel.pagenumber = ""
-
+lemeLI.Gospel.title = "For the Feast."
+lemeLI.Gospel.version = le.go.ge.theotokos_en_US_rsv.legeLI.Gospel.version
+lemeLI.Gospel.book = le.go.ge.theotokos_en_US_rsv.legeLI.Gospel.book
+lemeLI.Gospel.chapverse = le.go.ge.theotokos_en_US_rsv.legeLI.Gospel.chapverse
+lemeLI.Gospel.text = le.go.ge.theotokos_en_US_rsv.legeLI.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.ge.theotokos_en_US_rsv.legeLI.Gospel.pagenumber

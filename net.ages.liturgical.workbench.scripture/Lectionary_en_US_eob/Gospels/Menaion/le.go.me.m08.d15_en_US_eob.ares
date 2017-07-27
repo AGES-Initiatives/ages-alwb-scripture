@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = le.go.me.m08.d15_en_US_eob
 
 lemeMA.Gospel.title = "For the Feast."
-lemeMA.Gospel.version = properties_en_US_eob.version.designation
-lemeMA.Gospel.book = bible_en_US_eob.Luke
-lemeMA.Gospel.chapverse = "(1:39-49, 56)"
-lemeMA.Gospel.text = "In those days, Mary arose and went into the hill country with haste to a city of Judah. She entered into the house of Zacharias and greeted Elizabeth. And it happened that when Elizabeth heard Mary’s greeting, the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit. In a loud voice, she exclaimed, “Blessed are you among women, and blessed is the fruit of your womb! Why am I so favored, that the mother of my Lord should come to me? For behold, when the voice of your greeting came to my ears, the baby leaped in my womb out of joy! Blessed is she who believed, for the things which have been spoken to her from the Lord will be fulfilled!” Mary said, “My soul magnifies the Lord and my spirit has rejoiced in God my Savior, for he has looked at the humble state of his handmaid. For behold, from now on, all generations shall call me blessed! Indeed, he who is mighty has done great things for me, and Holy is his Name!” Mary stayed with Elizabeth for about three months, and then returned to her house."
+lemeMA.Gospel.version = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.version
+lemeMA.Gospel.book = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.book
+lemeMA.Gospel.chapverse = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.chapverse
+lemeMA.Gospel.text = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.text
+lemeMA.Gospel.pagenumber = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.pagenumber
 
 lemeLI.Gospel.title = "For the Feast."
-lemeLI.Gospel.version = properties_en_US_eob.version.designation
-lemeLI.Gospel.book = bible_en_US_eob.Luke
-lemeLI.Gospel.chapverse = "(10:38-42, 11:27-28)"
-lemeLI.Gospel.text = "At that time, Jesus entered into a village, and a certain woman named Martha received him into her house. She had a sister called Mary who also sat at Jesus’ feet and listened to his word. However, Martha was distracted with much serving. She came up to Jesus, and said, “Lord, do you not care that my sister has left me to serve alone? Ask her to help me!” But Jesus answered, “Martha, Martha, you are anxious and troubled about many things! Yet one thing is needed, and Mary has chosen the good part, which will not be taken away from her.” As Jesus was saying these things, a woman called out from the crowd and said to him, “Blessed is the womb that bore you, and the breasts which nursed you!” But Jesus said, “Yes, and more than that, blessed are those who hear the word of God and keep it.”"
-lemeLI.Gospel.pagenumber = ""
-
+lemeLI.Gospel.version = le.go.ge.theotokos_en_US_eob.legeLI.Gospel.version
+lemeLI.Gospel.book = le.go.ge.theotokos_en_US_eob.legeLI.Gospel.book
+lemeLI.Gospel.chapverse = le.go.ge.theotokos_en_US_eob.legeLI.Gospel.chapverse
+lemeLI.Gospel.text = le.go.ge.theotokos_en_US_eob.legeLI.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.ge.theotokos_en_US_eob.legeLI.Gospel.pagenumber

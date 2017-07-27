@@ -1,10 +1,11 @@
 A_Resource_Whose_Name = le.go.me.m03.d25_en_US_eob
 
 lemeMA.Gospel.title = "For the Feast."
-lemeMA.Gospel.version = properties_en_US_eob.version.designation
-lemeMA.Gospel.book = bible_en_US_eob.Luke
-lemeMA.Gospel.chapverse = "(1:39-49, 56)"
-lemeMA.Gospel.text = "In those days, Mary arose and went into the hill country with haste to a city of Judah. She entered into the house of Zacharias and greeted Elizabeth. And it happened that when Elizabeth heard Mary’s greeting, the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit. In a loud voice, she exclaimed, “Blessed are you among women, and blessed is the fruit of your womb! Why am I so favored, that the mother of my Lord should come to me? For behold, when the voice of your greeting came to my ears, the baby leaped in my womb out of joy! Blessed is she who believed, for the things which have been spoken to her from the Lord will be fulfilled!” Mary said, “My soul magnifies the Lord and my spirit has rejoiced in God my Savior, for he has looked at the humble state of his handmaid. For behold, from now on, all generations shall call me blessed! Indeed, he who is mighty has done great things for me, and Holy is his Name!” Mary stayed with Elizabeth for about three months, and then returned to her house."
+lemeMA.Gospel.version = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.version
+lemeMA.Gospel.book = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.book
+lemeMA.Gospel.chapverse = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.chapverse
+lemeMA.Gospel.text = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.text
+lemeMA.Gospel.pagenumber = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.pagenumber
 
 lemeLI.Gospel.title = "For the Feast."
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
