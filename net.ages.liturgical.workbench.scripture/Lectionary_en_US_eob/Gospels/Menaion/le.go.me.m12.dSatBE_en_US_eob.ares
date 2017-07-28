@@ -1,9 +1,8 @@
 A_Resource_Whose_Name = le.go.me.m12.dSatBE_en_US_eob
 
 lemeLI.Gospel.title = "Saturday before Theophany."
-lemeLI.Gospel.version = properties_en_US_eob.version.designation
-lemeLI.Gospel.book = bible_en_US_eob.Matthew
-lemeLI.Gospel.chapverse = "(3:1-6)"
-lemeLI.Gospel.text = "At that time, John the Baptizer came preaching in the wilderness of Judea, saying: “Repent, for the Kingdom of Heaven is at hand!” This is the one whom Isaias (Isaiah) the prophet had spoken about in these words: The voice of one crying in the wilderness: Make ready the way of the Lord! Make his paths straight! It was peculiar about John that he wore clothing made of camel’s hair, with a leather belt around his waist. His food was locusts and wild honey. Soon, people from Jerusalem, all of Judea and the entire region around the Jordan river went out to [listen to] him. They were baptized by John in the Jordan, confessing their sins."
-lemeLI.Gospel.pagenumber = ""
-
+lemeLI.Gospel.version = le.go.me.m01.d05_en_US_eob.lemeH1.Gospel.version
+lemeLI.Gospel.book = le.go.me.m01.d05_en_US_eob.lemeH1.Gospel.book
+lemeLI.Gospel.chapverse = le.go.me.m01.d05_en_US_eob.lemeH1.Gospel.chapverse
+lemeLI.Gospel.text = le.go.me.m01.d05_en_US_eob.lemeH1.Gospel.text
+lemeLI.Gospel.pagenumber = le.go.me.m01.d05_en_US_eob.lemeH1.Gospel.pagenumber

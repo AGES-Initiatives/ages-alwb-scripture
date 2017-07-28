@@ -5,12 +5,14 @@ lemeVE.Gospel.version = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.version
 lemeVE.Gospel.book = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.book
 lemeVE.Gospel.chapverse = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.chapverse
 lemeVE.Gospel.text = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.text
+lemeVE.Gospel.pagenumber = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.pagenumber
 
 lemeMA.Gospel.title = "For the Feast."
-lemeMA.Gospel.version = properties_en_US_eob.version.designation
-lemeMA.Gospel.book = bible_en_US_eob.Mark
-lemeMA.Gospel.chapverse = "(1:9-11)"
-lemeMA.Gospel.text = "At that time, Jesus came from Nazareth of Galilee, and he was baptized by John in the Jordan. Immediately coming up from the water, he saw the heavens torn open and the Spirit descending on him like a dove. A voice came out of the heavens, “You are my beloved Son. In you I am well pleased.”"
+lemeMA.Gospel.version = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.version
+lemeMA.Gospel.book = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.book
+lemeMA.Gospel.chapverse = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.text
+lemeMA.Gospel.pagenumber = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.pagenumber
 
 lemeLI.Gospel.title = "For the Feast."
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
