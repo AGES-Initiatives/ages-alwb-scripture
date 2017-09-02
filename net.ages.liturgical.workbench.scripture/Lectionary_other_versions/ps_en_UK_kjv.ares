@@ -5954,6 +5954,7 @@ psa103.title = "Psalm 103 (104)."
 psa103.version = properties_en_UK_kjv.version.designation
 psa103.text = ""
 psa103.v1.number_kjv = "(103:1)"
+psa103a.text = ""
 psa103.v1.number = "(103:1)"
 psa103.v1.text = ""
 psa103.v1a.number_kjv = "(103:1a)"
@@ -6120,6 +6121,8 @@ psa103.v34.text = ""
 psa103.v35.number_kjv = "(103:35)"
 psa103.v35.number = "(103:35)"
 psa103.v35.text = ""
+psa103.v35a.text = ""
+psa103.v35b.text = ""
 
 psa104.title = "Psalm 104 (105)."
 psa104.version = properties_en_UK_kjv.version.designation

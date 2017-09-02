@@ -5251,6 +5251,7 @@ psa103.title = "Psalm 103"
 psa103.version = properties_en_US_net.version.designation
 psa103.text = ""
 psa103.v1.number_net = "(103:1)"
+psa103a.text = ""
 psa103.v1.number = "(103:1)"
 psa103.v1.text = "Praise the Lord, O my soul! With all that is within me, praise his holy name!"
 psa103.v2.number_net = "(103:2)"
