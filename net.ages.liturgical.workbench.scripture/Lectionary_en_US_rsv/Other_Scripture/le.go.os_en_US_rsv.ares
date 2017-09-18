@@ -14,68 +14,6 @@ leosMA.SixPsalmsIntro1.book = bible_en_US_rsv.Luke
 leosMA.SixPsalmsIntro1.chapverse = "(2:14)"
 leosMA.SixPsalmsIntro1.text = "Glory to God in the highest, and on earth peace, good will among men."
 
-//The NT Odes are referenced here and the template (MatinsParts) references these leos keys
-//so that the Scripture version of these NT texts will be controlled by the version option
-//for NT and not the option for Psalter, which is where the Odes live
-leosMA.Ode91.title = ps_en_US_rsv.bode9.title
-leosMA.Ode91.version = 
-leosMA.Ode91.book = bible_en_US_rsv.Luke
-leosMA.Ode91.heading1 = ps_en_US_rsv.bode9_mag.heading1
-leosMA.Ode91.source = ps_en_US_rsv.bode9_mag.chapverse
-leosMA.Ode91.heading2 = ps_en_US_rsv.bode9_mag.heading2
-leosMA.Ode91.intro = ps_en_US_rsv.bode9_mag.intro
-leosMA.Ode91.v1.number = ps_en_US_rsv.bode9_mag.v1.number
-leosMA.Ode91.v1.text = ps_en_US_rsv.bode9_mag.v1.text
-leosMA.Ode91.v2.number = ps_en_US_rsv.bode9_mag.v2.number
-leosMA.Ode91.v2.text = ps_en_US_rsv.bode9_mag.v2.text
-leosMA.Ode91.v3.number = ps_en_US_rsv.bode9_mag.v3.number
-leosMA.Ode91.v3.text = ps_en_US_rsv.bode9_mag.v3.text
-leosMA.Ode91.v4.number = ps_en_US_rsv.bode9_mag.v4.number
-leosMA.Ode91.v4.text = ps_en_US_rsv.bode9_mag.v4.text
-leosMA.Ode91.v5.number = ps_en_US_rsv.bode9_mag.v5.number
-leosMA.Ode91.v5.text = ps_en_US_rsv.bode9_mag.v5.text
-leosMA.Ode91.v6.number = ps_en_US_rsv.bode9_mag.v6.number
-leosMA.Ode91.v6.text = ps_en_US_rsv.bode9_mag.v6.text
-
-leosMA.Ode92.title = ""
-leosMA.Ode92.version = 
-leosMA.Ode92.book = bible_en_US_rsv.Luke
-leosMA.Ode92.heading1 = ps_en_US_rsv.bode9.heading1
-leosMA.Ode92.source = ps_en_US_rsv.bode9.chapverse
-leosMA.Ode92.heading2 = ""
-leosMA.Ode92.refrain = ps_en_US_rsv.bode9.refrain
-leosMA.Ode92.v1.number = ps_en_US_rsv.bode9.v1.number
-leosMA.Ode92.v1.text = ps_en_US_rsv.bode9.v1.text
-leosMA.Ode92.v2.number = ps_en_US_rsv.bode9.v2.number
-leosMA.Ode92.v2.text = ps_en_US_rsv.bode9.v2.text
-leosMA.Ode92.v3.number = ps_en_US_rsv.bode9.v3.number
-leosMA.Ode92.v3.text = ps_en_US_rsv.bode9.v3.text
-leosMA.Ode92.v4.number = ps_en_US_rsv.bode9.v4.number
-leosMA.Ode92.v4.text = ps_en_US_rsv.bode9.v4.text
-leosMA.Ode92.v5.number = ps_en_US_rsv.bode9.v5.number
-leosMA.Ode92.v5.text = ps_en_US_rsv.bode9.v5.text
-leosMA.Ode92.eight = "" 
-leosMA.Ode92.v6.number = ps_en_US_rsv.bode9.v6.number
-leosMA.Ode92.v6.text = ps_en_US_rsv.bode9.v6.text
-leosMA.Ode92.v7.number = ps_en_US_rsv.bode9.v7.number
-leosMA.Ode92.v7.text = ps_en_US_rsv.bode9.v7.text
-leosMA.Ode92.six = "" 
-leosMA.Ode92.v8.number = ps_en_US_rsv.bode9.v8.number
-leosMA.Ode92.v8.text = ps_en_US_rsv.bode9.v8.text
-leosMA.Ode92.v9.number = ps_en_US_rsv.bode9.v9.number
-leosMA.Ode92.v9.text = ps_en_US_rsv.bode9.v9.text
-leosMA.Ode92.four = "" 
-leosMA.Ode92.v10.number = ps_en_US_rsv.bode9.v10.number
-leosMA.Ode92.v10.text = ps_en_US_rsv.bode9.v10.text
-leosMA.Ode92.v11.number = ps_en_US_rsv.bode9.v11.number
-leosMA.Ode92.v11.text = ps_en_US_rsv.bode9.v11.text
-
-leosMA.GreatDoxology.v01.title = ""
-leosMA.GreatDoxology.v01.version = properties_en_US_rsv.version.designation
-leosMA.GreatDoxology.v01.book = bible_en_US_rsv.Luke
-leosMA.GreatDoxology.v01.chapverse = "(2:14)"
-leosMA.GreatDoxology.v01.text = "Glory to God in the highest, and on earth peace, good will among men."
-
 leosLI.pe.d095.CommunionHymn.title = "Communion Hymn for Mid-Pentecost."
 leosLI.pe.d095.CommunionHymn.version = properties_en_US_rsv.version.designation
 leosLI.pe.d095.CommunionHymn.book = bible_en_US_rsv.John
