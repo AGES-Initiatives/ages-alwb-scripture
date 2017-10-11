@@ -51,6 +51,10 @@ psa2.v11.number = "(2:11)"
 psa2.v11.text = "Serve the Lord with fear and rejoice in him with trembling."
 psa2.v12.number = "(2:12)"
 psa2.v12.text = "Accept correction, for fear that at any time the Lord be angry, and that you should perish from the righteous way: when his wrath shall be suddenly kindled, blessed are all those who trust in him!"
+psa2.v12a.number = "(2:12a)"
+psa2.v12a.text = "Accept correction, for fear that at any time the Lord be angry, and that you should perish from the righteous way."
+psa2.v12b.number = "(2:12b)"
+psa2.v12b.text = "When his wrath shall be suddenly kindled, blessed are all those who trust in him!"
 
 psa3.title = "Psalm 3."
 psa3.version = properties_en_US_eob.version.designation

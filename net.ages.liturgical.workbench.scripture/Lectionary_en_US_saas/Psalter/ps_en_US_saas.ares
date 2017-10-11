@@ -51,6 +51,10 @@ psa2.v11.number = "(2:11)"
 psa2.v11.text = "Serve the Lord with fear and rejoice in Him with trembling."
 psa2.v12.number = "(2:12)"
 psa2.v12.text = "Lay hold of His instruction, lest the Lord be angry, and you perish from the righteous way when His fury shall be quickly kindled. Blessed are all who trust in Him."
+psa2.v12a.number = "(2:12a)"
+psa2.v12a.text = "Lay hold of His instruction, lest the Lord be angry, and you perish from the righteous way."
+psa2.v12b.number = "(2:12b)"
+psa2.v12b.text = "When His fury shall be quickly kindled. Blessed are all who trust in Him."
 
 psa3.title = "Psalm 3."
 psa3.version = properties_en_US_saas.version.designation

@@ -68,6 +68,10 @@ psa2.v11.text = ""
 psa2.v12.number_kjv = "(2:12)"
 psa2.v12.number = "(2:12)"
 psa2.v12.text = ""
+psa2.v12a.number = "(2:12a)"
+psa2.v12a.text = ""
+psa2.v12b.number = "(2:12b)"
+psa2.v12b.text = ""
 
 psa3.title = "Psalm 3."
 psa3.version = properties_en_UK_kjv.version.designation

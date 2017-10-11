@@ -69,6 +69,10 @@ psa2.v11.text = "Serve the LORD with fear, with trembling, "
 psa2.v12.number_rsv = "(2:12)"
 psa2.v12.number = "(2:12)"
 psa2.v12.text = "Kiss his feet, lest he be angry, and you perish in the way; for his wrath is quickly kindled. Blessed are all who take refuge in him."
+psa2.v12a.number = "(2:12a)"
+psa2.v12a.text = "Kiss his feet, lest he be angry, and you perish in the way."
+psa2.v12b.number = "(2:12b)"
+psa2.v12b.text = "For his wrath is quickly kindled. Blessed are all who take refuge in him."
 
 psa3.title = "Psalm 3"
 psa3.version = properties_en_US_rsv.version.designation
