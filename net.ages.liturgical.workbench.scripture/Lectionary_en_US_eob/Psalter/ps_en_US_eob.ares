@@ -655,6 +655,7 @@ psa18.v4.text = "There are no speeches or words in which their voices are not he
 psa18.v5.number = "(18:5)"
 psa18.v5.text = "Their voice is gone out into all the earth, and their words to the ends of the world."
 psa18.v5alt.text = "His voice is gone out into all the earth, and his words to the ends of the world."
+psa18.v5alt_w.text = "Her voice is gone out into all the earth, and her words to the ends of the world."
 psa18.v6.number = "(18:6)"
 psa18.v6.text = "In the sun he has set his tabernacle; he comes forth as a bridegroom out of his chamber: he will exult as a hero to run his course."
 psa18.v7.number = "(18:7)"
