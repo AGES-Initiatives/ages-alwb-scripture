@@ -1,0 +1,97 @@
+A_Resource_Whose_Name = psalm.verses_en_US_rsv
+
+// Selected Psalm Verses for Polyeleos
+
+ps.ecloge.annunciation.info = ""
+ps.ecloge.annunciation.intro.text = ""
+ps.ecloge.annunciation.v01.text = ""
+ps.ecloge.annunciation.v02.text = ""
+ps.ecloge.annunciation.v03.text = ""
+ps.ecloge.annunciation.v04.text = ""
+ps.ecloge.annunciation.v05.text = ""
+ps.ecloge.annunciation.v06.text = ""
+ps.ecloge.annunciation.v07.text = ""
+ps.ecloge.annunciation.v08.text = ""
+ps.ecloge.annunciation.v09.text = ""
+ps.ecloge.annunciation.v10.text = ""
+ps.ecloge.annunciation.v11.text = ""
+ps.ecloge.annunciation.v12.text = ""
+ps.ecloge.annunciation.v13.text = ""
+ps.ecloge.annunciation.v14.text = ""
+ps.ecloge.annunciation.v15.text = ""
+ps.ecloge.annunciation.v16.text = ""
+ps.ecloge.annunciation.v17.text = ""
+ps.ecloge.annunciation.v18.text = ""
+ps.ecloge.annunciation.v19.text = ""
+ps.ecloge.annunciation.v20.text = ""
+ps.ecloge.annunciation.v21.text = ""
+ps.ecloge.annunciation.v22.text = ""
+ps.ecloge.annunciation.v23.text = ""
+ps.ecloge.annunciation.v24.text = ""
+
+ps.ecloge.dormition.info = ""
+ps.ecloge.dormition.intro.text = ""
+ps.ecloge.dormition.v01.text = ""
+ps.ecloge.dormition.v02.text = ""
+ps.ecloge.dormition.v03.text = ""
+ps.ecloge.dormition.v04.text = ""
+ps.ecloge.dormition.v05.text = ""
+ps.ecloge.dormition.v06.text = ""
+ps.ecloge.dormition.v07.text = ""
+ps.ecloge.dormition.v08.text = ""
+ps.ecloge.dormition.v09.text = ""
+ps.ecloge.dormition.v10.text = ""
+ps.ecloge.dormition.v11.text = ""
+ps.ecloge.dormition.v12.text = ""
+ps.ecloge.dormition.v13.text = ""
+ps.ecloge.dormition.v14.text = ""
+ps.ecloge.dormition.v15.text = ""
+ps.ecloge.dormition.v16.text = ""
+ps.ecloge.dormition.v17.text = ""
+ps.ecloge.dormition.v18.text = ""
+ps.ecloge.dormition.v19.text = ""
+ps.ecloge.dormition.v20.text = ""
+ps.ecloge.dormition.v21.text = ""
+ps.ecloge.dormition.v22.text = ""
+ps.ecloge.dormition.v23.text = ""
+ps.ecloge.dormition.v24.text = ""
+
+
+//Psalm Verses
+ps.psalmverses.angels.info = "103:4, 1"
+ps.psalmverses.angels_1.text = ""
+ps.psalmverses.angels_2.text = ""
+
+
+//Prokeimena
+ps.prokeimenon.angels.info = "103:4, 1"
+ps.prokeimenon.angels_1.text = ""
+ps.prokeimenon.angels_2.text = ""
+
+
+//Communion Hymns
+ps.communion.d1.info = "148:1"
+ps.communion.d1.text = "Praise the LORD from the heavens, praise him in the heights!"
+
+ps.communion.d2.info = "103:4"
+ps.communion.d2.text = ""
+
+ps.communion.d3.info = "111:6"
+ps.communion.d3.text = "The righteous will be remembered for ever."
+
+ps.communion.d4.info = "115:4"
+ps.communion.d4.text = ""
+
+ps.communion.d5.info = "18:5"
+ps.communion.d5.text = ""
+
+ps.communion.d6_1.info = "73:12"
+ps.communion.d6_1.text = ""
+ps.communion.d6_2.info = "4:7"
+ps.communion.d6_2.text = ""
+
+ps.communion.d7_1.info = "32:1"
+ps.communion.d7_1.text = ""
+ps.communion.d7_2.info = "64:5, 101:13"
+ps.communion.d7_2.text = ""
+
