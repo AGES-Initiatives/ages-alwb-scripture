@@ -1,0 +1,17 @@
+A_Resource_Whose_Name = liturgical.verses_en_US_nkjv
+
+
+
+
+
+psVE.meeting.aposverse.v1.info = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.chapverse
+psVE.meeting.aposverse.v1.text = "Lord, now You are letting Your servant depart in peace, according to Your word; for my eyes have seen Your salvation which You have prepared before the face of all peoples."
+psVE.meeting.aposverse.v2.info = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.chapverse
+psVE.meeting.aposverse.v2.text = "A light to bring revelation to the Gentiles, and the glory of Your people Israel."
+
+
+
+psLI.meeting.alleluia.v1.info = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.chapverse
+psLI.meeting.alleluia.v1.text = "Lord, now You are letting Your servant depart in peace, according to Your word; for my eyes have seen Your salvation which You have prepared before the face of all peoples."
+psLI.meeting.alleluia.v2.info = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.chapverse
+psLI.meeting.alleluia.v2.text = "A light to bring revelation to the Gentiles, and the glory of Your people Israel."
