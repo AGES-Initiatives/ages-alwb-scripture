@@ -639,7 +639,7 @@ psMA.sunday.m1.prokeimenon.v1.text = "\"Now I will arise,\" says the Lord; \"I w
 psMA.sunday.m1.prokeimenon.v2.info = ps_en_US_saas.psa11.v7.number //"11:7"
 psMA.sunday.m1.prokeimenon.v2.text = "The words of the Lord are pure words, like silver fired in a furnace of earth, purified seven times."
 psMA.sunday.m2.prokeimenon.v1.info = ps_en_US_saas.psa7.v7.number //"7:7-8"
-psMA.sunday.m2.prokeimenon.v1.text = "awaken, O Lord my God, in the ordinance You commanded, so the congregation of the peoples shall surround You."
+psMA.sunday.m2.prokeimenon.v1.text = "Awaken, O Lord my God, in the ordinance You commanded, so the congregation of the peoples shall surround You."
 psMA.sunday.m2.prokeimenon.v2.info = ps_en_US_saas.psa7.v2.number //"7:2"
 psMA.sunday.m2.prokeimenon.v2.text = "O Lord my God in You I hope."
 psMA.sunday.m3.prokeimenon.v1.info = ps_en_US_saas.psa95.v10.number //"95:10"
@@ -770,39 +770,6 @@ psGH.christmas.H9.prokeimenon.v1.info = ps_en_US_saas.psa86.v5.number //"86:5"
 psGH.christmas.H9.prokeimenon.v1.text = "A man will say, \"Mother Zion,\" and a man was born in her."
 psGH.christmas.H9.prokeimenon.v2.info = ps_en_US_saas.psa86.v1.number //"86:1"
 psGH.christmas.H9.prokeimenon.v2.text = "His foundations are in the holy mountains."
-
-psGH.holyfriday.H1.v1.info = ps_en_US_saas.psa2.v1.number //"2:1"
-psGH.holyfriday.H1.v1.text = "Why do the nations rage, and the people meditate on vain things?"
-psGH.holyfriday.H1.v2.info = ps_en_US_saas.psa2.v2.number //"2:2"
-psGH.holyfriday.H1.v2.text = "The kings of the earth set themselves, and the rulers gather together"
-psGH.holyfriday.H1.prokeimenon.v1.info = ps_en_US_saas.psa40.v7.number //"40·7"
-psGH.holyfriday.H1.prokeimenon.v1.text = "He went forth and spoke the same."
-psGH.holyfriday.H1.prokeimenon.v2.info = ps_en_US_saas.psa40.v2.number //"40·2"
-psGH.holyfriday.H1.prokeimenon.v2.text = "Blessed is he who understands the poor and needy."
-psGH.holyfriday.H3.v1.info = ps_en_US_saas.psa5.v2.number //"5:2"
-psGH.holyfriday.H3.v1.text = "Give ear to my words, O Lord, hear my cry."
-psGH.holyfriday.H3.v2.info = ps_en_US_saas.psa5.v3.number //"5:3"
-psGH.holyfriday.H3.v2.text = "Give heed to the voice of my supplication, my King and my God."
-psGH.holyfriday.H3.prokeimenon.v1.info = ps_en_US_saas.psa37.v18.number //"37:18"
-psGH.holyfriday.H3.prokeimenon.v1.text = "For I am ready for wounds."
-psGH.holyfriday.H3.prokeimenon.v2.info = ps_en_US_saas.psa37.v2.number //"37:2"
-psGH.holyfriday.H3.prokeimenon.v2.text = "O Lord, do not rebuke me in Your wrath."
-psGH.holyfriday.H6.v1.info = ps_en_US_saas.psa68.v22.number //"68:22"
-psGH.holyfriday.H6.v1.text = "They gave me gall for my food, and they gave me vinegar for my drink."
-psGH.holyfriday.H6.v2.info = ps_en_US_saas.psa68.v2.number //"68:2"
-psGH.holyfriday.H6.v2.text = "Save me, O God, for the waters flood my soul."
-psGH.holyfriday.H6.prokeimenon.v1.info = ps_en_US_saas.psa8.v2.number //"8:2"
-psGH.holyfriday.H6.prokeimenon.v1.text = "O Lord, our Lord, how wondrous is Your name in all the earth."
-psGH.holyfriday.H6.prokeimenon.v2.info = ps_en_US_saas.psa8.v2.number //"8:2"
-psGH.holyfriday.H6.prokeimenon.v2.text = "For Your splendor is exalted far beyond the heavens."
-psGH.holyfriday.H9.v1.info = ps_en_US_saas.psa21.v19.number //"21:19"
-psGH.holyfriday.H9.v1.text = "They divided my garments among themselves, and for my clothing they cast lots."
-psGH.holyfriday.H9.v2.info = ps_en_US_saas.psa68.v22.number //"68:22"
-psGH.holyfriday.H9.v2.text = "They gave me gall for my food, and they gave me vinegar for my drink."
-psGH.holyfriday.H9.prokeimenon.v1.info = ps_en_US_saas.psa13.v1.number //"13:1"
-psGH.holyfriday.H9.prokeimenon.v1.text = "The fool says in his heart, \"There is no God.\""
-psGH.holyfriday.H9.prokeimenon.v2.info = ps_en_US_saas.psa13.v1.number //"13:1"
-psGH.holyfriday.H9.prokeimenon.v2.text = "There is none, not even one, who does good."
 
 psH1.v1.info = ps_en_US_saas.psa5.v2.number //"5:2"
 psH1.v1.text = "Give ear to my words, O Lord, hear my cry."
@@ -1286,6 +1253,8 @@ psLI.lazarus.antiphon3.v1.info = ps_en_US_saas.psa117.v24.number //"117:24"
 psLI.lazarus.antiphon3.v1.text = "This is the day the Lord made; let us greatly rejoice and be glad therein."
 psLI.lazarus.antiphon3.v2.info = ps_en_US_saas.psa68.v35.number //"68:35"
 psLI.lazarus.antiphon3.v2.text = "Let heaven and earth praise Him, the seas and everything that moves in them."
+psLI.lazarus.communion.v1.info = ps_en_US_saas.psa8.v3.number //"8:3"
+psLI.lazarus.communion.v1.text = "From the mouths of babies and nursing infants You prepared praise."
 
 psLI.lent1.antiphon1.v1.info = ps_en_US_saas.psa92.v1.number //"92:1"
 psLI.lent1.antiphon1.v1.text = "The Lord reigns; He clothed Himself with majesty; the Lord clothed and girded Himself with power."
@@ -2567,7 +2536,7 @@ psHO.ecloge.palmsunday.v10.text = "Praise the Lord, O Jerusalem; praise your God
 psHO.ecloge.palmsunday.v11.info = ps_en_US_saas.psa101.v22.number //"101:22"
 psHO.ecloge.palmsunday.v11.text = "To declare the Lord's name in Zion, and His praise in Jerusalem."
 psHO.ecloge.palmsunday.v12.info = ps_en_US_saas.psa117.v26.number //"117:26"
-psHO.ecloge.palmsunday.v12.text = "Blessed is he who comes in the name of the Lord."
+psHO.ecloge.palmsunday.v12.text = "Blessed is he who comes in the name of the Lord. God is the Lord, and He revealed Himself to us."
 psHO.ecloge.palmsunday.v13.info = ps_en_US_saas.psa117.v27.number //"117:27"
 psHO.ecloge.palmsunday.v13.text = "Appoint a feast for yourselves, decked with branches, even to the horns of the altar."
 psHO.ecloge.palmsunday.v14.info = ps_en_US_saas.psa117.v28.number //"117:28"
@@ -2989,4 +2958,709 @@ psEU.wedding.v5.info = ps_en_US_saas.psa127.v5.number //"127:5"
 psEU.wedding.v5.text = "May the Lord bless you from Zion, and may you see the good things of Jerusalem all the days of your life."
 psEU.wedding.v6.info = ps_en_US_saas.psa127.v6.number //"127:6"
 psEU.wedding.v6.text = "May you see your children's children. Peace be upon Israel."
+
+//Cheese Wed
+psTR.d18.te.prokeimenon.v1.info = ps_en_US_saas.psa27.v9.number
+psTR.d18.te.prokeimenon.v1.text = "O Lord, save Your people."
+psTR.d18.te.prokeimenon.v2.info = ps_en_US_saas.psa27.v1.number
+psTR.d18.te.prokeimenon.v2.text = "To You, O Lord, I cry; O my God."
+psTR.d18.te.prokeimenon.v3.info = ps_en_US_saas.psa28.v11.number
+psTR.d18.te.prokeimenon.v3.text = "The Lord will give strength to His people."
+psTR.d18.te.prokeimenon.v4.info = ps_en_US_saas.psa28.v1.number
+psTR.d18.te.prokeimenon.v4.text = "Bring to the Lord, O you sons of God."
+psTR.d19.ve.prokeimenon.v1.info = ps_en_US_saas.psa53.v3.number
+psTR.d19.ve.prokeimenon.v1.text = "Save me, O God, in Your name, and judge me in Your power."
+psTR.d19.ve.prokeimenon.v2.info = ps_en_US_saas.psa53.v4.number
+psTR.d19.ve.prokeimenon.v2.text = "O God, hear my prayer."
+psTR.d19.ve.prokeimenon.v3.info = ps_en_US_saas.psa130.v3.number
+psTR.d19.ve.prokeimenon.v3.text = "Let Israel hope in the Lord."
+psTR.d19.ve.prokeimenon.v4.info = ps_en_US_saas.psa130.v1.number
+psTR.d19.ve.prokeimenon.v4.text = "O Lord, my heart is not exalted."
+
+//Cheese Fri
+psTR.d20.te.prokeimenon.v1.info = ps_en_US_saas.psa32.v22.number
+psTR.d20.te.prokeimenon.v1.text = "Let Your mercy, O Lord, be upon us."
+psTR.d20.te.prokeimenon.v2.info = ps_en_US_saas.psa32.v1.number
+psTR.d20.te.prokeimenon.v2.text = "Rejoice greatly in the Lord, O righteous ones."
+psTR.d20.te.prokeimenon.v3.info = ps_en_US_saas.psa46.v7.number
+psTR.d20.te.prokeimenon.v3.text = "Sing praises to God; sing praises."
+psTR.d20.te.prokeimenon.v4.info = ps_en_US_saas.psa46.v2.number
+psTR.d20.te.prokeimenon.v4.text = "Oh, clap your hands, all you nations."
+psTR.d21.ve.prokeimenon.v1.info = ps_en_US_saas.psa58.v10.number
+psTR.d21.ve.prokeimenon.v1.text = "You are my protector, O God. Your mercy shall go before me."
+psTR.d21.ve.prokeimenon.v2.info = ps_en_US_saas.psa58.v2.number
+psTR.d21.ve.prokeimenon.v2.text = "Rescue me from my enemies, O God."
+psTR.d21.ve.prokeimenon.v3.info = ps_en_US_saas.psa130.v3.number
+psTR.d21.ve.prokeimenon.v3.text = "Let Israel hope in the Lord from this present time and unto the ages."
+psTR.d21.ve.prokeimenon.v4.info = ps_en_US_saas.psa130.v1.number
+psTR.d21.ve.prokeimenon.v4.text = "O Lord, my heart is not exalted."
+
+//Mon 1
+psTR.d23.te.prokeimenon.v1.info = ps_en_US_saas.psa1.v6.number
+psTR.d23.te.prokeimenon.v1.text = "The Lord knows the way of the righteous, but the way of the ungodly shall perish."
+psTR.d23.te.prokeimenon.v2.info = ps_en_US_saas.psa1.v1.number
+psTR.d23.te.prokeimenon.v2.text = "Blessed is the man who walks not in the counsel of the ungodly."
+psTR.d23.te.prokeimenon.v3.info = ps_en_US_saas.psa2.v11.number
+psTR.d23.te.prokeimenon.v3.text = "Serve the Lord with fear and rejoice in Him with trembling."
+psTR.d23.te.prokeimenon.v4.info = ps_en_US_saas.psa2.v1.number
+psTR.d23.te.prokeimenon.v4.text = "Why do the nations rage, and the people meditate on vain things?"
+psTR.d24.ve.prokeimenon.v1.info = ps_en_US_saas.psa3.v9.number
+psTR.d24.ve.prokeimenon.v1.text = "Salvation is of the Lord, and Your blessing is upon Your people."
+psTR.d24.ve.prokeimenon.v2.info = ps_en_US_saas.psa3.v2.number
+psTR.d24.ve.prokeimenon.v2.text = "O Lord, why do those who afflict me multiply?"
+psTR.d24.ve.prokeimenon.v3.info = ps_en_US_saas.psa4.v4.number
+psTR.d24.ve.prokeimenon.v3.text = "The Lord will hear me when I cry to Him."
+psTR.d24.ve.prokeimenon.v4.info = ps_en_US_saas.psa4.v2.number
+psTR.d24.ve.prokeimenon.v4.text = "You heard me when I called, O God of my righteousness."
+
+//Tue 1
+psTR.d24.te.prokeimenon.v1.info = ps_en_US_saas.psa5.v3.number
+psTR.d24.te.prokeimenon.v1.text = "Give heed to the voice of my supplication."
+psTR.d24.te.prokeimenon.v2.info = ps_en_US_saas.psa5.v2.number
+psTR.d24.te.prokeimenon.v2.text = "Give ear to my words, O Lord."
+psTR.d24.te.prokeimenon.v3.info = ps_en_US_saas.psa6.v2.number
+psTR.d24.te.prokeimenon.v3.text = "O Lord, do not reprove me in Your anger."
+psTR.d24.te.prokeimenon.v4.info = ps_en_US_saas.psa6.v3.number
+psTR.d24.te.prokeimenon.v4.text = "Have mercy on me, O Lord, for I am weak."
+psTR.d25.ve.prokeimenon.v1.info = ps_en_US_saas.psa7.v2.number
+psTR.d25.ve.prokeimenon.v1.text = "O Lord my God in You I hope."
+psTR.d25.ve.prokeimenon.v2.info = ps_en_US_saas.psa7.v2.number
+psTR.d25.ve.prokeimenon.v2.text = "Save me from all who pursue me, and deliver me."
+psTR.d25.ve.prokeimenon.v3.info = ps_en_US_saas.psa8.v2.number
+psTR.d25.ve.prokeimenon.v3.text = "O Lord, our Lord, how wondrous is Your name!"
+psTR.d25.ve.prokeimenon.v4.info = ps_en_US_saas.psa8.v2.number
+psTR.d25.ve.prokeimenon.v4.text = "For Your splendor is exalted far beyond the heavens."
+
+//Wed 1
+psTR.d25.te.prokeimenon.v1.info = ps_en_US_saas.psa9.v2.number
+psTR.d25.te.prokeimenon.v1.text = "I will give thanks to You, O Lord, with my whole heart."
+psTR.d25.te.prokeimenon.v2.info = ps_en_US_saas.psa9.v3.number
+psTR.d25.te.prokeimenon.v2.text = "I will be glad and rejoice in You."
+psTR.d25.te.prokeimenon.v3.info = ps_en_US_saas.psa10.v7.number
+psTR.d25.te.prokeimenon.v3.text = "The righteous Lord loves righteousness."
+psTR.d25.te.prokeimenon.v4.info = ps_en_US_saas.psa10.v1.number
+psTR.d25.te.prokeimenon.v4.text = "In the Lord I trust. How will you say to my soul?"
+psTR.d26.ve.prokeimenon.v1.info = ps_en_US_saas.psa11.v8.number
+psTR.d26.ve.prokeimenon.v1.text = "You shall guard us, O Lord; You shall preserve us."
+psTR.d26.ve.prokeimenon.v2.info = ps_en_US_saas.psa11.v2.number
+psTR.d26.ve.prokeimenon.v2.text = "Save me, O Lord, for the holy man has ceased."
+psTR.d26.ve.prokeimenon.v3.info = ps_en_US_saas.psa12.v4.number
+psTR.d26.ve.prokeimenon.v3.text = "Look upon me and hear me, O Lord my God."
+psTR.d26.ve.prokeimenon.v4.info = ps_en_US_saas.psa12.v2.number
+psTR.d26.ve.prokeimenon.v4.text = "How long, O Lord? Will You forget me to the end?"
+
+//Thu 1
+psTR.d26.te.prokeimenon.v1.info = ps_en_US_saas.psa13.v7.number
+psTR.d26.te.prokeimenon.v1.text = "When the Lord returns His people from captivity."
+psTR.d26.te.prokeimenon.v2.info = ps_en_US_saas.psa13.v1.number
+psTR.d26.te.prokeimenon.v2.text = "The fool says in his heart, \"There is no God.\""
+psTR.d26.te.prokeimenon.v3.info = ps_en_US_saas.psa14.v1.number
+psTR.d26.te.prokeimenon.v3.text = "O Lord, who shall dwell in Your tabernacle."
+psTR.d26.te.prokeimenon.v4.info = ps_en_US_saas.psa14.v2.number
+psTR.d26.te.prokeimenon.v4.text = "He who walks blamelessly, and works righteousness."
+psTR.d27.ve.prokeimenon.v1.info = ps_en_US_saas.psa15.v7.number
+psTR.d27.ve.prokeimenon.v1.text = "I will bless the Lord who caused me to understand."
+psTR.d27.ve.prokeimenon.v2.info = ps_en_US_saas.psa15.v1.number
+psTR.d27.ve.prokeimenon.v2.text = "Preserve me, O Lord, because I hope in You."
+psTR.d27.ve.prokeimenon.v3.info = ps_en_US_saas.psa16.v8.number
+psTR.d27.ve.prokeimenon.v3.text = "Keep me as the apple of Your eye."
+psTR.d27.ve.prokeimenon.v4.info = ps_en_US_saas.psa16.v1.number
+psTR.d27.ve.prokeimenon.v4.text = "Listen, O Lord of my righteousness."
+
+//Fri 1
+psTR.d27.te.prokeimenon.v1.info = ps_en_US_saas.psa17.v2.number
+psTR.d27.te.prokeimenon.v1.text = "I will love You, O Lord, my strength."
+psTR.d27.te.prokeimenon.v2.info = ps_en_US_saas.psa17.v3.number
+psTR.d27.te.prokeimenon.v2.text = "My God is my helper, on Him I will hope."
+psTR.d27.te.prokeimenon.v3.info = ps_en_US_saas.psa18.v15.number
+psTR.d27.te.prokeimenon.v3.text = "O Lord, my helper and my redeemer."
+psTR.d27.te.prokeimenon.v4.info = ps_en_US_saas.psa18.v2.number
+psTR.d27.te.prokeimenon.v4.text = "The heavens declare the glory of God."
+psTR.d28.ve.prokeimenon.v1.info = ps_en_US_saas.psa19.v2.number
+psTR.d28.ve.prokeimenon.v1.text = "May the Lord hear you in the day of afflictions."
+psTR.d28.ve.prokeimenon.v2.info = ps_en_US_saas.psa19.v2.number
+psTR.d28.ve.prokeimenon.v2.text = "May the name of the God of Jacob defend you."
+psTR.d28.ve.prokeimenon.v3.info = ps_en_US_saas.psa20.v14.number
+psTR.d28.ve.prokeimenon.v3.text = "Be exalted, O Lord, in Your power."
+psTR.d28.ve.prokeimenon.v4.info = ps_en_US_saas.psa20.v2.number
+psTR.d28.ve.prokeimenon.v4.text = "O Lord, the king shall be glad in Your power."
+
+
+//Mon 2
+psTR.d30.te.prokeimenon.v1.info = ps_en_US_saas.psa21.v24.number
+psTR.d30.te.prokeimenon.v1.text = "You who fear the Lord, praise Him."
+psTR.d30.te.prokeimenon.v2.info = ps_en_US_saas.psa21.v2.number
+psTR.d30.te.prokeimenon.v2.text = "O God, my God, hear me."
+psTR.d30.te.prokeimenon.v3.info = ps_en_US_saas.psa22.v4.number
+psTR.d30.te.prokeimenon.v3.text = "Your rod and Your staff, they comfort me."
+psTR.d30.te.prokeimenon.v4.info = ps_en_US_saas.psa22.v1.number
+psTR.d30.te.prokeimenon.v4.text = "The Lord is my shepherd; I shall not want."
+psTR.d31.ve.prokeimenon.v1.info = ps_en_US_saas.psa23.v8.number
+psTR.d31.ve.prokeimenon.v1.text = "The Lord strong and mighty."
+psTR.d31.ve.prokeimenon.v2.info = ps_en_US_saas.psa23.v1.number
+psTR.d31.ve.prokeimenon.v2.text = "The earth is the Lord's, and its fullness."
+psTR.d31.ve.prokeimenon.v3.info = ps_en_US_saas.psa24.v16.number
+psTR.d31.ve.prokeimenon.v3.text = "Look upon me and have mercy on me."
+psTR.d31.ve.prokeimenon.v4.info = ps_en_US_saas.psa24.v1.number
+psTR.d31.ve.prokeimenon.v4.text = "To You, O Lord, I lift up my soul."
+
+//Tue 2
+psTR.d31.te.prokeimenon.v1.info = ps_en_US_saas.psa25.v8.number
+psTR.d31.te.prokeimenon.v1.text = "O Lord, I love the beauty of Your house."
+psTR.d31.te.prokeimenon.v2.info = ps_en_US_saas.psa25.v1.number
+psTR.d31.te.prokeimenon.v2.text = "Judge me, O Lord, for I walk in my innocence."
+psTR.d31.te.prokeimenon.v3.info = ps_en_US_saas.psa26.v1.number
+psTR.d31.te.prokeimenon.v3.text = "The Lord is my light and my savior."
+psTR.d31.te.prokeimenon.v4.info = ps_en_US_saas.psa26.v1.number
+psTR.d31.te.prokeimenon.v4.text = "The Lord is the defender of my life."
+psTR.d32.ve.prokeimenon.v1.info = ps_en_US_saas.psa27.v9.number
+psTR.d32.ve.prokeimenon.v1.text = "O Lord, save Your people, and bless Your inheritance."
+psTR.d32.ve.prokeimenon.v2.info = ps_en_US_saas.psa27.v1.number
+psTR.d32.ve.prokeimenon.v2.text = "To You, O Lord, I cry, O my God."
+psTR.d32.ve.prokeimenon.v3.info = ps_en_US_saas.psa28.v11.number
+psTR.d32.ve.prokeimenon.v3.text = "The Lord will give strength to His people."
+psTR.d32.ve.prokeimenon.v4.info = ps_en_US_saas.psa28.v1.number
+psTR.d32.ve.prokeimenon.v4.text = "Bring to the Lord, O you sons of God."
+
+//Wed 2
+psTR.d32.te.prokeimenon.v1.info = ps_en_US_saas.psa29.v9.number
+psTR.d32.te.prokeimenon.v1.text = "I shall cry to You, O Lord my God."
+psTR.d32.te.prokeimenon.v2.info = ps_en_US_saas.psa29.v2.number
+psTR.d32.te.prokeimenon.v2.text = "I will exalt You, O Lord, for You lifted me up"
+psTR.d32.te.prokeimenon.v3.info = ps_en_US_saas.psa30.v2.number
+psTR.d32.te.prokeimenon.v3.text = "In You, O Lord, I hope; may I not be ashamed forever."
+psTR.d32.te.prokeimenon.v4.info = ps_en_US_saas.psa30.v2.number
+psTR.d32.te.prokeimenon.v4.text = "In Your righteousness deliver and rescue me."
+psTR.d33.ve.prokeimenon.v1.info = ps_en_US_saas.psa31.v11.number
+psTR.d33.ve.prokeimenon.v1.text = "Be glad in the Lord and rejoice greatly, O righteous ones."
+psTR.d33.ve.prokeimenon.v2.info = ps_en_US_saas.psa31.v1.number
+psTR.d33.ve.prokeimenon.v2.text = "Blessed are those whose transgressions are forgiven."
+psTR.d33.ve.prokeimenon.v3.info = ps_en_US_saas.psa32.v22.number
+psTR.d33.ve.prokeimenon.v3.text = "Let Your mercy, O Lord, be upon us."
+psTR.d33.ve.prokeimenon.v4.info = ps_en_US_saas.psa32.v1.number
+psTR.d33.ve.prokeimenon.v4.text = "Rejoice greatly in the Lord, O righteous ones."
+
+//Thu 2
+psTR.d33.te.prokeimenon.v1.info = ps_en_US_saas.psa33.v5.number
+psTR.d33.te.prokeimenon.v1.text = "I sought the Lord, and He heard me."
+psTR.d33.te.prokeimenon.v2.info = ps_en_US_saas.psa33.v2.number
+psTR.d33.te.prokeimenon.v2.text = "I will bless the Lord at all times."
+psTR.d33.te.prokeimenon.v3.info = ps_en_US_saas.psa34.v23.number
+psTR.d33.te.prokeimenon.v3.text = "Arise, O Lord, attend to my judgment."
+psTR.d33.te.prokeimenon.v4.info = ps_en_US_saas.psa34.v1.number
+psTR.d33.te.prokeimenon.v4.text = "O Lord, judge those who injure me; make war on those who make war on me."
+psTR.d34.ve.prokeimenon.v1.info = ps_en_US_saas.psa35.v6.number
+psTR.d34.ve.prokeimenon.v1.text = "O Lord, Your mercy is in heaven."
+psTR.d34.ve.prokeimenon.v2.info = ps_en_US_saas.psa35.v7.number
+psTR.d34.ve.prokeimenon.v2.text = "Your righteousness is like the mountains of God."
+psTR.d34.ve.prokeimenon.v3.info = ps_en_US_saas.psa36.v34.number
+psTR.d34.ve.prokeimenon.v3.text = "Wait on the Lord, and keep His way."
+psTR.d34.ve.prokeimenon.v4.info = ps_en_US_saas.psa36.v1.number
+psTR.d34.ve.prokeimenon.v4.text = "Do not be envious of those who do evil."
+
+//Fri 2
+psTR.d34.te.prokeimenon.v1.info = ps_en_US_saas.psa37.v2.number
+psTR.d34.te.prokeimenon.v1.text = "O Lord, do not rebuke me in Your wrath, nor chasten me in Your anger."
+psTR.d34.te.prokeimenon.v2.info = ps_en_US_saas.psa37.v3.number
+psTR.d34.te.prokeimenon.v2.text = "For Your arrows are fixed in me, and Your hand rests on me."
+psTR.d34.te.prokeimenon.v3.info = ps_en_US_saas.psa38.v13.number
+psTR.d34.te.prokeimenon.v3.text = "Hear my prayer, O Lord."
+psTR.d34.te.prokeimenon.v4.info = ps_en_US_saas.psa38.v2.number
+psTR.d34.te.prokeimenon.v4.text = "I said, \"I will guard my ways.\""
+psTR.d35.ve.prokeimenon.v1.info = ps_en_US_saas.psa39.v12.number
+psTR.d35.ve.prokeimenon.v1.text = "O Lord, may Your mercy and Your truth take hold of me."
+psTR.d35.ve.prokeimenon.v2.info = ps_en_US_saas.psa39.v2.number
+psTR.d35.ve.prokeimenon.v2.text = "I waited patiently for the Lord."
+psTR.d35.ve.prokeimenon.v3.info = ps_en_US_saas.psa40.v5.number
+psTR.d35.ve.prokeimenon.v3.text = "O Lord, I said, \"Have mercy on me.\""
+psTR.d35.ve.prokeimenon.v4.info = ps_en_US_saas.psa40.v2.number
+psTR.d35.ve.prokeimenon.v4.text = "Blessed is he who understands the poor."
+
+
+//Mon 3
+psTR.d37.te.prokeimenon.v1.info = ps_en_US_saas.psa41.v12.number
+psTR.d37.te.prokeimenon.v1.text = "Hope in God, for I will give thanks to Him."
+psTR.d37.te.prokeimenon.v2.info = ps_en_US_saas.psa41.v2.number
+psTR.d37.te.prokeimenon.v2.text = "As the deer longs for the springs of waters."
+psTR.d37.te.prokeimenon.v3.info = ps_en_US_saas.psa42.v5.number
+psTR.d37.te.prokeimenon.v3.text = "My God is the salvation of my countenance."
+psTR.d37.te.prokeimenon.v4.info = ps_en_US_saas.psa42.v1.number
+psTR.d37.te.prokeimenon.v4.text = "Judge me, O God, and pass judgment in my cause."
+psTR.d38.ve.prokeimenon.v1.info = ps_en_US_saas.psa43.v9.number
+psTR.d38.ve.prokeimenon.v1.text = "We shall praise God all day long."
+psTR.d38.ve.prokeimenon.v2.info = ps_en_US_saas.psa43.v2.number
+psTR.d38.ve.prokeimenon.v2.text = "O God, we heard with our ears."
+psTR.d38.ve.prokeimenon.v3.info = ps_en_US_saas.psa44.v18.number
+psTR.d38.ve.prokeimenon.v3.text = "They shall remember your name from generation to generation."
+psTR.d38.ve.prokeimenon.v4.info = ps_en_US_saas.psa44.v2.number
+psTR.d38.ve.prokeimenon.v4.text = "My heart overflowed with a good word."
+
+//Tue 3
+psTR.d38.te.prokeimenon.v1.info = ps_en_US_saas.psa45.v12.number
+psTR.d38.te.prokeimenon.v1.text = "The Lord of hosts is with us."
+psTR.d38.te.prokeimenon.v2.info = ps_en_US_saas.psa45.v2.number
+psTR.d38.te.prokeimenon.v2.text = "God is our refuge and power."
+psTR.d38.te.prokeimenon.v3.info = ps_en_US_saas.psa46.v7.number
+psTR.d38.te.prokeimenon.v3.text = "Sing praises to God; sing praises."
+psTR.d38.te.prokeimenon.v4.info = ps_en_US_saas.psa46.v2.number
+psTR.d38.te.prokeimenon.v4.text = "Oh, clap your hands, all you nations."
+psTR.d39.ve.prokeimenon.v1.info = ps_en_US_saas.psa47.v2.number
+psTR.d39.ve.prokeimenon.v1.text = "Great is the Lord, and greatly to be praised."
+psTR.d39.ve.prokeimenon.v2.info = ps_en_US_saas.psa47.v2.number
+psTR.d39.ve.prokeimenon.v2.text = "In the city of our God, in His holy mountain."
+psTR.d39.ve.prokeimenon.v3.info = ps_en_US_saas.psa48.v4.number
+psTR.d39.ve.prokeimenon.v3.text = "My mouth shall speak wisdom."
+psTR.d39.ve.prokeimenon.v4.info = ps_en_US_saas.psa48.v2.number
+psTR.d39.ve.prokeimenon.v4.text = "Hear this, all you nations."
+
+//Wed 3
+psTR.d39.te.prokeimenon.v1.info = ps_en_US_saas.psa49.v14.number
+psTR.d39.te.prokeimenon.v1.text = "Offer to God a sacrifice of praise."
+psTR.d39.te.prokeimenon.v2.info = ps_en_US_saas.psa49.v1.number
+psTR.d39.te.prokeimenon.v2.text = "The God of gods, the Lord, spoke, and summoned the earth."
+psTR.d39.te.prokeimenon.v3.info = ps_en_US_saas.psa50.v3.number
+psTR.d39.te.prokeimenon.v3.text = "Have mercy on me, O God, according to Your great mercy."
+psTR.d39.te.prokeimenon.v4.info = ps_en_US_saas.psa50.v12.number
+psTR.d39.te.prokeimenon.v4.text = "Create in me a clean heart, O God."
+psTR.d40.ve.prokeimenon.v1.info = ps_en_US_saas.psa51.v10.number
+psTR.d40.ve.prokeimenon.v1.text = "I hope in God's mercy forever and unto ages of ages."
+psTR.d40.ve.prokeimenon.v2.info = ps_en_US_saas.psa51.v3.number
+psTR.d40.ve.prokeimenon.v2.text = "Why do you boast in evil, O mighty man."
+psTR.d40.ve.prokeimenon.v3.info = ps_en_US_saas.psa52.v7.number
+psTR.d40.ve.prokeimenon.v3.text = "When the Lord brings back the captivity of His people."
+psTR.d40.ve.prokeimenon.v4.info = ps_en_US_saas.psa52.v2.number
+psTR.d40.ve.prokeimenon.v4.text = "The fool said in his heart, \"There is no God.\""
+
+//Thu 3
+psTR.d40.te.prokeimenon.v1.info = ps_en_US_saas.psa53.v3.number
+psTR.d40.te.prokeimenon.v1.text = "Save me, O God, in Your name."
+psTR.d40.te.prokeimenon.v2.info = ps_en_US_saas.psa53.v4.number
+psTR.d40.te.prokeimenon.v2.text = "O God, hear my prayer."
+psTR.d40.te.prokeimenon.v3.info = ps_en_US_saas.psa54.v2.number
+psTR.d40.te.prokeimenon.v3.text = "Give ear to my prayer, O God."
+psTR.d40.te.prokeimenon.v4.info = ps_en_US_saas.psa54.v3.number
+psTR.d40.te.prokeimenon.v4.text = "Attend to me, and hear me."
+psTR.d41.ve.prokeimenon.v1.info = ps_en_US_saas.psa55.v2.number
+psTR.d41.ve.prokeimenon.v1.text = "Have mercy on me, O Lord, for man tramples me down."
+psTR.d41.ve.prokeimenon.v2.info = ps_en_US_saas.psa55.v3.number
+psTR.d41.ve.prokeimenon.v2.text = "All day my enemies trample me down."
+psTR.d41.ve.prokeimenon.v3.info = ps_en_US_saas.psa56.v2.number
+psTR.d41.ve.prokeimenon.v3.text = "Have mercy on me, O God, have mercy on me, for my soul trusts in You."
+psTR.d41.ve.prokeimenon.v4.info = ps_en_US_saas.psa56.v2.number
+psTR.d41.ve.prokeimenon.v4.text = "And in the shadow of Your wings I will hope, until lawlessness shall pass away."
+
+//Fri 3
+psTR.d41.te.prokeimenon.v1.info = ps_en_US_saas.psa57.v2.number
+psTR.d41.te.prokeimenon.v1.text = "If, then, you truly speak of righteousness, do you judge rightly, O you sons of men?"
+psTR.d41.te.prokeimenon.v2.info = ps_en_US_saas.psa57.v11.number
+psTR.d41.te.prokeimenon.v2.text = "A righteous man shall be glad when he sees the vengeance."
+psTR.d41.te.prokeimenon.v3.info = ps_en_US_saas.psa58.v2.number
+psTR.d41.te.prokeimenon.v3.text = "Rescue me from my enemies, O God."
+psTR.d41.te.prokeimenon.v4.info = ps_en_US_saas.psa58.v18.number
+psTR.d41.te.prokeimenon.v4.text = "O God, You are my protector; You are my mercy, O my God."
+psTR.d42.ve.prokeimenon.v1.info = ps_en_US_saas.psa59.v13.number
+psTR.d42.ve.prokeimenon.v1.text = "Give us help from affliction, for the salvation of man is useless."
+psTR.d42.ve.prokeimenon.v2.info = ps_en_US_saas.psa59.v3.number
+psTR.d42.ve.prokeimenon.v2.text = "O God, You drove us off and destroyed us."
+psTR.d42.ve.prokeimenon.v3.info = ps_en_US_saas.psa60.v2.number
+psTR.d42.ve.prokeimenon.v3.text = "Hear my supplication, O God; attend to my prayer."
+psTR.d42.ve.prokeimenon.v4.info = ps_en_US_saas.psa60.v9.number
+psTR.d42.ve.prokeimenon.v4.text = "So I will sing praise to Your name unto ages of ages."
+
+
+//Mon 4
+psTR.d44.te.prokeimenon.v1.info = ps_en_US_saas.psa61.v8.number
+psTR.d44.te.prokeimenon.v1.text = "In God is my salvation and my glory."
+psTR.d44.te.prokeimenon.v2.info = ps_en_US_saas.psa61.v2.number
+psTR.d44.te.prokeimenon.v2.text = "Shall not my soul be submissive to God?"
+psTR.d44.te.prokeimenon.v3.info = ps_en_US_saas.psa62.v5.number
+psTR.d44.te.prokeimenon.v3.text = "Thus I will bless You in my life."
+psTR.d44.te.prokeimenon.v4.info = ps_en_US_saas.psa62.v2.number
+psTR.d44.te.prokeimenon.v4.text = "O God, my God, I rise early to be with You."
+psTR.d45.ve.prokeimenon.v1.info = ps_en_US_saas.psa63.v2.number
+psTR.d45.ve.prokeimenon.v1.text = "Hear my voice, O God, in my supplication."
+psTR.d45.ve.prokeimenon.v2.info = ps_en_US_saas.psa63.v2.number
+psTR.d45.ve.prokeimenon.v2.text = "Deliver my soul from fear of the enemy."
+psTR.d45.ve.prokeimenon.v3.info = ps_en_US_saas.psa64.v6.number
+psTR.d45.ve.prokeimenon.v3.text = "Hear us, O God our savior, the hope of all the ends of earth."
+psTR.d45.ve.prokeimenon.v4.info = ps_en_US_saas.psa64.v2.number
+psTR.d45.ve.prokeimenon.v4.text = "It is fitting to sing a hymn to You in Zion."
+
+//Tue 4
+psTR.d45.te.prokeimenon.v1.info = ps_en_US_saas.psa65.v1.number
+psTR.d45.te.prokeimenon.v1.text = "Shout to God, all the earth."
+psTR.d45.te.prokeimenon.v2.info = ps_en_US_saas.psa65.v8.number
+psTR.d45.te.prokeimenon.v2.text = "Bless our God, you Gentiles, and make the voice of His praise to be heard."
+psTR.d45.te.prokeimenon.v3.info = ps_en_US_saas.psa66.v7.number
+psTR.d45.te.prokeimenon.v3.text = "May God, our God, bless us."
+psTR.d45.te.prokeimenon.v4.info = ps_en_US_saas.psa66.v2.number
+psTR.d45.te.prokeimenon.v4.text = "May God be gracious to us, and bless us."
+psTR.d46.ve.prokeimenon.v1.info = ps_en_US_saas.psa67.v5.number
+psTR.d46.ve.prokeimenon.v1.text = "Sing to God; sing to His name."
+psTR.d46.ve.prokeimenon.v2.info = ps_en_US_saas.psa67.v5.number
+psTR.d46.ve.prokeimenon.v2.text = "Make ready the way for Him who rides upon the sunset; His name is the Lord."
+psTR.d46.ve.prokeimenon.v3.info = ps_en_US_saas.psa68.v30.number
+psTR.d46.ve.prokeimenon.v3.text = "And the salvation of Your presence, O God, lays hold of me."
+psTR.d46.ve.prokeimenon.v4.info = ps_en_US_saas.psa68.v33.number
+psTR.d46.ve.prokeimenon.v4.text = "Let the poor behold this, and be glad."
+
+//Wed 4
+psTR.d46.te.prokeimenon.v1.info = ps_en_US_saas.psa69.v5.number
+psTR.d46.te.prokeimenon.v1.text = "May all who seek You greatly rejoice and be glad in You."
+psTR.d46.te.prokeimenon.v2.info = ps_en_US_saas.psa69.v2.number
+psTR.d46.te.prokeimenon.v2.text = "O God, make haste to help me."
+psTR.d46.te.prokeimenon.v3.info = ps_en_US_saas.psa70.v1.number
+psTR.d46.te.prokeimenon.v3.text = "O Lord, in You I hope; may I never be put to shame."
+psTR.d46.te.prokeimenon.v4.info = ps_en_US_saas.psa70.v2.number
+psTR.d46.te.prokeimenon.v4.text = "Deliver me in Your righteousness, and set me free."
+psTR.d47.ve.prokeimenon.v1.info = ps_en_US_saas.psa71.v18.number
+psTR.d47.ve.prokeimenon.v1.text = "Blessed is the Lord God, the God of Israel, who alone does wondrous things."
+psTR.d47.ve.prokeimenon.v2.info = ps_en_US_saas.psa71.v1.number
+psTR.d47.ve.prokeimenon.v2.text = "O God, give Your judgments to the King."
+psTR.d47.ve.prokeimenon.v3.info = ps_en_US_saas.psa72.v28.number
+psTR.d47.ve.prokeimenon.v3.text = "But as for me, it is good to cling to God."
+psTR.d47.ve.prokeimenon.v4.info = ps_en_US_saas.psa72.v1.number
+psTR.d47.ve.prokeimenon.v4.text = "How good God is to Israel, to the upright in heart."
+
+//Thu 4
+psTR.d47.te.prokeimenon.v1.info = ps_en_US_saas.psa73.v12.number
+psTR.d47.te.prokeimenon.v1.text = "But God is our King before the ages; He worked salvation in the midst of the earth."
+psTR.d47.te.prokeimenon.v2.info = ps_en_US_saas.psa73.v1.number
+psTR.d47.te.prokeimenon.v2.text = "O God, why have You rejected us to the end?"
+psTR.d47.te.prokeimenon.v3.info = ps_en_US_saas.psa74.v10.number
+psTR.d47.te.prokeimenon.v3.text = "But I shall greatly rejoice forever."
+psTR.d47.te.prokeimenon.v4.info = ps_en_US_saas.psa74.v2.number
+psTR.d47.te.prokeimenon.v4.text = "We shall give thanks to You, O God."
+psTR.d48.ve.prokeimenon.v1.info = ps_en_US_saas.psa75.v12.number
+psTR.d48.ve.prokeimenon.v1.text = "Pray and return to the Lord Your God."
+psTR.d48.ve.prokeimenon.v2.info = ps_en_US_saas.psa75.v2.number
+psTR.d48.ve.prokeimenon.v2.text = "In Judah God is known."
+psTR.d48.ve.prokeimenon.v3.info = ps_en_US_saas.psa76.v2.number
+psTR.d48.ve.prokeimenon.v3.text = "With my voice I cried to the Lord."
+psTR.d48.ve.prokeimenon.v4.info = ps_en_US_saas.psa76.v3.number
+psTR.d48.ve.prokeimenon.v4.text = "In the day of my affliction I sought out God."
+
+//Fri 4
+psTR.d48.te.prokeimenon.v1.info = ps_en_US_saas.psa77.v38.number
+psTR.d48.te.prokeimenon.v1.text = "He is merciful and will atone for their sins."
+psTR.d48.te.prokeimenon.v2.info = ps_en_US_saas.psa77.v1.number
+psTR.d48.te.prokeimenon.v2.text = "Give heed, O my people, to my law."
+psTR.d48.te.prokeimenon.v3.info = ps_en_US_saas.psa78.v9.number
+psTR.d48.te.prokeimenon.v3.text = "Help us, O God our savior."
+psTR.d48.te.prokeimenon.v4.info = ps_en_US_saas.psa78.v1.number
+psTR.d48.te.prokeimenon.v4.text = "O God, the nations entered Your inheritance."
+psTR.d49.ve.prokeimenon.v1.info = ps_en_US_saas.psa79.v2.number
+psTR.d49.ve.prokeimenon.v1.text = "Reveal Yourself, O You who sit upon the cherubim."
+psTR.d49.ve.prokeimenon.v2.info = ps_en_US_saas.psa79.v2.number
+psTR.d49.ve.prokeimenon.v2.text = "Give heed, O You who shepherd Israel."
+psTR.d49.ve.prokeimenon.v3.info = ps_en_US_saas.psa80.v2.number
+psTR.d49.ve.prokeimenon.v3.text = "Rejoice in God our helper."
+psTR.d49.ve.prokeimenon.v4.info = ps_en_US_saas.psa80.v3.number
+psTR.d49.ve.prokeimenon.v4.text = "Take up a psalm and sound a timbrel."
+
+//Mon 5
+psTR.d51.te.prokeimenon.v1.info = ps_en_US_saas.psa83.v4.number
+psTR.d51.te.prokeimenon.v1.text = "Your altars, O Lord of hosts, my King and my God."
+psTR.d51.te.prokeimenon.v2.info = ps_en_US_saas.psa83.v2.number
+psTR.d51.te.prokeimenon.v2.text = "How beloved are Your dwellings, O Lord of hosts."
+psTR.d51.te.prokeimenon.v3.info = ps_en_US_saas.psa84.v8.number
+psTR.d51.te.prokeimenon.v3.text = "Show us Your mercy, O Lord."
+psTR.d51.te.prokeimenon.v4.info = ps_en_US_saas.psa84.v2.number
+psTR.d51.te.prokeimenon.v4.text = "O Lord, You were pleased with Your land."
+psTR.d52.ve.prokeimenon.v1.info = ps_en_US_saas.psa85.v11.number
+psTR.d52.ve.prokeimenon.v1.text = "Lead me in Your way, O Lord, and I will walk in Your truth."
+psTR.d52.ve.prokeimenon.v2.info = ps_en_US_saas.psa85.v1.number
+psTR.d52.ve.prokeimenon.v2.text = "Incline Your ear, O Lord, and hear me."
+psTR.d52.ve.prokeimenon.v3.info = ps_en_US_saas.psa86.v2.number
+psTR.d52.ve.prokeimenon.v3.text = "The Lord loves the gates of Zion more than all the dwellings of Jacob."
+psTR.d52.ve.prokeimenon.v4.info = ps_en_US_saas.psa86.v1.number
+psTR.d52.ve.prokeimenon.v4.text = "His foundations are in the holy mountains."
+
+//Tue 5
+psTR.d52.te.prokeimenon.v1.info = ps_en_US_saas.psa87.v16.number
+psTR.d52.te.prokeimenon.v1.text = "I am poor and in troubles from my youth."
+psTR.d52.te.prokeimenon.v2.info = ps_en_US_saas.psa87.v2.number
+psTR.d52.te.prokeimenon.v2.text = "O Lord God of my salvation, I cry day and night before You."
+psTR.d52.te.prokeimenon.v3.info = ps_en_US_saas.psa88.v6.number
+psTR.d52.te.prokeimenon.v3.text = "The heavens shall confess Your wonders."
+psTR.d52.te.prokeimenon.v4.info = ps_en_US_saas.psa88.v2.number
+psTR.d52.te.prokeimenon.v4.text = "O Lord, I will sing of Your mercies forever."
+psTR.d53.ve.prokeimenon.v1.info = ps_en_US_saas.psa89.v1.number
+psTR.d53.ve.prokeimenon.v1.text = "O Lord, You became a refuge to us."
+psTR.d53.ve.prokeimenon.v2.info = ps_en_US_saas.psa89.v17.number
+psTR.d53.ve.prokeimenon.v2.text = "And let the brightness of the Lord our God be upon us."
+psTR.d53.ve.prokeimenon.v3.info = ps_en_US_saas.psa90.v1.number
+psTR.d53.ve.prokeimenon.v3.text = "He who dwells in the help of the Most High."
+psTR.d53.ve.prokeimenon.v4.info = ps_en_US_saas.psa90.v2.number
+psTR.d53.ve.prokeimenon.v4.text = "He shall say to the Lord, \"You are my protector.\""
+
+//Wed 5
+psTR.d53.te.prokeimenon.v1.info = ps_en_US_saas.psa91.v2.number
+psTR.d53.te.prokeimenon.v1.text = "It is good to give thanks to the Lord and to sing to Your name, O Most High."
+psTR.d53.te.prokeimenon.v2.info = ps_en_US_saas.psa91.v3.number
+psTR.d53.te.prokeimenon.v2.text = "To proclaim Your mercy in the morning and Your truth each day."
+psTR.d53.te.prokeimenon.v3.info = ps_en_US_saas.psa92.v1.number
+psTR.d53.te.prokeimenon.v3.text = "The Lord reigns; He clothed Himself with majesty."
+psTR.d53.te.prokeimenon.v4.info = ps_en_US_saas.psa92.v1.number
+psTR.d53.te.prokeimenon.v4.text = "The Lord clothed and girded Himself with power."
+psTR.d54.ve.prokeimenon.v1.info = ps_en_US_saas.psa93.v1.number
+psTR.d54.ve.prokeimenon.v1.text = "The Lord is the God of vengeance; the God of vengeance."
+psTR.d54.ve.prokeimenon.v2.info = ps_en_US_saas.psa93.v2.number
+psTR.d54.ve.prokeimenon.v2.text = "Be exalted, O You who judge the earth."
+psTR.d54.ve.prokeimenon.v3.info = ps_en_US_saas.psa95.v1.number
+psTR.d54.ve.prokeimenon.v3.text = "Oh, sing a new song to the Lord."
+psTR.d54.ve.prokeimenon.v4.info = ps_en_US_saas.psa95.v2.number
+psTR.d54.ve.prokeimenon.v4.text = "Sing to the Lord; bless His name."
+
+//Thu 5
+psTR.d54.te.prokeimenon.v1.info = ps_en_US_saas.psa96.v1.number
+psTR.d54.te.prokeimenon.v1.text = "The Lord reigns; let the earth greatly rejoice."
+psTR.d54.te.prokeimenon.v2.info = ps_en_US_saas.psa96.v7.number
+psTR.d54.te.prokeimenon.v2.text = "Worship Him, all you His angels."
+psTR.d54.te.prokeimenon.v3.info = ps_en_US_saas.psa97.v1.number
+psTR.d54.te.prokeimenon.v3.text = "Sing a new song to the Lord."
+psTR.d54.te.prokeimenon.v4.info = ps_en_US_saas.psa97.v4.number
+psTR.d54.te.prokeimenon.v4.text = "Shout aloud to God, all the earth."
+psTR.d55.ve.prokeimenon.v1.info = ps_en_US_saas.psa98.v5.number
+psTR.d55.ve.prokeimenon.v1.text = "Exalt the Lord our God, and worship at the footstool of His feet."
+psTR.d55.ve.prokeimenon.v2.info = ps_en_US_saas.psa98.v1.number
+psTR.d55.ve.prokeimenon.v2.text = "The Lord reigns; let the peoples be angry."
+psTR.d55.ve.prokeimenon.v3.info = ps_en_US_saas.psa99.v1.number
+psTR.d55.ve.prokeimenon.v3.text = "Shout aloud to God, all the earth."
+psTR.d55.ve.prokeimenon.v4.info = ps_en_US_saas.psa99.v2.number
+psTR.d55.ve.prokeimenon.v4.text = "Serve the Lord with gladness."
+
+//Fri 5
+psTR.d55.te.prokeimenon.v1.info = ps_en_US_saas.psa100.v1.number
+psTR.d55.te.prokeimenon.v1.text = "O Lord, I will sing to You of mercy and judgment."
+psTR.d55.te.prokeimenon.v2.info = ps_en_US_saas.psa100.v2.number
+psTR.d55.te.prokeimenon.v2.text = "I will sing and understand in a blameless way."
+psTR.d55.te.prokeimenon.v3.info = ps_en_US_saas.psa101.v2.number
+psTR.d55.te.prokeimenon.v3.text = "Hear my prayer, O Lord, and let my cry come to You."
+psTR.d55.te.prokeimenon.v4.info = ps_en_US_saas.psa101.v3.number
+psTR.d55.te.prokeimenon.v4.text = "Do not turn Your face from me."
+psTR.d56.ve.prokeimenon.v1.info = ps_en_US_saas.psa102.v8.number
+psTR.d56.ve.prokeimenon.v1.text = "The Lord is compassionate and merciful."
+psTR.d56.ve.prokeimenon.v2.info = ps_en_US_saas.psa102.v2.number
+psTR.d56.ve.prokeimenon.v2.text = "Bless the Lord, O my soul."
+psTR.d56.ve.prokeimenon.v3.info = ps_en_US_saas.psa103.v24.number
+psTR.d56.ve.prokeimenon.v3.text = "O Lord, Your works shall be magnified greatly."
+psTR.d56.ve.prokeimenon.v4.info = ps_en_US_saas.psa103.v1.number
+psTR.d56.ve.prokeimenon.v4.text = "Bless the Lord, O my soul."
+
+
+//Mon 6
+psTR.d58.te.prokeimenon.v1.info = ps_en_US_saas.psa104.v3.number
+psTR.d58.te.prokeimenon.v1.text = "Let the heart of those who seek the Lord be glad."
+psTR.d58.te.prokeimenon.v2.info = ps_en_US_saas.psa104.v1.number
+psTR.d58.te.prokeimenon.v2.text = "Give thanks to the Lord and call upon His holy name."
+psTR.d58.te.prokeimenon.v3.info = ps_en_US_saas.psa105.v48.number
+psTR.d58.te.prokeimenon.v3.text = "Bless the Lord God of Israel."
+psTR.d58.te.prokeimenon.v4.info = ps_en_US_saas.psa105.v1.number
+psTR.d58.te.prokeimenon.v4.text = "Give thanks to the Lord, for He is good."
+psTR.d59.ve.prokeimenon.v1.info = ps_en_US_saas.psa106.v1.number
+psTR.d59.ve.prokeimenon.v1.text = "Give thanks to the Lord, for He is good, for His mercy endures forever."
+psTR.d59.ve.prokeimenon.v2.info = ps_en_US_saas.psa106.v2.number
+psTR.d59.ve.prokeimenon.v2.text = "Let those redeemed by the Lord say so."
+psTR.d59.ve.prokeimenon.v3.info = ps_en_US_saas.psa107.v6.number
+psTR.d59.ve.prokeimenon.v3.text = "Be exalted above the heavens, O God."
+psTR.d59.ve.prokeimenon.v4.info = ps_en_US_saas.psa107.v2.number
+psTR.d59.ve.prokeimenon.v4.text = "My heart is ready, O God."
+
+//Tue 6
+psTR.d59.te.prokeimenon.v1.info = ps_en_US_saas.psa108.v26.number
+psTR.d59.te.prokeimenon.v1.text = "Help me, O Lord my God."
+psTR.d59.te.prokeimenon.v2.info = ps_en_US_saas.psa108.v1.number
+psTR.d59.te.prokeimenon.v2.text = "O God, do not pass over my praise in silence."
+psTR.d59.te.prokeimenon.v3.info = ps_en_US_saas.psa109.v4.number
+psTR.d59.te.prokeimenon.v3.text = "You are a priest forever according to the order of Melchizedek."
+psTR.d59.te.prokeimenon.v4.info = ps_en_US_saas.psa109.v1.number
+psTR.d59.te.prokeimenon.v4.text = "The Lord said to my Lord: \"Sit at My right hand.\""
+psTR.d60.ve.prokeimenon.v1.info = ps_en_US_saas.psa110.v10.number
+psTR.d60.ve.prokeimenon.v1.text = "The beginning of wisdom is the fear of the Lord."
+psTR.d60.ve.prokeimenon.v2.info = ps_en_US_saas.psa110.v1.number
+psTR.d60.ve.prokeimenon.v2.text = "I will give thanks to You, O Lord, with my whole heart."
+psTR.d60.ve.prokeimenon.v3.info = ps_en_US_saas.psa111.v4.number
+psTR.d60.ve.prokeimenon.v3.text = "He is merciful, compassionate, and righteous."
+psTR.d60.ve.prokeimenon.v4.info = ps_en_US_saas.psa111.v1.number
+psTR.d60.ve.prokeimenon.v4.text = "Blessed is the man who fears the Lord."
+
+//Wed 6
+psTR.d60.te.prokeimenon.v1.info = ps_en_US_saas.psa112.v1.number
+psTR.d60.te.prokeimenon.v1.text = "Praise the Lord, O you servants; praise the name of the Lord."
+psTR.d60.te.prokeimenon.v2.info = ps_en_US_saas.psa112.v2.number
+psTR.d60.te.prokeimenon.v2.text = "Blessed be the name of the Lord."
+psTR.d60.te.prokeimenon.v3.info = ps_en_US_saas.psa113.v23.number
+psTR.d60.te.prokeimenon.v3.text = "You are blessed by the Lord, who made heaven and earth."
+psTR.d60.te.prokeimenon.v4.info = ps_en_US_saas.psa113.v1.number
+psTR.d60.te.prokeimenon.v4.text = "In the exodus of Israel from Egypt."
+psTR.d61.ve.prokeimenon.v1.info = ps_en_US_saas.psa114.v9.number
+psTR.d61.ve.prokeimenon.v1.text = "I shall be well pleasing before the Lord in the land of the living."
+psTR.d61.ve.prokeimenon.v2.info = ps_en_US_saas.psa114.v1.number
+psTR.d61.ve.prokeimenon.v2.text = "I have loved, because the Lord shall hear the voice of my supplication."
+psTR.d61.ve.prokeimenon.v3.info = ps_en_US_saas.psa115.v8.number
+psTR.d61.ve.prokeimenon.v3.text = "I shall pay my vows to the Lord in the presence of all His people."
+psTR.d61.ve.prokeimenon.v4.info = ps_en_US_saas.psa115.v1.number
+psTR.d61.ve.prokeimenon.v4.text = "I believed; therefore, I spoke; I was greatly humbled."
+
+//Thu 6
+psTR.d61.te.prokeimenon.v1.info = ps_en_US_saas.psa117.v20.number
+psTR.d61.te.prokeimenon.v1.text = "This is the gate of the Lord; the righteous shall go in through it."
+psTR.d61.te.prokeimenon.v2.info = ps_en_US_saas.psa117.v1.number
+psTR.d61.te.prokeimenon.v2.text = "Give thanks to the Lord, for He is good."
+psTR.d61.te.prokeimenon.v3.info = ps_en_US_saas.psa118.v32.number
+psTR.d61.te.prokeimenon.v3.text = "I ran on the path of Your commandments, when You enlarged my heart."
+psTR.d61.te.prokeimenon.v4.info = ps_en_US_saas.psa118.v33.number
+psTR.d61.te.prokeimenon.v4.text = "Give me as law, O Lord, the way of Your ordinances."
+psTR.d62.ve.prokeimenon.v1.info = ps_en_US_saas.psa119.v1.number
+psTR.d62.ve.prokeimenon.v1.text = "To the Lord in my affliction I cried out."
+psTR.d62.ve.prokeimenon.v2.info = ps_en_US_saas.psa119.v2.number
+psTR.d62.ve.prokeimenon.v2.text = "O Lord, deliver my soul from unjust lips."
+psTR.d62.ve.prokeimenon.v3.info = ps_en_US_saas.psa120.v7.number
+psTR.d62.ve.prokeimenon.v3.text = "The Lord shall keep you from all evil; the Lord shall keep your soul."
+psTR.d62.ve.prokeimenon.v4.info = ps_en_US_saas.psa120.v1.number
+psTR.d62.ve.prokeimenon.v4.text = "I lifted my eyes to the mountains."
+
+//Fri 6
+psTR.d62.te.prokeimenon.v1.info = ps_en_US_saas.psa121.v1.number
+psTR.d62.te.prokeimenon.v1.text = "I was glad when they said to me, \"Let us go into the house of the Lord.\""
+psTR.d62.te.prokeimenon.v2.info = ps_en_US_saas.psa121.v9.number
+psTR.d62.te.prokeimenon.v2.text = "For the sake of the house of the Lord our God, I sought good things for you."
+psTR.d62.te.prokeimenon.v3.info = ps_en_US_saas.psa122.v3.number
+psTR.d62.te.prokeimenon.v3.text = "Have mercy on us, O Lord, have mercy on us."
+psTR.d62.te.prokeimenon.v4.info = ps_en_US_saas.psa122.v1.number
+psTR.d62.te.prokeimenon.v4.text = "I lift my eyes to You."
+psTR.d63.ve.prokeimenon.v1.info = ps_en_US_saas.psa123.v8.number
+psTR.d63.ve.prokeimenon.v1.text = "Our help is in the name of the Lord."
+psTR.d63.ve.prokeimenon.v2.info = ps_en_US_saas.psa123.v1.number
+psTR.d63.ve.prokeimenon.v2.text = "\"If the Lord had not been with us,\" let Israel now say."
+psTR.d63.ve.prokeimenon.v3.info = ps_en_US_saas.psa124.v1.number
+psTR.d63.ve.prokeimenon.v3.text = "Those who trust in the Lord are like Mount Zion."
+psTR.d63.ve.prokeimenon.v4.info = ps_en_US_saas.psa124.v1.number
+psTR.d63.ve.prokeimenon.v4.text = "He who dwells in Jerusalem shall be unshaken forever."
+
+//Holy Monday
+psTR.d65.te.prokeimenon.v1.info = ps_en_US_saas.psa125.v1.number
+psTR.d65.te.prokeimenon.v1.text = "When the Lord returned the captives of Zion."
+psTR.d65.te.prokeimenon.v2.info = ps_en_US_saas.psa125.v2.number
+psTR.d65.te.prokeimenon.v2.text = "Then our mouth was filled with joy."
+psTR.d65.te.prokeimenon.v3.info = ps_en_US_saas.psa126.v1.number
+psTR.d65.te.prokeimenon.v3.text = "Unless the Lord builds the house, those who build it labor in vain."
+psTR.d65.te.prokeimenon.v4.info = ps_en_US_saas.psa126.v1.number
+psTR.d65.te.prokeimenon.v4.text = "Unless the Lord guard the city, those who guard it stay awake in vain."
+psTR.d66.ve.prokeimenon.v1.info = ps_en_US_saas.psa127.v5.number //(127:5, 133:3)
+psTR.d66.ve.prokeimenon.v1.text = "May the Lord bless you from Zion, He who made heaven and earth."
+psTR.d66.ve.prokeimenon.v2.info = ps_en_US_saas.psa127.v1.number
+psTR.d66.ve.prokeimenon.v2.text = "Blessed are all who fear the Lord."
+psTR.d66.ve.prokeimenon.v3.info = ps_en_US_saas.psa128.v8.number
+psTR.d66.ve.prokeimenon.v3.text = "In the Lord's name, we bless you."
+psTR.d66.ve.prokeimenon.v4.info = ps_en_US_saas.psa128.v1.number
+psTR.d66.ve.prokeimenon.v4.text = "Many times they warred against me from my youth."
+
+//Holy Tuesday
+psTR.d66.te.prokeimenon.v1.info = ps_en_US_saas.psa129.v7.number
+psTR.d66.te.prokeimenon.v1.text = "For with the Lord there is mercy, and with Him is abundant redemption."
+psTR.d66.te.prokeimenon.v2.info = ps_en_US_saas.psa129.v1.number
+psTR.d66.te.prokeimenon.v2.text = "Out of the depths I have cried to You, O Lord."
+psTR.d66.te.prokeimenon.v3.info = ps_en_US_saas.psa130.v3.number
+psTR.d66.te.prokeimenon.v3.text = "Let Israel hope in the Lord from this present time and unto the ages."
+psTR.d66.te.prokeimenon.v4.info = ps_en_US_saas.psa130.v1.number
+psTR.d66.te.prokeimenon.v4.text = "O Lord, my heart is not exalted."
+psTR.d67.ve.prokeimenon.v1.info = ps_en_US_saas.psa131.v8.number
+psTR.d67.ve.prokeimenon.v1.text = "Arise, O Lord, into Your rest, You and the ark of Your holiness."
+psTR.d67.ve.prokeimenon.v2.info = ps_en_US_saas.psa131.v1.number
+psTR.d67.ve.prokeimenon.v2.text = "Remember David, O Lord, and all his meekness."
+psTR.d67.ve.prokeimenon.v3.info = ps_en_US_saas.psa132.v1.number
+psTR.d67.ve.prokeimenon.v3.text = "Behold now, what is so good or so pleasant as for brothers to dwell together in unity?"
+psTR.d67.ve.prokeimenon.v4.info = ps_en_US_saas.psa132.v2.number
+psTR.d67.ve.prokeimenon.v4.text = "It is like fragrant oil running down upon the beard."
+
+//Holy Wednesday
+psTR.d67.te.prokeimenon.v1.info = ps_en_US_saas.psa133.v3.number
+psTR.d67.te.prokeimenon.v1.text = "May the Lord bless you from Zion, He who made heaven and earth."
+psTR.d67.te.prokeimenon.v2.info = ps_en_US_saas.psa133.v1.number
+psTR.d67.te.prokeimenon.v2.text = "Behold now, bless the Lord, all you servants of the Lord."
+psTR.d67.te.prokeimenon.v3.info = ps_en_US_saas.psa134.v20.number
+psTR.d67.te.prokeimenon.v3.text = "You who fear the Lord, bless the Lord."
+psTR.d67.te.prokeimenon.v4.info = ps_en_US_saas.psa134.v1.number
+psTR.d67.te.prokeimenon.v4.text = "Praise the name of the Lord, O you servants; praise the Lord."
+psTR.d68.ve.prokeimenon.v1.info = ps_en_US_saas.psa135.v26.number
+psTR.d68.ve.prokeimenon.v1.text = "Give thanks to the God of heaven."
+psTR.d68.ve.prokeimenon.v2.info = ps_en_US_saas.psa135.v2.number
+psTR.d68.ve.prokeimenon.v2.text = "Give thanks to the God of gods."
+psTR.d68.ve.prokeimenon.v3.info = ps_en_US_saas.psa137.v8.number
+psTR.d68.ve.prokeimenon.v3.text = "O Lord, Your mercy endures forever; do not forsake the works of Your hands."
+psTR.d68.ve.prokeimenon.v4.info = ps_en_US_saas.psa137.v1.number
+psTR.d68.ve.prokeimenon.v4.text = "I will give thanks to You, O Lord, with all my heart."
+psTR.d68.ma.prokeimenon.v1.info = ps_en_US_saas.psa82.v19.number
+psTR.d68.ma.prokeimenon.v1.text = "Let the Gentiles know Your name is the Lord."
+psTR.d68.ma.prokeimenon.v2.info = ps_en_US_saas.psa82.v2.number
+psTR.d68.ma.prokeimenon.v2.text = "O God, who can be likened to You?"
+psTR.d68.ma.prokeimenon.v3.info = ps_en_US_saas.psa75.v12.number
+psTR.d68.ma.prokeimenon.v3.text = "Pray and return to the Lord Your God."
+psTR.d68.ma.prokeimenon.v4.info = ps_en_US_saas.psa75.v2.number
+psTR.d68.ma.prokeimenon.v4.text = "In Judah God is known."
+
+//Holy Thursday
+psTR.d69.ve.prokeimenon.v1.info = ps_en_US_saas.psa139.v2.number
+psTR.d69.ve.prokeimenon.v1.text = "Deliver me, O Lord, from the evil man."
+psTR.d69.ve.prokeimenon.v2.info = ps_en_US_saas.psa139.v3.number
+psTR.d69.ve.prokeimenon.v2.text = "Who devised wrongdoing in their heart."
+psTR.d69.ve.prokeimenon.v3.info = ps_en_US_saas.psa58.v2.number
+psTR.d69.ve.prokeimenon.v3.text = "Rescue me from my enemies, O God."
+psTR.d69.ve.prokeimenon.v4.info = ps_en_US_saas.psa58.v3.number
+psTR.d69.ve.prokeimenon.v4.text = "Deliver me from the workers of lawlessness."
+
+psTR.d69.ma.prokeimenon.v1.info = ps_en_US_saas.psa21.v19.number //"21:19"
+psTR.d69.ma.prokeimenon.v1.text = "They divided my garments among themselves, and for my clothing they cast lots."
+psTR.d69.ma.prokeimenon.v2.info = ps_en_US_saas.psa21.v2.number //"21:2"
+psTR.d69.ma.prokeimenon.v2.text = "O God, my God, hear me; why have You forsaken me?"
+
+//Holy Friday
+psTR.d69.H1.v1.info = ps_en_US_saas.psa2.v1.number //"2:1"
+psTR.d69.H1.v1.text = "Why do the nations rage, and the people meditate on vain things?"
+psTR.d69.H1.v2.info = ps_en_US_saas.psa2.v2.number //"2:2"
+psTR.d69.H1.v2.text = "The kings of the earth set themselves, and the rulers gather together"
+psTR.d69.H1.prokeimenon.v1.info = ps_en_US_saas.psa40.v7.number //"40·7"
+psTR.d69.H1.prokeimenon.v1.text = "He went forth and spoke the same."
+psTR.d69.H1.prokeimenon.v2.info = ps_en_US_saas.psa40.v2.number //"40·2"
+psTR.d69.H1.prokeimenon.v2.text = "Blessed is he who understands the poor and needy."
+psTR.d69.H3.v1.info = ps_en_US_saas.psa5.v2.number //"5:2"
+psTR.d69.H3.v1.text = "Give ear to my words, O Lord, hear my cry."
+psTR.d69.H3.v2.info = ps_en_US_saas.psa5.v3.number //"5:3"
+psTR.d69.H3.v2.text = "Give heed to the voice of my supplication, my King and my God."
+psTR.d69.H3.prokeimenon.v1.info = ps_en_US_saas.psa37.v18.number //"37:18"
+psTR.d69.H3.prokeimenon.v1.text = "For I am ready for wounds."
+psTR.d69.H3.prokeimenon.v2.info = ps_en_US_saas.psa37.v2.number //"37:2"
+psTR.d69.H3.prokeimenon.v2.text = "O Lord, do not rebuke me in Your wrath."
+psTR.d69.H6.v1.info = ps_en_US_saas.psa68.v22.number //"68:22"
+psTR.d69.H6.v1.text = "They gave me gall for my food, and they gave me vinegar for my drink."
+psTR.d69.H6.v2.info = ps_en_US_saas.psa68.v2.number //"68:2"
+psTR.d69.H6.v2.text = "Save me, O God, for the waters flood my soul."
+psTR.d69.H6.prokeimenon.v1.info = ps_en_US_saas.psa8.v2.number //"8:2"
+psTR.d69.H6.prokeimenon.v1.text = "O Lord, our Lord, how wondrous is Your name in all the earth."
+psTR.d69.H6.prokeimenon.v2.info = ps_en_US_saas.psa8.v2.number //"8:2"
+psTR.d69.H6.prokeimenon.v2.text = "For Your splendor is exalted far beyond the heavens."
+psTR.d69.H9.v1.info = ps_en_US_saas.psa21.v19.number //"21:19"
+psTR.d69.H9.v1.text = "They divided my garments among themselves, and for my clothing they cast lots."
+psTR.d69.H9.v2.info = ps_en_US_saas.psa68.v22.number //"68:22"
+psTR.d69.H9.v2.text = "They gave me gall for my food, and they gave me vinegar for my drink."
+psTR.d69.H9.prokeimenon.v1.info = ps_en_US_saas.psa13.v1.number //"13:1"
+psTR.d69.H9.prokeimenon.v1.text = "The fool says in his heart, \"There is no God.\""
+psTR.d69.H9.prokeimenon.v2.info = ps_en_US_saas.psa13.v1.number //"13:1"
+psTR.d69.H9.prokeimenon.v2.text = "There is none, not even one, who does good."
+
+psTR.d70.ve.prokeimenon.v1.info = ps_en_US_saas.psa21.v19.number //""
+psTR.d70.ve.prokeimenon.v1.text = "They divided my garments among themselves, and for my clothing they cast lots."
+psTR.d70.ve.prokeimenon.v2.info = ps_en_US_saas.psa21.v2.number //""
+psTR.d70.ve.prokeimenon.v2.text = "O God, my God, hear me; why have You forsaken me?"
+psTR.d70.ve.prokeimenon.v3.info = ps_en_US_saas.psa34.v1.number //""
+psTR.d70.ve.prokeimenon.v3.text = "O Lord, judge those who injure me."
+psTR.d70.ve.prokeimenon.v4.info = ps_en_US_saas.psa34.v12.number //""
+psTR.d70.ve.prokeimenon.v4.text = "They repaid me evil for good."
+
+psTR.d70.ma.prokeimenon.v1.info = ps_en_US_saas.psa9.v33.number //""
+psTR.d70.ma.prokeimenon.v1.text = "Arise, O Lord my God, let Your hand be lifted high."
+psTR.d70.ma.prokeimenon.v2.info = ps_en_US_saas.psa9.v2.number //""
+psTR.d70.ma.prokeimenon.v2.text = "I will give thanks to You, O Lord, with my whole heart."
 
