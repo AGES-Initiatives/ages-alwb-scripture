@@ -342,3 +342,115 @@ psLI.m02.d24.alleluia.v1.text = ""
 psLI.m02.d24.alleluia.v2.info = ps_en_US_rsv.psa91.v14.number
 psLI.m02.d24.alleluia.v2.text = ""
 
+
+//March
+
+psLI.m03.d09.prokeimenon.v1.info = ps_en_US_rsv.psa11.v8.number
+psLI.m03.d09.prokeimenon.v1.text = ""
+psLI.m03.d09.prokeimenon.v2.info = ps_en_US_rsv.psa11.v2.number
+psLI.m03.d09.prokeimenon.v2.text = ""
+psLI.m03.d09.alleluia.v1.info = ps_en_US_rsv.psa65.v1.number
+psLI.m03.d09.alleluia.v1.text = ""
+psLI.m03.d09.alleluia.v2.info = ps_en_US_rsv.psa65.v10.number
+psLI.m03.d09.alleluia.v2.text = ""
+
+psLI.m03.d25.antiphon1.v1.info = ps_en_US_rsv.psa71.v1.number //"71:1"
+psLI.m03.d25.antiphon1.v1.text = ""
+psLI.m03.d25.antiphon1.v2.info = ps_en_US_rsv.psa71.v3.number //"71:3"
+psLI.m03.d25.antiphon1.v2.text = ""
+psLI.m03.d25.antiphon1.v3.info = ps_en_US_rsv.psa95.v2.number //"95:2"
+psLI.m03.d25.antiphon1.v3.text = ""
+psLI.m03.d25.antiphon1.v4.info = ps_en_US_rsv.psa131.v11.number //"131:11"
+psLI.m03.d25.antiphon1.v4.text = ""
+psLI.m03.d25.antiphon2.v1.info = ps_en_US_rsv.psa71.v6.number //"71:6"
+psLI.m03.d25.antiphon2.v1.text = ""
+psLI.m03.d25.antiphon2.v2.info = ps_en_US_rsv.psa45.v5.number //"45:5"
+psLI.m03.d25.antiphon2.v2.text = ""
+psLI.m03.d25.antiphon2.v3.info = ps_en_US_rsv.psa49.v3.number //"49:3"
+psLI.m03.d25.antiphon2.v3.text = ""
+psLI.m03.d25.antiphon2.v4.info = ps_en_US_rsv.psa71.v7.number //"71:7"
+psLI.m03.d25.antiphon2.v4.text = ""
+psLI.m03.d25.antiphon3.v1.info = ps_en_US_rsv.psa71.v17.number //"71:17"
+psLI.m03.d25.antiphon3.v1.text = ""
+psLI.m03.d25.antiphon3.v2.info = ps_en_US_rsv.psa71.v18.number //"71:18"
+psLI.m03.d25.antiphon3.v2.text = ""
+psLI.m03.d25.antiphon3.v3.info = ps_en_US_rsv.psa71.v19.number //"71:19"
+psLI.m03.d25.antiphon3.v3.text = ""
+psLI.m03.d25.entrance.v1.info = ps_en_US_rsv.psa95.v2.number //"95:2"
+psLI.m03.d25.entrance.v1.text = ""
+psLI.m03.d25.prokeimenon.v1.info = ps_en_US_rsv.bode9_mag.v1.number //"Ode 9a:1"
+psLI.m03.d25.prokeimenon.v1.text = "My soul magnifies the Lord, and my spirit rejoices in God my Savior."
+psLI.m03.d25.prokeimenon.v2.info = ps_en_US_rsv.bode9_mag.v2.number //"Ode 9a:2"
+psLI.m03.d25.prokeimenon.v2.text = "For he has regarded the low estate of his handmaiden. For behold, henceforth all generations will call me blessed."
+psLI.m03.d25.alleluia.v1.info = ps_en_US_rsv.psa71.v6.number //"71:6"
+psLI.m03.d25.alleluia.v1.text = ""
+psLI.m03.d25.alleluia.v2.info = ps_en_US_rsv.psa71.v17.number //"71:17"
+psLI.m03.d25.alleluia.v2.text = ""
+psLI.m03.d25.communion.v1.info = ps_en_US_rsv.psa131.v13.number //"131:13"
+psLI.m03.d25.communion.v1.text = ""
+
+psLI.m03.d26.prokeimenon.v1.info = ps_en_US_rsv.psa103.v4.number
+psLI.m03.d26.prokeimenon.v1.text = ""
+psLI.m03.d26.prokeimenon.v2.info = ps_en_US_rsv.psa103.v1.number
+psLI.m03.d26.prokeimenon.v2.text = ""
+psLI.m03.d26.alleluia.v1.info = ps_en_US_rsv.psa148.v1.number
+psLI.m03.d26.alleluia.v1.text = ""
+psLI.m03.d26.alleluia.v2.info = ps_en_US_rsv.psa148.v2.number
+psLI.m03.d26.alleluia.v2.text = ""
+
+psLI.m03.d30.prokeimenon.v1.info = ps_en_US_rsv.psa115.v5.number
+psLI.m03.d30.prokeimenon.v1.text = ""
+psLI.m03.d30.prokeimenon.v2.info = ps_en_US_rsv.psa115.v3.number
+psLI.m03.d30.prokeimenon.v2.text = ""
+psLI.m03.d30.alleluia.v1.info = ps_en_US_rsv.psa33.v18.number
+psLI.m03.d30.alleluia.v1.text = ""
+psLI.m03.d30.alleluia.v2.info = ps_en_US_rsv.psa111.v1.number
+psLI.m03.d30.alleluia.v2.text = ""
+
+
+//April
+
+psLI.m04.d01.prokeimenon.v1.info = ps_en_US_rsv.psa67.v36.number
+psLI.m04.d01.prokeimenon.v1.text = ""
+psLI.m04.d01.prokeimenon.v2.info = ps_en_US_rsv.psa67.v27.number
+psLI.m04.d01.prokeimenon.v2.text = ""
+psLI.m04.d01.alleluia.v1.info = ps_en_US_rsv.psa39.v2.number
+psLI.m04.d01.alleluia.v1.text = ""
+psLI.m04.d01.alleluia.v2.info = ps_en_US_rsv.psa39.v3.number
+psLI.m04.d01.alleluia.v2.text = ""
+
+psLI.m04.d10.prokeimenon.v1.info = ps_en_US_rsv.psa48.v4.number
+psLI.m04.d10.prokeimenon.v1.text = ""
+psLI.m04.d10.prokeimenon.v2.info = ps_en_US_rsv.psa48.v2.number
+psLI.m04.d10.prokeimenon.v2.text = ""
+psLI.m04.d10.alleluia.v1.info = ps_en_US_rsv.psa36.v30.number
+psLI.m04.d10.alleluia.v1.text = ""
+psLI.m04.d10.alleluia.v2.info = ps_en_US_rsv.psa36.v31.number
+psLI.m04.d10.alleluia.v2.text = ""
+
+psLI.m04.d23.prokeimenon.v1.info = ps_en_US_rsv.psa63.v11.number
+psLI.m04.d23.prokeimenon.v1.text = ""
+psLI.m04.d23.prokeimenon.v2.info = ps_en_US_rsv.psa63.v2.number
+psLI.m04.d23.prokeimenon.v2.text = ""
+psLI.m04.d23.alleluia.v1.info = ps_en_US_rsv.psa91.v13.number
+psLI.m04.d23.alleluia.v1.text = ""
+psLI.m04.d23.alleluia.v2.info = ps_en_US_rsv.psa91.v14.number
+psLI.m04.d23.alleluia.v2.text = ""
+
+psLI.m04.d25.prokeimenon.v1.info = ps_en_US_rsv.psa18.v5.number
+psLI.m04.d25.prokeimenon.v1.text = ""
+psLI.m04.d25.prokeimenon.v2.info = ps_en_US_rsv.psa18.v2.number
+psLI.m04.d25.prokeimenon.v2.text = ""
+psLI.m04.d25.alleluia.v1.info = ps_en_US_rsv.psa88.v6.number
+psLI.m04.d25.alleluia.v1.text = ""
+psLI.m04.d25.alleluia.v2.info = ps_en_US_rsv.psa88.v8.number
+psLI.m04.d25.alleluia.v2.text = ""
+
+psLI.m04.d30.prokeimenon.v1.info = ps_en_US_rsv.psa18.v5.number
+psLI.m04.d30.prokeimenon.v1.text = ""
+psLI.m04.d30.prokeimenon.v2.info = ps_en_US_rsv.psa18.v2.number
+psLI.m04.d30.prokeimenon.v2.text = ""
+psLI.m04.d30.alleluia.v1.info = ps_en_US_rsv.psa88.v6.number
+psLI.m04.d30.alleluia.v1.text = ""
+psLI.m04.d30.alleluia.v2.info = ps_en_US_rsv.psa88.v8.number
+psLI.m04.d30.alleluia.v2.text = ""
