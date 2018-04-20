@@ -456,6 +456,54 @@ psLI.m04.d30.alleluia.v2.info = ps_en_US_saas.psa88.v8.number
 psLI.m04.d30.alleluia.v2.text = "God is glorified in the counsel of saints."
 
 
+//May
+
+psLI.m05.d02.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m05.d02.prokeimenon.v1.text = "Blessed are You, O Lord God of our fathers."
+psLI.m05.d02.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m05.d02.prokeimenon.v2.text = "For You are righteous in all You did for us."
+psLI.m05.d02.alleluia.v1.info = ps_en_US_saas.psa131.v9.number
+psLI.m05.d02.alleluia.v1.text = "Your priests shall clothe themselves in righteousness."
+psLI.m05.d02.alleluia.v2.info = ps_en_US_saas.psa131.v13.number
+psLI.m05.d02.alleluia.v2.text = "For the Lord has chosen Zion."
+
+psLI.m05.d07.prokeimenon.v1.info = ps_en_US_saas.psa27.v9.number
+psLI.m05.d07.prokeimenon.v1.text = "O Lord, save Your people, and bless Your inheritance."
+psLI.m05.d07.prokeimenon.v2.info = ps_en_US_saas.psa27.v1.number
+psLI.m05.d07.prokeimenon.v2.text = "To You, O Lord, I cry; O my God."
+psLI.m05.d07.alleluia.v1.info = ps_en_US_saas.psa73.v2.number
+psLI.m05.d07.alleluia.v1.text = "Remember Your congregation You acquired from the beginning."
+psLI.m05.d07.alleluia.v2.info = ps_en_US_saas.psa73.v12.number
+psLI.m05.d07.alleluia.v2.text = "God is our King before the ages; He worked salvation in the midst of the earth."
+
+psLI.m05.d08.prokeimenon.v1.info = ps_en_US_saas.psa18.v5.number
+psLI.m05.d08.prokeimenon.v1.text = "His proclamation went forth into all the earth."
+psLI.m05.d08.prokeimenon.v2.info = ps_en_US_saas.psa18.v2.number
+psLI.m05.d08.prokeimenon.v2.text = "The heavens declare the glory of God."
+psLI.m05.d08.alleluia.v1.info = ps_en_US_saas.psa88.v6.number
+psLI.m05.d08.alleluia.v1.text = "The heavens shall confess Your wonders, O Lord."
+psLI.m05.d08.alleluia.v2.info = ps_en_US_saas.psa88.v8.number
+psLI.m05.d08.alleluia.v2.text = "God is glorified in the counsel of saints."
+
+psLI.m05.d21.prokeimenon.v1.info = ps_en_US_saas.psa18.v5.number
+psLI.m05.d21.prokeimenon.v1.text = "His proclamation went forth into all the earth."
+psLI.m05.d21.prokeimenon.v2.info = ps_en_US_saas.psa18.v2.number
+psLI.m05.d21.prokeimenon.v2.text = "The heavens declare the glory of God."
+psLI.m05.d21.alleluia.v1.info = ps_en_US_saas.psa88.v20.number
+psLI.m05.d21.alleluia.v1.text = "I raised up a chosen one from My people."
+psLI.m05.d21.alleluia.v2.info = ps_en_US_saas.psa88.v22.number
+psLI.m05.d21.alleluia.v2.text = "For My hand shall support him."
+
+psLI.m05.d25.prokeimenon.v1.info = ps_en_US_saas.psa63.v11.number
+psLI.m05.d25.prokeimenon.v1.text = "The righteous man shall be glad in the Lord."
+psLI.m05.d25.prokeimenon.v2.info = ps_en_US_saas.psa63.v2.number
+psLI.m05.d25.prokeimenon.v2.text = "Hear my voice, O God."
+psLI.m05.d25.alleluia.v1.info = ps_en_US_saas.psa91.v13.number
+psLI.m05.d25.alleluia.v1.text = "The righteous shall flourish like a palm tree."
+psLI.m05.d25.alleluia.v2.info = ps_en_US_saas.psa91.v14.number
+psLI.m05.d25.alleluia.v2.text = "Those planted in the house of the Lord."
+
+
 
 
 

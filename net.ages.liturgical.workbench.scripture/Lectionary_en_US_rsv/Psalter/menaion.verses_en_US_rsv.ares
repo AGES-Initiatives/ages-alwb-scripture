@@ -454,3 +454,53 @@ psLI.m04.d30.alleluia.v1.info = ps_en_US_rsv.psa88.v6.number
 psLI.m04.d30.alleluia.v1.text = ""
 psLI.m04.d30.alleluia.v2.info = ps_en_US_rsv.psa88.v8.number
 psLI.m04.d30.alleluia.v2.text = ""
+
+
+//May
+
+psLI.m05.d02.prokeimenon.v1.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m05.d02.prokeimenon.v1.text = ""
+psLI.m05.d02.prokeimenon.v2.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m05.d02.prokeimenon.v2.text = ""
+psLI.m05.d02.alleluia.v1.info = ps_en_US_rsv.psa131.v9.number
+psLI.m05.d02.alleluia.v1.text = ""
+psLI.m05.d02.alleluia.v2.info = ps_en_US_rsv.psa131.v13.number
+psLI.m05.d02.alleluia.v2.text = ""
+
+psLI.m05.d07.prokeimenon.v1.info = ps_en_US_rsv.psa27.v9.number
+psLI.m05.d07.prokeimenon.v1.text = ""
+psLI.m05.d07.prokeimenon.v2.info = ps_en_US_rsv.psa27.v1.number
+psLI.m05.d07.prokeimenon.v2.text = ""
+psLI.m05.d07.alleluia.v1.info = ps_en_US_rsv.psa73.v2.number
+psLI.m05.d07.alleluia.v1.text = ""
+psLI.m05.d07.alleluia.v2.info = ps_en_US_rsv.psa73.v12.number
+psLI.m05.d07.alleluia.v2.text = ""
+
+psLI.m05.d08.prokeimenon.v1.info = ps_en_US_rsv.psa18.v5.number
+psLI.m05.d08.prokeimenon.v1.text = ""
+psLI.m05.d08.prokeimenon.v2.info = ps_en_US_rsv.psa18.v2.number
+psLI.m05.d08.prokeimenon.v2.text = ""
+psLI.m05.d08.alleluia.v1.info = ps_en_US_rsv.psa88.v6.number
+psLI.m05.d08.alleluia.v1.text = ""
+psLI.m05.d08.alleluia.v2.info = ps_en_US_rsv.psa88.v8.number
+psLI.m05.d08.alleluia.v2.text = ""
+
+psLI.m05.d21.prokeimenon.v1.info = ps_en_US_rsv.psa18.v5.number
+psLI.m05.d21.prokeimenon.v1.text = ""
+psLI.m05.d21.prokeimenon.v2.info = ps_en_US_rsv.psa18.v2.number
+psLI.m05.d21.prokeimenon.v2.text = ""
+psLI.m05.d21.alleluia.v1.info = ps_en_US_rsv.psa88.v20.number
+psLI.m05.d21.alleluia.v1.text = ""
+psLI.m05.d21.alleluia.v2.info = ps_en_US_rsv.psa88.v22.number
+psLI.m05.d21.alleluia.v2.text = ""
+
+psLI.m05.d25.prokeimenon.v1.info = ps_en_US_rsv.psa63.v11.number
+psLI.m05.d25.prokeimenon.v1.text = ""
+psLI.m05.d25.prokeimenon.v2.info = ps_en_US_rsv.psa63.v2.number
+psLI.m05.d25.prokeimenon.v2.text = ""
+psLI.m05.d25.alleluia.v1.info = ps_en_US_rsv.psa91.v13.number
+psLI.m05.d25.alleluia.v1.text = ""
+psLI.m05.d25.alleluia.v2.info = ps_en_US_rsv.psa91.v14.number
+psLI.m05.d25.alleluia.v2.text = ""
+
+
