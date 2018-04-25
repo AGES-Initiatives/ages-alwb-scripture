@@ -36,6 +36,27 @@ psLI.m01.d02.prokeimenon.v1.text = "Precious in the sight of the Lord is the dea
 psLI.m01.d02.prokeimenon.v2.info = ps_en_US_saas.psa115.v3.number 
 psLI.m01.d02.prokeimenon.v2.text = "What shall I give back to the Lord for all He rendered to me?"
 
+psGH.m01.d05.v1.info = ps_en_US_saas.psa41.v7.number //"41:7"
+psGH.m01.d05.v1.text = "Therefore I will remember You from the land of the Jordan and Hermon."
+psGH.m01.d05.v2.info = ps_en_US_saas.psa76.v17.number //"76:17"
+psGH.m01.d05.v2.text = "The waters saw You, O God; the waters saw You and were afraid."
+psGH.m01.d05.H1.prokeimenon.v1.info = ps_en_US_saas.psa28.v3.number //"28:3"
+psGH.m01.d05.H1.prokeimenon.v1.text = "The Lord thundered upon the many waters."
+psGH.m01.d05.H1.prokeimenon.v2.info = ps_en_US_saas.psa17.v2.number //"17:2"
+psGH.m01.d05.H1.prokeimenon.v2.text = "I will love You, O Lord, my strength."
+psGH.m01.d05.H3.prokeimenon.v1.info = ps_en_US_saas.psa76.v17.number //"76:17"
+psGH.m01.d05.H3.prokeimenon.v1.text = "The waters saw You, O God; the waters saw You and were afraid."
+psGH.m01.d05.H3.prokeimenon.v2.info = ps_en_US_saas.psa28.v3.number //"28:3"
+psGH.m01.d05.H3.prokeimenon.v2.text = "The voice of the Lord is upon the waters."
+psGH.m01.d05.H6.prokeimenon.v1.info = ps_en_US_saas.psa28.v3.number //"28:3"
+psGH.m01.d05.H6.prokeimenon.v1.text = "The voice of the Lord is upon the waters."
+psGH.m01.d05.H6.prokeimenon.v2.info = ps_en_US_saas.psa28.v1.number //"28:1"
+psGH.m01.d05.H6.prokeimenon.v2.text = "Bring to the Lord, O you sons of God."
+psGH.m01.d05.H9.prokeimenon.v1.info = ps_en_US_saas.psa26.v1.number //"26:1"
+psGH.m01.d05.H9.prokeimenon.v1.text = "he Lord is my light and my savior."
+psGH.m01.d05.H9.prokeimenon.v2.info = ps_en_US_saas.psa26.v1.number //"26:1"
+psGH.m01.d05.H9.prokeimenon.v2.text = "The Lord is the defender of my life."
+
 psVL.m01.d06.prokeimenon.v1.info = ps_en_US_saas.psa26.v1.number
 psVL.m01.d06.prokeimenon.v1.text = "The Lord is my light and my savior."
 psVL.m01.d06.prokeimenon.v2.info = ps_en_US_saas.psa26.v1.number
@@ -1558,4 +1579,220 @@ psLI.m11.d30.alleluia.v1.info = ps_en_US_saas.psa88.v6.number
 psLI.m11.d30.alleluia.v1.text = "The heavens shall confess Your wonders, O Lord."
 psLI.m11.d30.alleluia.v2.info = ps_en_US_saas.psa88.v8.number
 psLI.m11.d30.alleluia.v2.text = "God is glorified in the counsel of saints."
+
+
+//December
+
+psLI.m12.d04.prokeimenon.v1.info = ps_en_US_saas.psa67.v36.number
+psLI.m12.d04.prokeimenon.v1.text = "God is wondrous in His saints."
+psLI.m12.d04.prokeimenon.v2.info = ps_en_US_saas.psa67.v27.number
+psLI.m12.d04.prokeimenon.v2.text = "Bless God in the churches."
+psLI.m12.d04.alleluia.v1.info = ps_en_US_saas.psa39.v2.number
+psLI.m12.d04.alleluia.v1.text = "I waited patiently for the Lord."
+psLI.m12.d04.alleluia.v2.info = ps_en_US_saas.psa39.v3.number
+psLI.m12.d04.alleluia.v2.text = "And brought me up out of a miserable pit."
+
+psLI.m12.d05.prokeimenon.v1.info = ps_en_US_saas.psa149.v5.number
+psLI.m12.d05.prokeimenon.v1.text = "The holy ones shall boast in glory."
+psLI.m12.d05.prokeimenon.v2.info = ps_en_US_saas.psa149.v1.number
+psLI.m12.d05.prokeimenon.v2.text = "Sing to the Lord a new song."
+psLI.m12.d05.alleluia.v1.info = ps_en_US_saas.psa111.v1.number
+psLI.m12.d05.alleluia.v1.text = "Blessed is the man who fears the Lord."
+psLI.m12.d05.alleluia.v2.info = ps_en_US_saas.psa111.v9.number
+psLI.m12.d05.alleluia.v2.text = "His righteousness continues unto ages of ages."
+
+psLI.m12.d06.prokeimenon.v1.info = ps_en_US_saas.psa115.v5.number
+psLI.m12.d06.prokeimenon.v1.text = "Precious in the sight of the Lord is the death of His holy one."
+psLI.m12.d06.prokeimenon.v2.info = ps_en_US_saas.psa115.v3.number
+psLI.m12.d06.prokeimenon.v2.text = "What shall I give back to the Lord for all He rendered to me?"
+psLI.m12.d06.alleluia.v1.info = ps_en_US_saas.psa131.v9.number
+psLI.m12.d06.alleluia.v1.text = "O Lord, Your priests shall clothe themselves in righteousness."
+psLI.m12.d06.alleluia.v2.info = ps_en_US_saas.psa131.v13.number
+psLI.m12.d06.alleluia.v2.text = "For the Lord has chosen Zion."
+
+psLI.m12.d07.prokeimenon.v1.info = ps_en_US_saas.psa149.v5.number
+psLI.m12.d07.prokeimenon.v1.text = "The holy ones shall boast in glory."
+psLI.m12.d07.prokeimenon.v2.info = ps_en_US_saas.psa149.v1.number
+psLI.m12.d07.prokeimenon.v2.text = "Sing to the Lord a new song."
+
+psLI.m12.d09.prokeimenon.v1.info = ps_en_US_saas.psa63.v11.number
+psLI.m12.d09.prokeimenon.v1.text = "The righteous man shall be glad in the Lord."
+psLI.m12.d09.prokeimenon.v2.info = ps_en_US_saas.psa63.v2.number
+psLI.m12.d09.prokeimenon.v2.text = "Hear my voice, O God."
+psLI.m12.d09.alleluia.v1.info = ps_en_US_saas.psa91.v13.number
+psLI.m12.d09.alleluia.v1.text = "The righteous shall flourish like a palm tree."
+psLI.m12.d09.alleluia.v2.info = ps_en_US_saas.psa91.v14.number
+psLI.m12.d09.alleluia.v2.text = "Those planted in the house of the Lord."
+
+psLI.m12.dFF.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m12.dFF.prokeimenon.v1.text = "Blessed are You, O Lord God of our fathers."
+psLI.m12.dFF.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m12.dFF.prokeimenon.v2.text = "For You are righteous in all You did for us."
+psLI.m12.dFF.alleluia.v1.info = ps_en_US_saas.psa98.v6.number
+psLI.m12.dFF.alleluia.v1.text = "Moses and Aaron are among His priests."
+psLI.m12.dFF.alleluia.v2.info = ps_en_US_saas.psa33.v18.number
+psLI.m12.dFF.alleluia.v2.text = "The righteous cried, and the Lord heard them."
+
+psLI.m12.d12.prokeimenon.v1.info = ps_en_US_saas.psa149.v5.number
+psLI.m12.d12.prokeimenon.v1.text = "The holy ones shall boast in glory."
+psLI.m12.d12.prokeimenon.v2.info = ps_en_US_saas.psa149.v1.number
+psLI.m12.d12.prokeimenon.v2.text = "Sing to the Lord a new song."
+psLI.m12.d12.alleluia.v1.info = ps_en_US_saas.psa131.v9.number
+psLI.m12.d12.alleluia.v1.text = "O Lord, Your priests shall clothe themselves in righteousness."
+psLI.m12.d12.alleluia.v2.info = ps_en_US_saas.psa131.v13.number
+psLI.m12.d12.alleluia.v2.text = "For the Lord has chosen Zion."
+
+psLI.m12.d15.prokeimenon.v1.info = ps_en_US_saas.psa115.v5.number
+psLI.m12.d15.prokeimenon.v1.text = "Precious in the sight of the Lord is the death of His holy one."
+psLI.m12.d15.prokeimenon.v2.info = ps_en_US_saas.psa115.v3.number
+psLI.m12.d15.prokeimenon.v2.text = "What shall I give back to the Lord for all He rendered to me?"
+psLI.m12.d15.alleluia.v1.info = ps_en_US_saas.psa131.v9.number
+psLI.m12.d15.alleluia.v1.text = "O Lord, Your priests shall clothe themselves in righteousness."
+psLI.m12.d15.alleluia.v2.info = ps_en_US_saas.psa131.v13.number
+psLI.m12.d15.alleluia.v2.text = "For the Lord has chosen Zion."
+
+psLI.m12.d16.prokeimenon.v1.info = ps_en_US_saas.psa48.v4.number
+psLI.m12.d16.prokeimenon.v1.text = "My mouth shall speak wisdom."
+psLI.m12.d16.prokeimenon.v2.info = ps_en_US_saas.psa48.v2.number
+psLI.m12.d16.prokeimenon.v2.text = "Hear this, all you nations."
+psLI.m12.d16.alleluia.v1.info = ps_en_US_saas.psa36.v30.number
+psLI.m12.d16.alleluia.v1.text = "The mouth of the righteous shall meditate on wisdom."
+psLI.m12.d16.alleluia.v2.info = ps_en_US_saas.psa36.v31.number
+psLI.m12.d16.alleluia.v2.text = "The law of God is in his heart."
+
+psLI.m12.d17b.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m12.d17b.prokeimenon.v1.text = "Blessed are You, O Lord God of our fathers."
+psLI.m12.d17b.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m12.d17b.prokeimenon.v2.text = "For You are righteous in all You did for us."
+psLI.m12.d17b.alleluia.v1.info = ps_en_US_saas.psa43.v2.number
+psLI.m12.d17b.alleluia.v1.text = "O God, we heard with our ears."
+psLI.m12.d17b.alleluia.v2.info = ps_en_US_saas.psa33.v18.number
+psLI.m12.d17b.alleluia.v2.text = "The righteous cried, and the Lord heard them."
+
+psLI.m12.d20.prokeimenon.v1.info = ps_en_US_saas.psa115.v5.number
+psLI.m12.d20.prokeimenon.v1.text = "Precious in the sight of the Lord is the death of His holy one."
+psLI.m12.d20.prokeimenon.v2.info = ps_en_US_saas.psa115.v3.number
+psLI.m12.d20.prokeimenon.v2.text = "What shall I give back to the Lord for all He rendered to me?"
+psLI.m12.d20.alleluia.v1.info = ps_en_US_saas.psa131.v9.number
+psLI.m12.d20.alleluia.v1.text = "O Lord, Your priests shall clothe themselves in righteousness."
+psLI.m12.d20.alleluia.v2.info = ps_en_US_saas.psa131.v13.number
+psLI.m12.d20.alleluia.v2.text = "For the Lord has chosen Zion."
+
+psLI.m12.dSunBC.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m12.dSunBC.prokeimenon.v1.text = "Blessed are You, O Lord God of our fathers."
+psLI.m12.dSunBC.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m12.dSunBC.prokeimenon.v2.text = "For You are righteous in all You did for us."
+psLI.m12.dSunBC.alleluia.v1.info = ps_en_US_saas.psa43.v2.number
+psLI.m12.dSunBC.alleluia.v1.text = "O God, we heard with our ears."
+psLI.m12.dSunBC.alleluia.v2.info = ps_en_US_saas.psa33.v18.number
+psLI.m12.dSunBC.alleluia.v2.text = "The righteous cried, and the Lord heard them."
+
+psGH.m12.d24.v1.info = le.pr.os_en_US_saas.leosH1.me.m12.d24.Verse1.chapverse //"Hab 3:3"
+psGH.m12.d24.v1.text = "God will come from Teman, the Holy One from the mount of shaded leafy trees."
+psGH.m12.d24.v2.info = le.pr.os_en_US_saas.leosH1.me.m12.d24.Verse2.chapverse //"Hab 3:2"
+psGH.m12.d24.v2.text = "Lord, I have heard Your report and was afraid; I considered Your works and was greatly astonished."
+psGH.m12.d24.H1.prokeimenon.v1.info = ps_en_US_saas.psa2.v7.number //"2:7"
+psGH.m12.d24.H1.prokeimenon.v1.text = "The Lord said to Me, \"You are My Son, today I have begotten You.\""
+psGH.m12.d24.H1.prokeimenon.v2.info = ps_en_US_saas.psa2.v8.number //"2:8"
+psGH.m12.d24.H1.prokeimenon.v2.text = "Ask of Me, and I will give You the nations for Your inheritance."
+psGH.m12.d24.H3.prokeimenon.v1.info = le.pr.os_en_US_saas.leosCO.Key0300.chapverse //"Is 8"
+psGH.m12.d24.H3.prokeimenon.v1.text = "For unto us a Child is born, unto us a Son is given."
+psGH.m12.d24.H3.prokeimenon.v2.info = le.pr.os_en_US_saas.leosCO.Key0300.chapverse //"Is 8"
+psGH.m12.d24.H3.prokeimenon.v2.text = "And the government will be upon His shoulder."
+psGH.m12.d24.H6.prokeimenon.v1.info = ps_en_US_saas.psa109.v3.number //"109:3"
+psGH.m12.d24.H6.prokeimenon.v1.text = "I have begotten You from the womb before the morning star."
+psGH.m12.d24.H6.prokeimenon.v2.info = ps_en_US_saas.psa109.v1.number //"109:1"
+psGH.m12.d24.H6.prokeimenon.v2.text = "The Lord said to my Lord: \"Sit at My right hand.\""
+psGH.m12.d24.H9.prokeimenon.v1.info = ps_en_US_saas.psa86.v5.number //"86:5"
+psGH.m12.d24.H9.prokeimenon.v1.text = "A man will say, \"Mother Zion,\" and a man was born in her."
+psGH.m12.d24.H9.prokeimenon.v2.info = ps_en_US_saas.psa86.v1.number //"86:1"
+psGH.m12.d24.H9.prokeimenon.v2.text = "His foundations are in the holy mountains."
+
+psVL.m12.d25.prokeimenon.v1.info = ps_en_US_saas.psa2.v7.number
+psVL.m12.d25.prokeimenon.v1.text = "The Lord said to Me, \"You are My Son, today I have begotten You.\""
+psVL.m12.d25.prokeimenon.v2.info = ps_en_US_saas.psa2.v8.number
+psVL.m12.d25.prokeimenon.v2.text = "Ask of Me, and I will give You the nations for Your inheritance"
+psVL.m12.d25.alleluia.v1.info = ps_en_US_saas.psa109.v1.number
+psVL.m12.d25.alleluia.v1.text = "The Lord said to my Lord: \"Sit at My right hand, until I make your enemies the footstool of Your feet.\""
+psVL.m12.d25.alleluia.v2.info = ps_en_US_saas.psa109.v2.number
+psVL.m12.d25.alleluia.v2.text = "The Lord shall send forth the rod of Your power from Zion."
+psLI.m12.d25.antiphon1.v1.info = ps_en_US_saas.psa9.v2.number //"9:2"
+psLI.m12.d25.antiphon1.v1.text = "I will give thanks to You, O Lord, with my whole heart; I will tell of all Your wondrous things."
+psLI.m12.d25.antiphon1.v2.info = ps_en_US_saas.psa110.v1.number //"110:1-2"
+psLI.m12.d25.antiphon1.v2.text = "In the council of the upright and in the assembly. Great are the works of the Lord."
+psLI.m12.d25.antiphon1.v3.info = ps_en_US_saas.psa110.v2.number //"110:2"
+psLI.m12.d25.antiphon1.v3.text = "Sought out in all things with regard to His will."
+psLI.m12.d25.antiphon1.v4.info = ps_en_US_saas.psa110.v3.number //"110:3"
+psLI.m12.d25.antiphon1.v4.text = "Thanksgiving and majesty are His work, and His righteousness continues unto ages of ages."
+psLI.m12.d25.antiphon2.v1.info = ps_en_US_saas.psa111.v1.number //"111:1"
+psLI.m12.d25.antiphon2.v1.text = "Blessed is the man who fears the Lord; he will delight exceedingly in His commandments."
+psLI.m12.d25.antiphon2.v2.info = ps_en_US_saas.psa111.v2.number //"111:2"
+psLI.m12.d25.antiphon2.v2.text = "His seed shall be mighty on earth; the generation of the upright shall be blessed."
+psLI.m12.d25.antiphon2.v3.info = ps_en_US_saas.psa111.v3.number //"111:3"
+psLI.m12.d25.antiphon2.v3.text = "Glory and riches shall be in his house, and his righteousness continues unto ages of ages."
+psLI.m12.d25.antiphon2.v4.info = ps_en_US_saas.psa111.v4.number //"111:4"
+psLI.m12.d25.antiphon2.v4.text = "For the upright, light springs up in darkness, for he is merciful, compassionate, and righteous."
+psLI.m12.d25.antiphon3.v1.info = ps_en_US_saas.psa109.v1.number //"109:1"
+psLI.m12.d25.antiphon3.v1.text = "The Lord said to my Lord: \"Sit at My right hand, until I make your enemies the footstool of Your feet.\""
+psLI.m12.d25.antiphon3.v2.info = ps_en_US_saas.psa109.v2.number //"109:2"
+psLI.m12.d25.antiphon3.v2.text = "The Lord shall send forth the rod of Your power from Zion, and rule in the midst of Your enemies."
+psLI.m12.d25.antiphon3.v3.info = ps_en_US_saas.psa109.v3.number //"109:3"
+psLI.m12.d25.antiphon3.v3.text = "With You is the beginning in the day of Your power, in the brightness of Your saints."
+psLI.m12.d25.entrance.v1.info = ps_en_US_saas.psa109.v3.number //"109:3-4"
+psLI.m12.d25.entrance.v1.text = "\"I have begotten You from the womb before the morning star.\" The Lord swore and will not repent, \"You are a priest forever according to the order of Melchizedek.\""
+psLI.m12.d25.prokeimenon.v1.info = ps_en_US_saas.psa65.v4.number //"65:4"
+psLI.m12.d25.prokeimenon.v1.text = "Let all the earth worship You and sing to You; let them sing to Your name."
+psLI.m12.d25.prokeimenon.v2.info = ps_en_US_saas.psa65.v1.number //"65:1"
+psLI.m12.d25.prokeimenon.v2.text = "Shout to God, all the earth."
+psLI.m12.d25.alleluia.v1.info = ps_en_US_saas.psa18.v2.number //"18:2"
+psLI.m12.d25.alleluia.v1.text = "The heavens declare the glory of God; the firmament shows the creation of His hands."
+psLI.m12.d25.alleluia.v2.info = ps_en_US_saas.psa18.v3.number //"18:3"
+psLI.m12.d25.alleluia.v2.text = "Day to day utters speech, and night to night reveals knowledge."
+psLI.m12.d25.communion.v1.info = ps_en_US_saas.psa110.v9.number //"110:9"
+psLI.m12.d25.communion.v1.text = "The Lord sent redemption to His people."
+
+//psLI.m12.d26.prokeimenon.v1.info = ps_en_US_saas.bode9_mag.v1.number //"Ode 9a:1"
+//psLI.m12.d26.prokeimenon.v1.text = ""
+//psLI.m12.d26.prokeimenon.v2.info = ps_en_US_saas.bode9_mag.v2.number //"Ode 9a:2"
+//psLI.m12.d26.prokeimenon.v2.text = ""
+psLI.m12.d26.alleluia.v1.info = ps_en_US_saas.psa131.v8.number //"131:8"
+psLI.m12.d26.alleluia.v1.text = "Arise, O Lord, into Your rest, You and the ark of Your holiness."
+psLI.m12.d26.alleluia.v2.info = ps_en_US_saas.psa44.v11.number //"44:11"
+psLI.m12.d26.alleluia.v2.text = "Listen, O daughter, behold and incline your ear, and forget your people and your father's house."
+
+psLI.m12.d27.prokeimenon.v1.info = ps_en_US_saas.psa18.v5.number
+psLI.m12.d27.prokeimenon.v1.text = "His proclamation went forth into all the earth,."
+psLI.m12.d27.prokeimenon.v2.info = ps_en_US_saas.psa18.v2.number
+psLI.m12.d27.prokeimenon.v2.text = "The heavens declare the glory of God."
+psLI.m12.d27.alleluia.v1.info = ps_en_US_saas.psa88.v6.number
+psLI.m12.d27.alleluia.v1.text = "The heavens shall confess Your wonders, O Lord."
+psLI.m12.d27.alleluia.v2.info = ps_en_US_saas.psa88.v8.number
+psLI.m12.d27.alleluia.v2.text = "God is glorified in the counsel of saints."
+
+psLI.m12.dSatAC.prokeimenon.v1.info = ps_en_US_saas.psa44.v18.number
+psLI.m12.dSatAC.prokeimenon.v1.text = "I will remember your name from generation to generation."
+psLI.m12.dSatAC.prokeimenon.v2.info = ps_en_US_saas.psa44.v11.number
+psLI.m12.dSatAC.prokeimenon.v2.text = "Listen, O daughter, behold and incline your ear, and forget your people and your father's house."
+psLI.m12.dSatAC.alleluia.v1.info = ps_en_US_saas.psa131.v8.number //"131:8"
+psLI.m12.dSatAC.alleluia.v1.text = "Arise, O Lord, into Your rest, You and the ark of Your holiness."
+psLI.m12.dSatAC.alleluia.v2.info = ps_en_US_saas.psa131.v11.number //"131:11"
+psLI.m12.dSatAC.alleluia.v2.text = "The Lord swore to David this truth, and He shall not reject it."
+
+psLI.m12.dSunAC.prokeimenon.v1.info = ps_en_US_saas.psa67.v36.number
+psLI.m12.dSunAC.prokeimenon.v1.text = "God is wondrous in His saints."
+psLI.m12.dSunAC.prokeimenon.v2.info = ps_en_US_saas.psa67.v27.number
+psLI.m12.dSunAC.prokeimenon.v2.text = "Bless God in the churches."
+psLI.m12.dSunAC.alleluia.v1.info = ps_en_US_saas.psa131.v1.number
+psLI.m12.dSunAC.alleluia.v1.text = "Remember David, O Lord, and all his meekness."
+psLI.m12.dSunAC.alleluia.v2.info = ps_en_US_saas.psa131.v11.number
+psLI.m12.dSunAC.alleluia.v2.text = "The Lord swore to David this truth, and He shall not reject it."
+
+psLI.m12.dSunBE.prokeimenon.v1.info = ps_en_US_saas.psa27.v9.number
+psLI.m12.dSunBE.prokeimenon.v1.text = "O Lord, save Your people, and bless Your inheritance."
+psLI.m12.dSunBE.prokeimenon.v2.info = ps_en_US_saas.psa27.v1.number
+psLI.m12.dSunBE.prokeimenon.v2.text = "To You, O Lord, I cry; O my God."
+psLI.m12.dSunBE.alleluia.v1.info = ps_en_US_saas.psa66.v2.number
+psLI.m12.dSunBE.alleluia.v1.text = "May God be gracious to us, and bless us."
+psLI.m12.dSunBE.alleluia.v2.info = ps_en_US_saas.psa66.v2.number
+psLI.m12.dSunBE.alleluia.v2.text = "May He cause His face to shine upon us, and have mercy on us."
 
