@@ -45,6 +45,15 @@ psVE.tr.d021.prokeimenon.v3.text = "Let Israel hope in the Lord from this presen
 psVE.tr.d021.prokeimenon.v4.info = ps_en_US_saas.psa130.v1.number
 psVE.tr.d021.prokeimenon.v4.text = "O Lord, my heart is not exalted."
 
+psLI.tr.d021.prokeimenon.v1.info = ps_en_US_saas.psa149.v5.number
+psLI.tr.d021.prokeimenon.v1.text = "The holy ones shall boast in glory."
+psLI.tr.d021.prokeimenon.v2.info = ps_en_US_saas.psa149.v6.number
+psLI.tr.d021.prokeimenon.v2.text = "The high praise of God shall be in their mouth."
+psLI.tr.d021.alleluia.v1.info = ps_en_US_saas.psa91.v14.number
+psLI.tr.d021.alleluia.v1.text = "Those planted in the house of the Lord shall blossom forth in the courts of our God."
+psLI.tr.d021.alleluia.v2.info = ps_en_US_saas.psa32.v1.number
+psLI.tr.d021.alleluia.v2.text = "Rejoice greatly in the Lord, O righteous ones; praise is fitting for the upright."
+
 //Mon 1
 psTE.tr.d023.prokeimenon.v1.info = ps_en_US_saas.psa1.v6.number
 psTE.tr.d023.prokeimenon.v1.text = "The Lord knows the way of the righteous, but the way of the ungodly shall perish."
@@ -134,6 +143,11 @@ psVE.tr.d028.prokeimenon.v3.info = ps_en_US_saas.psa20.v14.number
 psVE.tr.d028.prokeimenon.v3.text = "Be exalted, O Lord, in Your power."
 psVE.tr.d028.prokeimenon.v4.info = ps_en_US_saas.psa20.v2.number
 psVE.tr.d028.prokeimenon.v4.text = "O Lord, the king shall be glad in Your power."
+
+psLI.tr.d028.prokeimenon.v1.info = ps_en_US_saas.psa63.v11.number
+psLI.tr.d028.prokeimenon.v1.text = "The righteous man shall be glad in the Lord, and shall hope in Him."
+psLI.tr.d028.prokeimenon.v2.info = ps_en_US_saas.psa63.v2.number
+psLI.tr.d028.prokeimenon.v2.text = "Hear my voice, O God, in my supplication."
 
 psLI.tr.d029.antiphon1.v1.info = ps_en_US_saas.psa92.v1.number
 psLI.tr.d029.antiphon1.v1.text = "The Lord reigns; He clothed Himself with majesty; the Lord clothed and girded Himself with power."
@@ -256,6 +270,10 @@ psVE.tr.d035.prokeimenon.v3.text = "O Lord, I said, \"Have mercy on me.\""
 psVE.tr.d035.prokeimenon.v4.info = ps_en_US_saas.psa40.v2.number
 psVE.tr.d035.prokeimenon.v4.text = "Blessed is he who understands the poor."
 
+psLI.tr.d035.prokeimenon.v1.info = ps_en_US_saas.psa31.v1.number
+psLI.tr.d035.prokeimenon.v1.text = "Blessed are those whose transgressions are forgiven, and whose sins are covered."
+psLI.tr.d035.prokeimenon.v2.info = ps_en_US_saas.psa31.v11.number
+psLI.tr.d035.prokeimenon.v2.text = "Be glad in the Lord and rejoice greatly, O righteous ones, and boast, all you upright in heart."
 
 //Mon 3
 psTE.tr.d037.prokeimenon.v1.info = ps_en_US_saas.psa41.v12.number
@@ -346,6 +364,11 @@ psVE.tr.d042.prokeimenon.v3.info = ps_en_US_saas.psa60.v2.number
 psVE.tr.d042.prokeimenon.v3.text = "Hear my supplication, O God; attend to my prayer."
 psVE.tr.d042.prokeimenon.v4.info = ps_en_US_saas.psa60.v9.number
 psVE.tr.d042.prokeimenon.v4.text = "So I will sing praise to Your name unto ages of ages."
+
+psLI.tr.d042.prokeimenon.v1.info = ps_en_US_saas.psa31.v1.number
+psLI.tr.d042.prokeimenon.v1.text = "Blessed are those whose transgressions are forgiven, and whose sins are covered."
+psLI.tr.d042.prokeimenon.v2.info = ps_en_US_saas.psa31.v11.number
+psLI.tr.d042.prokeimenon.v2.text = "Be glad in the Lord and rejoice greatly, O righteous ones, and boast, all you upright in heart."
 
 psLI.tr.d043.antiphon1.v1.info = ps_en_US_saas.psa4.v7.number
 psLI.tr.d043.antiphon1.v1.text = "O Lord, the light of Your face was stamped upon us."
@@ -470,6 +493,11 @@ psVE.tr.d049.prokeimenon.v3.text = "Rejoice in God our helper."
 psVE.tr.d049.prokeimenon.v4.info = ps_en_US_saas.psa80.v3.number
 psVE.tr.d049.prokeimenon.v4.text = "Take up a psalm and sound a timbrel."
 
+psLI.tr.d049.prokeimenon.v1.info = ps_en_US_saas.psa24.v13.number
+psLI.tr.d049.prokeimenon.v1.text = "Their souls shall dwell among good things."
+psLI.tr.d049.prokeimenon.v2.info = ps_en_US_saas.psa27.v1.number
+psLI.tr.d049.prokeimenon.v2.text = "To You, O Lord, I cry; O my God."
+
 //Mon 5
 psTE.tr.d051.prokeimenon.v1.info = ps_en_US_saas.psa83.v4.number
 psTE.tr.d051.prokeimenon.v1.text = "Your altars, O Lord of hosts, my King and my God."
@@ -560,12 +588,22 @@ psVE.tr.d056.prokeimenon.v3.text = "O Lord, Your works shall be magnified greatl
 psVE.tr.d056.prokeimenon.v4.info = ps_en_US_saas.psa103.v1.number
 psVE.tr.d056.prokeimenon.v4.text = "Bless the Lord, O my soul."
 
-psLI.tr.d056.antiphon3.v1.info = ps_en_US_saas.psa44.v11.number //"44:11-12"
+psLI.tr.d056.antiphon3.v1.info = ps_en_US_saas.psa44.v11.number
 psLI.tr.d056.antiphon3.v1.text = "Listen, O daughter, behold and incline your ear, and forget your people and your father's house."
-psLI.tr.d056.antiphon3.v2.info = ps_en_US_saas.psa44.v13.number //"44:13"
+psLI.tr.d056.antiphon3.v2.info = ps_en_US_saas.psa44.v13.number
 psLI.tr.d056.antiphon3.v2.text = "The rich among the people shall entreat your favor."
-psLI.tr.d056.antiphon3.v3.info = ps_en_US_saas.psa44.v18.number //"44:18"
+psLI.tr.d056.antiphon3.v3.info = ps_en_US_saas.psa44.v18.number
 psLI.tr.d056.antiphon3.v3.text = "I will remember your name from generation to generation."
+//psLI.tr.d056.prokeimenon.v1.info = ps_en_US_saas.bode9_mag.v1.number
+//psLI.tr.d056.prokeimenon.v1.text = ""
+//psLI.tr.d056.prokeimenon.v2.info = ps_en_US_saas.bode9_mag.v2.number
+//psLI.tr.d056.prokeimenon.v2.text = ""
+psLI.tr.d056.alleluia.v1.info = ps_en_US_saas.psa131.v8.number
+psLI.tr.d056.alleluia.v1.text = "Arise, O Lord, into Your rest."
+psLI.tr.d056.alleluia.v2.info = ps_en_US_saas.psa131.v11.number
+psLI.tr.d056.alleluia.v2.text = "The Lord swore to David this truth, and He shall not reject it."
+psLI.tr.d056.communion.v1.info = ps_en_US_saas.psa115.v4.number
+psLI.tr.d056.communion.v1.text = "I will take up the cup of salvation, and call upon the name of the Lord."
 
 //Mon 6
 psTE.tr.d058.prokeimenon.v1.info = ps_en_US_saas.psa104.v3.number
@@ -661,6 +699,14 @@ psLI.tr.d063.antiphon3.v1.info = ps_en_US_saas.psa117.v24.number
 psLI.tr.d063.antiphon3.v1.text = "This is the day the Lord made; let us greatly rejoice and be glad therein."
 psLI.tr.d063.antiphon3.v2.info = ps_en_US_saas.psa68.v35.number
 psLI.tr.d063.antiphon3.v2.text = "Let heaven and earth praise Him, the seas and everything that moves in them."
+psLI.tr.d063.prokeimenon.v1.info = ps_en_US_saas.psa26.v1.number
+psLI.tr.d063.prokeimenon.v1.text = "The Lord is my light and my savior."
+psLI.tr.d063.prokeimenon.v2.info = ps_en_US_saas.psa26.v1.number
+psLI.tr.d063.prokeimenon.v2.text = "The Lord is the defender of my life."
+psLI.tr.d063.alleluia.v1.info = ps_en_US_saas.psa92.v1.number
+psLI.tr.d063.alleluia.v1.text = "The Lord reigns; He clothed Himself with majesty."
+psLI.tr.d063.alleluia.v2.info = ps_en_US_saas.psa92.v1.number
+psLI.tr.d063.alleluia.v2.text = "And He established the world, which shall not be moved."
 psLI.tr.d063.communion.v1.info = ps_en_US_saas.psa8.v3.number
 psLI.tr.d063.communion.v1.text = "From the mouths of babies and nursing infants You prepared praise."
 
@@ -773,6 +819,17 @@ psVE.tr.d069.prokeimenon.v3.text = "Rescue me from my enemies, O God."
 psVE.tr.d069.prokeimenon.v4.info = ps_en_US_saas.psa58.v3.number
 psVE.tr.d069.prokeimenon.v4.text = "Deliver me from the workers of lawlessness."
 
+psVL.tr.d069.prokeimenon.v1.info = ps_en_US_saas.psa2.v2.number
+psVL.tr.d069.prokeimenon.v1.text = "The rulers gather together against the Lord and against His anointed."
+psVL.tr.d069.prokeimenon.v2.info = ps_en_US_saas.psa2.v1.number
+psVL.tr.d069.prokeimenon.v2.text = "Why do the nations rage, and the people meditate on vain things?"
+psVL.tr.d069.alleluia.v1.info = ps_en_US_saas.psa40.v2.number
+psVL.tr.d069.alleluia.v1.text = "Blessed is he who understands the poor and needy."
+psVL.tr.d069.alleluia.v2.info = ps_en_US_saas.psa40.v6.number
+psVL.tr.d069.alleluia.v2.text = "My enemies speak evil things against me, \"When will he die, and his name perish?\""
+psVL.tr.d069.alleluia.v3.info = ps_en_US_saas.psa40.v10.number
+psVL.tr.d069.alleluia.v3.text = "He who ate my bread, dealt deceptively with me."
+
 psMA.tr.d069.prokeimenon.v1.info = ps_en_US_saas.psa21.v19.number
 psMA.tr.d069.prokeimenon.v1.text = "They divided my garments among themselves, and for my clothing they cast lots."
 psMA.tr.d069.prokeimenon.v2.info = ps_en_US_saas.psa21.v2.number
@@ -820,11 +877,48 @@ psVE.tr.d070.prokeimenon.v3.info = ps_en_US_saas.psa34.v1.number
 psVE.tr.d070.prokeimenon.v3.text = "O Lord, judge those who injure me."
 psVE.tr.d070.prokeimenon.v4.info = ps_en_US_saas.psa34.v12.number
 psVE.tr.d070.prokeimenon.v4.text = "They repaid me evil for good."
+psVE.tr.d070.prokeimenon.v5.info = ps_en_US_saas.psa87.v7.number
+psVE.tr.d070.prokeimenon.v5.text = "They laid me in the lowest pit, in dark places and in the shadow of death."
+psVE.tr.d070.prokeimenon.v6.info = ps_en_US_saas.psa87.v2.number
+psVE.tr.d070.prokeimenon.v6.text = "O Lord God of my salvation, I cry day and night before You."
+psVE.tr.d069.alleluia.v1.info = ps_en_US_saas.psa68.v2.number
+psVE.tr.d069.alleluia.v1.text = "Save me, O God, for the waters flood my soul."
+psVE.tr.d069.alleluia.v2.info = ps_en_US_saas.psa68.v22.number
+psVE.tr.d069.alleluia.v2.text = "They gave me gall for my food, and they gave me vinegar for my drink."
+psVE.tr.d069.alleluia.v3.info = ps_en_US_saas.psa68.v24.number
+psVE.tr.d069.alleluia.v3.text = "Let their eyes be darkened so they may not see, and bend down their backs continually."
 
 psMA.tr.d070.prokeimenon.v1.info = ps_en_US_saas.psa9.v33.number
 psMA.tr.d070.prokeimenon.v1.text = "Arise, O Lord my God, let Your hand be lifted high."
 psMA.tr.d070.prokeimenon.v2.info = ps_en_US_saas.psa9.v2.number
 psMA.tr.d070.prokeimenon.v2.text = "I will give thanks to You, O Lord, with my whole heart."
+psMA.tr.d070.alleluia.v1.info = ps_en_US_saas.psa67.v2.number
+psMA.tr.d070.alleluia.v1.text = "Let God arise, and let His enemies be scattered."
+psMA.tr.d070.alleluia.v2.info = ps_en_US_saas.psa67.v3.number
+psMA.tr.d070.alleluia.v2.text = "As smoke vanishes, so let them vanish, as wax melts before the fire."
+psMA.tr.d070.alleluia.v3.info = ps_en_US_saas.psa67.v3.number
+psMA.tr.d070.alleluia.v3.text = "So shall the sinners perish from the face of God."
+
+psVL.tr.d071.prokeimenon.v1.info = ps_en_US_saas.psa65.v4.number
+psVL.tr.d071.prokeimenon.v1.text = "Let all the earth worship You and sing to You."
+psVL.tr.d071.prokeimenon.v2.info = ps_en_US_saas.psa65.v1.number
+psVL.tr.d071.prokeimenon.v2.text = "Shout to God, all the earth."
+psVL.tr.d071.alleluia.v0.info = ps_en_US_saas.psa81.v8.number
+psVL.tr.d071.alleluia.v0.text = "Arise, O God; judge the earth, for You shall inherit all the Gentiles."
+psVL.tr.d071.alleluia.v1.info = ps_en_US_saas.psa81.v1.number
+psVL.tr.d071.alleluia.v1.text = "God stood in the assembly of gods; He judges in the midst of gods."
+psVL.tr.d071.alleluia.v2.info = ps_en_US_saas.psa81.v2.number
+psVL.tr.d071.alleluia.v2.text = "How long will you judge unjustly, and favor the persons of sinners?"
+psVL.tr.d071.alleluia.v3.info = ps_en_US_saas.psa81.v3.number
+psVL.tr.d071.alleluia.v3.text = "Judge an orphan and a poor man; justify a humble and poor man."
+psVL.tr.d071.alleluia.v4.info = ps_en_US_saas.psa81.v4.number
+psVL.tr.d071.alleluia.v4.text = "Rescue a poor and needy man; deliver them from a sinner's hand."
+psVL.tr.d071.alleluia.v5.info = ps_en_US_saas.psa81.v5.number
+psVL.tr.d071.alleluia.v5.text = "They do not know nor understand; they carry on in darkness; all the foundations of the earth shall be shaken."
+psVL.tr.d071.alleluia.v6.info = ps_en_US_saas.psa81.v6.number
+psVL.tr.d071.alleluia.v6.text = "I said, \"You are gods, and you are all sons of the Most High.\""
+psVL.tr.d071.communion.v1.info = ps_en_US_saas.psa77.v65.number
+psVL.tr.d071.communion.v1.text = "The Lord awoke as from sleep, and He rose and saved us."
 
 //Pentecostarion
 
