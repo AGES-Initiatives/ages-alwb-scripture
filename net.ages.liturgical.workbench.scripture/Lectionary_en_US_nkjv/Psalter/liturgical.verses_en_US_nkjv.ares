@@ -10,6 +10,27 @@ psVE.meeting.aposverse.v2.info = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.c
 psVE.meeting.aposverse.v2.text = "A light to bring revelation to the Gentiles, and the glory of Your people Israel."
 
 
+goVE.songofsymeon.v1.info = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.chapverse
+goVE.songofsymeon.v1.text = "Lord, now You are letting Your servant depart in peace, according to Your word; for my eyes have seen Your salvation which You have prepared before the face of all peoples. A light to bring revelation to the Gentiles, and the glory of Your people Israel."
+goVE.songofsymeon.v1a.text = "Lord, now You are letting Your servant depart in peace, according to Your word; for my eyes have seen Your salvation which You have prepared before the face of all peoples."
+goVE.songofsymeon.v1b.text = "A light to bring revelation to the Gentiles, and the glory of Your people Israel."
+
+goLI.typika.beatitudes.info = le.go.os_en_US_nkjv.leosTY.Beatitudes.book
+goLI.typika.beatitudes.intro.text = ""
+goLI.typika.beatitudes.v01.text = ""
+goLI.typika.beatitudes.v02.text = ""
+goLI.typika.beatitudes.v03.text = ""
+goLI.typika.beatitudes.v04.text = ""
+goLI.typika.beatitudes.v05.text = ""
+goLI.typika.beatitudes.v06.text = ""
+goLI.typika.beatitudes.v07.text = ""
+goLI.typika.beatitudes.v08.text = ""
+goLI.typika.beatitudes.v09.text = "" //on my account.
+goLI.typika.beatitudes.v10.text = ""
+goLI.typika.beatitudes.refrain1.text = ""
+goLI.typika.beatitudes.refrain2.text = ""
+goLI.typika.beatitudes.refrain3.text = ""
+
 
 psLI.meeting.alleluia.v1.info = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.chapverse
 psLI.meeting.alleluia.v1.text = "Lord, now You are letting Your servant depart in peace, according to Your word; for my eyes have seen Your salvation which You have prepared before the face of all peoples."
