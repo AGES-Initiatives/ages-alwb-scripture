@@ -1574,6 +1574,9 @@ psLI.hierarchical.trisagionblessing.v1.text = ""
 psLI.concelebration.kisshymn.v1.info = ps_en_US_rsv.psa17.v2.number
 psLI.concelebration.kisshymn.v1.text = ""
 
+psLI.censechalice.v1.info = ps_en_US_rsv.psa56.v6.number
+psLI.censechalice.v1.text = ""
+
 psLI.aftercommunion.title = ""
 psLI.aftercommunion.v1.info = ps_en_US_rsv.psa112.v2.number
 psLI.aftercommunion.v1.text = ""
