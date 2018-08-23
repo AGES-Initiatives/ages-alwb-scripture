@@ -787,7 +787,7 @@ psMA.equaltoapostles.prokeimenon.v1.text = ""
 psMA.equaltoapostles.prokeimenon.v2.info = ps_en_US_rsv.psa44.v8.number
 psMA.equaltoapostles.prokeimenon.v2.text = ""
 
-psMA.forerunnerbirth.prokeimenon.title = ""
+psMA.forerunnerbirth.prokeimenon.title = "Ode ix."
 psMA.forerunnerbirth.prokeimenon.v1.info = ps_en_US_rsv.bode9.v8.number
 psMA.forerunnerbirth.prokeimenon.v1.text = "And you, child, will be called the prophet of the Most High; for you will go before the Lord to prepare his ways."
 psMA.forerunnerbirth.prokeimenon.v2.info = ps_en_US_rsv.bode9.v1.number
@@ -1122,11 +1122,13 @@ psH9.v2.text = ""
 
 //at Liturgy
 
+psLI.typika.ps102.title = ""
 psLI.typika.ps102.intro.info = ps_en_US_rsv.psa102.v1.number
 psLI.typika.ps102.intro.text = ""
 psLI.typika.ps102.end.info = ps_en_US_rsv.psa102.v1.number
 psLI.typika.ps102.end.text = ""
 
+psLI.typika.ps145.title = ""
 psLI.typika.ps145.v1.info = ps_en_US_rsv.psa145.v1.number
 psLI.typika.ps145.v1.text = ""
 psLI.typika.ps145.v2.info = ps_en_US_rsv.psa145.v3.number
@@ -1417,8 +1419,8 @@ psLI.sunday.m4.alleluia.v1.info = ps_en_US_rsv.psa44.v5.number
 psLI.sunday.m4.alleluia.v1.text = ""
 psLI.sunday.m4.alleluia.v2.info = ps_en_US_rsv.psa44.v8.number
 psLI.sunday.m4.alleluia.v2.text = ""
-psLI.sunday.m1.prokeimenon.title = ""
-psLI.sunday.m1.prokeimenon.v1.info = ps_en_US_rsv.psa11.v8.number
+psLI.sunday.m5.prokeimenon.title = ""
+psLI.sunday.m5.prokeimenon.v1.info = ps_en_US_rsv.psa11.v8.number
 psLI.sunday.m5.prokeimenon.v1.text = ""
 psLI.sunday.m5.prokeimenon.v2.info = ps_en_US_rsv.psa11.v2.number
 psLI.sunday.m5.prokeimenon.v2.text = ""
@@ -1504,11 +1506,11 @@ psLI.weekday.d3.alleluia.v1.info = ps_en_US_rsv.psa91.v13.number
 psLI.weekday.d3.alleluia.v1.text = ""
 psLI.weekday.d3.alleluia.v2.info = ps_en_US_rsv.psa91.v14.number
 psLI.weekday.d3.alleluia.v2.text = ""
-psLI.weekday.d3.communion.title = ""
+psLI.weekday.d3.communion.title = "Psalm 111/112."
 psLI.weekday.d3.communion.v1.info = ps_en_US_rsv.psa111.v6.number
 psLI.weekday.d3.communion.v1.text = "The righteous will be remembered for ever."
 
-psLI.weekday.d4.prokeimenon.title = ""
+psLI.weekday.d4.prokeimenon.title = "Ode ix."
 psLI.weekday.d4.prokeimenon.v1.info = ps_en_US_rsv.bode9_mag.v1.number
 psLI.weekday.d4.prokeimenon.v1.text = "My soul magnifies the Lord, and my spirit rejoices in God my Savior."
 psLI.weekday.d4.prokeimenon.v2.info = ps_en_US_rsv.bode9_mag.v2.number
@@ -1546,11 +1548,12 @@ psLI.weekday.d6.alleluia.v1.info = ps_en_US_rsv.psa73.v2.number
 psLI.weekday.d6.alleluia.v1.text = ""
 psLI.weekday.d6.alleluia.v2.info = ps_en_US_rsv.psa73.v12.number
 psLI.weekday.d6.alleluia.v2.text = ""
-psLI.weekday.d6.communion.title = ""
-psLI.weekday.d6.communion.v1.info = ps_en_US_rsv.psa73.v12.number
-psLI.weekday.d6.communion.v1.text = ""
-psLI.weekday.d6.communion.v2.info = ps_en_US_rsv.psa4.v7.number
-psLI.weekday.d6.communion.v2.text = ""
+psLI.weekday.d6.communion1.title = ""
+psLI.weekday.d6.communion1.v1.info = ps_en_US_rsv.psa73.v12.number
+psLI.weekday.d6.communion1.v1.text = ""
+psLI.weekday.d6.communion2.title = ""
+psLI.weekday.d6.communion2.v1.info = ps_en_US_rsv.psa4.v7.number
+psLI.weekday.d6.communion2.v1.text = ""
 
 psLI.weekday.d7.prokeimenon.title = ""
 psLI.weekday.d7.prokeimenon.v1.info = ps_en_US_rsv.psa31.v11.number
@@ -1562,11 +1565,12 @@ psLI.weekday.d7.alleluia.v1.info = ps_en_US_rsv.psa64.v5.number
 psLI.weekday.d7.alleluia.v1.text = ""
 psLI.weekday.d7.alleluia.v2.info = ps_en_US_rsv.psa101.v13.number
 psLI.weekday.d7.alleluia.v2.text = ""
-psLI.weekday.d7.communion.title = ""
-psLI.weekday.d7.communion.v1.info = ps_en_US_rsv.psa32.v1.number
-psLI.weekday.d7.communion.v1.text = ""
-psLI.weekday.d7.communion.v2.info = ps_en_US_rsv.psa64.v5.number
-psLI.weekday.d7.communion.v2.text = ""
+psLI.weekday.d7.communion1.title = ""
+psLI.weekday.d7.communion1.v1.info = ps_en_US_rsv.psa32.v1.number
+psLI.weekday.d7.communion1.v1.text = ""
+psLI.weekday.d7.communion2.title = ""
+psLI.weekday.d7.communion2.v1.info = ps_en_US_rsv.psa64.v5.number
+psLI.weekday.d7.communion2.v1.text = ""
 
 psLI.hierarchical.trisagionblessing.v1.info = ps_en_US_rsv.psa79.v15.number
 psLI.hierarchical.trisagionblessing.v1.text = ""
