@@ -2482,7 +2482,7 @@ psHO.ecloge.stanna.v28.text = ""
 psHO.ecloge.stanna.v29.info = ""
 psHO.ecloge.stanna.v29.text = ""
 
-psHO.ecloge.theotokos.info = ""
+psHO.ecloge.theotokos.info = "Psalm 44"
 psHO.ecloge.theotokos.intro.text = "A good word."
 psHO.ecloge.theotokos.v01.info = ps_en_US_saas.psa44.v2.number
 psHO.ecloge.theotokos.v01.text = "My heart overflowed with a good word."
