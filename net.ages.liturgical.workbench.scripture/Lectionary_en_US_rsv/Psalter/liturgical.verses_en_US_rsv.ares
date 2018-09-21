@@ -1572,6 +1572,13 @@ psLI.weekday.d7.communion2.title = ""
 psLI.weekday.d7.communion2.v1.info = ps_en_US_rsv.psa64.v5.number
 psLI.weekday.d7.communion2.v1.text = ""
 
+psLI.trisagionbaptized.title = ""
+psLI.trisagionbaptized.info = ""
+psLI.trisagionbaptized.v1.text = ""
+psLI.trisagionbaptized.v2.text = ""
+psLI.trisagionbaptized.v3.text = ""
+psLI.trisagionbaptized.v4.text = ""
+
 psLI.hierarchical.trisagionblessing.v1.info = ps_en_US_rsv.psa79.v15.number
 psLI.hierarchical.trisagionblessing.v1.text = ""
 
@@ -2698,6 +2705,9 @@ psHO.ecloge.triodion34.v15.info = ""
 psHO.ecloge.triodion34.v15.text = ""
 
 // Other
+psEU.baptism.hymn1.title = ""
+psEU.baptism.hymn1.info = ps_en_US_rsv.psa31.v1.number
+psEU.baptism.hymn1.text = ""
 psEU.baptism.prokeimenon.title = ""
 psEU.baptism.prokeimenon.v1.info = ps_en_US_rsv.psa26.v1.number
 psEU.baptism.prokeimenon.v1.text = ""
