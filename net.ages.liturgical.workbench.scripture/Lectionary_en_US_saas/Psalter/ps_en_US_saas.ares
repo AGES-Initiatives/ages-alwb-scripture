@@ -727,7 +727,7 @@ psa22.v4.text = "Yea, though I walk through the valley of the shadow of death, I
 psa22.v5.number = "(22:5)"
 psa22.v5.text = "You prepare a table before me in the presence of my enemies; You anoint my head with oil; my cup runs over."
 psa22.v6.number = "(22:6)"
-psa22.v6.text = "Surely goodness and mercy shall follow me All the days of my life; and I will dwell in the house of the Lord to the end of my days."
+psa22.v6.text = "Surely goodness and mercy shall follow me all the days of my life; and I will dwell in the house of the Lord to the end of my days."
 
 psa23.title = "Psalm 23 (24)."
 psa23.version = properties_en_US_saas.version.designation
