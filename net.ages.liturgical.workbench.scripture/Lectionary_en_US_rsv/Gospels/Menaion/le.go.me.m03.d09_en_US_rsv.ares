@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = le.go.me.m03.d09_en_US_rsv 
 
 lemeMA.Gospel.title = "For the Martyrs."
-lemeMA.Gospel.version = le.go.mc.d091_en_US_rsv.lemcLI.Gospel.version
-lemeMA.Gospel.book = le.go.mc.d091_en_US_rsv.lemcLI.Gospel.book
-lemeMA.Gospel.chapverse = le.go.mc.d091_en_US_rsv.lemcLI.Gospel.chapverse
-lemeMA.Gospel.text = le.go.mc.d091_en_US_rsv.lemcLI.Gospel.text
-lemeMA.Gospel.pagenumber = le.go.mc.d091_en_US_rsv.lemcLI.Gospel.pagenumber
+lemeMA.Gospel.version = le.go.lu.d079_en_US_rsv.leluLI.Gospel.version
+lemeMA.Gospel.book = le.go.lu.d079_en_US_rsv.leluLI.Gospel.book
+lemeMA.Gospel.chapverse = le.go.lu.d079_en_US_rsv.leluLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.lu.d079_en_US_rsv.leluLI.Gospel.text
+lemeMA.Gospel.pagenumber = le.go.lu.d079_en_US_rsv.leluLI.Gospel.pagenumber
 
 lemeLI.Gospel.title = "For the Martyrs."
 lemeLI.Gospel.version = le.go.mc.d179_en_US_rsv.lemcLI.Gospel.version
