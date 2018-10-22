@@ -970,6 +970,8 @@ psMA.gospelintro.v1.text = "Let everything that breathes praise the Lord."
 psMA.gospelintro.v1a.text = "Let everything that breathes."
 psMA.gospelintro.v1b.text = "praise the Lord."
 
+psMA.ps50.intro.v1.info = ps_en_US_saas.psa85.v15.number
+psMA.ps50.intro.v1.text = "[Merciful,] "
 psMA.ps50.end.v1.info = ps_en_US_saas.psa50.v21.number
 psMA.ps50.end.v1.text = "Then You will be pleased with a sacrifice of righteousness, with offerings and whole burnt offerings."
 psMA.ps50.end.v2.info = ps_en_US_saas.psa50.v21.number
@@ -1368,7 +1370,7 @@ psLI.sunday.antiphon1.v2.text = "Bless the Lord, O my soul, and forget not all H
 psLI.sunday.antiphon1.v3.info = ps_en_US_saas.psa102.v19.number
 psLI.sunday.antiphon1.v3.text = "The Lord prepared His throne in heaven, and His Kingdom rules over all."
 psLI.sunday.antiphon2.v1.info = ps_en_US_saas.psa145.v1.number
-psLI.sunday.antiphon2.v1.text = "I shall praise the Lord while I live; I shall sing to my God as long as I exist."
+psLI.sunday.antiphon2.v1.text = "Praise the Lord, O my soul! I shall praise the Lord while I live; I shall sing to my God as long as I exist."
 psLI.sunday.antiphon2.v2.info = ps_en_US_saas.psa145.v5.number
 psLI.sunday.antiphon2.v2.text = "Blessed is he whose help is the God of Jacob; his hope is in the Lord his God."
 psLI.sunday.antiphon2.v3.info = ps_en_US_saas.psa145.v10.number

@@ -971,6 +971,8 @@ psMA.gospelintro.v1.text = ""
 psMA.gospelintro.v1a.text = ""
 psMA.gospelintro.v1b.text = ""
 
+psMA.ps50.intro.v1.info = ps_en_US_rsv.psa85.v15.number
+psMA.ps50.intro.v1.text = "[Merciful, ]"
 psMA.ps50.end.v1.info = ps_en_US_rsv.psa50.v21.number
 psMA.ps50.end.v1.text = ""
 psMA.ps50.end.v2.info = ps_en_US_rsv.psa50.v21.number
