@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.ep.mc.d043_en_US_rsv 
 
-lemcLI.Epistle.title = "THE THIRD SUNDAY IN LENT, THE SUNDAY OF THE VENERATION OF THE HOLY CROSS"
+lemcLI.Epistle.title = "THE THIRD SUNDAY IN LENT"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book = bible_en_US_rsv.Hebrews
 lemcLI.Epistle.chapverse = "(4:14-16; 5:1-6)"
