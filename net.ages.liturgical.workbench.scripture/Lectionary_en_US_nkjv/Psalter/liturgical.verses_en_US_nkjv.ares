@@ -15,6 +15,20 @@ goVE.songofsymeon.v1.text = "Lord, now You are letting Your servant depart in pe
 goVE.songofsymeon.v1a.text = "Lord, now You are letting Your servant depart in peace, according to Your word; for my eyes have seen Your salvation which You have prepared before the face of all peoples."
 goVE.songofsymeon.v1b.text = "A light to bring revelation to the Gentiles, and the glory of Your people Israel."
 
+psMA.magnificat.title = ""
+psMA.magnificat.v1.info = ps_en_US_nkjv.bode9_mag.v1.number
+psMA.magnificat.v1.text = "My soul magnifies the Lord, and my spirit has rejoiced in God my Savior."
+psMA.magnificat.v2.info = ps_en_US_nkjv.bode9_mag.v2.number
+psMA.magnificat.v2.text = "For He has regarded the lowly state of His maidservant; for behold, henceforth all generations will call me blessed."
+psMA.magnificat.v3.info = ps_en_US_nkjv.bode9_mag.v3.number
+psMA.magnificat.v3.text = "For He who is mighty has done great things for me, and holy is His name. And His mercy is on those who fear Him from generation to generation."
+psMA.magnificat.v4.info = ps_en_US_nkjv.bode9_mag.v4.number
+psMA.magnificat.v4.text = "He has shown strength with His arm; He has scattered the proud in the imagination of their hearts."
+psMA.magnificat.v5.info = ps_en_US_nkjv.bode9_mag.v5.number
+psMA.magnificat.v5.text = "He has put down the mighty from their thrones, and exalted the lowly. He has filled the hungry with good things, and the rich He has sent away empty."
+psMA.magnificat.v6.info = ps_en_US_nkjv.bode9_mag.v6.number
+psMA.magnificat.v6.text = "He has helped His servant Israel, in remembrance of His mercy, as He spoke to our fathers, to Abraham and to his seed forever."
+
 goLI.typika.beatitudes.info = le.go.os_en_US_nkjv.leosTY.Beatitudes.book
 goLI.typika.beatitudes.intro.text = ""
 goLI.typika.beatitudes.v01.text = ""
