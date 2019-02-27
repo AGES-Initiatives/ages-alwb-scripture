@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.ep.mc.d141_en_US_eob
 
-lemcLI.Epistle.title = "ΚΥΡΙΑΚΗ Γʹ"
+lemcLI.Epistle.title = "THIRD SUNDAY"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book = bible_en_US_eob.Romans
 lemcLI.Epistle.chapverse = "5:1-11"
