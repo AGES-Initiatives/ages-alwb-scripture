@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d282_en_US_eob
 
 lemcLI.Epistle.title = "MONDAY OF THE TWENTY-FOURTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Thessalonians1
-lemcLI.Epistle.chapverse = "(2:20-3:8)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Thessalonians1.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Thessalonians1.abbr
+lemcLI.Epistle.chapverse = "2:20-3:8"
 lemcLI.Epistle.text = "Brethren, you are our glory and our joy! Therefore, when we could not stand it any longer, we thought that it would be good to be alone in Athens and to send Timothy, our brother and God’s minister, and our fellow laborer in the Good News of Christ, so that he might confirm and comfort you in your faith, and that no one would be shaken by these afflictions. For you know that these must come our way. This is certain, and when we were with you, we told you in advance that we must suffer affliction. And this is what happened, as you know. For this reason, when I could not stand it any longer, I sent Timothy so that I might know your faith, fearing that in some way the tempter may have tempted you, so that our labor would have been in vain. But Timothy came back from his visit to you and brought us glad news of your faith and love. He mentioned your abiding good memories of us as well as your longing to see us just as we also long to see you. Through all this, brethren, we were comforted over you in all our affliction and distress through your faith. Now we have revived, since you stand fast in the Lord!"
 lemcLI.Epistle.pagenumber = ""

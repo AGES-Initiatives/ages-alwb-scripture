@@ -1287,7 +1287,7 @@ psLI.pe.d110.communion.v1.info = ps_en_US_saas.psa46.v6.number
 psLI.pe.d110.communion.v1.text = "God ascended with a shout, the Lord with the sound of the trumpet."
 
 psLI.pe.d113.prokeimenon.title = "Daniel 3."
-psLI.pe.d113.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book
+psLI.pe.d113.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book_abbr
 psLI.pe.d113.prokeimenon.v1.text = "Blessed are You, O Lord God of our fathers."
 psLI.pe.d113.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.chapverse
 psLI.pe.d113.prokeimenon.v2.text = "For You are righteous in all You did for us."

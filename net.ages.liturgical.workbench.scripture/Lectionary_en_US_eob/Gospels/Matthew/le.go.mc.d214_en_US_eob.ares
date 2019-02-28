@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d214_en_US_eob
 
 lemcLI.Gospel.title = "Wednesday of the Fourteenth Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Mark
-lemcLI.Gospel.chapverse = "(4:35-41)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Mark.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
+lemcLI.Gospel.chapverse = "4:35-41"
 lemcLI.Gospel.text = "The Lord said to his disciples: “Let us cross over to the other side.” Leaving the crowd behind, his disciples took him with them in the boat, just as he was; and there were also other boats with him. A great windstorm arose, and the waves beat into the boat, so much that it was already sinking. But Jesus was in the stern, asleep on the cushion. They woke him up and told him, “Teacher, do you not care that we are perishing?” Jesus awoke and rebuked the wind, saying to the sea, “Peace! Be still!” The wind ceased, and there was a great calm. He then asked his disciples, “Why are you so afraid? How is it that you have no faith?” They were greatly afraid and said to one another, “Who then is this, that even the wind and the sea obey him?”"
 lemcLI.Gospel.pagenumber = ""

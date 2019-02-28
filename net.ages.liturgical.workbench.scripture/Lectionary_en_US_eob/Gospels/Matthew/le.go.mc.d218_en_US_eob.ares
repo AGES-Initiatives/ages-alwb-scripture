@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d218_en_US_eob
 
 lemcLI.Gospel.title = "Fourteenth Sunday"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Matthew
-lemcLI.Gospel.chapverse = "(22:2-14)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemcLI.Gospel.chapverse = "22:2-14"
 lemcLI.Gospel.text = "The Lord said this parable: “The Kingdom of Heaven is like a king who planned a wedding feast for his son. He then sent out his slaves to call those who were invited to the wedding feast, but they refused to come. Again, the king sent out other slaves, saying: ‘Tell those who are invited, “Behold, I have prepared my dinner! My cattle and my fatted calves have been killed and everything is ready. Come to the wedding feast!”’ But those who were invited made light of it and went off, one to his own farm, another to his merchandise, and the others seized the king’s slaves, treated them shamefully, and killed them. But when the king heard about it, he was furious. He sent out his soldiers to destroy those murderers and to burn their city. Then the king said to his servants, ‘The wedding is ready, but those who were invited were not worthy. Go therefore to the crossroads of the highways, and as many people as you may find, invite to the wedding feast.’ Those slaves went out into the highways and gathered as many people as they could find, both good and bad. Thus, the wedding [hall] was filled with guests. But when the king came in to see the guests, he saw a man who was not wearing a wedding garment. He asked him, ‘Friend, how did you come in here, not wearing a wedding garment?’ And the man was speechless. Then the king said to the servants, ‘Bind him hand and foot, take him away, and throw him into the outer darkness where there will be weeping and grinding of teeth.’ Indeed, many are called, but few are chosen!”"
 lemcLI.Gospel.pagenumber = ""

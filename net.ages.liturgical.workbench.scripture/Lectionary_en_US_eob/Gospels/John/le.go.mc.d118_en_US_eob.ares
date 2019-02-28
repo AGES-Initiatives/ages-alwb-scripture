@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d118_en_US_eob
 
 lemcLI.Gospel.title = "Seventh Friday after Pascha "
 lemcLI.Gospel.version = ""
-lemcLI.Gospel.book = bible_en_US_eob.John
-lemcLI.Gospel.chapverse = "(17:18-26)"
+lemcLI.Gospel.book_string = bible_en_US_eob.John.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
+lemcLI.Gospel.chapverse = "17:18-26"
 lemcLI.Gospel.text = "At that time, Jesus lifting up his eyes to heaven said: “As you sent me into the world, I too have sent them into the world. I sanctify myself for their sake, so that they too may be sanctified in truth. I do not pray only for these, but also for those who [will] believe in me through their word, so that they may all be one; even as you, Father, are in me, and I in you. May they be one in us, so that the world may believe that you sent me. The glory which you have given me, I have given to them, so that they may be one even as we are one; I in them, and you in me. May they be perfected into one, so that the world may know that you sent me, and [that you have] loved them, even as you have loved me. Father, I desire that those whom you have given me would be with me where I am, so that they may see my glory which you have given me, for you loved me before the foundation of the world. Righteous Father, the world has not known you, but I knew you; and these have known that you have sent me. I have made your Name known to them, and I will [continue to] make it known; so that the love with which you loved me may be in them, and I in them.”"
 lemcLI.Gospel.pagenumber = ""

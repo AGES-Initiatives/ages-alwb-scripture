@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d286_en_US_eob
 
 lemcLI.Epistle.title = "FRIDAY OF THE TWENTY-FOURTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Thessalonians1
-lemcLI.Epistle.chapverse = "(5:9-13; 5:24-28)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Thessalonians1.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Thessalonians1.abbr
+lemcLI.Epistle.chapverse = "5:9-13; 5:24-28"
 lemcLI.Epistle.text = "Brethren, God did not appoint us to wrath, but to obtain salvation through our Lord Jesus Christ who died for us, so that whether we wake or sleep, we should live together with him. Therefore, encourage one another and build each other up, which is what you [already] do. Now we beg you, brethren, to recognize those who work hard among you, who are set over you in the Lord and who admonish you. Respect and honor them in love because of their work. Be at peace among yourselves. He who calls you is faithful and he will carry this out. Brethren, pray for us. Greet all the brethren with a holy kiss. I solemnly instruct you by the Lord that this letter should be read to all the holy brethren. The grace of our Lord Jesus Christ be with you! Amen."
 lemcLI.Epistle.pagenumber = ""

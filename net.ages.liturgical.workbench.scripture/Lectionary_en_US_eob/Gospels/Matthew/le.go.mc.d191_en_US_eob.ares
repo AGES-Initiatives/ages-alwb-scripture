@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d191_en_US_eob
 
 lemcLI.Gospel.title = "Monday of the Eleventh Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Matthew
-lemcLI.Gospel.chapverse = "(23:13-22)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemcLI.Gospel.chapverse = "23:13-22"
 lemcLI.Gospel.text = "The Lord said to the Jews who had come to him: “Woe to you, scribes and Pharisees, hypocrites! For you devour widows’ houses, and as a pretense you make long prayers. Therefore, you will receive a greater condemnation. Woe to you, scribes and Pharisees, hypocrites! Because you shut the Kingdom of Heaven in the face of people and you yourselves do not enter! And those who would enter, you prevent from doing so. Woe to you, scribes and Pharisees, hypocrites! For you travel around by sea and land to make one convert; and when one is converted, you make him twice as much of an heir of Gehenna as yourselves. Woe to you, you blind guides, who say, ‘If someone swears by the sanctuary, it is nothing; but whoever swears by the gold of the sanctuary is bound.’ You blind fools! Which is greater, the gold, or the sanctuary that sanctifies the gold? You say, ‘If someone swears by the altar, it is nothing; but if someone swears by the gift that is placed on it, he is bound!’ You fools and blind [men]! Which is greater, the gift, or the altar that sanctifies the gift? Therefore, whoever swears by the altar swears by it and by everything on it. Whoever swears by the sanctuary swears by it and by the one who dwelt in it. Whoever swears by heaven swears by the throne of God and by the one who sits on it.”"
 lemcLI.Gospel.pagenumber = ""

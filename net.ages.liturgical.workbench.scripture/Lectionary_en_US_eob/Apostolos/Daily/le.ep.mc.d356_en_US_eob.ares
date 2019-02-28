@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d356_en_US_eob
 
 lemcLI.Epistle.title = "FRIDAY OF THE THIRTY-FOURTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.John1
-lemcLI.Epistle.chapverse = "(2:7-17)"
+lemcLI.Epistle.book_string = bible_en_US_eob.John1.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.John1.abbr
+lemcLI.Epistle.chapverse = "2:7-17"
 lemcLI.Epistle.text = "Brethren, I am not writing a new commandment to you. This is an old commandment which you have had since the beginning. This old commandment is the message which you have heard from the beginning. Yet in another way, it is a new commandment that I write to you; it is true in him and in you because the darkness is passing away and the true light already shines! Anyone who claims to be in the light and hates his brother [or sister] is still in the darkness. Anyone who loves his brother [or sister] remains in the light, and there is no occasion for stumbling in such a person. But whoever hates a brother [or sister] is in the darkness and lives in the darkness; such a person does not know where he is going because the darkness has blinded his eyes. I write to you, children, because your sins are forgiven through his Name. I write to you, fathers, because you know the one who has existed from the beginning. I write to you, young men, because you have overcome the evil one. I have written to you, children, because you know the Father. I have written to you, fathers, because you know him who is from the beginning. I have written to you, young men, because you are strong, and the word of God remains in you, and you have overcome the evil one. Do not love the world or the things that are in the world. The love of the Father is not in those who love the world, because everything that is in the world—the lust of the flesh, the lust of the eyes, and pride in possessions—is not from the Father but from the world. The world is passing away with its lusts, but the one who does the will of God remains forever."
 lemcLI.Epistle.pagenumber = ""

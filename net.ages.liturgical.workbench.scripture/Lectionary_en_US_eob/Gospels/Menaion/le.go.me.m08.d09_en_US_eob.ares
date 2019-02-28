@@ -2,8 +2,9 @@ A_Resource_Whose_Name = le.go.me.m08.d09_en_US_eob
 
 lemeLI.Gospel.title = "For the Apostle."
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
-lemeLI.Gospel.book = bible_en_US_eob.Luke
-lemeLI.Gospel.chapverse = "(10:16-21)"
+lemeLI.Gospel.book_string = bible_en_US_eob.Luke.text
+lemeLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+lemeLI.Gospel.chapverse = "10:16-21"
 lemeLI.Gospel.text = "The Lord said to his disciples: “Whoever listens to you listens to me, and whoever rejects you rejects me. Whoever rejects me rejects the one who sent me.” The seventy returned with joy, saying, “Lord, even the demons are subject to us in your Name!” Jesus said to them, “I saw Satan having fallen like lightning from heaven! Behold, I give you authority to tread on serpents and scorpions, and over all the power of the enemy. Nothing will in any way hurt you. Nevertheless, do not rejoice in this, that the spirits are subject to you; but rejoice that your names are written in heaven.” In that same hour, Jesus rejoiced in the Holy Spirit and said, “I confess you, O Father, Lord of heaven and earth , that you have hidden these things from the wise and learned, and revealed them to little children. Yes, Father, for doing so was well-pleasing in your sight.”"
 lemeLI.Gospel.pagenumber = ""
 

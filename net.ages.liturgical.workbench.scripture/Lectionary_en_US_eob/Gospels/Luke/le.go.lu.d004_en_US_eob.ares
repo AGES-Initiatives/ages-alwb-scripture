@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d004_en_US_eob
 
 leluLI.Gospel.title = "Thursday of the First Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Luke
-leluLI.Gospel.chapverse = "(4:16-22)"
+leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+leluLI.Gospel.chapverse = "4:16-22"
 leluLI.Gospel.text = "At that time, Jesus came to Nazareth, where he had been brought up. As was his custom, he entered into the synagogue on the Sabbath day and stood up to read. The scroll of the prophet Isaias was handed to him. He opened the book, and found the place where it was written: The Spirit of the Lord is upon me, because he has anointed me to preach Good News to the poor. He has sent me to heal the brokenhearted, to proclaim release to the captives, recovery of sight to the blind, to deliver those who are crushed, and to proclaim the favorable year of the Lord. He closed the scroll, gave it back to the attendant, and sat down. The eyes of all in the synagogue were fastened on him. He began to tell them, “Today, this Scripture has been fulfilled in your hearing.” All testified about him and marveled at the gracious words which came out of his mouth."
 leluLI.Gospel.pagenumber = ""

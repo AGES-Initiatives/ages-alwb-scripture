@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d232_en_US_eob
 
 lemcLI.Epistle.title = "SIXTEENTH SUNDAY"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Corinthians2
-lemcLI.Epistle.chapverse = "(6:1-10)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians2.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians2.abbr
+lemcLI.Epistle.chapverse = "6:1-10"
 lemcLI.Epistle.text = "Brethren, since we are God’s fellow workers, we also entreat you not to receive his grace in vain, for he says, At a favorable time I listened to you; In a day of salvation I helped you. Behold, now is the acceptable time! Behold, now is the day of salvation! We give no occasion for stumbling in anything, so that our ministry may not be blamed. Instead, we seek to be approved as servants of God in everything, in great endurance, in afflictions, in hardships, in distresses, in beatings, in imprisonments, in riots, in labors, in vigils, in fastings, in purity, in knowledge, in patience, in kindness, in a holy spirit, in sincere love, in the word of truth, and in the power of God. There is also the armor of righteousness on the right hand and on the left, glory and dishonor, evil report and good report; being thought of as deceivers, and yet true; unknown, and yet well-known; dying, and behold, we live; punished, and yet not killed; sorrowful, yet always rejoicing; poor, yet making many rich; thought to have nothing even though we possess all things!"
 lemcLI.Epistle.pagenumber = ""

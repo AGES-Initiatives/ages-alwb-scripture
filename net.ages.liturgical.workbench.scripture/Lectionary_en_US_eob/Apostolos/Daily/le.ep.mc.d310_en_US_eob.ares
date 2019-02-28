@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d310_en_US_eob
 
 lemcLI.Epistle.title = "MONDAY OF THE TWENTY-EIGHTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Timothy2
-lemcLI.Epistle.chapverse = "(2:20-26)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Timothy2.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Timothy2.abbr
+lemcLI.Epistle.chapverse = "2:20-26"
 lemcLI.Epistle.text = "Timothy, my child, in a large house, there are not only vessels of gold and silver, but also of wood and clay. Some are for an honorable use and some for a dishonorable use. Therefore, if anyone purges himself from these things, he will be a vessel for honor, sanctified and suitable for the master’s use, prepared for every good work. Flee from youthful lusts! Pursue righteousness, faith, love, and peace with those who call on the Lord from a pure heart. Reject foolish and ignorant questionings because you know that they result in conflict. The Lord’s servant must not be argumentative but gentle to all, able to teach, and patient! In gentleness, he should correct those who oppose him: perhaps God will give them the repentance that leads to a full knowledge of the truth. Thus, they may return to their senses and escape the snare of the devil (who had taken them captive to do his will)."
 lemcLI.Epistle.pagenumber = ""

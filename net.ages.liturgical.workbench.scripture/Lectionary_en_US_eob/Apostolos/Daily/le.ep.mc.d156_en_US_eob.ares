@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d156_en_US_eob
 
 lemcLI.Epistle.title = "MONDAY OF THE SIXTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Romans
-lemcLI.Epistle.chapverse = "(16:17-24)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Romans.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Romans.abbr
+lemcLI.Epistle.chapverse = "16:17-24"
 lemcLI.Epistle.text = "Now I beg you, brethren, watch out for those who are causing divisions and occasions of stumbling, contrary to the doctrine which you learned. Stay away from them! Such people do not serve our Lord Jesus Christ, but their own belly. By their smooth and flattering speech, they deceive the hearts of the innocent. Indeed, your obedience has become known to all and I rejoice over you. I desire to have you wise in what is good, but innocent in what is evil, and the God of peace will quickly crush Satan under your feet. May the grace of our Lord Jesus Christ be with you! Timothy, my fellow worker, greets you, as do Lucius, Jason, and Sosipater, my relatives. I, Tertius, who write the letter, greet you in the Lord. Gaius, my host and host of the whole Church, greets you. Erastus, the treasurer of the city, greets you, as does Quartus, the brother. The grace of our Lord Jesus Christ be with you all! Amen."
 lemcLI.Epistle.pagenumber = ""

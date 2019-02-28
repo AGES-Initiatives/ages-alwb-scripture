@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d166_en_US_eob
 
 lemcLI.Gospel.title = "Thursday of the Seventh Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Matthew
-lemcLI.Gospel.chapverse = "(15:12-21)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemcLI.Gospel.chapverse = "15:12-21"
 lemcLI.Gospel.text = "At that time, the disciples came to Jesus and said to him: “Do you know that the Pharisees were offended when they heard this saying?” But Jesus answered, “Every plant which my heavenly Father did not plant will be uprooted. Leave them alone! They are blind guides of the blind; and if the blind guide the blind, both will fall into a pit.” Peter said to him, “Explain this parable to us.” And so, Jesus answered, “Do you still fail to understand? Do you not yet understand that whatever goes into the mouth passes into the stomach and then out of the body? But the things which come out of the mouth come from the heart, and they defile the person. Indeed, it is from the heart that evil thoughts, murders, adulteries, sexual sins, thefts, false witness, and blasphemies come forth. These are the things which defile a person; but to eat with unwashed hands does not make anyone impure.” Jesus then left that area and withdrew into the region of Tyre and Sidon."
 lemcLI.Gospel.pagenumber = ""

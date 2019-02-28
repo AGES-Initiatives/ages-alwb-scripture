@@ -2,8 +2,9 @@ A_Resource_Whose_Name = le.go.me.m12.dSunBE_en_US_rsv
 
 lemeLI.Gospel.title = "Sunday before Epiphany"
 lemeLI.Gospel.version = properties_en_US_rsv.version.designation
-lemeLI.Gospel.book = bible_en_US_rsv.Mark
-lemeLI.Gospel.chapverse = "(1:1-8)"
+lemeLI.Gospel.book_string = bible_en_US_rsv.Mark.text
+lemeLI.Gospel.book_abbr = bible_en_US_rsv.Mark.abbr
+lemeLI.Gospel.chapverse = "1:1-8"
 lemeLI.Gospel.text = le.go.me.m01.d05_en_US_rsv.lemeH3.Gospel.text
 lemeLI.Gospel.pagenumber = "125"
 

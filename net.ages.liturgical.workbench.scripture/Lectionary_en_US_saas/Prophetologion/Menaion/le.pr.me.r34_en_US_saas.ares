@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.pr.me.r34_en_US_saas
 
 leprVE.reading.title = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
-leprVE.reading.book = bible_en_US_saas.Isaiah
+leprVE.reading.book_string = bible_en_US_saas.Isaiah.text
+leprVE.reading.book_abbr = bible_en_US_saas.Isaiah.abbr
 leprVE.reading.text = "The vision of Egypt: Behold, the Lord sits on a swift cloud and shall come to Egypt, and the things made by hands in Egypt shall be shaken by His presence, and their heart shall be overcome within them. “The spirit of the Egyptians will be troubled within them, and I will reject their counsel, and I will deliver Egypt into the hands of harsh lords,” thus says the Lord of hosts. And the Egyptians will drink water from the sea, for the river will run dry and have no water. Thus says the Lord, “Where are your wise men now? Let them now tell you, and let them say what the Lord of hosts planned against Egypt.” In that day, the Egyptians shall be like women in fear and trembling because of the hand of the Lord of hosts, which He shall lay upon them. In that day, there will be an altar to the Lord in the midst of the country of Egypt and a pillar to the Lord at its border. It will be a sign forever to the Lord in the country of Egypt, for they will cry to the Lord because of their oppressors, and the Lord will send them a Man who will save them. He will judge and save them. Then the Lord will be known to the Egyptians, and in that day the Egyptians will know the Lord and offer sacrifices. Yes, they will make vows to the Lord and pay them."
-leprVE.reading.chapverse = "(19:1, 3a, 4a, 4c, 5, 12, 16, 19-21)"
+leprVE.reading.chapverse = "19:1, 3a, 4a, 4c, 5, 12, 16, 19-21"

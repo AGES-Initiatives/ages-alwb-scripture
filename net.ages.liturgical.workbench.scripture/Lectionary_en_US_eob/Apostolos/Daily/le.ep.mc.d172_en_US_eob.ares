@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d172_en_US_eob
 
 lemcLI.Epistle.title = "WEDNESDAY OF THE EIGHTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Corinthians1
-lemcLI.Epistle.chapverse = "(10:12-22)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians1.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians1.abbr
+lemcLI.Epistle.chapverse = "10:12-22"
 lemcLI.Epistle.text = "Brethren, let the one who thinks that he is standing be careful not to fall. No temptation has come to you that is not common to everyone. God is faithful: he will not allow you to be tempted beyond what you are able to resist, but with the temptation he will also create a way to escape, so that you may be able to endure it. Therefore, my beloved, flee from idolatry. I speak [to you] as to people that have common sense. Judge what I say: The cup of blessing which we bless, is it not a sharing in the blood of Christ? The bread which we break, is not it a sharing in the body of Christ? Since there is one loaf of bread, we, who are many, are one body, because we all partake of the one loaf of bread. Consider Israel according to the flesh: is it not true that those who eat the sacrifices participate in the altar? What am I saying then: that an idol is anything, or that something sacrificed to idols is meaningful? [No], but I say that the things which the Gentiles sacrifice, they sacrifice to demons, not to God, and I do not want you to have fellowship with demons. You cannot drink from the cup of the Lord and also from the cup of demons. You cannot partake of the table of the Lord and of the table of demons as well. Or do we [want to] provoke the Lord to jealousy? Are we stronger than he?"
 lemcLI.Epistle.pagenumber = ""

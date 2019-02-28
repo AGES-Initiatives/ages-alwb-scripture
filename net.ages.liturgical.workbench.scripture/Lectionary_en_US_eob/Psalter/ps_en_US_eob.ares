@@ -5758,7 +5758,7 @@ bode.version = properties_en_US_eob.version.designation
 
 bode1.title = "Ode One"
 bode1.version = properties_en_US_eob.version.designation
-bode1.book = bible_en_US_eob.Exodus
+bode1.book_abbr = bible_en_US_eob.Exodus.abbr
 bode1.heading1 = "The Song of Moses"
 bode1.chapverse = "(15:1-19)"
 bode1.heading2 = ""
@@ -5814,7 +5814,7 @@ bode1.v20c.text = ""
 
 bode2.title = "Ode Two"
 bode2.version = properties_en_US_eob.version.designation
-bode2.book = bible_en_US_eob.Deuteronomy
+bode2.book_abbr = bible_en_US_eob.Deuteronomy.abbr
 bode2.heading1 = "The Song of Moses"
 bode2.chapverse = "(32:1-43)"
 bode2.heading2 = ""
@@ -5920,7 +5920,7 @@ bode2.v49.text = ""
 
 bode3.title = "Ode Three"
 bode3.version = properties_en_US_eob.version.designation
-bode3.book = bible_en_US_eob.Samuel1
+bode3.book_abbr = bible_en_US_eob.Samuel1.abbr
 bode3.heading1 = "The Prayer of Hannah"
 bode3.chapverse = "(2:1-10)"
 bode3.heading2 = ""
@@ -5960,7 +5960,7 @@ bode3.v15.text = ""
 
 bode4.title = "Ode Four"
 bode4.version = properties_en_US_eob.version.designation
-bode4.book = bible_en_US_eob.Habakkuk
+bode4.book_abbr = bible_en_US_eob.Habakkuk.abbr
 bode4.heading1 = "The Prayer of Habakkuk"
 bode4.chapverse = "(3:1-19)"
 bode4.heading2 = ""
@@ -6020,7 +6020,7 @@ bode4.v25.text = ""
 
 bode5.title = "Ode Five"
 bode5.version = properties_en_US_eob.version.designation
-bode5.book = bible_en_US_eob.Isaiah
+bode5.book_abbr = bible_en_US_eob.Isaiah.abbr
 bode5.heading1 = "The Prayer of Isaiah"
 bode5.chapverse = "(26:9-20)"
 bode5.heading2 = ""
@@ -6060,7 +6060,7 @@ bode5.v16.text = ""
 
 bode6.title = "Ode Six"
 bode6.version = properties_en_US_eob.version.designation
-bode6.book = bible_en_US_eob.Jonah
+bode6.book_abbr = bible_en_US_eob.Jonah.abbr
 bode6.heading1 = "The Prayer of Jonah"
 bode6.chapverse = "(2:2-9)"
 bode6.heading2 = ""
@@ -6096,7 +6096,7 @@ bode6.v9b.text = ""
 
 bode7.title = "Ode Seven"
 bode7.version = properties_en_US_eob.version.designation
-bode7.book = bible_en_US_eob.Daniel
+bode7.book_abbr = bible_en_US_eob.Daniel.abbr
 bode7.heading1 = "The Prayer of the Three Holy Children"
 bode7.chapverse = "(3:26-56)"
 bode7.heading2 = ""
@@ -6164,7 +6164,7 @@ bode7.v28.text = ""
 
 bode8.title = "Ode Eight"
 bode8.version = properties_en_US_eob.version.designation
-bode8.book = bible_en_US_eob.Daniel
+bode8.book_abbr = bible_en_US_eob.Daniel.abbr
 bode8.heading1 = "The Song of the Three Holy Children"
 bode8.chapverse = "(3:57-88)"
 bode8.heading2 = ""
@@ -6213,7 +6213,7 @@ bode8.v19.text = ""
 
 bode9.title = "Ode Nine"
 bode9.version = properties_en_US_eob.version.designation
-bode9_mag.book = bible_en_US_eob.Luke
+bode9_mag.book_abbr = bible_en_US_eob.Luke.abbr
 bode9_mag.heading1 = "The Magnificat."
 bode9_mag.chapverse = "(1:46-55)"
 bode9_mag.heading2 = "The Maiden Mother sings a hymn to her Son and God."
@@ -6230,7 +6230,7 @@ bode9_mag.v5.number = "(Ode 9a:5)"
 bode9_mag.v5.text = "He has put down princes from their thrones, and has exalted the lowly. He has filled the hungry with good things, he has sent the rich away empty."
 bode9_mag.v6.number = "(Ode 9a:6)"
 bode9_mag.v6.text = "He has given help to Israel, his servant, so that he might remember mercy, as he spoke to our fathers, to Abraham and his posterity forever."
-bode9.book = bible_en_US_eob.Luke
+bode9.book_abbr = bible_en_US_eob.Luke.abbr
 bode9.heading1 = "The canticle of Zacharias. The Benedictus."
 bode9.chapverse = "(1:68-79)"
 bode9.heading2 = "Zacharias blesses the birth of his son."

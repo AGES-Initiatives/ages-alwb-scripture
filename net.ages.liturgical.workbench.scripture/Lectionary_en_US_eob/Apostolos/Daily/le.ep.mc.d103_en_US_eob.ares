@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d103_en_US_eob
 
 lemcLI.Epistle.title = "THURSDAY OF THE FIFTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Acts
-lemcLI.Epistle.chapverse = "(14:20-28; 15:1-4)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Acts.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Acts.abbr
+lemcLI.Epistle.chapverse = "14:20-28; 15:1-4"
 lemcLI.Epistle.text = "In those days, Paul and Barnabas left for Derbe. After preaching the Good News to that city and having made many disciples, they returned to Lystra, Iconium, and Antioch. They strengthened the souls of the disciples and exhorted them to continue in the faith, [saying] that “we must go through many afflictions to enter the Kingdom of God.” After appointing presbyters for them in every Church, with prayer and fasting, Paul and Barnabas committed them to the Lord in whom they placed their trust. They passed through Pisidia and arrived in Pamphylia. After preaching the word in Perga, they went down to Attalia. From there, they sailed to Antioch from where they had been committed to the grace of God for the work which they had now fulfilled. When they arrived, they gathered the Church and reported all that God had accomplished with them, and that he had opened a door of faith to the Gentiles. They stayed there with the disciples for some time. Then certain men came down from Judea {to Antioch} and taught the brethren, “Unless you are circumcised according to the custom of Moses, you cannot be saved!” As a result, Paul and Barnabas had no small dispute and controversy with them. Therefore, the brethren appointed Paul, Barnabas and some of their own to go up to Jerusalem to the apostles and presbyters regarding this question. Having been sent on their way by the Church, they passed through Phoenicia and Samaria, relating the conversion of the Gentiles and causing great joy to all the brethren. When they arrived in Jerusalem, they were received by the Church, the apostles and the presbyters, and they reported all that God had accomplished with them."
 lemcLI.Epistle.pagenumber = ""

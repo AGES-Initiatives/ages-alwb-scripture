@@ -29,7 +29,7 @@ psMA.magnificat.v5.text = "He has put down the mighty from their thrones, and ex
 psMA.magnificat.v6.info = ps_en_US_nkjv.bode9_mag.v6.number
 psMA.magnificat.v6.text = "He has helped His servant Israel, in remembrance of His mercy, as He spoke to our fathers, to Abraham and to his seed forever."
 
-goLI.typika.beatitudes.info = le.go.os_en_US_nkjv.leosTY.Beatitudes.book
+goLI.typika.beatitudes.info = le.go.os_en_US_nkjv.leosTY.Beatitudes.book_abbr
 goLI.typika.beatitudes.intro.text = ""
 goLI.typika.beatitudes.v01.text = ""
 goLI.typika.beatitudes.v02.text = ""

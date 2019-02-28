@@ -2,43 +2,50 @@ A_Resource_Whose_Name = le.ep.va.unction_en_US_eob
 
 levaUNC.Epistle1.title = "1st Epistle"
 levaUNC.Epistle1.version = properties_en_US_eob.version.designation
-levaUNC.Epistle1.book = bible_en_US_eob.James
-levaUNC.Epistle1.chapverse = "(5:10-16)"
+levaUNC.Epistle1.book_string = bible_en_US_eob.James.text
+levaUNC.Epistle1.book_abbr = bible_en_US_eob.James.abbr
+levaUNC.Epistle1.chapverse = "5:10-16"
 levaUNC.Epistle1.text = "My brethren, consider as an example of suffering and patience the prophets who spoke in the Name of the Lord. Behold, we call those who endure blessed. You have heard of the patience of Job and you have seen the Lord in the outcome, how the Lord is full of compassion and mercy. But above all things, my brethren, do not swear, either by heaven or earth, or by any other oath. Instead, let your “yes” be “yes,” and your “no,” “no,” so that you may not fall into hypocrisy. Are any among you suffering? Let them pray. Are any cheerful? Let them sing praises! Are any among you sick? Let them call for the presbyters of the Church to pray over them and anoint them with oil in the Name of the Lord. The prayer of faith will heal those who are sick and the Lord will raise them up. If they have committed sins, they will be forgiven. Confess your offenses to one another and pray for one another so that you may be healed. The insistent prayer of a righteous person is powerfully effective!"
 
 levaUNC.Epistle2.title = "2nd Epistle"
 levaUNC.Epistle2.version = properties_en_US_eob.version.designation
-levaUNC.Epistle2.book = bible_en_US_eob.Romans
-levaUNC.Epistle2.chapverse = "(15:1-7)"
+levaUNC.Epistle2.book_string = bible_en_US_eob.Romans.text
+levaUNC.Epistle2.book_abbr = bible_en_US_eob.Romans.abbr
+levaUNC.Epistle2.chapverse = "15:1-7"
 levaUNC.Epistle2.text = "Brethren, we who are strong should bear the weaknesses of the weak, and not {just} please ourselves. Let each one of us please our neighbor for what is good, to be edifying to him. Even Christ did not please himself. But, as it is written, “The insults of those who insulted you fell on me.” For whatever things were written before were written for our instruction, so that through patience and the Scriptures’ encouragement we might have hope. Now may the God of endurance and encouragement grant you to be together of the same mind according to Christ Jesus, so that with one accord, you may with one mouth glorify the God and Father of our Lord Jesus Christ. Therefore, accept one another, even as Christ also accepted you, to the glory of God."
 
 levaUNC.Epistle3.title = "3rd Epistle"
 levaUNC.Epistle3.version = properties_en_US_eob.version.designation
-levaUNC.Epistle3.book = bible_en_US_eob.Corinthians1
-levaUNC.Epistle3.chapverse = "(12:27-13:8)"
+levaUNC.Epistle3.book_string = bible_en_US_eob.Corinthians1.text
+levaUNC.Epistle3.book_abbr = bible_en_US_eob.Corinthians1.abbr
+levaUNC.Epistle3.chapverse = "12:27-13:8"
 levaUNC.Epistle3.text = "Brethren, you are the body of Christ, and members individually. God has appointed some in the Church as follows: first apostles, second prophets, third teachers, then wonderworkers, also those having gifts of healing, those able to help others, those with gifts of administration, and those with different kinds of tongues. However, are all apostles? Are all prophets? Are all teachers? Are all miracle workers? Do all have gifts of healings? Do all speak with tongues? Do all interpret? But earnestly desire the best gifts. Moreover, I [will] show you a most excellent way. If I speak with the tongues of men and angels, but do not have love, I have become a noisy gong or a clanging cymbal. If I have the gift of prophecy and know all mysteries and have all knowledge, and if I have all faith, so as to move mountains, but I do not have love, I am nothing. If I give out all my goods to feed the poor, and give my body so that I will burn but do not have love, it profits me nothing. Love is patient and is kind; love does not envy. Love does not brag, it is not proud, it does not behave inappropriately, it is not self-oriented. [Love] does not take offence and does not keep track of evil, it does not rejoice in unrighteousness, but rejoices with the truth. [Love] bears all things, believes all things, hopes all things, endures all things. Love never fails. But as for prophecies, they will come to an end; as for tongues, they will cease; as for knowledge, it will pass away."
 
 levaUNC.Epistle4.title = "4th Epistle"
 levaUNC.Epistle4.version = properties_en_US_eob.version.designation
-levaUNC.Epistle4.book = bible_en_US_eob.Corinthians2
-levaUNC.Epistle4.chapverse = "(6:16-7:1)"
+levaUNC.Epistle4.book_string = bible_en_US_eob.Corinthians2.text
+levaUNC.Epistle4.book_abbr = bible_en_US_eob.Corinthians2.abbr
+levaUNC.Epistle4.chapverse = "6:16-7:1"
 levaUNC.Epistle4.text = "Brethren, what agreement can there be between God’s sanctuary and idols? For you are a sanctuary of the living God. Even as God said, “I will dwell in them, and walk in them; and I will be their God, and they will be my people.” Therefore: ‘Come out from among them and be separate,’ says the Lord. ‘Touch no unclean thing. I will receive you. I will be a Father to you. You will be to me sons and daughters,’ says the Lord Almighty.” Since we have these promises, beloved, let us purify ourselves from all defilement of flesh and spirit, so that we may bring [our] holiness to completion in the fear of God."
 
 levaUNC.Epistle5.title = "5th Epistle"
 levaUNC.Epistle5.version = properties_en_US_eob.version.designation
-levaUNC.Epistle5.book = bible_en_US_eob.Corinthians2
-levaUNC.Epistle5.chapverse = "(1:8-11)"
+levaUNC.Epistle5.book_string = bible_en_US_eob.Corinthians2.text
+levaUNC.Epistle5.book_abbr = bible_en_US_eob.Corinthians2.abbr
+levaUNC.Epistle5.chapverse = "1:8-11"
 levaUNC.Epistle5.text = "We do not desire to have you uninformed, brethren, concerning our affliction which happened to us in Asia: we were extremely oppressed, beyond our power, so much that we even despaired of life. Yes, we had the sentence of death within ourselves so that we should not trust in ourselves but [only] in God who raises the dead. He who delivered us from such a great death and continued to deliver—we hope that he will also deliver us. You also help by your supplication on our behalf, so that thanksgiving will be offered for the gift bestowed on us by means of many."
 
 levaUNC.Epistle6.title = "6th Epistle"
 levaUNC.Epistle6.version = properties_en_US_eob.version.designation
-levaUNC.Epistle6.book = bible_en_US_eob.Galatians
-levaUNC.Epistle6.chapverse = "(5:22-26, 6:1-2)"
+levaUNC.Epistle6.book_string = bible_en_US_eob.Galatians.text
+levaUNC.Epistle6.book_abbr = bible_en_US_eob.Galatians.abbr
+levaUNC.Epistle6.chapverse = "5:22-26, 6:1-2"
 levaUNC.Epistle6.text = "Brethren, the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control. Against such things there is no law! Those who belong to Christ have crucified the flesh with its passions and lusts. If we live by the Spirit, let us also walk by the Spirit! Let us not become arrogant, challenging and envying one another. Brethren, even if someone is caught in some fault, you who are spiritual must restore such a person in a spirit of gentleness. But watch out for yourself in order not to be tempted. Bear each others’ burdens, and thus fulfill the law of Christ."
 
 levaUNC.Epistle7.title = "7th Epistle"
 levaUNC.Epistle7.version = properties_en_US_eob.version.designation
-levaUNC.Epistle7.book = bible_en_US_eob.Thessalonians1
-levaUNC.Epistle7.chapverse = "(5:14-23)"
+levaUNC.Epistle7.book_string = bible_en_US_eob.Thessalonians1.text
+levaUNC.Epistle7.book_abbr = bible_en_US_eob.Thessalonians1.abbr
+levaUNC.Epistle7.chapverse = "5:14-23"
 levaUNC.Epistle7.text = "We exhort you, brethren, admonish the disorderly, encourage the fainthearted, support the weak, be patient toward all. See that no one returns evil for evil to anyone, but always pursue what is good, both for one another and for all. Rejoice always! Pray without ceasing. Give thanks in everything because this is God’s will in Christ Jesus for you. Do not quench the Spirit. Do not despise prophecies, but test all things, and hold firmly to what is good. Abstain from every form of evil. May the God of peace himself sanctify you completely. May your whole spirit, soul, and body be preserved blameless at the coming of our Lord Jesus Christ."
 

@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d092_en_US_eob
 
 leluLI.Gospel.title = "Monday of the Fourteenth Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Mark
-leluLI.Gospel.chapverse = "(9:42-50; 10:1)"
+leluLI.Gospel.book_string = bible_en_US_eob.Mark.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
+leluLI.Gospel.chapverse = "9:42-50; 10:1"
 leluLI.Gospel.text = "The Lord said: “If someone causes one of these little ones who believe in me to stumble, it would be better for such a person to be thrown into the sea with a millstone hung around the neck.” “If your hand causes you to stumble, cut it off! It is better for you to enter into life maimed, rather than have your two hands and go into Gehenna, the unquenchable fire ‘where their worm does not die, and the fire is not quenched.’ If your foot causes you to stumble, cut it off! It is better for you to enter into life lame, rather than having your two feet to be cast into Gehenna, the fire that will never be quenched, ‘where their worm does not die, and the fire is not quenched.’ If your eye causes you to stumble, pluck it out! It is better for you to enter into the Kingdom of God with one eye, rather than with two eyes to go into the Gehenna of fire, ‘where their worm does not die, and the fire is not quenched.’ Indeed, everyone will be salted with fire, and every sacrifice will be seasoned with salt. Salt is good, but if the salt has lost its saltiness, with what will you season it? Have salt in yourselves, and be at peace with one another.” Jesus then left that place and arrived at the borders of Judea, by the other side of the Jordan. Again, crowds were gathering around him. As he usually did, he taught them again."
 leluLI.Gospel.pagenumber = ""

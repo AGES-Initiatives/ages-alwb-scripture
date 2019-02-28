@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d180_en_US_eob
 
 lemcLI.Epistle.title = "THURSDAY OF THE NINTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Corinthians1
-lemcLI.Epistle.chapverse = "(14:6-19)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians1.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians1.abbr
+lemcLI.Epistle.chapverse = "14:6-19"
 lemcLI.Epistle.text = "Brethren, if I come to you speaking in tongues, what profit is there for you unless I speak either by way of revelation, knowledge, prophesying, or teaching? Consider things without life but giving a voice, such as a pipe or a harp: if they did not give a distinction in the sounds, how would anyone know what is being played? For if the trumpet gave an uncertain sound, who would prepare for war? It is the same with you: if you do not utter words easy to understand, how will people understand what is spoken? For you would be speaking into the air! As it is, there are many kinds of sounds in the world, and none of them is without meaning. But if I do not know the meaning of the sound, I would be as a foreigner to the one speaking, and vice-versa. And so with you, since you are eager for spiritual gifts, try to excel in what edifies the Church. Therefore, the one who speaks in another tongue should pray that he may [also] interpret, because if I pray in another tongue, my spirit prays, but my mind does not bear fruit. What then? I will pray with the spirit, and I will also pray with the mind. I will sing with the spirit, and with the mind also. Otherwise if you bless with the spirit, how will the one who is untrained say the “Amen” at your giving of thanks, not knowing what are you saying? You give thanks well, no doubt about it, but the other person is not built up. I give thanks to my God: I speak in tongues more than all of you. However, in the Church, I would rather speak five words with my mind than ten thousand words in another tongue, in order to instruct others."
 lemcLI.Epistle.pagenumber = ""

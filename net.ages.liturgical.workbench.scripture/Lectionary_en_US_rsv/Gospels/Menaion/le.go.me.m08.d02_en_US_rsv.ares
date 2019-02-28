@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.me.m08.d02_en_US_rsv
 
 lemeLI.Gospel.title = "For the Protomartyr."
 lemeLI.Gospel.version = le.go.mc.d211_en_US_rsv.lemcLI.Gospel.version
-lemeLI.Gospel.book = le.go.mc.d211_en_US_rsv.lemcLI.Gospel.book
+lemeLI.Gospel.book_string = le.go.mc.d211_en_US_rsv.lemcLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.mc.d211_en_US_rsv.lemcLI.Gospel.book_abbr
 lemeLI.Gospel.chapverse = le.go.mc.d211_en_US_rsv.lemcLI.Gospel.chapverse
 lemeLI.Gospel.text = le.go.mc.d211_en_US_rsv.lemcLI.Gospel.text
 lemeLI.Gospel.pagenumber = ""

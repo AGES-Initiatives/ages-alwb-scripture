@@ -2,8 +2,9 @@ A_Resource_Whose_Name = le.go.me.m02.d03_en_US_eob
 
 lemeLI.Gospel.title = "For the Afterfeast."
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
-lemeLI.Gospel.book = bible_en_US_eob.Luke
-lemeLI.Gospel.chapverse = "(2:25-38)"
+lemeLI.Gospel.book_string = bible_en_US_eob.Luke.text
+lemeLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+lemeLI.Gospel.chapverse = "2:25-38"
 lemeLI.Gospel.text = "At that time, there was a man in Jerusalem whose name was Simeon. This man was righteous and devout, waiting for the consolation of Israel, and [the] Holy Spirit was upon him. It had been revealed to him by the Holy Spirit that he would not see death before he had seen the Lord’s anointed. He came in the Spirit into the temple. The parents brought in the child Jesus in order to do according to the custom of the law concerning him. Then Simeon took Jesus in his arms and blessed God, saying, Now you let your servant depart in peace, Master, according to your word, for my eyes have seen your salvation, which you have prepared before the face of all peoples; a light to enlighten the Gentiles, and the glory of your people Israel. Joseph and his mother were wondering at the things which were spoken concerning him. Simeon blessed them and said to Mary, his mother, “Behold, this child is set for the falling and the rising of many in Israel, and as a sign which is spoken against. Yes, a sword will pierce through your own soul, so that the thoughts of many hearts may be revealed.” There was a certain Anna, a prophetess, the daughter of Phanuel, of the tribe of Asher (she was of a great age, having lived with a husband seven years from her virginity, and she had been a widow for about eighty-four years), who did not depart from the temple, offering divine service with fastings and petitions night and day. Coming up at that very hour, she gave thanks to the Lord and spoke of Jesus to all those who were looking for redemption in Jerusalem."
 lemeLI.Gospel.pagenumber = ""
 

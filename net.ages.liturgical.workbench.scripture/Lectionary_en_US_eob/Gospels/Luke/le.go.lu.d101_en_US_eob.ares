@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d101_en_US_eob
 
 leluLI.Gospel.title = "Wednesday of the Fifteenth Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Mark
-leluLI.Gospel.chapverse = "(11:22-26)"
+leluLI.Gospel.book_string = bible_en_US_eob.Mark.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
+leluLI.Gospel.chapverse = "11:22-26"
 leluLI.Gospel.text = "The Lord said: “Have faith in God! For amen, I tell you that if anyone tells this mountain, ‘Be taken up and cast into the sea,’ without doubt in his heart but believing that what he says is happening, he shall have whatever he says. Therefore, I tell you, whatever things you ask for and pray for, believe that you receive them, and you will have them. Whenever you stand praying, if you have anything against anyone, forgive, so that your Father who is in heaven may also forgive your transgressions. But if you do not forgive, neither will your Father who is in heaven forgive your transgressions.”"
 leluLI.Gospel.pagenumber = ""

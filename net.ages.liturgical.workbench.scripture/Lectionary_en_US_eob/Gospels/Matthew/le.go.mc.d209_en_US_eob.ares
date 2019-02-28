@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d209_en_US_eob
 
 lemcLI.Gospel.title = "Friday of the Thirteenth Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Mark
-lemcLI.Gospel.chapverse = "(4:1-9)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Mark.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
+lemcLI.Gospel.chapverse = "4:1-9"
 lemcLI.Gospel.text = "At that time, Jesus began to teach by the seaside. A great crowd was gathered close to him, so that he got into a boat in the lake and sat down while the people were on the shore. He taught them many things in parables, saying, “Listen! A farmer went out to sow. As he sowed, some seed fell on the road and the birds came and devoured it. Others fell on the rocky ground where it had little soil and it sprang up right away. Because the soil was shallow, when the sun came, it was scorched; and since it had no root, it withered away. Others fell among the thorns, and the thorns grew up, choked it, and it produced no fruit. Others fell into the good ground and produced fruit, growing up and increasing, some multiplying thirty times, some sixty times, and some a hundred times.” Then Jesus said to them, “Anyone who has ears for listening should listen!”"
 lemcLI.Gospel.pagenumber = ""

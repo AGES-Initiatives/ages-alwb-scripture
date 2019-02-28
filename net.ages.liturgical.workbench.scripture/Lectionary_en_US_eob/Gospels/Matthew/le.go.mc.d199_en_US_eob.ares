@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d199_en_US_eob
 
 lemcLI.Gospel.title = "Tuesday of the Twelfth Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Mark
-lemcLI.Gospel.chapverse = "(1:16-22)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Mark.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
+lemcLI.Gospel.chapverse = "1:16-22"
 lemcLI.Gospel.text = "At that time, as Jesus walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea, for they were fishermen. Jesus said to them, “Come after me, and I will make you fishers of men.” Immediately, they left their nets and followed him. Going on a little farther from there, he saw James the son of Zebedee, and John his brother, who were also in a boat, mending the nets. At once, he called them, and they left their father Zebedee in the boat with the hired servants, and they began to follow him. They went into Capernaum, and on the Sabbath day, Jesus entered into the synagogue and taught. The people were astonished at his teaching because he taught them as having authority, not like the scribes."
 lemcLI.Gospel.pagenumber = ""

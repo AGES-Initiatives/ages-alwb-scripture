@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d229_en_US_eob
 
 lemcLI.Epistle.title = "THURSDAY OF THE SIXTEENTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Ephesians
-lemcLI.Epistle.chapverse = "(1:1-9)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Ephesians.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Ephesians.abbr
+lemcLI.Epistle.chapverse = "1:1-9"
 lemcLI.Epistle.text = "Paul, an apostle of Jesus Christ by the will of God, to the saints who are at Ephesus, faithful in Christ Jesus: Grace to you and peace from God our Father and the Lord Jesus Christ! Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ. He chose us in him before the foundation of the world, so that we would be holy and without blemish before him in love. He also foreordained us for adoption {as his children} through Jesus Christ according to his purpose and will. This is to the praise of the glory of his grace, by which he made us accepted in the Beloved. In him we have redemption through his blood, the forgiveness of our sins, according to the riches of his grace which he showered upon us in all wisdom and insight. He has revealed to us the mystery of his will, according to his good pleasure."
 lemcLI.Epistle.pagenumber = ""

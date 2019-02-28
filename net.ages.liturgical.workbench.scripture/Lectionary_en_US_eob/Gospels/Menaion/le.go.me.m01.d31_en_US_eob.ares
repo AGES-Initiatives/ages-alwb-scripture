@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.me.m01.d31_en_US_eob
 
 lemeLI.Gospel.title = "For the Saints."
 lemeLI.Gospel.version = le.go.ge.unmercenary_en_US_eob.legeLI.Gospel.version
-lemeLI.Gospel.book = le.go.ge.unmercenary_en_US_eob.legeLI.Gospel.book
+lemeLI.Gospel.book_string = le.go.ge.unmercenary_en_US_eob.legeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.ge.unmercenary_en_US_eob.legeLI.Gospel.book_abbr
 lemeLI.Gospel.chapverse = le.go.ge.unmercenary_en_US_eob.legeLI.Gospel.chapverse
 lemeLI.Gospel.text = le.go.ge.unmercenary_en_US_eob.legeLI.Gospel.text
 lemeLI.Gospel.pagenumber = ""

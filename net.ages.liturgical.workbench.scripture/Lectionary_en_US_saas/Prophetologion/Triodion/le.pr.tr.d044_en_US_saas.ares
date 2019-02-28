@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.pr.tr.d044_en_US_saas
 
 lemcTE.reading1.title = ""
 lemcTE.reading1.version = properties_en_US_saas.version.designation
-lemcTE.reading1.book = bible_en_US_saas.Isaiah
-lemcTE.reading1.chapverse = "(14:24-32)"
+lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
+lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr
+lemcTE.reading1.chapverse = "14:24-32"
 lemcTE.reading1.text = "Thus says the Lord of hosts: “As I said, so it shall come to pass. As I purposed, so it shall remain—to destroy the Assyrians in My land and on My mountains. They shall be for trampling underfoot, and their yoke shall be taken away; and their renown shall be removed from their shoulders.” This is the purpose the Lord purposed upon all the inhabited world. His hand is lifted up over all the nations of the inhabited earth. For who will reject what the holy God purposed? Who will turn away His uplifted hand? In the year King Ahaz died, this word came: “Do not be glad, all you foreigners, for the yoke of him who struck you is broken to pieces. For from the seed of serpents shall come forth the young asps, and their offspring shall be flying serpents. The poor will be fed by him, and poor men will rest in peace, but he shall destroy your seed with hunger, and he will destroy your remnant. Wail, gates of the cities, cry out, troubled cities, even all the foreigners, for smoke is coming from the north, and you will be no more!” What will the kings of the nations answer? For the Lord founded Zion, and the humble of His people shall be saved."
 

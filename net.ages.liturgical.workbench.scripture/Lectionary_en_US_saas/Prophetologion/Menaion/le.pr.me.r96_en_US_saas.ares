@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.pr.me.r96_en_US_saas
 
 leprVE.reading.title = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
-leprVE.reading.book = bible_en_US_saas.Daniel
-leprVE.reading.chapverse = "(2:31-36, 44b-45)"
+leprVE.reading.book_string = bible_en_US_saas.Daniel.text
+leprVE.reading.book_abbr = bible_en_US_saas.Daniel.abbr
+leprVE.reading.chapverse = "2:31-36, 44b-45"
 leprVE.reading.text = "Daniel spoke to Nebuchadnezzar: “As for you, O king, you saw and beheld one great image. That image was very large and its appearance excellent. It stood before you, and its vision was fearful. The image had a head made of fine gold, and its hands, chest, and arms were made of silver, and its stomach and thighs, of copper. Its legs were iron, and its feet were partly iron and partly clay. You saw while a stone was cut out of a mountain without hands, and it struck the image on its feet of iron and clay, and ground them to powder. Then at once the clay, the iron, the copper, the silver, and the gold were like dust from the summer threshing floor, and a great force of wind blew them away; and their place was not to be found. Then the stone that struck the image became a great mountain and filled all the earth. This is the dream, and we will tell its interpretation before the king. The God of heaven will raise up a kingdom, and it shall never be destroyed. This kingdom shall not be left to another people, but it will break in pieces and crush all these kingdoms; and it will stand forever. Whereas you saw the stone cut out of the mountain without hands, it ground to powder the clay, the iron, the copper, the silver, and the gold. Thus the great God has made known to the king what must come to pass after this. The dream is true, and its interpretation is trustworthy.”"

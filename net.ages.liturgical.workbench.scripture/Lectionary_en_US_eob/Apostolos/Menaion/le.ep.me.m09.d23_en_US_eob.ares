@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.me.m09.d23_en_US_eob
 
 lemeLI.Epistle.title = "For the Forerunner."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
-lemeLI.Epistle.book = bible_en_US_eob.Galatians
-lemeLI.Epistle.chapverse = "(4:22-27)"
+lemeLI.Epistle.book_string = bible_en_US_eob.Galatians.text
+lemeLI.Epistle.book_abbr = bible_en_US_eob.Galatians.abbr
+lemeLI.Epistle.chapverse = "4:22-27"
 lemeLI.Epistle.text = "Brethren, it is written that Abraham had two sons, one by the bondmaid, and one by the free woman. However, the son by the bondmaid was born according to the flesh, but the son by the free woman was born through a promise. These things contain an allegory which represents two covenants. One is from Mount Sinai, bearing children to slavery, and that is Hagar. Now Hagar is Mount Sinai in Arabia, and it corresponds to the Jerusalem that exists now, in slavery with her children. But the Jerusalem that is above is free, and the mother of us all. As it is written: Rejoice, O barren [woman] who bears no child; Break forth and shout, you that do not travail. For the desolate has many more children than she who has a husband."
 lemeLI.Epistle.pagenumber = ""

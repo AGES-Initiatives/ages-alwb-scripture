@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d189_en_US_eob
 
 lemcLI.Gospel.title = "Saturday of the Tenth Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Matthew
-lemcLI.Gospel.chapverse = "(17:24-27; 18:1-4)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemcLI.Gospel.chapverse = "17:24-27; 18:1-4"
 lemcLI.Gospel.text = "At that time, those who collected the temple tax came to Peter, and said, “Does not your teacher pay the temple tax?” He replied, “Yes.” When he came into the house, Jesus spoke to him first, saying, “What do you think, Simon? From whom do the kings of the earth receive toll or tribute? From their children, or from foreigners?” Peter replied, “From strangers!” Jesus said to him, “Therefore, the children are exempt. But in order not to cause them to stumble, go to the sea, cast a hook, and take up the first fish that comes up. When you have opened its mouth, you will find a stater coin. Take it, and give it to them for me and you.” At that time, the disciples came to Jesus and asked, “Who then is greatest in the Kingdom of Heaven?” Jesus called a little child to himself and set him in their midst. He then said, “Amen, I tell you that unless you change and become as little children, you will in no way enter into the Kingdom of Heaven. But whoever humbles himself as this little child is the greatest in the Kingdom of Heaven.”"
 lemcLI.Gospel.pagenumber = ""

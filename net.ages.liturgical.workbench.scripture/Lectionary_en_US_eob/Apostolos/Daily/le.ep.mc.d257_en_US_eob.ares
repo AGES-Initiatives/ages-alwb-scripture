@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d257_en_US_eob
 
 lemcLI.Epistle.title = "THURSDAY OF THE TWENTIETH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Philippians
-lemcLI.Epistle.chapverse = "(3:1-8)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Philippians.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Philippians.abbr
+lemcLI.Epistle.chapverse = "3:1-8"
 lemcLI.Epistle.text = "Brethren, rejoice in the Lord! To me, writing the same things to you is not tiresome—it is safe! Beware of the dogs, beware of evil-workers, beware of the false circumcision! We are ‘circumcised’ if we offer divine service in the Spirit of God, [if we] rejoice in Christ Jesus, and have no confidence in the flesh, although I myself could have confidence even in the flesh! If anyone thinks that he has {a reason to have} confidence in the flesh, I could even more: circumcised on the eighth day, a member of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews. As regards the law, I was a Pharisee; as far as zeal is concerned, I was persecuting the Church, and as for the righteousness which is based on the law, [I was] found blameless. However, these things which I thought were gain to me, I have counted as loss for Christ! Yes, without a doubt, I consider all things as loss in view of the surpassing value of knowing Christ Jesus, my Lord, for whom I suffered the loss of all things. I consider them as dung, so that I may gain Christ."
 lemcLI.Epistle.pagenumber = ""

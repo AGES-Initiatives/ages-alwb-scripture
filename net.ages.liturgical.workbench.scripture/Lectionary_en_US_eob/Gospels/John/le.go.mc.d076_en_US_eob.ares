@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.go.mc.d076_en_US_eob
 
 lemcLI.Gospel.title = "Renewal Friday"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.John
-lemcLI.Gospel.chapverse = "(2:12-22)"
+lemcLI.Gospel.book_string = bible_en_US_eob.John.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
+lemcLI.Gospel.chapverse = "2:12-22"
 lemcLI.Gospel.text = "At that time, he went down to Capernaum, he, and his mother, his brothers, and his disciples; and they did not stay there [more than] a few days. Now the Passover of the Jews was near, and Jesus went up to Jerusalem. In the temple, he found those who sold oxen, sheep, and doves, as well as the money changers sitting [at their booths]. So, he made a whip of cords and drove [them] all out of the temple, with the sheep and the oxen; he also poured out the changers’ money and overthrew their tables. To those who sold the doves, he said, “Take these things out of here! Do not make my Father’s house a marketplace!” Then his disciples remembered that it was written: “Zeal for your house will consume me.” Therefore, the Jews declared, “What sign do you show us, since you do these things?” Jesus answered and said to them, “Destroy this sanctuary, and in three days I will raise it up!” The Jews then said, “It took forty-six years to build this sanctuary, and you will raise it up in three days?” (But he was speaking of the sanctuary of his body). When therefore he was raised from the dead, his disciples remembered that he had said this, and they believed the Scripture and the word which Jesus had said."

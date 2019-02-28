@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d196_en_US_eob
 
 lemcLI.Gospel.title = "Saturday of the Eleventh Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Matthew
-lemcLI.Gospel.chapverse = "(19:3-12)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemcLI.Gospel.chapverse = "19:3-12"
 lemcLI.Gospel.text = "At that time, the Pharisees came to Jesus to test him, asking, “Is it lawful for a man to divorce his wife for any reason?” Jesus answered, “Have you not read that he who made them from the beginning made them male and female, and said, ‘For this reason, a man shall leave his father and mother and shall be attached to his wife; and the two shall become one flesh?’ And so, they are no longer two, but one flesh! Therefore, what God has joined together, let no one tear apart.” They asked him, “Why then did Moses command us to give our wife a bill of divorce and send her away?” Jesus replied, “Because of the hardness of your hearts, Moses allowed you to divorce your wives, but from the beginning it has not been so. I tell you that whoever divorces his wife (except for reason of sexual immorality ) and marries another commits adultery; and he who marries a divorced woman commits adultery.” His disciples said to him, “If this is the situation of the man with his wife, it is not advantageous to marry!” But Jesus said to them, “Not all men can receive this saying: only those to whom it is given. Certainly, there are eunuchs who were born that way from their mother’s womb. There are also eunuchs who were made eunuchs by men, and there are eunuchs who made themselves eunuchs for the sake of the Kingdom of Heaven. He who is able to receive this saying, let him receive it.”"
 lemcLI.Gospel.pagenumber = ""

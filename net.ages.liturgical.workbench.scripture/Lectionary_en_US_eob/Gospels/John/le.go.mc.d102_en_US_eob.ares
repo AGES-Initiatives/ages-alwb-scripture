@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d102_en_US_eob
 
 lemcLI.Gospel.title = "Fifth Wednesday after Pascha"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.John
-lemcLI.Gospel.chapverse = "(6:5-14)"
+lemcLI.Gospel.book_string = bible_en_US_eob.John.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
+lemcLI.Gospel.chapverse = "6:5-14"
 lemcLI.Gospel.text = "At that time, when Jesus looked up and saw that a great crowd was coming to him, he asked Philip, “Where are we to buy bread, so that these [people] may eat?” But he said this to test Philip, for he himself knew what he would do. Philip answered him, “Two hundred denarii worth of bread is not sufficient for them, so that every one of them might receive [even] a little!” One of his disciples, Andrew, Simon Peter’s brother, said to him, “There is a boy here who has five barley loaves [of bread] and two fish, but what are these among so many?” And Jesus said, “Have the people sit down.” Now there was much grass in that place; and so the men sat down, about five thousand in number. Then Jesus took the loaves, and having given thanks, he distributed [them] to the disciples, and the disciples to those who were sitting down; and [he did] likewise with the fish, as much as they desired. When they were filled, he said to his disciples, “Gather up the broken pieces which are left over, so that nothing may be lost!” And so, they gathered them up and filled twelve baskets with broken pieces from the five barley loaves, which were left over by those who had eaten. When the people saw the sign which Jesus had accomplished, they said, “This is truly the prophet who comes into the world!”"
 lemcLI.Gospel.pagenumber = ""

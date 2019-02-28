@@ -2,8 +2,9 @@ A_Resource_Whose_Name = le.go.me.m01.dSatAE_en_US_eob
 
 lemeLI.Gospel.title = "Saturday after Theophany"
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
-lemeLI.Gospel.book = bible_en_US_eob.Matthew
-lemeLI.Gospel.chapverse = "(4:1-11)"
+lemeLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemeLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemeLI.Gospel.chapverse = "4:1-11"
 lemeLI.Gospel.text = "At that time, Jesus was then led by the Spirit [to go] into the wilderness to be tempted by the devil. When he had fasted forty days and forty nights, Jesus was hungry. The tempter came to him and said, “If you are the Son of God, command that these stones become bread.” But Jesus answered, “It is written: One shall not live by bread alone, but by every word that comes out of the mouth of God!” Then the devil took him to the holy city. He placed him on the pinnacle of the temple and said to him, “If you are the Son of God, throw yourself down, for it is written, ‘He will put his angels in charge of you’ and [also], They will carry you in their hands, so that you may not dash your foot against a stone. Jesus replied, “But it is also written, ‘You shall not put the Lord your  God to the test.’” The devil took him to an extremely high mountain and showed him all the kingdoms of the world and their glory. The devil said to Jesus, “I will give you all of these things if you will fall down and express adoration to me.” Then Jesus said to him, “Get behind me, Satan! For it is written, ‘You shall express adoration to the Lord your God, and to him only shall you offer divine service.’” Then the devil left him, and behold, angels came and ministered to him."
 lemeLI.Gospel.pagenumber = ""
 

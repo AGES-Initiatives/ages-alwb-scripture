@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d202_en_US_eob
 
 lemcLI.Gospel.title = "Friday of the Twelfth Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Mark
-lemcLI.Gospel.chapverse = "(2:18-22)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Mark.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
+lemcLI.Gospel.chapverse = "2:18-22"
 lemcLI.Gospel.text = "At that time, the disciples of John and of the Pharisees were fasting, and they came to ask Jesus, “Why do the disciples of John and of the Pharisees fast, but your disciples do not?” Jesus told them, “Can the guests of the wedding fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast! But the days will come when the bridegroom will be taken away from them, and then they will fast in those days. No one sews a piece of new cloth on an old garment, or else the patch shrinks and tears away from the old, and a worse hole is made. No one puts new wine into old wineskins, or else the new wine bursts the skins, the wine is poured out, and the skins are destroyed. Instead, new wine must be put into fresh wineskins.”"
 lemcLI.Gospel.pagenumber = ""

@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d021_en_US_eob
 
 leluLI.Gospel.title = "Third Sunday"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Luke
-leluLI.Gospel.chapverse = "(7:11-16)"
+leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+leluLI.Gospel.chapverse = "7:11-16"
 leluLI.Gospel.text = "At that time, Jesus went to a city called Nain. Many of his disciples, along with a great multitude, went with him. Now when Jesus drew near to the gate of the city, behold, a dead person was being carried out, who was the only son of his mother, and she was a widow. Many people of the city were with her. When the Lord saw her, he had compassion on her, and said to her, “Do not cry.” He came near and touched the coffin, and the bearers stood still. He then said, “Young man, I tell you, arise!” And the dead man sat up, and began to speak. Jesus then gave him to his mother. They were all filled with awe and glorified God, saying, “A great prophet has arisen among us!” and, “God has visited his people!”"
 leluLI.Gospel.pagenumber = ""

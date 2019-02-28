@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.ep.va.funeral_en_US_rsv
 
 levaFUN.Epistle.title = "At Funerals"
 levaFUN.Epistle.version = properties_en_US_rsv.version.designation
-levaFUN.Epistle.book = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.book
+levaFUN.Epistle.book_string = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.book_string
+levaFUN.Epistle.book_abbr = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.book_abbr
 levaFUN.Epistle.chapverse = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.chapverse
 levaFUN.Epistle.text = le.ep.va.deceased_en_US_rsv.levaDEC.Epistle1.text

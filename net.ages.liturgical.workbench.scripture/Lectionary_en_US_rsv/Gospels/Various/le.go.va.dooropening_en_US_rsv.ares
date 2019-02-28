@@ -1,7 +1,8 @@
 A_Resource_Whose_Name = le.go.va.dooropening_en_US_rsv
 
-levaCDO.Gospel.title = "At Thyranixia (Church Opening)"
+levaCDO.Gospel.title = "At Thyranixia (Church Opening"
 levaCDO.Gospel.version = properties_en_US_rsv.version.designation
-levaCDO.Gospel.book = le.go.me.m06.d29_en_US_rsv.lemeLI.Gospel.book
+levaCDO.Gospel.book_string = le.go.me.m06.d29_en_US_rsv.lemeLI.Gospel.book_string
+levaCDO.Gospel.book_abbr = le.go.me.m06.d29_en_US_rsv.lemeLI.Gospel.book_abbr
 levaCDO.Gospel.chapverse = le.go.me.m06.d29_en_US_rsv.lemeLI.Gospel.chapverse
 levaCDO.Gospel.text = le.go.me.m06.d29_en_US_rsv.lemeLI.Gospel.text

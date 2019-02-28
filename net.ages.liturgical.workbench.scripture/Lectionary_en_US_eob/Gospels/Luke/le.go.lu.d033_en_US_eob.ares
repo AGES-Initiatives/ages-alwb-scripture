@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d033_en_US_eob
 
 leluLI.Gospel.title = "Friday of the Fifth Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Luke
-leluLI.Gospel.chapverse = "(10:1-15)"
+leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+leluLI.Gospel.chapverse = "10:1-15"
 leluLI.Gospel.text = "At that time, the Lord also appointed seventy other disciples, and sent them two by two ahead of him into every city and place where he was about to go. Then he said to them, “The harvest is indeed plentiful, but the laborers are few. Pray therefore to the Lord of the harvest, that he may send out laborers into his harvest. Go on your ways, [but] be aware that I am sending you out as lambs among wolves. Do not carry a purse, a wallet, or sandals. Do not greet anyone on the way. Whatever house you enter, first say, ‘Peace be to this house.’ If a follower of peace is there, your peace will rest on him; but if not, it will return to you. Remain in that house, eating and drinking what they will give [you], for the laborer deserves his wages. Do not go from house to house. Whatever town you enter and if the people welcome you, eat whatever is set before you. Heal the sick who are there and tell them, ‘The Kingdom of God has come near to you!’ But if you enter into any town and people there do not welcome you, go out into its streets and say, ‘Even the dust from your city that clings to our feet, we wipe off against you. Nevertheless, know this, that the Kingdom of God has come near to you!’ I tell you, it will be more tolerable in that day for Sodom than for such a city. Woe to you, Chorazin! Woe to you, Bethsaida! For if the deeds of power which were done in you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes. But in the judgment, it will be more tolerable for Tyre and Sidon than for you. And you, Capernaum, who are exalted to heaven, you will be brought down to hades!”"
 leluLI.Gospel.pagenumber = ""

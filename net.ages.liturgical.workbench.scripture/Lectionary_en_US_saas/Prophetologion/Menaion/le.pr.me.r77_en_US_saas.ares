@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.pr.me.r77_en_US_saas
 
 leprVE.reading.title = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
-leprVE.reading.book = bible_en_US_saas.Numbers
+leprVE.reading.book_string = bible_en_US_saas.Numbers.text
+leprVE.reading.book_abbr = bible_en_US_saas.Numbers.abbr
 leprVE.reading.text = "Now on the day the tabernacle was raised up, the cloud covered the tabernacle, the house of the testimony; from eventide until morning it was on the tabernacle, like the form of fire. So it was always: the cloud covered it by day and the form of fire by night. Whenever the cloud ascended from the tabernacle, after that the children of Israel broke camp; and in the place where the cloud stood, there the children of Israel made camp. At the command of the Lord the children of Israel would make camp, and at the command of the Lord they would break camp. All the days the cloud overshadowed the tabernacle, the children of Israel would encamp. Even when the cloud would continue many days on the tabernacle, the children of Israel would obey God’s orders, and not break camp. So it would be, whenever the cloud would overshadow the tabernacle a number of days, at the voice of the Lord they would encamp, and at the command of the Lord they would break camp. So it would be, when the cloud would continue from eventide until morning, and the cloud would ascend in the morning, then they would break camp; and if the cloud would continue a day or a night, or a month, or an abundance of days overshadowing it, the children of Israel would encamp and not break camp. At the command of the Lord they would break camp, and at the command of the Lord by the hand of Moses they would obey the Lord’s orders."
-leprVE.reading.chapverse = "(9:15-23)"
+leprVE.reading.chapverse = "9:15-23"

@@ -8950,7 +8950,7 @@ bode.version = properties_en_UK_kjv.version.designation
 
 bode1.title = ""
 bode1.version = properties_en_UK_kjv.version.designation
-bode1.book = //bible_en_UK_kjv.Exodus
+bode1.book_abbr = //bible_en_UK_kjv.Exodus.abbr
 bode1.heading1 = ""
 bode1.chapverse = ""
 bode1.heading2 = ""
@@ -9006,7 +9006,7 @@ bode1.v20c.text = ""
 
 bode2.title = ""
 bode2.version = properties_en_UK_kjv.version.designation
-bode2.book = //bible_en_UK_kjv.Deuteronomy
+bode2.book_abbr = //bible_en_UK_kjv.Deuteronomy.abbr
 bode2.heading1 = ""
 bode2.chapverse = ""
 bode2.heading2 = ""
@@ -9112,7 +9112,7 @@ bode2.v49.text = ""
 
 bode3.title = ""
 bode3.version = properties_en_UK_kjv.version.designation
-bode3.book = //bible_en_UK_kjv.Samuel1
+bode3.book_abbr = //bible_en_UK_kjv.Samuel1.abbr
 bode3.heading1 = ""
 bode3.chapverse = ""
 bode3.heading2 = ""
@@ -9152,7 +9152,7 @@ bode3.v15.text = ""
 
 bode4.title = ""
 bode4.version = properties_en_UK_kjv.version.designation
-bode4.book = //bible_en_UK_kjv.Habakkuk
+bode4.book_abbr = //bible_en_UK_kjv.Habakkuk.abbr
 bode4.heading1 = ""
 bode4.chapverse = ""
 bode4.heading2 = ""
@@ -9212,7 +9212,7 @@ bode4.v25.text = ""
 
 bode5.title = ""
 bode5.version = properties_en_UK_kjv.version.designation
-bode5.book = //bible_en_UK_kjv.Isaiah
+bode5.book_abbr = //bible_en_UK_kjv.Isaiah.abbr
 bode5.heading1 = ""
 bode5.chapverse = ""
 bode5.heading2 = ""
@@ -9252,7 +9252,7 @@ bode5.v16.text = ""
 
 bode6.title = ""
 bode6.version = properties_en_UK_kjv.version.designation
-bode6.book = //bible_en_UK_kjv.Jonah
+bode6.book_abbr = //bible_en_UK_kjv.Jonah.abbr
 bode6.heading1 = ""
 bode6.chapverse = ""
 bode6.heading2 = ""
@@ -9288,7 +9288,7 @@ bode6.v9b.text = ""
 
 bode7.title = ""
 bode7.version = properties_en_UK_kjv.version.designation
-bode7.book = //bible_en_UK_kjv.Daniel
+bode7.book_abbr = //bible_en_UK_kjv.Daniel.abbr
 bode7.heading1 = ""
 bode7.chapverse = ""
 bode7.heading2 = ""
@@ -9356,7 +9356,7 @@ bode7.v28.text = ""
 
 bode8.title = ""
 bode8.version = properties_en_UK_kjv.version.designation
-bode8.book = //bible_en_UK_kjv.Daniel
+bode8.book_abbr = //bible_en_UK_kjv.Daniel.abbr
 bode8.heading1 = ""
 bode8.chapverse = ""
 bode8.heading2 = ""
@@ -9405,7 +9405,7 @@ bode8.v19.text = ""
 
 bode9.title = ""
 bode9.version = properties_en_UK_kjv.version.designation
-bode9_mag.book = 
+bode9_mag.book_abbr = 
 bode9_mag.heading1 = ""
 bode9_mag.chapverse = ""
 bode9_mag.heading2 = ""
@@ -9422,7 +9422,7 @@ bode9_mag.v5.number = ""
 bode9_mag.v5.text = ""
 bode9_mag.v6.number = ""
 bode9_mag.v6.text = ""
-bode9.book = 
+bode9.book_abbr = 
 bode9.heading1 = ""
 bode9.chapverse = ""
 bode9.heading2 = ""

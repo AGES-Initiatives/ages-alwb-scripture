@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d225_en_US_eob
 
 lemcLI.Epistle.title = "FIFTEENTH SUNDAY"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Corinthians2
-lemcLI.Epistle.chapverse = "(4:6-15)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians2.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians2.abbr
+lemcLI.Epistle.chapverse = "4:6-15"
 lemcLI.Epistle.text = "Brethren, it is God who commanded light to shine out of darkness, and he has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ. However, we have this treasure in vessels of clay, so that the amazing power may be from God and not from ourselves. We are pressed on every side, yet [we are] not crushed! We are perplexed, but not to [the point of] despair. We are persecuted yet not forsaken; struck down, yet not destroyed; and we always carry in our bodies the death of the Lord Jesus, so that the life of Jesus may also be revealed in our body. Indeed, we who live are always delivered to death for Jesus’ sake, so that the life of Jesus may be revealed in our mortal flesh. And so, death is at work in us, but life in you. Still, we have the same spirit of faith, according to what is written, “I believed, and therefore I spoke.” We believe, and therefore we also speak; knowing that he who raised the Lord Jesus will also raise us with Jesus, and bring us with you into his presence. All these things are for your benefit, so that as grace is extended to many, this may also cause thanksgiving to be multiplied to the glory of God."
 lemcLI.Epistle.pagenumber = ""

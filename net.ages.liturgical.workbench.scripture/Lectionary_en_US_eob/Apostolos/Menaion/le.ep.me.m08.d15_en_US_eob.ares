@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.me.m08.d15_en_US_eob
 
 lemeLI.Epistle.title = "For the Feast."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
-lemeLI.Epistle.book = bible_en_US_eob.Philippians
-lemeLI.Epistle.chapverse = "(2:5-11)"
+lemeLI.Epistle.book_string = bible_en_US_eob.Philippians.text
+lemeLI.Epistle.book_abbr = bible_en_US_eob.Philippians.abbr
+lemeLI.Epistle.chapverse = "2:5-11"
 lemeLI.Epistle.text = "Brethren, let the following be in your mind, which was also in [the mind of] Christ Jesus. He who existed in the form of God did not consider equality with God as something to be taken by force. Instead, he emptied himself, taking the form of a bondservant, being made in the likeness of men. And being found in human form, he humbled himself, becoming obedient to [the point of] death, even death on the cross! Therefore, God highly exalted him, and gave him the Name which is above every name; so that at the Name of Jesus every knee should bow in heaven, on earth, and under the earth; and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father."
 lemeLI.Epistle.pagenumber = ""

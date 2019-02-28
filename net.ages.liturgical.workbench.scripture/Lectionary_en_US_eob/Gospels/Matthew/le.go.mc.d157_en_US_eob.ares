@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d157_en_US_eob
 
 lemcLI.Gospel.title = "Tuesday of the Sixth Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Matthew
-lemcLI.Gospel.chapverse = "(13:24-30)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemcLI.Gospel.chapverse = "13:24-30"
 lemcLI.Gospel.text = "The Lord said this parable: “The Kingdom of Heaven is like a man who sowed good seed in his field. While people slept, his enemy came and also sowed weed grass among the wheat, and went away. But when the wheat sprang up and brought forth fruit, the weeds also appeared. The slaves of the householder came [forward] and said to him, ‘Sir, did you not sow good seed in your field? Where did this darnel come from?’ The man said to them, ‘An enemy has done this.’ The slaves then asked him, ‘Do you want us to go and gather them up?’ But the man replied, ‘No, for fear that while you gather up the darnel weeds, you might also uproot the wheat along with them. Let both grow together until the harvest, and at the time of the harvest I will tell the reapers, “First, gather up the darnel weeds, and bind them in bundles to burn them; but gather the wheat into my barn.” ’ ”"
 lemcLI.Gospel.pagenumber = ""

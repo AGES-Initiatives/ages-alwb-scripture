@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.me.m12.d10_en_US_eob
 
 lemeLI.Epistle.title = "For the Martyrs."
 lemeLI.Epistle.version = le.ep.mc.d309_en_US_eob.lemcLI.Epistle.version
-lemeLI.Epistle.book = le.ep.mc.d309_en_US_eob.lemcLI.Epistle.book
+lemeLI.Epistle.book_string = le.ep.mc.d309_en_US_eob.lemcLI.Epistle.book_string
+lemeLI.Epistle.book_abbr = le.ep.mc.d309_en_US_eob.lemcLI.Epistle.book_abbr
 lemeLI.Epistle.chapverse = le.ep.mc.d309_en_US_eob.lemcLI.Epistle.chapverse
 lemeLI.Epistle.text = le.ep.mc.d309_en_US_eob.lemcLI.Epistle.text 
 lemeLI.Epistle.pagenumber = ""

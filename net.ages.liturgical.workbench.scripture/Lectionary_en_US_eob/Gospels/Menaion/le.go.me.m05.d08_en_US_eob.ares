@@ -2,20 +2,22 @@ A_Resource_Whose_Name = le.go.me.m05.d08_en_US_eob
 
 lemeMA.Gospel.title = "For the Evangelist."
 lemeMA.Gospel.version = le.go.eo.w11_en_US_eob.leeoMA.Gospel.version
-lemeMA.Gospel.book = le.go.eo.w11_en_US_eob.leeoMA.Gospel.book
+lemeMA.Gospel.book_string = le.go.eo.w11_en_US_eob.leeoMA.Gospel.book_string
+lemeMA.Gospel.book_abbr = le.go.eo.w11_en_US_eob.leeoMA.Gospel.book_abbr
 lemeMA.Gospel.chapverse = le.go.eo.w11_en_US_eob.leeoMA.Gospel.chapverse
 lemeMA.Gospel.text = le.go.eo.w11_en_US_eob.leeoMA.Gospel.text
 
 lemeLI.Gospel.title = "For the Evangelist."
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
-lemeLI.Gospel.book = bible_en_US_eob.John
-lemeLI.Gospel.chapverse = "(19:25-28, 21:24-25)"
+lemeLI.Gospel.book_string = bible_en_US_eob.John.text
+lemeLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
+lemeLI.Gospel.chapverse = "19:25-28, 21:24-25"
 lemeLI.Gospel.text = "At that time, there were standing by the cross of Jesus his mother, and his mother’s sister (Mary [the wife] of Clopas), and Mary Magdalene. When Jesus saw his mother and the disciple whom he loved standing there, he said to his mother, “Woman, behold your son!” Then he said to the disciple, “Behold, your mother!” And from that hour, the disciple took her to his own home. This is the disciple who bears witness about these things and who wrote these things. We know that his testimony is true. There are also many other things which Jesus did. If they were all written, I suppose that even the world itself could not contain the books that would be written. Amen."
 lemeLI.Gospel.pagenumber = ""
 
 lemeLI.Gospel2.title = "For the Saint."
 lemeLI.Gospel2.version = le.go.mc.d145_en_US_eob.lemcLI.Gospel.version
-lemeLI.Gospel2.book =  le.go.mc.d145_en_US_eob.lemcLI.Gospel.book
+lemeLI.Gospel2.book_string =  le.go.mc.d145_en_US_eob.lemcLI.Gospel.book_string
 lemeLI.Gospel2.chapverse =  le.go.mc.d145_en_US_eob.lemcLI.Gospel.chapverse
 lemeLI.Gospel2.text =  le.go.mc.d145_en_US_eob.lemcLI.Gospel.text
 lemeLI.Gospel2.pagenumber = ""

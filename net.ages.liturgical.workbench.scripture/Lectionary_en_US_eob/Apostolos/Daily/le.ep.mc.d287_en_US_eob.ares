@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d287_en_US_eob
 
 lemcLI.Epistle.title = "SATURDAY OF THE TWENTY-FOURTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Corinthians2
-lemcLI.Epistle.chapverse = "(11:1-6)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians2.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians2.abbr
+lemcLI.Epistle.chapverse = "11:1-6"
 lemcLI.Epistle.text = "Brethren, I wish that you would be patient with me in a little foolishness, and indeed, you are! Certainly, I am jealous over you with a godly jealousy: I betrothed you to one husband, so that I might present you as a pure virgin to Christ. But I am afraid that somehow, just as the serpent deceived Eve in his shrewd deceit, so your minds might likewise be corrupted from the simplicity that is in Christ. Somehow, if someone comes along preaching another Jesus (not the one we preached), or if you receive a different spirit (not the one you [first] received), or a different Good News (which is not the one you accepted), you put up with it well enough. However, I do not consider myself inferior to the superlative apostles: although I am unskilled in speech, I am not unskilled in knowledge. No, in every way, what we are has been revealed to you in all [these] things."
 lemcLI.Epistle.pagenumber = ""

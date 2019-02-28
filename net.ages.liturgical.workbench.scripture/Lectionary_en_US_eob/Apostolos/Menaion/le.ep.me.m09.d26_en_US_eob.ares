@@ -2,25 +2,26 @@ A_Resource_Whose_Name = le.ep.me.m09.d26_en_US_eob
 
 lemeVE.Reading1.title = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading1.title
 lemeVE.Reading1.version = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading1.version
-lemeVE.Reading1.book = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading1.book
+lemeVE.Reading1.book_string = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading1.book_string
 lemeVE.Reading1.chapverse = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading1.chapverse
 lemeVE.Reading1.text = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading1.text
 
 lemeVE.Reading2.title = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading2.title
 lemeVE.Reading2.version = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading2.version
-lemeVE.Reading2.book = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading2.book
+lemeVE.Reading2.book_string = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading2.book_string
 lemeVE.Reading2.chapverse = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading2.chapverse
 lemeVE.Reading2.text = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading2.text
 
 lemeVE.Reading3.title = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading3.title
 lemeVE.Reading3.version = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading3.version
-lemeVE.Reading3.book = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading3.book
+lemeVE.Reading3.book_string = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading3.book_string
 lemeVE.Reading3.chapverse = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading3.chapverse
 lemeVE.Reading3.text = le.ep.me.m05.d08_en_US_eob.lemeVE.Reading3.text
 
 lemeLI.Epistle.title = "For the Evangelist."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
-lemeLI.Epistle.book = bible_en_US_eob.John1
-lemeLI.Epistle.chapverse = "(4:12-19)"
+lemeLI.Epistle.book_string = bible_en_US_eob.John1.text
+lemeLI.Epistle.book_abbr = bible_en_US_eob.John1.abbr
+lemeLI.Epistle.chapverse = "4:12-19"
 lemeLI.Epistle.text = "No one has seen God at any time, but if we love one another, God remains in us, and his love has reached completion in us. By this, we know that we remain in God and he in us, because he has given us [a share] of his Spirit. We have seen and testify that the Father has sent the Son, the Savior of the world. God remains in those who confess that Jesus is the Son of God, and they remain in God. We have known and believed in the love which God has for us: God is love, and whoever remains in love remains in God, and God in him. In this, love has been made perfect among us, so that we may have boldness in the day of judgment, because in this world, we are just as he is. There is no fear in love, but perfect love casts out fear, because fear is connected with punishment. But the one who fears is not yet perfect in love. We love him, because he first loved us."
 lemeLI.Epistle.pagenumber = ""

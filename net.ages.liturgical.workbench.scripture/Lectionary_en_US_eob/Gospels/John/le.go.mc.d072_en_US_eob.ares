@@ -2,8 +2,9 @@ A_Resource_Whose_Name = le.go.mc.d072_en_US_eob
 
 lemcVE.Gospel.title = ""
 lemcVE.Gospel.version = properties_en_US_eob.version.designation
-lemcVE.Gospel.book = bible_en_US_eob.John
-lemcVE.Gospel.chapverse = "(20:19-25)"
+lemcVE.Gospel.book_string = bible_en_US_eob.John.text
+lemcVE.Gospel.book_abbr = bible_en_US_eob.John.abbr
+lemcVE.Gospel.chapverse = "20:19-25"
 lemcVE.Gospel.text = ""
 lemcVE.Gospel.part1.text = "In the evening on that [same] day (the first day of the week), and as the doors [of the place] where the disciples were assembled were locked for fear of the Jews, Jesus came and stood among them and said, “Peace be with you.” When he had said this, he showed them his hands and his side. At this, the disciples rejoiced when they saw the Lord."
 lemcVE.Gospel.part2.text = "Then again, Jesus said, “Peace be with you! As the Father has sent me, I also send you.” When he had said this, he breathed on them and told them, “Receive the Holy Spirit! If you forgive anyone’s sins, they are forgiven; if you retain anyone’s sins, they are retained.”"
@@ -11,7 +12,8 @@ lemcVE.Gospel.part3.text = "However, Thomas, called the Twin, one of the Twelve,
 
 lemcLI.Gospel.title = "Renewal Monday"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.John
-lemcLI.Gospel.chapverse = "(1:18-28)"
+lemcLI.Gospel.book_string = bible_en_US_eob.John.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
+lemcLI.Gospel.chapverse = "1:18-28"
 lemcLI.Gospel.text = "No one has seen God at any time. The uniquely-begotten Son who is in the bosom of the Father, he has explained him. This is John’s testimony, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?” He admitted and did not deny [it], [plainly] admitting, “I am not the Christ!” They asked him, “What then? Are you Elias?” He said, “I am not!” “Are you the prophet?” He answered, “No.” Therefore, they asked him, “Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?” John said, “I am the voice of one crying in the wilderness, ‘Make straight the way of the Lord,’ as Isaias the prophet said.” Those who had been sent were from the Pharisees. They asked him, “Why then do you baptize, if you are not the Christ, nor Elias, nor the prophet?” John answered them, “I baptize in water, but among you stands one whom you do not know. He is the one who comes after me, who is ranked before me, whose sandal strap I am not worthy to untie.” These things took place in Bethany beyond the Jordan, where John was baptizing."
 lemcLI.Gospel.pagenumber = ""

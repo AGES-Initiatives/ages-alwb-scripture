@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d134_en_US_eob
 
 lemcLI.Epistle.title = "SECOND SUNDAY"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Romans
+lemcLI.Epistle.book_string = bible_en_US_eob.Romans.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Romans.abbr
 lemcLI.Epistle.chapverse = "2:10-16"
 lemcLI.Epistle.text = "Brethren, glory, honor, and peace [are] for everyone who does good; to the Jew first, and also to the Greek, because there is no partiality with God. Hence, all those who have sinned apart from the law will also perish without the law, [and] as many as have sinned under the law will be judged by the law. For it is not the hearers of the law who are righteous before God, but the doers of the law will be declared righteous. (Indeed, when Gentiles who do not have the law do by nature the things of the law, they are a law to themselves, even though they do not have the law, by showing that the practical expression of the law is written in their hearts. Their conscience bears witness, and their thoughts alternately accuse or defend them). This is for the day when, according to my [proclamation of the] gospel, God, through Jesus Christ, will judge the secret thoughts of all."
 lemcLI.Epistle.pagenumber = ""

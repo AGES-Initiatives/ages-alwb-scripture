@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.me.m01.d01_en_US_eob
 
 lemeLI.Epistle.title = "For the Feast."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
-lemeLI.Epistle.book = bible_en_US_eob.Colossians
-lemeLI.Epistle.chapverse = "(2:8-12)"
+lemeLI.Epistle.book_string = bible_en_US_eob.Colossians.text
+lemeLI.Epistle.book_abbr = bible_en_US_eob.Colossians.abbr
+lemeLI.Epistle.chapverse = "2:8-12"
 lemeLI.Epistle.text = "Brethren, be careful not to let anyone rob you through philosophy and vain deceit, according to human tradition and the basic things of the world, and not after Christ. For in him all the fullness of deity dwells bodily, and in him who is the head of all principality and power, you are made full. In him, you were also circumcised with a circumcision not made with hands, by casting off the body of the sins of the flesh, in the circumcision of Christ, having been buried with him through baptism, in which you were also raised with him through faith in the working of God, who raised him from the dead."
 lemeLI.Epistle.pagenumber = ""

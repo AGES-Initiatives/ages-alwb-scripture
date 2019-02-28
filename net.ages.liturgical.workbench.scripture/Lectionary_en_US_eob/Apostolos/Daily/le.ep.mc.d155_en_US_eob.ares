@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d155_en_US_eob
 
 lemcLI.Epistle.title = "FIFTH SUNDAY"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Romans
-lemcLI.Epistle.chapverse = "(10:1-10)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Romans.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Romans.abbr
+lemcLI.Epistle.chapverse = "10:1-10"
 lemcLI.Epistle.text = "Brethren, my heart’s desire and my prayer to God are for Israel, that they may be saved. Certainly, I testify about them that they have a zeal for God, but not according to accurate knowledge. Being ignorant of God’s righteousness, and seeking to establish their own righteousness, they did not subject themselves to the righteousness of God. For Christ is the fulfillment of the law for righteousness to everyone who believes. Moses writes about the righteousness of the law, “The one who does them will live by them.” But the righteousness which is of faith speaks this way, “Do not say in your heart, ‘Who will ascend into heaven?’ (that is, to bring Christ down); or, ‘Who will descend into the abyss?’ (that is, to bring Christ up from the dead.)” But what does it say? “The word is near you, in your mouth, and in your heart;” that is, the word of faith, which we preach. If you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. With the heart, one believes, resulting in righteousness; and with the mouth confession is made, resulting in salvation."
 lemcLI.Epistle.pagenumber = ""

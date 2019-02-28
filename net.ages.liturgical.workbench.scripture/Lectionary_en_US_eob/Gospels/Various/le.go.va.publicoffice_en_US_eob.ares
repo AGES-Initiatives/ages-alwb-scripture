@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.go.va.publicoffice_en_US_eob
 
 levaLI.Gospel.title = ""
 levaLI.Gospel.version = properties_en_US_eob.version.designation
-levaLI.Gospel.book = bible_en_US_eob.Matthew
-levaLI.Gospel.chapverse = "(20:25-28)"
+levaLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+levaLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+levaLI.Gospel.chapverse = "20:25-28"
 levaLI.Gospel.text = "At that time, However, Jesus called the disciples together and said, “You know that the rulers of the nations lord it over them, and great ones make their authority felt. But it shall not be so among you! Instead, whoever desires to become great among you shall be your servant. Whoever desires to be first among you shall be your slave, even as the Son of Man came not to be served, but to serve, and to give his life as a ransom for many.”"

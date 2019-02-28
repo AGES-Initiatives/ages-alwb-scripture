@@ -2,25 +2,26 @@ A_Resource_Whose_Name = le.ep.me.m05.d08_en_US_eob
 
 lemeVE.Reading1.title = "For the Evangelist."
 lemeVE.Reading1.version = properties_en_US_eob.version.designation
-lemeVE.Reading1.book = bible_en_US_eob.John1
-lemeVE.Reading1.chapverse = "(3:21-24; 4:1-6)"
+lemeVE.Reading1.book_string = bible_en_US_eob.John1.text
+lemeVE.Reading1.chapverse = "3:21-24; 4:1-6"
 lemeVE.Reading1.text = ""
 
 lemeVE.Reading2.title = "For the Evangelist."
 lemeVE.Reading2.version = properties_en_US_eob.version.designation
-lemeVE.Reading2.book = bible_en_US_eob.John1
-lemeVE.Reading2.chapverse = "(4:11-16)"
+lemeVE.Reading2.book_string = bible_en_US_eob.John1.text
+lemeVE.Reading2.chapverse = "4:11-16"
 lemeVE.Reading2.text = ""
 
 lemeVE.Reading3.title = "For the Evangelist."
 lemeVE.Reading3.version = properties_en_US_eob.version.designation
-lemeVE.Reading3.book = bible_en_US_eob.John1
-lemeVE.Reading3.chapverse = "(4:20-21; 5:1-5)"
+lemeVE.Reading3.book_string = bible_en_US_eob.John1.text
+lemeVE.Reading3.chapverse = "4:20-21; 5:1-5"
 lemeVE.Reading3.text = ""
 
 lemeLI.Epistle.title = "For the Evangelist."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
-lemeLI.Epistle.book = bible_en_US_eob.John1
-lemeLI.Epistle.chapverse = "(1:1-7)"
+lemeLI.Epistle.book_string = bible_en_US_eob.John1.text
+lemeLI.Epistle.book_abbr = bible_en_US_eob.John1.abbr
+lemeLI.Epistle.chapverse = "1:1-7"
 lemeLI.Epistle.text = "What was from the beginning, what we have heard, what we have seen with our eyes, what we looked at and what our hands touched, [this is our message] concerning the word of life. The Life was revealed and we have seen, and testify, and proclaim to you the eternal life, which was with the Father and which was revealed to us. What we have seen and heard, this is what we proclaim to you, so that you also may have communion with us. Truly, our communion is with the Father and with his Son Jesus Christ. We write these things to you so that our joy may be fulfilled! This is the message which we have heard from him and which we now announce to you: that God is light, and in him there is no darkness at all. If we say that we have communion with him and yet walk in the darkness, we lie—we do not practice the truth. But if we walk in the light as he is in the light, then we do have communion with one another and the blood of his Son Jesus Christ cleanses us from all sin."
 lemeLI.Epistle.pagenumber = ""

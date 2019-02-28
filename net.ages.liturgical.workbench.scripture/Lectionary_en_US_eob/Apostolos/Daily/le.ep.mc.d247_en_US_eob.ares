@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d247_en_US_eob
 
 lemcLI.Epistle.title = "MONDAY OF THE NINETEENTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Philippians
-lemcLI.Epistle.chapverse = "(1:1-7)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Philippians.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Philippians.abbr
+lemcLI.Epistle.chapverse = "1:1-7"
 lemcLI.Epistle.text = "Brethren, Paul and Timothy, bondservants of Jesus Christ; To all the saints in Christ Jesus who are at Philippi, with the overseers and deacons: Grace to you and peace, from God our Father and from the Lord Jesus Christ. I give thanks to my God whenever I remember you, and I always pray with joy when I intercede on your behalf because of your partnership in the furtherance of the Good News, even from the very first day until now. I am confident of this very thing: that God who began a good work in you will complete it until the day of Jesus Christ. It is right for me to think this way about you, because I have you in my heart and because you are all partakers with me of grace, both in my imprisonment and in the defense and confirmation of the Good News."
 lemcLI.Epistle.pagenumber = ""

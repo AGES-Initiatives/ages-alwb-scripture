@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d183_en_US_eob
 
 lemcLI.Epistle.title = "NINTH SUNDAY"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Corinthians1
-lemcLI.Epistle.chapverse = "(3:9-17)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians1.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians1.abbr
+lemcLI.Epistle.chapverse = "3:9-17"
 lemcLI.Epistle.text = "Brethren, we are God’s co-workers! You are God’s field, God’s building. According to the grace of God which was given to me, as a wise master builder, I have laid a foundation, and another builds on it. But let everyone be careful how he builds on it! As it is, no one can lay any other foundation than the one that has [already] been laid, which is Jesus Christ. But as one builds on that foundation with gold, silver, precious stones, wood, hay, or stubble, each person’s work will be revealed. Certainly, the Day will make it manifest, because it is revealed in fire; and the fire will test everyone’s work. If what someone has built on the foundation remains, then a reward shall be received. [On the other hand], if someone’s work is burned, it will be lost, but that person shall be saved, as through fire. Do you not know that you are a sanctuary of God, and that God’s Spirit lives in you? If anyone destroys God’s sanctuary, God will destroy him because God’s sanctuary is holy, and this is what you are!"
 lemcLI.Epistle.pagenumber = ""

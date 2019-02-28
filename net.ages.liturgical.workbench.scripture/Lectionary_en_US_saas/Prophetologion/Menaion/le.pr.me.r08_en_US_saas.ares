@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.pr.me.r08_en_US_saas
 
 leprVE.reading.title = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
-leprVE.reading.book = bible_en_US_saas.Isaiah
+leprVE.reading.book_string = bible_en_US_saas.Isaiah.text
+leprVE.reading.book_abbr = bible_en_US_saas.Isaiah.abbr
 leprVE.reading.text = "Thus says the Lord: You will draw water with gladness from the wells of salvation. In that day, you will say, “Praise the Lord; call upon His name. Declare His glorious things among the Gentiles and make mention that His name is exalted. Sing to the name of the Lord, for He has done great things. Declare this in all the earth. Exult and be glad, O inhabitants of Zion, for the Holy One of Israel is exalted in her midst.”"
-leprVE.reading.chapverse = "(12:3-6)"
+leprVE.reading.chapverse = "12:3-6"

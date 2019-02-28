@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d243_en_US_eob
 
 lemcLI.Epistle.title = "THURSDAY OF THE EIGHTEENTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Ephesians
-lemcLI.Epistle.chapverse = "(5:33; 6:1-9)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Ephesians.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Ephesians.abbr
+lemcLI.Epistle.chapverse = "5:33; 6:1-9"
 lemcLI.Epistle.text = "Brethren, each one of you must also love his own wife even as his own self; and the wife must respect her husband. Children, obey your parents in the Lord, for this is right. “Honor your father and mother,” which is the first commandment with a promise: “that it may be well with you, and you may live long on the earth.” Fathers, do not drive your children to anger, but nurture them in the discipline and instruction of the Lord. Slaves, be obedient to those who are your masters according to the flesh, with fear and trembling, with deep loyalty, as to Christ. Do not serve only when eyes are on you in order to please human masters, but as bondservants of Christ. Accomplish God’s will from the heart; serve with a good attitude, as if you were serving the Lord and not men. Know that for whatever good we do, we shall receive the same in return from the Lord, no matter if we are slave or free. You masters, do likewise to them: do not resort to threats but recognize that you both have the same Master in heaven, and there is no discrimination with him."
 lemcLI.Epistle.pagenumber = ""

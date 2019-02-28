@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d360_en_US_eob
 
 lemcLI.Epistle.title = "TUESDAY OF THE THIRTY-FIFTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.John1
-lemcLI.Epistle.chapverse = "(3:9-22)"
+lemcLI.Epistle.book_string = bible_en_US_eob.John1.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.John1.abbr
+lemcLI.Epistle.chapverse = "3:9-22"
 lemcLI.Epistle.text = "Brethren, those who have been born of God do not keep on sinning because God’s seed abides in them. They cannot go on sinning, because they have been born of God. This is how the children of God and the children of the devil are revealed: whoever does not practice righteousness is not of God, and neither is the one who does not love his brother [or sister]. This is the message which you heard from the beginning: that we should love one another! We should not be like Cain who was of the evil one and who killed his brother [Abel]. Why did he kill him? Because his works were evil, while his brother’s works were righteous. Do not be surprised, my brethren, if the world hates you. We know that we have passed out of death into life because we love the brethren. Whoever does not love his brother [or sister] remains in death. Whoever hates his brother [or sister] is a murderer, and you know that eternal life does not remain in a murderer. This is how we know what love is: that he laid down his life for us. We too should lay down our lives for the brethren. But if someone is well off in worldly possessions and sees one of the brethren in need and yet refuses to help, how does the love of God remain in such a person? My little children, let us not love only in word or speech, but in deed and truth. And this is how we know that we are of the truth and assure our heart in his presence; even if our own heart condemns us, God is greater than our heart and knows all things. Beloved, if our hearts do not condemn us, we have boldness toward God. Whatever we ask, we receive from him because we keep his commandments and do what is pleasing in his sight."
 lemcLI.Epistle.pagenumber = ""

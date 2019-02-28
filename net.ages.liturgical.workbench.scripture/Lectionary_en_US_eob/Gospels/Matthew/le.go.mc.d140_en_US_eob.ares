@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d140_en_US_eob
 
 lemcLI.Gospel.title = "Saturday of the Third Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Matthew
-lemcLI.Gospel.chapverse = "(7:24-29; 8:1-4)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemcLI.Gospel.chapverse = "7:24-29; 8:1-4"
 lemcLI.Gospel.text = "The Lord said: “Everyone therefore who hears my words and does them, I will compare to a wise person who built his house on a rock. The rain came down, the floods came, and the winds blew, beating hard on that house. Yet, it did not collapse, because it was founded on the rock. But everyone who hears my words and does not do them will be like a foolish man who built his house on the sand. The rain came down, the floods came, and the winds blew, beating hard on that house; then it collapsed, and great was its downfall.” It happened, when Jesus had finished saying these things, that the crowds were astonished at his teaching because he taught them with authority, not like the scribes. When Jesus came down from the mountain, great multitudes followed him. Behold, a leper came to him and expressed adoration to him, saying, “Lord, if you want to, you can make me clean!” Jesus stretched out his hand, and touched him, saying, “I want to! Be made clean.” Immediately, this man’s leprosy was cleansed. Jesus then said to him, “Do not tell anyone, but go, show yourself to the priest and offer the gift that Moses commanded, as a testimony to them.”"
 lemcLI.Gospel.pagenumber = ""

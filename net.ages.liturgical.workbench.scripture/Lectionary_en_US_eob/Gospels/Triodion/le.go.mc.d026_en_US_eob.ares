@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.go.mc.d026_en_US_eob
 
 lemcCO.Gospel.title = "Gospel Reading at Compline on Wednesday"
 lemcCO.Gospel.version = properties_en_US_eob.version.designation
-lemcCO.Gospel.book = bible_en_US_eob.Mark
-lemcCO.Gospel.chapverse = "(11:22-26, Matt. 7:7-8)"
+lemcCO.Gospel.book_string = bible_en_US_eob.Mark.text
+lemcCO.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
+lemcCO.Gospel.chapverse = "11:22-26, Matt. 7:7-8"
 lemcCO.Gospel.text = "The Lord said: “Have faith in God! For amen, I tell you that if anyone tells this mountain, ‘Be taken up and cast into the sea,’ without doubt in his heart but believing that what he says is happening, he shall have whatever he says. Therefore, I tell you, whatever things you ask for and pray for, believe that you receive them, and you will have them. Whenever you stand praying, if you have anything against anyone, forgive, so that your Father who is in heaven may also forgive your transgressions. Ask, and it will be given to you! Seek, and you will find! Knock, and it will be opened for you! Indeed, everyone who asks receives. Whoever seeks finds! To the one who knocks, it will be opened.”"

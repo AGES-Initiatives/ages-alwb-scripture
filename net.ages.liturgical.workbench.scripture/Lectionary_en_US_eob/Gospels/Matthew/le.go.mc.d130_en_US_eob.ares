@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d130_en_US_eob
 
 lemcLI.Gospel.title = "Wednesday of the Second Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Matthew
-lemcLI.Gospel.chapverse = "(7:21-23)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemcLI.Gospel.chapverse = "7:21-23"
 lemcLI.Gospel.text = "The Lord said: “It is not everyone who tells me, ‘Lord, Lord’ who will enter into the Kingdom of Heaven, but the one who does the will of my Father who is in heaven. Many will tell me in that Day, ‘Lord, Lord, did we not prophesy in your Name, cast out demons in your Name, and do many deeds of power in your Name?’ Then I will tell them, ‘I never knew you! Depart from me, you who do what is wicked.’ ”"
 lemcLI.Gospel.pagenumber = ""

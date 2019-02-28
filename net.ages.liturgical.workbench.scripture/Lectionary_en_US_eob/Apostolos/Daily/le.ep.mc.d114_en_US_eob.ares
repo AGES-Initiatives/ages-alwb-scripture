@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d114_en_US_eob
 
 lemcLI.Epistle.title = "MONDAY OF THE SEVENTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Acts
-lemcLI.Epistle.chapverse = "(21:8-14)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Acts.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Acts.abbr
+lemcLI.Epistle.chapverse = "21:8-14"
 lemcLI.Epistle.text = "In those days, the apostles left and arrived in Caesarea. We went to the house of Philip the evangelist, who was one of the seven, and stayed with him. Now this man had four virgin daughters who prophesied. As we stayed there for a few days, a prophet named Agabus came down from Judea. Coming to us and taking Paul’s belt, he bound his own feet and hands, and said, “Thus says the Holy Spirit: ‘Likewise, in Jerusalem, the Jews will bind the man who owns this belt and they will deliver him into the hands of the Gentiles.’” When we heard these things, both we and the disciples who lived there begged Paul not to go up to Jerusalem. Then Paul answered, “What are you doing, weeping and breaking my heart? Indeed, I am ready, not only to be bound, but also to die in Jerusalem for the Name of the Lord Jesus.” Since he would not be persuaded, we became silent, except to say, “The Lord’s will be done!”"
 lemcLI.Epistle.pagenumber = ""

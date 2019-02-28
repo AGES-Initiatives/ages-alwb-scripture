@@ -5758,7 +5758,7 @@ bode.version = properties_en_US_saas.version.designation
 
 bode1.title = "Ode One"
 bode1.version = properties_en_US_saas.version.designation
-bode1.book = bible_en_US_saas.Exodus
+bode1.book_abbr = bible_en_US_saas.Exodus.abbr
 bode1.heading1 = "An Ode of Moses"
 bode1.chapverse = "(15:1-19)"
 bode1.heading2 = "When he had completely submerged Pharaoh, Moses said:"
@@ -5806,7 +5806,7 @@ bode1.v20.text = "For Pharaoh's horses went with his chariots and horsemen into 
 
 bode2.title = "Ode Two"
 bode2.version = properties_en_US_saas.version.designation
-bode2.book = bible_en_US_saas.Deuteronomy
+bode2.book_abbr = bible_en_US_saas.Deuteronomy.abbr
 bode2.heading1 = "An Ode of Moses in Deuteronomy"
 bode2.chapverse = "(32:1-43)"
 bode2.heading2 = "After the Law was written again an Ode of Moses."
@@ -5912,7 +5912,7 @@ bode2.v49.text = "Rejoice, O Gentiles, with His people; and let all the angels o
 
 bode3.title = "Ode Three"
 bode3.version = properties_en_US_saas.version.designation
-bode3.book = bible_en_US_saas.Samuel1
+bode3.book_abbr = bible_en_US_saas.Samuel1.abbr
 bode3.heading1 = "The Prayer of Hannah, the Mother of the Prophet Samuel"
 bode3.chapverse = "(2:1-10)"
 bode3.heading2 = "The barren women honors God when she strangely gives birth."
@@ -5950,7 +5950,7 @@ bode3.v15.text = "He gives strength to our leaders, and He will exalt the horn o
 
 bode4.title = "Ode Four"
 bode4.version = properties_en_US_saas.version.designation
-bode4.book = bible_en_US_saas.Habakkuk
+bode4.book_abbr = bible_en_US_saas.Habakkuk.abbr
 bode4.heading1 = "The Prayer of the Prophet Habakkuk"
 bode4.chapverse = "(3:1-19)"
 bode4.heading2 = "Habakkuk, tell us of the Word's self-empyting."
@@ -6008,7 +6008,7 @@ bode4.v25.text = "He will set me upon high places, so to conquer by His song."
 
 bode5.title = "Ode Five"
 bode5.version = properties_en_US_saas.version.designation
-bode5.book = bible_en_US_saas.Isaiah
+bode5.book_abbr = bible_en_US_saas.Isaiah.abbr
 bode5.heading1 = "Prayer of Isaiah the Prophet "
 bode5.chapverse = "(26:9-20)"
 bode5.heading2 = "Isaiah's prophecy and also his prayer."
@@ -6048,7 +6048,7 @@ bode5.v16.text = "Come, my people, enter your closets and shut your door; hide y
 
 bode6.title = "Ode Six"
 bode6.version = properties_en_US_saas.version.designation
-bode6.book = bible_en_US_saas.Jonah
+bode6.book_abbr = bible_en_US_saas.Jonah.abbr
 bode6.heading1 = "Prayer of the Prophet Jonah"
 bode6.chapverse = "(2:2-10)"
 bode6.heading2 = "From the belly of the sea creature, Jonah cried out and said:"
@@ -6074,7 +6074,7 @@ bode6.v9.text = "But with a voice of thanksgiving and praise, I will sacrifice t
 
 bode7.title = "Ode Seven"
 bode7.version = properties_en_US_saas.version.designation
-bode7.book = bible_en_US_saas.Daniel
+bode7.book_abbr = bible_en_US_saas.Daniel.abbr
 bode7.heading1 = "The Prayer of the Holy Three Servants"
 bode7.chapverse = "(3:25-56)"
 bode7.heading2 = "The praise of the three Young Men extinguishes the flame."
@@ -6138,7 +6138,7 @@ bode7.v28.text = "Blessed are You in the firmament of heaven, for You are praise
 
 bode8.title = "Ode Eight"
 bode8.version = properties_en_US_saas.version.designation
-bode8.book = bible_en_US_saas.Daniel
+bode8.book_abbr = bible_en_US_saas.Daniel.abbr
 bode8.heading1 = "Hymn of the Three Young Men"
 bode8.chapverse = "(3:57-90)"
 bode8.heading2 = "Praise the Master, O created nature."
@@ -6187,7 +6187,7 @@ bode8.v19.text = "We praise and we bless and we worship the Lord."
 
 //bode9.title = "Ode Nine"
 //bode9.version = properties_en_US_saas.version.designation
-//bode9_mag.book = 
+//bode9_mag.book_abbr = 
 //bode9_mag.heading1 = ""
 //bode9_mag.chapverse = ""
 //bode9_mag.heading2 = ""
@@ -6204,7 +6204,7 @@ bode8.v19.text = "We praise and we bless and we worship the Lord."
 //bode9_mag.v5.text = ""
 //bode9_mag.v6.number = ""
 //bode9_mag.v6.text = ""
-//bode9.book = 
+//bode9.book_abbr = 
 //bode9.heading1 = ""
 //bode9.chapverse = ""
 //bode9.heading2 = ""

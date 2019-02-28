@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.pr.me.r17_en_US_saas
 
 leprVE.reading.title = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
-leprVE.reading.book = bible_en_US_saas.Kings2
-leprVE.reading.chapverse = "(5:9-14)"
+leprVE.reading.book_string = bible_en_US_saas.Kings2.text
+leprVE.reading.book_abbr = bible_en_US_saas.Kings2.abbr
+leprVE.reading.chapverse = "5:9-14"
 leprVE.reading.text = "Then Naaman, commander of the army of Syria, went with his horses and chariot and stood at the door of Elisha’s house. And Elisha sent a messenger to him, saying, “Go and bathe in the Jordan seven times, and your flesh shall be restored to you, and you shall be clean.” But Naaman became furious and went away, saying, “Indeed, I told myself that Elisha would come out to greet me; that he would stand and call on the name of his God; and that he would put his hand upon the place and heal the leprosy. Are not the Abanah and the Pharpar, the rivers of Damascus, better than all the waters of Israel? Can I not bathe in them and be clean?” So he turned and went away in a rage. Then his servants approached and said to him, “If the prophet were to tell you to do something great, would you not complete it? But here the prophet said to you, ‘Bathe and be clean.’ ” So Naaman went down and dipped seven times in the Jordan, according to Elisha’s instruction, and his flesh was restored like the flesh of a little child, and he was cleansed."

@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.pr.me.r13_en_US_saas
 
 leprVE.reading.title = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
-leprVE.reading.book = bible_en_US_saas.Exodus
-leprVE.reading.chapverse = "(14:15-18, 21-23, 27-29a)"
+leprVE.reading.book_string = bible_en_US_saas.Exodus.text
+leprVE.reading.book_abbr = bible_en_US_saas.Exodus.abbr
+leprVE.reading.chapverse = "14:15-18, 21-23, 27-29a"
 leprVE.reading.text = "Then the Lord said to Moses, “Why do you cry to Me? Tell the children of Israel to go forward. Now lift up your rod, and stretch out your hand over the sea and divide it; and let the children of Israel go on dry ground through the midst of the sea. I indeed will harden Pharaoh’s heart and all the Egyptians, and they will go in after them. So I will be glorified in Pharaoh and over all his army, his chariots, and his horses. Then the Egyptians will know I am the Lord, when I am glorified upon Pharaoh, his chariots, and his horses.” Then Moses stretched out his hand over the sea; and the Lord carried back the sea by a strong south wind all that night and made the sea dry ground. Thus the waters were divided. So the children of Israel went into the midst of the sea on the dry ground, and the waters were a wall to them on their right hand and on their left. Then the Egyptians pursued and went after them into the midst of the sea, all Pharaoh’s horses, chariots, and horsemen. So Moses stretched out his hand over the sea; and when the morning appeared, the sea returned to its full depth, while the Egyptians were trying to flee. But the Lord shook off the Egyptians in the midst of the sea. Then the waters returned and covered the chariots, the horsemen, and all of Pharaoh’s army that came into the sea after them. Not so much as one of them remained. But the children of Israel walked on dry ground in the midst of the sea."

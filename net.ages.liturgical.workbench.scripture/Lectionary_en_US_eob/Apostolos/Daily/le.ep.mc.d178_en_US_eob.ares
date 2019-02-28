@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d178_en_US_eob
 
 lemcLI.Epistle.title = "TUESDAY OF THE NINTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Corinthians1
-lemcLI.Epistle.chapverse = "(12:12-26)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians1.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians1.abbr
+lemcLI.Epistle.chapverse = "12:12-26"
 lemcLI.Epistle.text = "Brethren, just as the body is one and yet has many members, and all the members of the body (though many) form one body, so also is Christ. For in one Spirit we were all baptized into one body, both Jews and Greeks, slaves or free; and we were all made to drink into one Spirit. For the body is not one member, but many. If the foot would say, “Because I am not the hand, I am not part of the body,” it would still be part of the body. If the ear would say, “Because I am not the eye, I am not part of the body,” it would still be part of the body. If the whole body were an eye, where would the hearing be? Or if the whole body were hearing, where would the smelling be? But now, God has set the members of the body, each one of them, just as he desired. If they were all one member, where would the body be? But now, they are many members, but [still] one body. And the eye cannot say to the hand, “I have no need of you,” or again the head to the feet, “I have no need of you.” In fact, the members of the body which seem to be weaker are indispensable! The members of the body which we think less honorable, we clothe with greater honor while our less respectable members are treated with greater respect, although our more presentable parts have no such need. But God put the body together, giving more abundant honor to the inferior part, so that there should be no division in the body. Instead, the members should have the same care for one another. When one member suffers, all the members suffer with it, and when one member is glorified, all the members rejoice with it."
 lemcLI.Epistle.pagenumber = ""

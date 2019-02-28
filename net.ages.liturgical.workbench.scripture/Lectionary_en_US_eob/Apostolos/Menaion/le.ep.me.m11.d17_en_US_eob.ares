@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.me.m11.d17_en_US_eob
 
 lemeLI.Epistle.title = "For the Hierarch."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
-lemeLI.Epistle.book = bible_en_US_eob.Corinthians1
-lemeLI.Epistle.chapverse = "(12:7-11)"
+lemeLI.Epistle.book_string = bible_en_US_eob.Corinthians1.text
+lemeLI.Epistle.book_abbr = bible_en_US_eob.Corinthians1.abbr
+lemeLI.Epistle.chapverse = "12:7-11"
 lemeLI.Epistle.text = "Brethren, to each one, the manifestation of the Spirit is given for the benefit of all. To one, the word of wisdom is given through the Spirit, and to another the word of knowledge, [both] according to the same Spirit. To another, faith [is given] by the same Spirit, and to yet another gifts of healings, [both] by the same Spirit. To another it is given to work miracles and to another prophecy. Another receives the discerning of spirits, another different kinds of tongues, and another [yet] the interpretation of tongues. However, it is the one and same Spirit who works all of these, distributing to each one individually as he intends."
 lemeLI.Epistle.pagenumber = ""

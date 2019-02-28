@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.pr.me.r73_en_US_saas
 
 leprVE.reading.title = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
-leprVE.reading.book = bible_en_US_saas.Proverbs
-leprVE.reading.chapverse = "(3:21-37)"
+leprVE.reading.book_string = bible_en_US_saas.Proverbs.text
+leprVE.reading.book_abbr = bible_en_US_saas.Proverbs.abbr
+leprVE.reading.chapverse = "3:21-37"
 leprVE.reading.text = "God by wisdom founded the earth and prepared the heavens with discernment. With perception the depths were broken up, and the clouds flowed with dew. My son, do not be careless, but keep my counsel and thinking, that your soul may live, and grace may be around your neck. And there will be healing for your flesh and care for your bones, that you may walk confidently in peace in all your ways, and your foot may not stumble. For if you sit down, you will be without fear, and if you lie down, your sleep will be pleasant. And do not be afraid of intimidation when it comes upon you, nor of the attack of the ungodly when it comes at you; for the Lord will be over all your ways, and He will plant your feet firmly, that you may not be shaken. Do not withhold doing good to the needy, when you may give a helping hand; do not say, when you are able to do good, “Come back tomorrow, and I will give you something”; for you do not know what the next day will bring forth. Do not devise evil things against your friend who dwells beside you and trusts in you. Do not be ready to quarrel with a man in vain, lest he do you some harm. Do not incur the reproach of evil men, neither seek their ways; for every lawless man is unclean before the Lord, and he does not sit among the righteous. The curse of God is in the houses of the ungodly, but He blesses the dwellings of the righteous. The Lord opposes the arrogant, but He gives grace to the humble."

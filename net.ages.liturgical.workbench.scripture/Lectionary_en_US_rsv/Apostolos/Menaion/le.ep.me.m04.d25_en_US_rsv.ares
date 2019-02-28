@@ -2,25 +2,29 @@ A_Resource_Whose_Name = le.ep.me.m04.d25_en_US_rsv
 
 lemeVE.Reading1.title = "For the Evangelist."
 lemeVE.Reading1.version = 
-lemeVE.Reading1.book = 
+lemeVE.Reading1.book_string = 
+lemeVE.Reading1.book_abbr = 
 lemeVE.Reading1.chapverse = ""
 lemeVE.Reading1.text = ""
 
 lemeVE.Reading2.title = "For the Evangelist."
 lemeVE.Reading2.version = 
-lemeVE.Reading2.book = 
+lemeVE.Reading2.book_string = 
+lemeVE.Reading2.book_abbr = 
 lemeVE.Reading2.chapverse = ""
 lemeVE.Reading2.text = ""
 
 lemeVE.Reading3.title = "For the Evangelist."
 lemeVE.Reading3.version = 
-lemeVE.Reading3.book = 
+lemeVE.Reading3.book_string = 
+lemeVE.Reading3.book_abbr = 
 lemeVE.Reading3.chapverse = ""
 lemeVE.Reading3.text = ""
 
 lemeLI.Epistle.title = "For the Apostle."
 lemeLI.Epistle.version = properties_en_US_rsv.version.designation
-lemeLI.Epistle.book = bible_en_US_rsv.Peter1
-lemeLI.Epistle.chapverse = "(5:6-14)"
+lemeLI.Epistle.book_string = bible_en_US_rsv.Peter1.text
+lemeLI.Epistle.book_abbr = bible_en_US_rsv.Peter1.abbr
+lemeLI.Epistle.chapverse = "5:6-14"
 lemeLI.Epistle.text = "Brethren, humble yourselves therefore under the mighty hand of God, that in due time he may exalt you. Cast all your anxieties on him, for he cares about you. Be sober, be watchful. Your adversary the devil prowls around like a roaring lion, seeking some one to devour. Resist him, first in your faith, knowing that the same experience of suffering is required of your brotherhood throughout the world. And after you have suffered a little while, the God of all grace, who has called you to his eternal glory in Christ, will himself restore, establish and strengthen you. To him be the dominion for ever and ever. Amen. By Silvanos, a faithful brother as I regard him, I have written briefly to you, exhorting and declaring that this is the true grace of God; stand fast in it. She who is at Babylon, who is likewise chosen, sends you greetings; and so does my son Mark. Greet one another with the kiss of love. Peace to all of you that are in Christ."
 lemeLI.Epistle.pagenumber = ""

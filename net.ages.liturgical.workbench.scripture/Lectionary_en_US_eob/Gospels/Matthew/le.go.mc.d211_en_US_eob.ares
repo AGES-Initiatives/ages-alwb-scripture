@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d211_en_US_eob
 
 lemcLI.Gospel.title = "Thirteenth Sunday"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Matthew
-lemcLI.Gospel.chapverse = "(21:33-42)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemcLI.Gospel.chapverse = "21:33-42"
 lemcLI.Gospel.text = "The Lord said this parable: “There was a man who was the owner of a household. He planted a vineyard, put a fence around it, dug a winepress in it, built a tower, and leased it out to farmers. He then left for another country. When the season for the fruit drew near, he sent his slaves to the farmers, to receive his fruit. But the farmers took his slaves, beat one, killed another, and stoned yet another. Again, the owner sent other slaves, even more than the first time; and they treated them in the same way. Then he sent his son to them, saying: ‘They will respect my son!’ But the farmers, when they saw the son, said to each other, ‘This is the heir! Come, let us kill him and seize his inheritance.’ And so they seized him, threw him out of the vineyard, and killed him. Therefore, when the lord of the vineyard returns, what will he do with those farmers?” They answered him, “He will bring those wretches to a wretched end and he will lease out the vineyard to other farmers who will give him the fruit in its season.” Jesus said to them, “Have you never read in the Scriptures: ‘The [very] stone which the builders rejected was made the head of the corner. This was from the Lord and it is marvelous in our eyes?’”"
 lemcLI.Gospel.pagenumber = ""

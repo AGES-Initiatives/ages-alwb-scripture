@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d012_en_US_eob
 
 leluLI.Gospel.title = "Friday of the Second Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Luke
-leluLI.Gospel.chapverse = "(6:17-23)"
+leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+leluLI.Gospel.chapverse = "6:17-23"
 leluLI.Gospel.text = "At that time, Jesus stood on a level place, and a number of his disciples and a great multitude of people from all Judea, Jerusalem, and the sea coast of Tyre and Sidon came to hear him and to be healed of their diseases. Those who were troubled by unclean spirits also came, and they were healed. The whole multitude desired to touch him because power came out from him and healed them all. Jesus looked up to his disciples, and said: Blessed are you who are poor, for yours is the Kingdom of God. Blessed are you who hunger now, for you will be filled. Blessed are you who weep now, for you will laugh. Blessed are you when men shall hate you, and when they shall exclude and mock you, and throw out your name as evil for the sake of the Son of Man. Rejoice in that day, and leap for joy, for behold, your reward is great in heaven."
 leluLI.Gospel.pagenumber = ""

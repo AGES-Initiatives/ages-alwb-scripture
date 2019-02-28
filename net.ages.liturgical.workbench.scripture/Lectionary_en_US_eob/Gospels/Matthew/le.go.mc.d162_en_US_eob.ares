@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d162_en_US_eob
 
 lemcLI.Gospel.title = "Sixth Sunday"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Matthew
-lemcLI.Gospel.chapverse = "(9:1-8)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemcLI.Gospel.chapverse = "9:1-8"
 lemcLI.Gospel.text = "At that time, Jesus entered into a boat, crossed over [the lake] and came into his own town. Behold, some people brought him a man who was paralyzed, lying on a bed. Seeing their faith, Jesus said to the paralytic, “Son, be of good cheer! Your sins are forgiven!” At this, some of the scribes said to themselves, “This man blasphemes!” Jesus, knowing their thoughts, said, “Why do you think evil [thoughts] in your hearts? Which is easier, to say, ‘Your sins have been forgiven’ or, ‘Get up, and walk?’ But so that you may know that the Son of Man has authority on earth to forgive sins” (then he said to the paralytic), “Get up, take up your mat, and go to your house.” The man got up and departed to his house. But when the crowds saw this, they were astonished and glorified God, who had given such authority to men."
 lemcLI.Gospel.pagenumber = ""

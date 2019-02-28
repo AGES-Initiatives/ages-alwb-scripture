@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.go.va.buildingfoundation_en_US_eob
 
 levaLI.Gospel.title = ""
 levaLI.Gospel.version = properties_en_US_eob.version.designation
-levaLI.Gospel.book = bible_en_US_eob.Matthew
-levaLI.Gospel.chapverse = "(7:24-25)"
+levaLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+levaLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+levaLI.Gospel.chapverse = "7:24-25"
 levaLI.Gospel.text = "The Lord said: “Everyone therefore who hears my words and does them, I will compare to a wise person who built his house on a rock.”"

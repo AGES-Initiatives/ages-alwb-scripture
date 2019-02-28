@@ -2,27 +2,35 @@ A_Resource_Whose_Name = le.go.os_en_US_nkjv
 
 leosVE.Prayer_NynApolyeis.title = "Song of Simeon."
 leosVE.Prayer_NynApolyeis.version = properties_en_US_nkjv.version.designation
-leosVE.Prayer_NynApolyeis.book = bible_en_US_nkjv.Luke
-leosVE.Prayer_NynApolyeis.chapverse = "(2:29-32)"
+leosVE.Prayer_NynApolyeis.book_string = bible_en_US_nkjv.Luke.text
+leosVE.Prayer_NynApolyeis.book_abbr = bible_en_US_nkjv.Luke.abbr
+leosVE.Prayer_NynApolyeis.book_abbr = bible_en_US_nkjv.Luke.abbr
+leosVE.Prayer_NynApolyeis.chapverse = "2:29-32"
 leosVE.Prayer_NynApolyeis.text = "Lord, now You are letting Your servant depart in peace, according to Your word; for my eyes have seen Your salvation which You have prepared before the face of all peoples, a light to bring revelation to the Gentiles, and the glory of Your people Israel."
 leosVE.Prayer_NynApolyeis1.text = "Lord, now You are letting Your servant depart in peace, according to Your word; for my eyes have seen Your salvation which You have prepared before the face of all peoples."
 leosVE.Prayer_NynApolyeis2.text = "A light to bring revelation to the Gentiles, and the glory of Your people Israel."
 
 leosMA.SixPsalmsIntro1.title = ""
 leosMA.SixPsalmsIntro1.version = properties_en_US_nkjv.version.designation
-leosMA.SixPsalmsIntro1.book = bible_en_US_nkjv.Luke
-leosMA.SixPsalmsIntro1.chapverse = "(2:14)"
+leosMA.SixPsalmsIntro1.book_string = bible_en_US_nkjv.Luke.text
+leosMA.SixPsalmsIntro1.book_abbr = bible_en_US_nkjv.Luke.abbr
+leosMA.SixPsalmsIntro1.book_abbr = bible_en_US_nkjv.Luke.abbr
+leosMA.SixPsalmsIntro1.chapverse = "2:14"
 leosMA.SixPsalmsIntro1.text = "Glory to God in the highest, and on earth peace, good will toward men."
 
 leosLI.pe.d095.CommunionHymn.title = ""
 leosLI.pe.d095.CommunionHymn.version = ""
-leosLI.pe.d095.CommunionHymn.book = bible_en_US_nkjv.John
-leosLI.pe.d095.CommunionHymn.number = "(6:56)"
+leosLI.pe.d095.CommunionHymn.book_string = bible_en_US_nkjv.John.text
+leosLI.pe.d095.CommunionHymn.book_abbr = bible_en_US_nkjv.John.abbr
+leosLI.pe.d095.CommunionHymn.book_abbr = bible_en_US_nkjv.John.abbr
+leosLI.pe.d095.CommunionHymn.number = "6:56"
 leosLI.pe.d095.CommunionHymn.text = "He who eats My flesh and drinks My blood abides in Me, and I in him. So said the Lord."
 
 leosTY.Beatitudes.title = ""
 leosTY.Beatitudes.version = 
-leosTY.Beatitudes.book = bible_en_US_nkjv.Matthew
+leosTY.Beatitudes.book_string = bible_en_US_nkjv.Matthew.text
+leosTY.Beatitudes.book_abbr = bible_en_US_nkjv.Matthew.abbr
+leosTY.Beatitudes.book_abbr = bible_en_US_nkjv.Matthew.abbr
 leosTY.Beatitudes.chapverse = ""
 leosTY.Beatitudes_Intro.text = ""
 leosTY.Beatitudes_v01.text = ""

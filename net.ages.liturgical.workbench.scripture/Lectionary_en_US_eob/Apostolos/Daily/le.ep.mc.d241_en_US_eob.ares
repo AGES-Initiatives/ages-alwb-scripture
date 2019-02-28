@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d241_en_US_eob
 
 lemcLI.Epistle.title = "TUESDAY OF THE EIGHTEENTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Ephesians
-lemcLI.Epistle.chapverse = "(5:20-25)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Ephesians.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Ephesians.abbr
+lemcLI.Epistle.chapverse = "5:20-25"
 lemcLI.Epistle.text = "Brethren, always give thanks for everything in the Name of our Lord Jesus Christ, even to God the Father. [Finally], be in mutual subjection in the fear of Christ. Wives, be subject to your own husbands as [you are] to the Lord. For the husband is the head of the wife, as Christ is the head of the Church, and he is the savior of the body. As the Church is subject to Christ, wives should likewise be subject to their own husbands in everything. Husbands, love your wives, just as Christ loved the Church and gave himself up for her."
 lemcLI.Epistle.pagenumber = ""

@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu
 
 leluLI.Gospel.title = ""
 leluLI.Gospel.version = 
-leluLI.Gospel.book = 
+leluLI.Gospel.book_string = 
+leluLI.Gospel.book_abbr = 
 leluLI.Gospel.chapverse = ""
 leluLI.Gospel.text = ""
 leluLI.Gospel.pagenumber = ""

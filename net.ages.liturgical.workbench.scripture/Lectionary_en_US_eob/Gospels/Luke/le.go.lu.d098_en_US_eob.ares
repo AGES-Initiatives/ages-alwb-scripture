@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d098_en_US_eob
 
 leluLI.Gospel.title = "Sunday of the Fourteenth Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Luke
-leluLI.Gospel.chapverse = "(18:35-43)"
+leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+leluLI.Gospel.chapverse = "18:35-43"
 leluLI.Gospel.text = "At that time, as Jesus was approaching Jericho, a certain blind man sat by the road, begging. Hearing a crowd going by, he asked what this meant. People told him that Jesus of Nazareth was passing by. He began to cry out, “Jesus, son of David, have mercy on me!” Then those who led the way rebuked him, ordering him to be quiet. But the blind man cried out all the more, “Son of David, have mercy on me!” Standing still, Jesus commanded that the blind man be brought to him. When the man had come near, Jesus asked him, ”What do you want me to do?” The man replied, “Lord, that I may see again!” Jesus said to him, “Receive your sight. Your faith has healed you.” Immediately, the man received his sight and began to follow Jesus, glorifying God. When all the people saw this, they praised God."
 leluLI.Gospel.pagenumber = ""

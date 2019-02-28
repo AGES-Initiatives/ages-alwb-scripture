@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d313_en_US_eob
 
 lemcLI.Epistle.title = "THURSDAY OF THE TWENTY-EIGHTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Titus
-lemcLI.Epistle.chapverse = "(1:5-14)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Titus.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Titus.abbr
+lemcLI.Epistle.chapverse = "1:5-14"
 lemcLI.Epistle.text = "Titus, my child, I left you in Crete for this reason: that you would set in order the things that were amiss and appoint presbyters in every city, as I directed you: someone who is blameless, the husband of one wife, whose children believe and are not accused of loose or unruly behavior. Indeed, the overseer must be beyond reproach, as God’s steward; not self-pleasing, not easily angered, not someone who abuses wine, not violent and not greedy for dishonest gain. Instead, he should be hospitable, a lover of what is good, sensible, just, holy and self-controlled; holding fast to the sure word which is in harmony with what has been taught, so that he may be able both to exhort in the sound doctrine and to refute those who contradict. There are also many who are rebellious, vain talkers, and deceivers, especially those of the circumcision, whose mouths must be stopped. These men upset entire families, teaching things they should not [teach], doing it for sordid gain. One of them, one of their own prophets, said, “Cretans are always liars, evil beasts, and lazy gluttons.” This testimony is true! For this reason, rebuke them sharply, so that they may be sound in the faith, not paying attention to Jewish fables and human commandments which distract from the truth."
 lemcLI.Epistle.pagenumber = ""

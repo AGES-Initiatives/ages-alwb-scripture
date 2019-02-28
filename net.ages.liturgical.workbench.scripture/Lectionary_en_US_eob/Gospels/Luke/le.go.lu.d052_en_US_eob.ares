@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d052_en_US_eob
 
 leluLI.Gospel.title = "Wednesday of the Eighth Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Luke
-leluLI.Gospel.chapverse = "(12:48-59)"
+leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+leluLI.Gospel.chapverse = "12:48-59"
 leluLI.Gospel.text = "The Lord said: “From everyone to whom much is given, much will be required; and from whoever was entrusted with much, much will be asked. I have come to bring fire upon the earth, and how I wish it were blazing already! But now, I have a baptism to be baptized with, and how distressed I am until it is accomplished! Do you think that I have come to bring peace on earth? No, I tell you, but rather division. For from now on, there will be five in a divided house, three against two, and two against three. They will be divided, father against son, son against father; mother against daughter, and daughter against her mother; mother-in-law against her daughter-in-law, and daughter-in-law against her mother-in-law.” He also said to the multitudes, “When you see a cloud rising from the west, you immediately say, ‘A shower is coming,’ and so it happens. When a south wind blows, you say, ‘There will be a scorching heat,’ and it happens. You hypocrites! You know how to interpret the appearance of the earth and sky, but how is it that you do not interpret this [present] time? Why do you not judge for yourselves what is right? For when you are going with your adversary before the magistrate, as you are on the way, do your utmost to be released from him, for fear that perhaps he will drag you to the judge, and the judge might deliver you to the officer, and the officer might throw you into prison. I tell you, you will by no means get out of there, until you have paid the very last penny.”"
 leluLI.Gospel.pagenumber = ""

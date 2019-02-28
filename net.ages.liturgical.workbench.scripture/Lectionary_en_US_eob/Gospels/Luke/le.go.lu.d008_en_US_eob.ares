@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d008_en_US_eob
 
 leluLI.Gospel.title = "Monday of the Second Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Luke
-leluLI.Gospel.chapverse = "(4:38-44)"
+leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+leluLI.Gospel.chapverse = "4:38-44"
 leluLI.Gospel.text = "At that time, Jesus entered into Simon’s house. Simon’s mother-inlaw was afflicted with a great fever, and they asked him [to do something] for her. He stood over her, rebuked the fever, and it left her. Immediately, she rose up and served them. When the sun was setting, all those who had anyone sick with various diseases brought them to Jesus; and he laid his hands on every one of them, and healed them. Demons also came out from many, crying out, “You are the Christ, the Son of God!” Rebuking them, Jesus did not allow them to speak, because they knew that he was the Christ. When it was day, he departed and went into an uninhabited place. The people were looking for him and came to him. They held on to him in order to prevent him from leaving them. But he said to them, “I must preach the Good News of the Kingdom of God to the other cities as well. I have been sent for this reason!” And he continued preaching in the synagogues of Galilee."
 leluLI.Gospel.pagenumber = ""

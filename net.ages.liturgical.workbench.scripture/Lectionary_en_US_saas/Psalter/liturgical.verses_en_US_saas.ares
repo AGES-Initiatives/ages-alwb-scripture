@@ -511,7 +511,7 @@ psVE.saturday.aposverse.v3.text = "Holiness is proper to Your house, O Lord, unt
 //goVE.songofsymeon.v1b.text = ""
 
 //Matins
-//goMA.sixpsalms.intro.v1.info = (Lk 2:14) le.go.os_en_US_saas.leosMA.SixPsalmsIntro1.book
+//goMA.sixpsalms.intro.v1.info = (Lk 2:14) le.go.os_en_US_saas.leosMA.SixPsalmsIntro1.book_abbr
 //goMA.sixpsalms.intro.v1.text = ""
 psMA.sixpsalms.intro.v2.info = ps_en_US_saas.psa50.v17.number
 psMA.sixpsalms.intro.v2.text = "O Lord, You shall open my lips, and my mouth will declare Your praise."
@@ -543,7 +543,7 @@ psMA.beginning.v3.text = "All the nations surrounded me, but in the name of the 
 psMA.beginning.v4.info = ps_en_US_saas.psa117.v23.number
 psMA.beginning.v4.text = "And this came about from the Lord, and it is wonderful in our eyes."
 
-psMA.alleluia_lent.v1.info = le.pr.os_en_US_saas.leosMA.LentAlleluia.book
+psMA.alleluia_lent.v1.info = le.pr.os_en_US_saas.leosMA.LentAlleluia.book_abbr
 psMA.alleluia_lent.v1.text = "My spirit rises early in the morning to You, O God, for Your commands are a light upon the earth."
 psMA.alleluia_lent.v2.info = le.pr.os_en_US_saas.leosMA.LentAlleluia.chapverse
 psMA.alleluia_lent.v2.text = "Learn righteousness, you who dwell on the earth."
@@ -1355,7 +1355,7 @@ psLI.typika.ps145.v9.text = "He shall adopt the orphan and the widow, but He sha
 psLI.typika.ps145.v10.info = ps_en_US_saas.psa145.v10.number
 psLI.typika.ps145.v10.text = "The Lord shall reign forever; your God, O Zion, to all generations."
 
-//goLI.typika.beatitudes.info = le.go.os_en_US_saas.leosTY.Beatitudes.book
+//goLI.typika.beatitudes.info = le.go.os_en_US_saas.leosTY.Beatitudes.book_abbr
 //goLI.typika.beatitudes.intro.text = ""
 //goLI.typika.beatitudes.v01.text = ""
 //goLI.typika.beatitudes.v02.text = ""

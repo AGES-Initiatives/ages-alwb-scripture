@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d003_en_US_eob
 
 leluLI.Gospel.title = "Wednesday of the First Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Luke
-leluLI.Gospel.chapverse = "(4:1-15)"
+leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+leluLI.Gospel.chapverse = "4:1-15"
 leluLI.Gospel.text = "At that time, Jesus returned from the Jordan, and was led by the Spirit into the wilderness. For forty days, he was tempted by the devil. He ate nothing in those days and afterward, when they were completed, he was hungry. The devil said to him, “If you are the Son of God, command this stone to become bread!” Jesus answered him, saying, “It is written, ‘Man shall not live by bread alone, but by every word that proceeds out of the mouth of God.’” Leading him up on a high place, the devil showed him all the kingdoms of the world in a moment of time. The devil said to him, “I will give you all this authority and their glory, for it has been delivered to me and I give it to whomever I want. If you therefore will express adoration to me, it will all be yours.” Jesus answered him, “Get behind me Satan! For it is written, ‘You shall express adoration to the Lord your God, and to him only shall you offer divine service.’” The devil led him to Jerusalem, set him on the pinnacle of the temple, and said to him, “If you are the Son of God, cast yourself down from here, for it is written, He will put his angels in charge of you, to guard you; and, They will carry you with their hands, for fear that you may dash your foot against a stone. In reply, Jesus said to him, “It has been said, ‘You shall not tempt the Lord your God.’” When the devil had completed every temptation, he departed from Jesus until another time. Jesus returned in the power of the Spirit into Galilee, and news about him spread through all the surrounding area. He taught in their synagogues, being glorified by all."
 leluLI.Gospel.pagenumber = ""

@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d085_en_US_eob
 
 leluLI.Gospel.title = "Monday of the Thirteenth Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Mark
-leluLI.Gospel.chapverse = "(8:11-21)"
+leluLI.Gospel.book_string = bible_en_US_eob.Mark.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
+leluLI.Gospel.chapverse = "8:11-21"
 leluLI.Gospel.text = "At that time, the Pharisees came to Jesus, and began to question him, seeking from him a sign from heaven, and putting him to the test. Jesus sighed deeply in his spirit and said, “Why is this generation seeking a sign? Amen, I tell you: no sign will be given to this generation!” And he left them, [entering] into the boat, and departed again to the other side. But the disciples forgot to take bread and had only one loaf in the boat with them. Jesus warned them in these words: “Be watchful, beware of the yeast of the Pharisees and the yeast of Herod.” They reasoned among themselves, saying, “It is because we have no bread!” Jesus, perceiving this, said to them, “Why do you reason that it is because you have no bread [that I have said this]? Do you not yet perceive or understand? Is your heart still hardened? Having eyes, do you not see? Having ears, do you not hear? Do you not remember? When I broke the five loaves for the five thousand, how many baskets full of broken pieces did you gather up?” They told him, “Twelve!” “And after the seven loaves had fed four thousand people, how many baskets full of broken pieces did you gather up?” They replied, “Seven!” Jesus asked them, “Do you still not understand?”"
 leluLI.Gospel.pagenumber = ""

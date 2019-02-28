@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d299_en_US_eob
 
 lemcLI.Epistle.title = "THURSDAY OF THE TWENTY-SIXTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Timothy1
-lemcLI.Epistle.chapverse = "(3:1-13)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Timothy1.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Timothy1.abbr
+lemcLI.Epistle.chapverse = "3:1-13"
 lemcLI.Epistle.text = "Timothy, my child, this is a sure word: if a man aspires to the office of overseer, he desires a good work. The overseer must be irreproachable, a husband of one wife, self-controlled, sensible, modest, hospitable and a good teacher. He must not be a drinker, or someone violent or greedy for money. He should be gentle, not irritable or envious. He should be someone who rules his own house well, keeping his [own] children in subjection with all reverence. (Indeed, if a man does not know how to rule his own house, how can he take care of the Church of God?) He should not be a new convert, for fear that being puffed up with pride he may fall into the same condemnation as the devil. Moreover, he must have good testimony from those who are outside in order to avoid falling into [public] blame and the snare of the devil. Deacons, in the same way, must be reverent, not double-tongued, not addicted to much wine and not greedy for money. They should keep the mystery of the faith with a pure conscience. Let them also be tested first; then let them serve if they are blameless. Likewise, their wives must be reverent, not slanderers but self-controlled and faithful in all things. Deacons should be husbands of one wife, ruling their children and their own houses well. Those who have served well earn for themselves a good standing and great boldness in the faith which is in Christ Jesus."
 lemcLI.Epistle.pagenumber = ""

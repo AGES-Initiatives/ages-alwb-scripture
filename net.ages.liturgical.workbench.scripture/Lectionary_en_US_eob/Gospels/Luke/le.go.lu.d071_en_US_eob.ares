@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d071_en_US_eob
 
 leluLI.Gospel.title = "Monday of the Eleventh Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Luke
-leluLI.Gospel.chapverse = "(19:37-44)"
+leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+leluLI.Gospel.chapverse = "19:37-44"
 leluLI.Gospel.text = "At that time, as Jesus was now approaching, at the descent of the Mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the deeds of power which they had seen. [They were] saying, “Blessed is he who is coming, a King in the Name of the Lord! Peace in heaven, and glory in the highest!” And from the multitude, some of the Pharisees said to Jesus, “Teacher, rebuke your disciples!” But he answered them, “I tell you that if these were silent, the stones would cry out!” As Jesus was drawing near, he saw the city and began to weep over it, saying, “If you, even you, had today recognized what is for your peace! But now those things are hidden from your eyes! For the days will come upon you when your enemies will throw up a fortification around you, surround you, and hem you in on every side. They will crush you and your children within you to the ground. They will not leave in you one stone [standing] on another, because you did not know the time of your visitation.”"
 leluLI.Gospel.pagenumber = ""

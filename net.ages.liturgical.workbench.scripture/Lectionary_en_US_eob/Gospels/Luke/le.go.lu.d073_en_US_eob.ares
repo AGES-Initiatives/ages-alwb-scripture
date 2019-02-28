@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d073_en_US_eob
 
 leluLI.Gospel.title = "Wednesday of the Eleventh Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Luke
-leluLI.Gospel.chapverse = "(20:1-8)"
+leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+leluLI.Gospel.chapverse = "20:1-8"
 leluLI.Gospel.text = "At that time, as Jesus was teaching the people in the temple and preaching the Good News, the priests and scribes came to him with the presbyters. They asked him, “Tell us: by what authority do you do these things? Who is giving you this authority?” He answered them, “I too will ask you one question. Tell me: the baptism of John, was it from heaven, or from men?” They discussed it among themselves, saying, “If we say, ‘From heaven,’ he will reply, ‘Why then did not you believe him?’ But if we say, ‘From men,’ all the people will stone us because they are convinced that John was a prophet.” So they answered that they did not know where it was from. Then Jesus said to them, “Neither will I tell you by what authority I do these things.”"
 leluLI.Gospel.pagenumber = ""

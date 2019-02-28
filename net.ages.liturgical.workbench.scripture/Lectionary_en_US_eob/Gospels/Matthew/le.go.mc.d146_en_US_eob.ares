@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d146_en_US_eob
 
 lemcLI.Gospel.title = "Friday of the Fourth Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Matthew
-lemcLI.Gospel.chapverse = "(12:1-8)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemcLI.Gospel.chapverse = "12:1-8"
 lemcLI.Gospel.text = "At that time, on the Sabbath day, Jesus was going through grain fields. Being hungry, his disciples began to pluck heads of grain and to eat them. When the Pharisees saw it, they said to him, “Behold, your disciples are doing what is not lawful to do on the Sabbath!” But Jesus replied, “Have you not read what David did, when he and those who were with him were hungry? He entered into the house of God and ate the bread of the Presence, which was not lawful for him to eat, but only for the priests? Or have you not read in the law, that on the Sabbath day, the priests in the temple profane the Sabbath, and yet remain without guilt? But I tell you that someone greater than the temple is here! If you had known what this means, ‘I desire mercy, and not sacrifice,’ you would not have condemned the innocent. For the Son of Man is Lord even of the Sabbath.”"
 lemcLI.Gospel.pagenumber = ""

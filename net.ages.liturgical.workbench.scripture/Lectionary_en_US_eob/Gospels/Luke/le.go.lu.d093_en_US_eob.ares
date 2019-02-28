@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d093_en_US_eob
 
 leluLI.Gospel.title = "Tuesday of the Fourteenth Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Mark
-leluLI.Gospel.chapverse = "(10:2-12)"
+leluLI.Gospel.book_string = bible_en_US_eob.Mark.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
+leluLI.Gospel.chapverse = "10:2-12"
 leluLI.Gospel.text = "At that time, the Pharisees came to test Jesus, asking, “Is it lawful for a man to divorce his wife?” Jesus answered, “What instructions did Moses give you?” They replied, “Moses allowed a certificate of divorce to be written, and to divorce her.” But Jesus answered and said to them, “It was because of your hardness of heart that Moses wrote this law for you. But from the beginning of creation, God made them male and female. For this reason, a man will leave his father and mother, and will join to his wife, and the two will become one flesh. Thus, they are no longer two, but one flesh. What therefore God has joined together, let no one tear apart!” In the house, the disciples asked him again about this matter. He told them, “Whoever divorces his wife and marries another [woman] commits adultery against her. And if a woman divorces her husband and marries another, she commits adultery.”"
 leluLI.Gospel.pagenumber = ""

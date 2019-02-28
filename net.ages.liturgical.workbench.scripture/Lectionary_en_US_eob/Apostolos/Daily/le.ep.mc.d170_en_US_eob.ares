@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d170_en_US_eob
 
 lemcLI.Epistle.title = "MONDAY OF THE EIGHTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Corinthians1
-lemcLI.Epistle.chapverse = "(9:13-18)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians1.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians1.abbr
+lemcLI.Epistle.chapverse = "9:13-18"
 lemcLI.Epistle.text = "Brethren, do you not know that the ministers in the temple get their food from the temple, and that those who serve at the altar have their share from the altar? Even so, the Lord ordained that those who proclaim the Good News should live from the Good News. However, I have used none of these things, and I do not write these things so that it may be done so in my case. As it is, I would rather die than to see anyone make my boasting void! Indeed, if I preach the Good News, I have nothing to boast about! This necessity is placed on me: woe unto me, if I do not preach the Good News! For if I do this of my own will, I have a reward, but if it is not of my own will, then I have a stewardship entrusted to me. What then is my reward? That when I preach the Gospel, I may present the Good News of Christ for free, in order not to abuse my authority in the Good News."
 lemcLI.Epistle.pagenumber = ""

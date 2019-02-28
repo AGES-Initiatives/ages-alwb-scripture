@@ -218,9 +218,9 @@ psLI.m01.d17.alleluia.v2.info = ps_en_US_rsv.psa111.v9.number
 psLI.m01.d17.alleluia.v2.text = ""
 
 psLI.m01.d18.prokeimenon.title = ""
-psLI.m01.d18.prokeimenon.v1.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m01.d18.prokeimenon.v1.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book_abbr //"(Dan 3:52a, 27)"
 psLI.m01.d18.prokeimenon.v1.text = ""
-psLI.m01.d18.prokeimenon.v2.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m01.d18.prokeimenon.v2.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book_abbr //"(Dan 3:52a, 27)"
 psLI.m01.d18.prokeimenon.v2.text = ""
 psLI.m01.d18.alleluia.title = ""
 psLI.m01.d18.alleluia.v1.info = ps_en_US_rsv.psa43.v2.number
@@ -594,9 +594,9 @@ psLI.m04.d30.alleluia.v2.text = ""
 //May
 
 psLI.m05.d02.prokeimenon.title = ""
-psLI.m05.d02.prokeimenon.v1.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m05.d02.prokeimenon.v1.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book_abbr //"(Dan 3:52a, 27)"
 psLI.m05.d02.prokeimenon.v1.text = ""
-psLI.m05.d02.prokeimenon.v2.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m05.d02.prokeimenon.v2.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book_abbr //"(Dan 3:52a, 27)"
 psLI.m05.d02.prokeimenon.v2.text = ""
 psLI.m05.d02.alleluia.title = ""
 psLI.m05.d02.alleluia.v1.info = ps_en_US_rsv.psa131.v9.number
@@ -1980,9 +1980,9 @@ psLI.m12.d09.alleluia.v2.info = ps_en_US_rsv.psa91.v14.number
 psLI.m12.d09.alleluia.v2.text = ""
 
 psLI.m12.dFF.prokeimenon.title = ""
-psLI.m12.dFF.prokeimenon.v1.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m12.dFF.prokeimenon.v1.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book_abbr //"(Dan 3:52a, 27)"
 psLI.m12.dFF.prokeimenon.v1.text = ""
-psLI.m12.dFF.prokeimenon.v2.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m12.dFF.prokeimenon.v2.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book_abbr //"(Dan 3:52a, 27)"
 psLI.m12.dFF.prokeimenon.v2.text = ""
 psLI.m12.dFF.alleluia.title = ""
 psLI.m12.dFF.alleluia.v1.info = ps_en_US_rsv.psa98.v6.number
@@ -2024,9 +2024,9 @@ psLI.m12.d16.alleluia.v2.info = ps_en_US_rsv.psa36.v31.number
 psLI.m12.d16.alleluia.v2.text = ""
 
 psLI.m12.d17b.prokeimenon.title = ""
-psLI.m12.d17b.prokeimenon.v1.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m12.d17b.prokeimenon.v1.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book_abbr //"(Dan 3:52a, 27)"
 psLI.m12.d17b.prokeimenon.v1.text = ""
-psLI.m12.d17b.prokeimenon.v2.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m12.d17b.prokeimenon.v2.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book_abbr //"(Dan 3:52a, 27)"
 psLI.m12.d17b.prokeimenon.v2.text = ""
 psLI.m12.d17b.alleluia.title = ""
 psLI.m12.d17b.alleluia.v1.info = ps_en_US_rsv.psa43.v2.number
@@ -2046,9 +2046,9 @@ psLI.m12.d20.alleluia.v2.info = ps_en_US_rsv.psa131.v13.number
 psLI.m12.d20.alleluia.v2.text = ""
 
 psLI.m12.dSunBC.prokeimenon.title = ""
-psLI.m12.dSunBC.prokeimenon.v1.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m12.dSunBC.prokeimenon.v1.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book_abbr //"(Dan 3:52a, 27)"
 psLI.m12.dSunBC.prokeimenon.v1.text = ""
-psLI.m12.dSunBC.prokeimenon.v2.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book //"(Dan 3:52a, 27)"
+psLI.m12.dSunBC.prokeimenon.v2.info = //le.pr.os_en_US_rsv.leosLI.pe.d113.EpistleProkeimenon.book_abbr //"(Dan 3:52a, 27)"
 psLI.m12.dSunBC.prokeimenon.v2.text = ""
 psLI.m12.dSunBC.alleluia.title = ""
 psLI.m12.dSunBC.alleluia.v1.info = ps_en_US_rsv.psa43.v2.number

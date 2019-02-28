@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.pr.me.r61_en_US_saas
 
 leprVE.reading.title = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
-leprVE.reading.book = bible_en_US_saas.Genesis
-leprVE.reading.chapverse = "(14:14-20a)"
+leprVE.reading.book_string = bible_en_US_saas.Genesis.text
+leprVE.reading.book_abbr = bible_en_US_saas.Genesis.abbr
+leprVE.reading.chapverse = "14:14-20a"
 leprVE.reading.text = "Now when Abram heard his brother Lot was taken captive, he armed his three hundred and eighteen trained servants, born in his own house, and went in pursuit as far as Dan. So he divided his forces against them by night, and he and his servants attacked and pursued them as far as Hobah, north of Damascus. So he brought back all the cavalry of Sodom, and also brought back his brother Lot and his goods, as well as the women and the people. Then the king of Sodom went out to meet him at the Valley of Shaveh (that is, the King’s Valley), after his return from the slaughter of Chedorlaomer and the kings with him. Now Melchizedek the king of Salem brought out bread and wine; he was the priest of God Most High. He blessed Abram and said, “Blessed be Abram of God Most High, Creator of heaven and earth; and blessed be God Most High, who delivered your enemies into your hands.”"

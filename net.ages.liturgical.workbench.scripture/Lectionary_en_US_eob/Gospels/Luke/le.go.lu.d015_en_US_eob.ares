@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d015_en_US_eob
 
 leluLI.Gospel.title = "Monday of the Third Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Luke
-leluLI.Gospel.chapverse = "(6:24-30)"
+leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+leluLI.Gospel.chapverse = "6:24-30"
 leluLI.Gospel.text = "The Lord said the Jews who had come to him: “Woe to you who are rich! For you have received your consolation. Woe to you who are full, for you will be hungry. Woe to you who laugh now, for you will mourn and weep. Woe [to you,] when all men speak well of you, for their fathers did the same thing to the false prophets. But I tell you who hear: love your enemies, do good to those who hate you, bless those who curse you, pray for those who mistreat you. To the one who strikes you on the cheek, offer also the other [cheek]. If someone takes away your cloak, do not refuse your coat as well. Give to anyone who asks you, and if anyone takes what belongs to you, do not demand it back.”"
 leluLI.Gospel.pagenumber = ""

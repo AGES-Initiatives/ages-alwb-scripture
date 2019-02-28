@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.ge.martyr_en_US_eob
 
 legeLI.Epistle.title = "For a Martyr"
 legeLI.Epistle.version = properties_en_US_eob.version.designation
-legeLI.Epistle.book = bible_en_US_eob.Timothy2
-legeLI.Epistle.chapverse = "(2:1-10)"
+legeLI.Epistle.book_string = bible_en_US_eob.Timothy2.text
+legeLI.Epistle.book_abbr = bible_en_US_eob.Timothy2.abbr
+legeLI.Epistle.chapverse = "2:1-10"
 legeLI.Epistle.text = ""
 

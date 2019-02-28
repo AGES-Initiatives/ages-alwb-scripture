@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d198_en_US_eob
 
 lemcLI.Epistle.title = "MONDAY OF THE TWELFTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Corinthians2
-lemcLI.Epistle.chapverse = "(5:10-15)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians2.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians2.abbr
+lemcLI.Epistle.chapverse = "5:10-15"
 lemcLI.Epistle.text = "Brethren, we must all be revealed before the judgment seat of Christ, so that each one may receive according to what was done in the body; good or evil. But since we know the fear of the Lord, let us try to persuade others. What we are is revealed to God, and I hope that we are also revealed to your consciences. Certainly, we are not trying to obtain your approval once again, but we say this to give you an occasion to be proud of us, so that you may have something to answer to those who boast in appearances—not in the heart [of things]. If we are unreasonable, it is for God, and if we are reasonable, it is for you. Indeed, the love of Christ overwhelms us, because we consider this: that if one died for all, then all have died. He died for all, so that those who live should no longer live to themselves but to him who died and rose again for them."
 lemcLI.Epistle.pagenumber = ""

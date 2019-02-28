@@ -2,13 +2,15 @@ A_Resource_Whose_Name = le.go.me.m01.d10_en_US_eob
 
 lemeLI.Gospel.title = "For the Afterfeast."
 lemeLI.Gospel.version = le.go.lu.d001_en_US_eob.leluLI.Gospel.version
-lemeLI.Gospel.book = le.go.lu.d001_en_US_eob.leluLI.Gospel.book
+lemeLI.Gospel.book_string = le.go.lu.d001_en_US_eob.leluLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.lu.d001_en_US_eob.leluLI.Gospel.book_abbr
 lemeLI.Gospel.chapverse = le.go.lu.d001_en_US_eob.leluLI.Gospel.chapverse
 lemeLI.Gospel.text = le.go.lu.d001_en_US_eob.leluLI.Gospel.text
 lemeLI.Gospel.pagenumber = ""
 
 lemeLI.Gospel2.title = "For the Saint."
 lemeLI.Gospel2.version = properties_en_US_eob.version.designation
-lemeLI.Gospel2.book = bible_en_US_eob.Matthew
-lemeLI.Gospel2.chapverse = "(4:25 - 5:12)"
+lemeLI.Gospel2.book_string = bible_en_US_eob.Matthew.text
+lemeLI.Gospel2.book_abbr = bible_en_US_eob.Matthew.abbr
+lemeLI.Gospel2.chapverse = "4:25 - 5:12"
 lemeLI.Gospel2.text = "At that time, great crowds followed Jesus from Galilee, Decapolis, Jerusalem, Judea and from beyond the Jordan followed him. Seeing the crowds, Jesus went up to the mountain and when he had sat down, his disciples came to him. He began to speak and to teach them, saying: “Blessed are the poor in spirit, for theirs is the Kingdom of Heaven! Blessed are those who mourn, for they shall be comforted! Blessed are the meek, for they shall inherit the earth! Blessed are those who hunger and thirst after righteousness, for they shall be filled! Blessed are the merciful, for they shall obtain mercy! Blessed are the pure in heart, for they shall see God! Blessed are the peacemakers, for they shall be called children of God! Blessed are those who are persecuted for righteousness’ sake, for theirs is the Kingdom of Heaven! Blessed are you when people revile you, persecute you, and say all kinds of evil against you falsely for my sake! Rejoice, and be extremely glad, for great is your reward in heaven!”"

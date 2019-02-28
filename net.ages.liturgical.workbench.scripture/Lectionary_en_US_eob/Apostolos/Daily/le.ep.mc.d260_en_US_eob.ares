@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d260_en_US_eob
 
 lemcLI.Epistle.title = "TWENTIETH SUNDAY"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Galatians
-lemcLI.Epistle.chapverse = "(1:11-19)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Galatians.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Galatians.abbr
+lemcLI.Epistle.chapverse = "1:11-19"
 lemcLI.Epistle.text = "[Regarding] the Good News which I preached, I proclaimed this to you, brethren, that it is not of human origin. I did not receive it from man and I was not taught [this Good News] by man, but it came to me through a revelation of Jesus Christ. You have heard about how I used to live in Judaism, how I persecuted the Church of God beyond measure, and how I ravaged it. I advanced in the Jewish religion beyond many of my own age among my countrymen, as I was more extremely zealous for the traditions of my forefathers. But when it was the good pleasure of God (who had set me apart from my mother’s womb and called me through his grace, to reveal his Son in me so that I might preach him among the Gentiles), I did not immediately confer with flesh and blood: I did not go up to Jerusalem to visit those who were apostles before me, but I went away into Arabia. Later on, I returned to Damascus. Then, after three years, I did go up to Jerusalem to visit Peter, and I stayed with him for fifteen days. However, I did not see any of the other apostles, except James, ‘the Lord’s brother.’"
 lemcLI.Epistle.pagenumber = ""

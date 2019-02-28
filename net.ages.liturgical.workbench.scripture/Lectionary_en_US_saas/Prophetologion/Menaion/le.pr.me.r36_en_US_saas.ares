@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.pr.me.r36_en_US_saas
 
 leprVE.reading.title = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
-leprVE.reading.book = bible_en_US_saas.Malachi
-leprVE.reading.chapverse = "(3:1a, 2, 3a, 5a, 5c, 6a, 7b, 12a, 17, 18b, 24, 22-23)"
+leprVE.reading.book_string = bible_en_US_saas.Malachi.text
+leprVE.reading.book_abbr = bible_en_US_saas.Malachi.abbr
+leprVE.reading.chapverse = "3:1a, 2, 3a, 5a, 5c, 6a, 7b, 12a, 17, 18b, 24, 22-23"
 leprVE.reading.text = "Thus says the Lord Almighty: “Behold, I send My messenger, and he will prepare the way before Me, and the Lord, whom you seek, will suddenly come into His temple, but who can endure the day of His coming? And who can withstand His appearance? For He enters like a refiner’s fire and as soap in one’s wash. He will sit as a refiner and a purifier of silver and gold. And I will draw near to you in judgment, a swift witness against sorcerers, adulterers, those who swear falsely by My name, and those who do not fear Me,” says the Lord Almighty. “For I am the Lord your God; I have not changed. But you, O sons of Jacob, you have turned away from My ordinances and have not kept them. Return to Me and I will return to you,” says the Lord Almighty. “And all nations will call you blessed. They shall be mine,” says the Lord Almighty, “in the day that I make them My possession, and I will choose them as a man chooses his own son who serves him. Then you shall return, and you will discern between the righteous and the wicked. Be in remembrance of the Law of Moses My servant as I commanded him, with its statutes and judgments, at Horeb for all Israel. Behold, I will send you Elijah before the coming of the great and glorious day of the Lord. And he will turn the heart of the father to his son, and a man’s heart to his neighbor, lest I come and strike the earth completely,” says the Lord Almighty, God, the Holy One of Israel."

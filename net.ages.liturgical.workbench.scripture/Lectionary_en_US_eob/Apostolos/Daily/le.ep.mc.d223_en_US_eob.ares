@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d223_en_US_eob
 
 lemcLI.Epistle.title = "FRIDAY OF THE FIFTEENTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Galatians
-lemcLI.Epistle.chapverse = "(4:8-21)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Galatians.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Galatians.abbr
+lemcLI.Epistle.chapverse = "4:8-21"
 lemcLI.Epistle.text = "Brethren, in the past, as you did not know God, you were in bondage to those who by nature are not gods. But now that you have come to know God, or rather come to be known by God, why do you return to the weak and miserable primordial forces whose slaves you want to be all over again? You observe days, months, seasons, and years. I am afraid for you, that I may have wasted my labor for you. I beg you, brethren, become as I am, for I also have become as you are. You have never treated me wrongly, but you know that it was an illness that first gave me an opportunity to preach the Good News to you. Even though my condition was a trial for you, you did not despise nor reject me; instead, you received me as an angel of God, even as Christ Jesus! What has happened to the blessing you enjoyed? Indeed, I bear witness to you that, if possible, you would have plucked out your eyes and given them to me! And now, have I become your enemy by telling you the truth? Those people pursue you, but not for good. No, they desire to cut you off from us, so that you might eagerly seek after them. But it is always good to be zealous in a good cause, not only when I am present with you! My little children, I am again in labor over you, until Christ is formed in you! I wish that I could be with you in person now, to change my tone, because I am confused about you. Tell me, since you desire to be under the law, {why} do you not listen to the law?"
 lemcLI.Epistle.pagenumber = ""

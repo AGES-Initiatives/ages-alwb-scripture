@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d080_en_US_eob
 
 lemcLI.Epistle.title = "TUESDAY OF THE SECOND WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Acts
-lemcLI.Epistle.chapverse = "(4:1-10)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Acts.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Acts.abbr
+lemcLI.Epistle.chapverse = "4:1-10"
 lemcLI.Epistle.text = "In those days, as the apostles were speaking to the people, the priests, the captain of the temple, and the Sadducees came to them. They were upset because the apostles were teaching the people and proclaiming in Jesus the resurrection of the dead. They arrested them and put them in custody until the next day, since it was now the evening. But many of those who heard the word believed, and their number came to be about five thousand. In the morning, their leaders, presbyters, and scribes were gathered together in Jerusalem. Annas (the high priest) was there, along with Caiaphas, John, Alexander, and others that were relatives of the high priest. After placing the apostles in the middle of their assembly, they inquired, “By what power, or in what Name, have you done this?” Then Peter, filled with the Holy Spirit, addressed them: “Rulers of the people and presbyters of Israel; if we are examined today concerning a good deed done to a crippled man and by what means this man has been healed, let it be known to you all and to all the people of Israel that is it in the Name of Jesus Christ of Nazareth (whom you crucified and whom God raised from the dead) that this man stands here before you whole."
 lemcLI.Epistle.pagenumber = ""

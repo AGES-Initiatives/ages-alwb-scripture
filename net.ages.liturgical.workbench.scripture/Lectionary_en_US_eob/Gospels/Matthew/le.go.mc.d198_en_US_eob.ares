@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d198_en_US_eob
 
 lemcLI.Gospel.title = "Monday of the Twelfth Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Mark
-lemcLI.Gospel.chapverse = "(1:9-15)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Mark.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
+lemcLI.Gospel.chapverse = "1:9-15"
 lemcLI.Gospel.text = "It happened, in those days, that Jesus came from Nazareth of Galilee, and he was baptized by John in the Jordan. Immediately coming up from the water, he saw the heavens torn open and the Spirit descending on him like a dove. A voice came out of the heavens, “You are my beloved Son. In you I am well pleased.” At once, the Spirit drove him out into the desert. He was there, in the desert for forty days, being tempted by Satan. He was with the wild animals and the angels were ministering to him. Now after John had been arrested, Jesus came into Galilee, preaching the Good News of the Kingdom of God, and saying, “The time is fulfilled! The Kingdom of God is at hand! Repent and believe in the Good News.”"
 lemcLI.Gospel.pagenumber = ""

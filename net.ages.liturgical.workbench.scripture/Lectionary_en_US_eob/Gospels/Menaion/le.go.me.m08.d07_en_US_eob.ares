@@ -2,8 +2,9 @@ A_Resource_Whose_Name = le.go.me.m08.d07_en_US_eob
 
 lemeLI.Gospel.title = "For the Afterfeast."
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
-lemeLI.Gospel.book = bible_en_US_eob.Mark
-lemeLI.Gospel.chapverse = "(9:2-9)"
+lemeLI.Gospel.book_string = bible_en_US_eob.Mark.text
+lemeLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
+lemeLI.Gospel.chapverse = "9:2-9"
 lemeLI.Gospel.text = "At that time, Jesus took with him Peter, James, and John, and brought them up to a high mountain in private, by themselves. [There], he was transfigured in front of them. His clothing became radiant, extremely white like snow, such as no launderer on earth could whiten them. Elias and Moses appeared to them, and they were talking with Jesus. Peter said to Jesus, “Rabbi, it is good for us to be here! Let us make three tents: one for you, one for Moses, and one for Elias.” He did not know what to say, for they were very afraid. A cloud came which overshadowed them and a voice came out of the cloud, saying, “This is my beloved Son! Listen to him.” Suddenly, looking around, they saw no one with them any more, except Jesus only. As they were coming down from the mountain, he told them not to tell anyone what they had seen, until after the Son of Man had risen from the dead."
 lemeLI.Gospel.pagenumber = ""
 

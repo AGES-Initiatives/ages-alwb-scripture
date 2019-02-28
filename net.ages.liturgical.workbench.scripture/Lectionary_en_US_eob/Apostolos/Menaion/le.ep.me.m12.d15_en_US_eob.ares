@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.me.m12.d15_en_US_eob
 
 lemeLI.Epistle.title = "For the Martyr."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
-lemeLI.Epistle.book = bible_en_US_eob.Timothy2
-lemeLI.Epistle.chapverse = "(1:8-18)"
+lemeLI.Epistle.book_string = bible_en_US_eob.Timothy2.text
+lemeLI.Epistle.book_abbr = bible_en_US_eob.Timothy2.abbr
+lemeLI.Epistle.chapverse = "1:8-18"
 lemeLI.Epistle.text = "Timothy, my child, do not be ashamed to be a witness of our Lord or ashamed of me his prisoner. Share in my tribulations for the sake of the Good News, by the power of God. He saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal. This has now been revealed by the manifestation of our Savior Jesus Christ who abolished death and brought to light [both] life and immortality through the Good News. For this, I was appointed as a herald, apostle, and teacher of the Gentiles. That is why I am suffering as I am! Yet I am not ashamed, because I know him in whom I have believed and I am persuaded that he is able to protect what I have committed to him until that Day. Hold to the pattern of sound teachings which you have heard from me, with faith and love in Christ Jesus. With the help of the Holy Spirit who dwells in us, guard the good deposit that was entrusted to you. As you know, all who are in Asia have turned away from me, including Phygelus and Hermogenes. May the Lord grant mercy to the house of Onesiphorus, for he often refreshed me and was not ashamed of my imprisonment. When he was in Rome, he searched very hard for me and he found me! May the Lord grant him to find the Lord’s mercy in that Day, for he served [me] at Ephesus in many ways, as you know very well."
 lemeLI.Epistle.pagenumber = ""

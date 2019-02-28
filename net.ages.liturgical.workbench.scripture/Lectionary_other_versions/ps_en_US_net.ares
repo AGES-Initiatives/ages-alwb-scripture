@@ -9696,7 +9696,7 @@ bode.version = properties_en_US_net.version.designation
 
 bode1.title = "Ode One"
 bode1.version = properties_en_US_net.version.designation
-bode1.book = //bible_en_US_net.Exodus
+bode1.book_abbr = //bible_en_US_net.Exodus.abbr
 bode1.heading1 = "The Song of Moses"
 bode1.chapverse = "(15:1-19)"
 bode1.heading2 = "Then Moses sang this song to the Lord."
@@ -9776,7 +9776,7 @@ bode1.v20c.text = "but the Israelites walked on dry land in the middle of the se
 
 bode2.title = "Ode Two"
 bode2.version = properties_en_US_net.version.designation
-bode2.book = //bible_en_US_net.Deuteronomy
+bode2.book_abbr = //bible_en_US_net.Deuteronomy.abbr
 bode2.heading1 = "The Song of Moses"
 bode2.chapverse = "(32:1-43)"
 bode2.heading2 = "Another ode of Moses, the writer of the Law."
@@ -9882,7 +9882,7 @@ bode2.v49.text = "Cry out, O nations, with his people, for he will avenge his se
 
 bode3.title = "Ode Three"
 bode3.version = properties_en_US_net.version.designation
-bode3.book = //bible_en_US_net.Samuel1
+bode3.book_abbr = //bible_en_US_net.Samuel1.abbr
 bode3.heading1 = "The Prayer of Hannah"
 bode3.chapverse = "(2:1-10)"
 bode3.heading2 = "The barren one honors God, giving birth in a strange manner."
@@ -9922,7 +9922,7 @@ bode3.v15.text = "He will strengthen his king and exalt the power of his anointe
 
 bode4.title = "Ode Four"
 bode4.version = properties_en_US_net.version.designation
-bode4.book = //bible_en_US_net.Habakkuk
+bode4.book_abbr = //bible_en_US_net.Habakkuk.abbr
 bode4.heading1 = "The Prayer of Habakkuk"
 bode4.chapverse = "(3:1-19)"
 bode4.heading2 = "Habakkuk, declare the condescension of the Word."
@@ -9982,7 +9982,7 @@ bode4.v25.text = "He enables me to negotiate the rugged terrain."
 
 bode5.title = "Ode Five"
 bode5.version = properties_en_US_net.version.designation
-bode5.book = //bible_en_US_net.Isaiah
+bode5.book_abbr = //bible_en_US_net.Isaiah.abbr
 bode5.heading1 = "The Prayer of Isaiah"
 bode5.chapverse = "(26:9-20)"
 bode5.heading2 = "The Prophecy of Isaiah"
@@ -10022,7 +10022,7 @@ bode5.v16.text = "Go, my people! Enter your inner rooms! Close your doors behind
 
 bode6.title = "Ode Six"
 bode6.version = properties_en_US_net.version.designation
-bode6.book = //bible_en_US_net.Jonah
+bode6.book_abbr = //bible_en_US_net.Jonah.abbr
 bode6.heading1 = "The Prayer of Jonah"
 bode6.chapverse = "(2:2-9)"
 bode6.heading2 = "Jonah prayed to the Lord his God from the stomach of the fish and said."
@@ -10058,7 +10058,7 @@ bode6.v9b.text = "Salvation belongs to the Lord!"
 
 bode7.title = "Ode Seven"
 bode7.version = properties_en_US_net.version.designation
-bode7.book = //bible_en_US_net.Daniel
+bode7.book_abbr = //bible_en_US_net.Daniel.abbr
 bode7.heading1 = "The Prayer of the Three Holy Children"
 bode7.chapverse = "(3:26-56)"
 bode7.heading2 = ""
@@ -10126,7 +10126,7 @@ bode7.v28.text = ""
 
 bode8.title = "Ode Eight"
 bode8.version = properties_en_US_net.version.designation
-bode8.book = //bible_en_US_net.Daniel
+bode8.book_abbr = //bible_en_US_net.Daniel.abbr
 bode8.heading1 = "The Song of the Three Holy Children"
 bode8.chapverse = "(3:57-88)"
 bode8.heading2 = ""
@@ -10175,7 +10175,7 @@ bode8.v19.text = ""
 
 bode9.title = "Ode Nine"
 bode9.version = properties_en_US_net.version.designation
-bode9_mag.book = //bible_en_US_net.Luke
+bode9_mag.book_abbr = //bible_en_US_net.Luke.abbr
 bode9_mag.heading1 = "Mary's Hymn of Praise. The Magnificat."
 bode9_mag.chapverse = "(1:46-55)"
 bode9_mag.heading2 = "The Maiden Mother sings a hymn to her Son and God."
@@ -10192,7 +10192,7 @@ bode9_mag.v5.number = "(9a:5)"
 bode9_mag.v5.text = "He has brought down the mighty from their thrones, and has lifted up those of lowly position; he has filled the hungry with good things, and has sent the rich away empty."
 bode9_mag.v6.number = "(9a:6)"
 bode9_mag.v6.text = "He has helped his servant Israel, remembering his mercy, as he promised to our ancestors, to Abraham and to his descendants forever."
-bode9.book = //bible_en_US_net.Luke
+bode9.book_abbr = //bible_en_US_net.Luke.abbr
 bode9.heading1 = "Zechariah's Praise and Prediction. The Benedictus."
 bode9.chapverse = "(1:68-79)"
 bode9.heading2 = "Zechariah blesses the birth of his son."

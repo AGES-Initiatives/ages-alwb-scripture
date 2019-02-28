@@ -2,8 +2,9 @@ A_Resource_Whose_Name = le.go.mc.d057_en_US_eob
 
 lemcLI.Gospel.title = "Fifth Sunday of Lent"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Mark
-lemcLI.Gospel.chapverse = "(10:32-45)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Mark.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
+lemcLI.Gospel.chapverse = "10:32-45"
 lemcLI.Gospel.text = "At that time, Jesus took the Twelve [aside] and began to tell them about the things that were going to happen to him. “Behold, we are going up to Jerusalem. The Son of Man will be delivered to the chief priests and the scribes. They will condemn him to death and deliver him to the Gentiles. They will scourge him, mock him, spit on him, and kill him. On the third day, he will rise again.” James and John, the sons of Zebedee, approached Jesus and said, “Teacher, we want you to do for us whatever we will ask!” He replied, “What do you want me to do for you?” They answered, “Grant to us that we may sit, one at your right hand, and one at your left hand, in your glory.” But Jesus said to them, “You do not know what you are asking! Are you able to drink the cup that I drink, and to be baptized with the baptism that I am baptized with?” They replied, “We are able!” Jesus said to them, “You shall indeed drink the cup that I drink, and you shall be baptized with the baptism that I am baptized with! However, to sit at my right hand and at my left hand is not mine to give, but it is for whom it has been prepared.” When the ten heard this, they became upset with James and John. Jesus called them, and told them, “You know that those who are recognized as rulers over the nations lord it over them, and their great ones exercise authority over them. But it shall not be so among you! Whoever wants to become great among you shall be your servant. Whoever of you wants to become first shall be slave of all. For the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.”"
 lemcLI.Gospel.pagenumber = ""
 

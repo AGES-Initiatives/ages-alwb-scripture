@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d196_en_US_eob
 
 lemcLI.Epistle.title = "SATURDAY OF THE ELEVENTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Corinthians1
-lemcLI.Epistle.chapverse = "(1:3-9)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians1.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians1.abbr
+lemcLI.Epistle.chapverse = "1:3-9"
 lemcLI.Epistle.text = "Brethren, grace to you and peace from God our Father and the Lord Jesus Christ. I always give thanks to my God concerning you for the grace of God which was given to you in Christ Jesus; that in everything you have been enriched in him, in all [manner of] speech and knowledge; even as the testimony of Christ was confirmed in you. And so, you lack no gift as you wait for the revelation of our Lord Jesus Christ; who will also confirm you until the end, blameless in the day of our Lord Jesus Christ. God is faithful, through whom you were called into the fellowship of his Son Jesus Christ, our Lord."
 lemcLI.Epistle.pagenumber = ""

@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.me.m11.d06_en_US_eob
 
 lemeLI.Epistle.title = "For the Hierarch."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
-lemeLI.Epistle.book = bible_en_US_eob.Hebrews
-lemeLI.Epistle.chapverse = "(8:1-6)"
+lemeLI.Epistle.book_string = bible_en_US_eob.Hebrews.text
+lemeLI.Epistle.book_abbr = bible_en_US_eob.Hebrews.abbr
+lemeLI.Epistle.chapverse = "8:1-6"
 lemeLI.Epistle.text = "Brethren, the point of what we are saying is this: we have such a high priest, who sat down at the right hand of the throne of the Majesty on high, a servant of the sanctuary and of the true tabernacle, which the Lord has set up, and not man. Every high priest is appointed to offer both gifts and sacrifices. Therefore, it is necessary that this high priest should also have something to offer. For if Jesus were on earth, he would not be a priest at all, because there are priests who [still] offer gifts according to the law. They offer divine service to a copy and a shadow of the heavenly things, even as Moses was warned by God when he was about to build the tabernacle. For God said: Behold, you shall make everything according to the pattern that was shown to you on the mountain. But now, Jesus has obtained a more excellent ministry as he is also the mediator of a better covenant, given as law on better promises."
 lemeLI.Epistle.pagenumber = ""

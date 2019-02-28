@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d268_en_US_eob
 
 lemcLI.Epistle.title = "MONDAY OF THE TWENTY-SECOND WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Colossians
-lemcLI.Epistle.chapverse = "(2:13-20)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Colossians.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Colossians.abbr
+lemcLI.Epistle.chapverse = "2:13-20"
 lemcLI.Epistle.text = "Brethren, you were dead in your sins and in the uncircumcision of your flesh, but he made you alive with him by forgiving us all our trespasses and by wiping out the handwriting of ordinances which was against us. He set this aside, nailing it to the cross, having exposed the principalities and powers, making a public display of them, and triumphing over them. Therefore, let no one judge you in matters of eating or drinking, or regarding a feast day, a new moon {observance,} or a Sabbath day. These are a shadow of the things to come, but the body belongs to Christ. Let no one rob you of your prize by false humility and a religion of angels, dwelling on things which one has not seen, vainly puffed up by a carnal mind. Such a person is not holding firmly to the head, from whom the whole body, being supported and knit together through the joints and ligaments, grows with the growth given by God. But if you died with Christ as regards these basic principles of the world, why do you subject yourselves to [these] commandments, as though you were still living in the world?"
 lemcLI.Epistle.pagenumber = ""

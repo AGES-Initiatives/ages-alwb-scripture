@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d197_en_US_eob
 
 lemcLI.Gospel.title = "Eleventh Sunday"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Matthew
-lemcLI.Gospel.chapverse = "(18:23-35)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemcLI.Gospel.chapverse = "18:23-35"
 lemcLI.Gospel.text = "The Lord said this parable: “Therefore, the Kingdom of Heaven is like a king who wanted to settle his accounts with his slaves. When he began the settlement, someone was brought in who owed him ten thousand talents. But because the slave could not pay, his lord gave orders that he be sold, with his wife, children, and all that he had, so that payment may be made. At this, the slave fell down on his knees before him, saying: ‘Lord, have patience with me, and I will repay you all!’ The lord of that slave, moved with compassion, released him, and forgave him the debt. However, that slave went out and found one of his fellow slaves who owed him one hundred denarii. He grabbed him and took him by the throat, saying: ‘Pay me what you owe!’ And so, his fellow slave fell down at his feet and begged him, saying: ‘Have patience with me, and I will repay you!’ But the first man would not [have compassion] but went off and had him cast into prison, until he should pay back what was due. When his [other] fellow slaves saw what had been done, they were extremely distressed and came to their lord to report all that had taken place. Then his lord summoned the [first] slave and said to him, ‘You wicked slave! I forgave you all that debt because you begged me. Should you not also have had mercy on your fellow slave, even as I had mercy on you?’ His lord was angry and delivered him to the jailers until he would pay all that was due. This is how my heavenly Father will also treat you if you do not each forgive each other their trespasses from your hearts.”"
 lemcLI.Gospel.pagenumber = ""

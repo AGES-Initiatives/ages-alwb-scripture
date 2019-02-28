@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.me.m10.d26_en_US_eob
 
 lemeLI.Epistle.title = "For the Saint."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
-lemeLI.Epistle.book = bible_en_US_eob.Timothy2
-lemeLI.Epistle.chapverse = "(2:1-10)"
+lemeLI.Epistle.book_string = bible_en_US_eob.Timothy2.text
+lemeLI.Epistle.book_abbr = bible_en_US_eob.Timothy2.abbr
+lemeLI.Epistle.chapverse = "2:1-10"
 lemeLI.Epistle.text = "Timothy, my child, be strengthened in the grace that is in Christ Jesus. What you heard from me among many witnesses, entrust likewise to faithful men who will be able to teach others as well. You too must endure tribulations as a good soldier of Jesus Christ. No soldier on duty entangles himself in the affairs of this life, in order to please the one who enrolled him as a soldier. Likewise, anyone who competes in athletics cannot be crowned unless he has competed by the rules. The farmer who labors must be the first to get a share of the crops. Think over what I have said, and may the Lord give you understanding in all things. Remember my Good News: Jesus Christ, risen from the dead, of the seed of David. Because of this I suffer tribulations to the point of being in chains as a criminal. However, God’s word is not chained! Therefore, I endure all things for the sake of the elect, so that they may obtain the salvation which is in Christ Jesus and with it eternal glory."
 lemeLI.Epistle.pagenumber = ""

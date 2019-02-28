@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d050_en_US_eob
 
 lemcLI.Epistle.title = "THE FOURTH SUNDAY IN LENT"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Hebrews
-lemcLI.Epistle.chapverse = "(6:13-20)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Hebrews.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Hebrews.abbr
+lemcLI.Epistle.chapverse = "6:13-20"
 lemcLI.Epistle.text = "Brethren, when God made a promise to Abraham, since he could swear by no one greater, he swore by himself, saying, “I will surely bless and multiply you.” Thus, having patiently endured, Abraham obtained the promise. For humans indeed swear by someone greater, and in every dispute they have, the oath is final to get things settled. In this way, being determined to show more abundantly to the heirs of the promise the unchangeable nature of his purpose, God intervened with an oath. And so, by two unchangeable things in which it is impossible for God to lie, may we have a strong encouragement, since we have sought refuge and taken hold of the hope set before us. We have this hope as an anchor of the soul, a hope which is both sure and solid. It reaches beyond the veil, where Jesus has entered as a forerunner for us, having become a high priest forever after the order of Melchizedek."
 lemcLI.Epistle.pagenumber = ""

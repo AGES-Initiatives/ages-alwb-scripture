@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.go.va.automobile_en_US_eob
 
 levaLI.Gospel.title = ""
 levaLI.Gospel.version = properties_en_US_eob.version.designation
-levaLI.Gospel.book = bible_en_US_eob.John
-levaLI.Gospel.chapverse = "(5:17-18, 9:4-5)"
+levaLI.Gospel.book_string = bible_en_US_eob.John.text
+levaLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
+levaLI.Gospel.chapverse = "5:17-18, 9:4-5"
 levaLI.Gospel.text = "The Lord said to the Jews who had come to him: “My Father is still working, and I am also working.” Because of this, the Jews were seeking all the more to kill him, not only because he broke the Sabbath, but also because he called God his own Father, making himself equal with God. Thus, Jesus said again, “I must do the works of the one who sent me while it is day. The night is coming, when no one can work. While I am in the world, I am the light of the world.”"

@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.go.va.publicoffice_en_US_rsv
 
 levaLI.Gospel.title = ""
 levaLI.Gospel.version = properties_en_US_rsv.version.designation
-levaLI.Gospel.book = bible_en_US_rsv.Matthew
-levaLI.Gospel.chapverse = "(20:25-28)"
+levaLI.Gospel.book_string = bible_en_US_rsv.Matthew.text
+levaLI.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr
+levaLI.Gospel.chapverse = "20:25-28"
 levaLI.Gospel.text = "At that time, Jesus called his disciples to him and said, \"You know that the rulers of the Gentiles lord it over them, and their great men exercise authority over them. It shall not be so among you; but whoever would be great among you must be your servant, and whoever would be first among you must be your slave; even as the Son of man came not to be served but to serve, and to give his life as a ransom for many.\""

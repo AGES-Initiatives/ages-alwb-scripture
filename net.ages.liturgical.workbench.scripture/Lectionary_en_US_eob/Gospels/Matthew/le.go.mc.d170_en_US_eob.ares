@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d170_en_US_eob
 
 lemcLI.Gospel.title = "Monday of the Eighth Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Matthew
-lemcLI.Gospel.chapverse = "(16:1-6)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemcLI.Gospel.chapverse = "16:1-6"
 lemcLI.Gospel.text = "At that time, the Pharisees and Sadducees came and put Jesus to the test by asking him to show them a sign from heaven. But he answered them, “When it is evening, you say, ‘The weather will be pleasant because the sky is red.’ In the morning, you say, ‘The weather will be bad today because the sky is red and threatening.’ Hypocrites! You know how to discern the appearance of the sky, but you cannot discern the signs of the times! An evil and adulterous generation seeks after a sign, but no sign will be given to it except the sign of the prophet Jonah.” He left them and moved on. His disciples, arriving to the other side, [noticed that they] had forgotten to take bread. Jesus then said to them, “Take heed and beware of the yeast of the Pharisees and Sadducees!”"
 lemcLI.Gospel.pagenumber = ""

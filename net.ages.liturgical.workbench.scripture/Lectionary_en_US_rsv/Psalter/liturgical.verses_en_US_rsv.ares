@@ -511,7 +511,7 @@ goVE.songofsymeon.v1a.text = "Lord, now lettest thou thy servant depart in peace
 goVE.songofsymeon.v1b.text = "A light for revelation to the Gentiles, and for glory to thy people Israel."
 
 //Matins
-goMA.sixpsalms.intro.v1.info = //(Lk 2:14) le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.book
+goMA.sixpsalms.intro.v1.info = //(Lk 2:14) le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.book_abbr
 goMA.sixpsalms.intro.v1.text = "Glory to God in the highest, and on earth peace, good will among men."
 psMA.sixpsalms.intro.v2.info = ps_en_US_rsv.psa50.v17.number
 psMA.sixpsalms.intro.v2.text = ""
@@ -543,7 +543,7 @@ psMA.beginning.v3.text = ""
 psMA.beginning.v4.info = ps_en_US_rsv.psa117.v23.number
 psMA.beginning.v4.text = ""
 
-psMA.alleluia_lent.v1.info = //(Is 26:9-11) le.pr.os_en_US_rsv.leosMA.LentAlleluia.book
+psMA.alleluia_lent.v1.info = //(Is 26:9-11) le.pr.os_en_US_rsv.leosMA.LentAlleluia.book_abbr
 psMA.alleluia_lent.v1.text = ""
 psMA.alleluia_lent.v2.info = //le.pr.os_en_US_rsv.leosMA.LentAlleluia.chapverse
 psMA.alleluia_lent.v2.text = ""
@@ -1356,7 +1356,7 @@ psLI.typika.ps145.v9.text = ""
 psLI.typika.ps145.v10.info = ps_en_US_rsv.psa145.v10.number
 psLI.typika.ps145.v10.text = ""
 
-goLI.typika.beatitudes.info = le.go.os_en_US_rsv.leosTY.Beatitudes.book
+goLI.typika.beatitudes.info = le.go.os_en_US_rsv.leosTY.Beatitudes.book_abbr
 goLI.typika.beatitudes.intro.text = "In Your kingdom. Remember us, O Lord, when You come in Your kingdom."
 goLI.typika.beatitudes.v01.text = "Blessed are the poor in spirit, for theirs is the kingdom of heaven"
 goLI.typika.beatitudes.v02.text = "Blessed are those who mourn, for they shall be comforted."

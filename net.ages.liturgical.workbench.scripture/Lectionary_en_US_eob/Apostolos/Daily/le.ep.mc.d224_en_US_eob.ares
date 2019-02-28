@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.mc.d224_en_US_eob
 
 lemcLI.Epistle.title = "SATURDAY OF THE FIFTEENTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
-lemcLI.Epistle.book = bible_en_US_eob.Corinthians1
-lemcLI.Epistle.chapverse = "(4:17-21;5:1-5)"
+lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians1.text
+lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians1.abbr
+lemcLI.Epistle.chapverse = "4:17-21;5:1-5"
 lemcLI.Epistle.text = "Brethren, for this reason, I have sent Timothy to you, my beloved and faithful child in the Lord. He will remind you of my ways which are in Christ, even as I teach everywhere in every Church. Now some of you, thinking that I am not coming to you, have become arrogant. Still, I will come to you shortly, if the Lord wills! Then I will find out not so much what these arrogant people say, but what power they have. Truly, the Kingdom of God is not in speech, but in power. What do you desire? Shall I come to you with a rod, or in love and with a spirit of gentleness? It is actually reported that there is sexual immorality among you, and a kind as does not even occur among the Gentiles, [namely] that someone has his father’s wife! And you are arrogant! Should you not rather have mourned, so that whoever has done this would have been removed from among you? For I most certainly, as being absent in body but present in spirit, have already, as though I were present, judged the man who has done this thing! In the Name of our Lord Jesus Christ, when you are gathered together, and with my spirit, with the power of our Lord Jesus Christ, you are to hand over such a person to Satan for the destruction of the flesh, so that the spirit may be delivered in the day of the Lord Jesus."
 lemcLI.Epistle.pagenumber = ""

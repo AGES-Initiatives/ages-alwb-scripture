@@ -218,9 +218,9 @@ psLI.m01.d17.alleluia.v2.info = ps_en_US_saas.psa111.v9.number
 psLI.m01.d17.alleluia.v2.text = "His righteousness continues unto ages of ages."
 
 psLI.m01.d18.prokeimenon.title = "Daniel 3."
-psLI.m01.d18.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book
+psLI.m01.d18.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book_abbr
 psLI.m01.d18.prokeimenon.v1.text = "Blessed are You, O Lord God of our fathers."
-psLI.m01.d18.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book
+psLI.m01.d18.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book_abbr
 psLI.m01.d18.prokeimenon.v2.text = "For You are righteous in all You did for us."
 psLI.m01.d18.alleluia.title = "Psalms 43, 33."
 psLI.m01.d18.alleluia.v1.info = ps_en_US_saas.psa43.v2.number
@@ -591,9 +591,9 @@ psLI.m04.d30.alleluia.v2.text = "God is glorified in the counsel of saints."
 //May
 
 psLI.m05.d02.prokeimenon.title = "Daniel 3."
-psLI.m05.d02.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book
+psLI.m05.d02.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book_abbr
 psLI.m05.d02.prokeimenon.v1.text = "Blessed are You, O Lord God of our fathers."
-psLI.m05.d02.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book
+psLI.m05.d02.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book_abbr
 psLI.m05.d02.prokeimenon.v2.text = "For You are righteous in all You did for us."
 psLI.m05.d02.alleluia.title = "Psalm 131."
 psLI.m05.d02.alleluia.v1.info = ps_en_US_saas.psa131.v9.number
@@ -1565,7 +1565,7 @@ psLI.m10.d06.alleluia.v2.info = ps_en_US_saas.psa88.v8.number
 psLI.m10.d06.alleluia.v2.text = "God is glorified in the counsel of saints."
 
 psLI.m10.dHF.prokeimenon.title = "Daniel 3."
-psLI.m10.dHF.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book
+psLI.m10.dHF.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book_abbr
 psLI.m10.dHF.prokeimenon.v1.text = "Blessed are You, O Lord God of our fathers."
 psLI.m10.dHF.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.chapverse
 psLI.m10.dHF.prokeimenon.v2.text = "For You are righteous in all You did for us."
@@ -1970,9 +1970,9 @@ psLI.m12.d09.alleluia.v2.info = ps_en_US_saas.psa91.v14.number
 psLI.m12.d09.alleluia.v2.text = "Those planted in the house of the Lord."
 
 psLI.m12.dFF.prokeimenon.title = "Daniel 3."
-psLI.m12.dFF.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book
+psLI.m12.dFF.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book_abbr
 psLI.m12.dFF.prokeimenon.v1.text = "Blessed are You, O Lord God of our fathers."
-psLI.m12.dFF.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book
+psLI.m12.dFF.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book_abbr
 psLI.m12.dFF.prokeimenon.v2.text = "For You are righteous in all You did for us."
 psLI.m12.dFF.alleluia.title = "Psalms 98, 33."
 psLI.m12.dFF.alleluia.v1.info = ps_en_US_saas.psa98.v6.number
@@ -2014,9 +2014,9 @@ psLI.m12.d16.alleluia.v2.info = ps_en_US_saas.psa36.v31.number
 psLI.m12.d16.alleluia.v2.text = "The law of God is in his heart."
 
 psLI.m12.d17b.prokeimenon.title = "Daniel 3."
-psLI.m12.d17b.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book
+psLI.m12.d17b.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book_abbr
 psLI.m12.d17b.prokeimenon.v1.text = "Blessed are You, O Lord God of our fathers."
-psLI.m12.d17b.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book
+psLI.m12.d17b.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book_abbr
 psLI.m12.d17b.prokeimenon.v2.text = "For You are righteous in all You did for us."
 psLI.m12.d17b.alleluia.title = "Psalms 43, 33."
 psLI.m12.d17b.alleluia.v1.info = ps_en_US_saas.psa43.v2.number
@@ -2036,9 +2036,9 @@ psLI.m12.d20.alleluia.v2.info = ps_en_US_saas.psa131.v13.number
 psLI.m12.d20.alleluia.v2.text = "For the Lord has chosen Zion."
 
 psLI.m12.dSunBC.prokeimenon.title = "Daniel 3."
-psLI.m12.dSunBC.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book
+psLI.m12.dSunBC.prokeimenon.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book_abbr
 psLI.m12.dSunBC.prokeimenon.v1.text = "Blessed are You, O Lord God of our fathers."
-psLI.m12.dSunBC.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book
+psLI.m12.dSunBC.prokeimenon.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.book_abbr
 psLI.m12.dSunBC.prokeimenon.v2.text = "For You are righteous in all You did for us."
 psLI.m12.dSunBC.alleluia.title = "Psalms 43, 33."
 psLI.m12.dSunBC.alleluia.v1.info = ps_en_US_saas.psa43.v2.number

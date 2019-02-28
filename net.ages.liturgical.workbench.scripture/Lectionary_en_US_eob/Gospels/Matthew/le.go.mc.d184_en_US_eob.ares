@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d184_en_US_eob
 
 lemcLI.Gospel.title = "Monday of the Tenth Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.Matthew
-lemcLI.Gospel.chapverse = "(21:18-22)"
+lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
+lemcLI.Gospel.chapverse = "21:18-22"
 lemcLI.Gospel.text = "At that time, as Jesus was returning to the city, he was hungry. Seeing a fig tree by the roadside, he came to it, and found nothing on it but leaves. He said to it, “Let there be no fruit from you, unto the ages!” Immediately the fig tree withered away! When the disciples saw it, they marveled and asked, “How did the fig tree wither away at once?” Jesus answered them, “Amen, I tell you that if you have faith and do not doubt, you will not only do what was done to the fig tree, but even if you told this mountain ‘Be taken up and cast into the sea,’ it would be done! Whatever things you ask in prayer, if you believe, you will receive them all!”"
 lemcLI.Gospel.pagenumber = ""

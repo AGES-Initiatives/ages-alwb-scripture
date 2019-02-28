@@ -18,7 +18,7 @@ bode.version = ""
 
 bode1.title = ""
 bode1.version = ""
-bode1.book = bible_en_US_nkjv.Exodus
+bode1.book_abbr = bible_en_US_nkjv.Exodus.abbr
 bode1.heading1 = ""
 bode1.chapverse = "(15:1-19)"
 bode1.heading2 = ""
@@ -66,7 +66,7 @@ bode1.v20.text = ""
 
 bode2.title = ""
 bode2.version = ""
-bode2.book = bible_en_US_nkjv.Deuteronomy
+bode2.book_abbr = bible_en_US_nkjv.Deuteronomy.abbr
 bode2.heading1 = ""
 bode2.chapverse = ""
 bode2.heading2 = ""
@@ -172,7 +172,7 @@ bode2.v49.text = ""
 
 bode3.title = ""
 bode3.version = ""
-bode3.book = bible_en_US_nkjv.Samuel1
+bode3.book_abbr = bible_en_US_nkjv.Samuel1.abbr
 bode3.heading1 = ""
 bode3.chapverse = ""
 bode3.heading2 = ""
@@ -210,7 +210,7 @@ bode3.v15.text = ""
 
 bode4.title = ""
 bode4.version = ""
-bode4.book = bible_en_US_nkjv.Habakkuk
+bode4.book_abbr = bible_en_US_nkjv.Habakkuk.abbr
 bode4.heading1 = ""
 bode4.chapverse = ""
 bode4.heading2 = ""
@@ -268,7 +268,7 @@ bode4.v25.text = ""
 
 bode5.title = ""
 bode5.version = ""
-bode5.book = bible_en_US_nkjv.Isaiah
+bode5.book_abbr = bible_en_US_nkjv.Isaiah.abbr
 bode5.heading1 = ""
 bode5.chapverse = ""
 bode5.heading2 = ""
@@ -308,7 +308,7 @@ bode5.v16.text = ""
 
 bode6.title = ""
 bode6.version = ""
-bode6.book = bible_en_US_nkjv.Jonah
+bode6.book_abbr = bible_en_US_nkjv.Jonah.abbr
 bode6.heading1 = ""
 bode6.chapverse = ""
 bode6.heading2 = ""
@@ -334,7 +334,7 @@ bode6.v9.text = ""
 
 bode7.title = ""
 bode7.version = ""
-bode7.book = bible_en_US_nkjv.Daniel
+bode7.book_abbr = bible_en_US_nkjv.Daniel.abbr
 bode7.heading1 = ""
 bode7.chapverse = ""
 bode7.heading2 = ""
@@ -398,7 +398,7 @@ bode7.v28.text = ""
 
 bode8.title = ""
 bode8.version = ""
-bode8.book = bible_en_US_nkjv.Daniel
+bode8.book_abbr = bible_en_US_nkjv.Daniel.abbr
 bode8.heading1 = ""
 bode8.chapverse = ""
 bode8.heading2 = ""
@@ -447,7 +447,7 @@ bode8.v19.text = ""
 
 bode9.title = "Ode Nine"
 bode9.version = properties_en_US_nkjv.version.designation
-bode9_mag.book = bible_en_US_nkjv.Luke
+bode9_mag.book_abbr = bible_en_US_nkjv.Luke.abbr
 bode9_mag.heading1 = "Song of the Theotokos"
 bode9_mag.chapverse = "(Ode 1:46-56)"
 bode9_mag.heading2 = "The Maiden Mother sings a hymn to her Son and God."
@@ -464,7 +464,7 @@ bode9_mag.v5.number = "(Ode 9a:5)"
 bode9_mag.v5.text = "He has put down the mighty from their thrones, and exalted the lowly. He has filled the hungry with good things, and the rich He has sent away empty."
 bode9_mag.v6.number = "(Ode 9a:6)"
 bode9_mag.v6.text = "He has helped His servant Israel, in remembrance of His mercy, as He spoke to our fathers, to Abraham and to his seed forever."
-bode9.book = bible_en_US_nkjv.Luke
+bode9.book_abbr = bible_en_US_nkjv.Luke.abbr
 bode9.heading1 = "The Prayer of Zacharias the Forerunner's Father"
 bode9.chapverse = "(Ode 1:68-79)"
 bode9.heading2 = "Zacharias blesses the birth of his son."

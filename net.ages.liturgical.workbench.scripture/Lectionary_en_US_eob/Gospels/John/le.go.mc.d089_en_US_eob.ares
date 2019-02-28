@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.mc.d089_en_US_eob
 
 lemcLI.Gospel.title = "Third Thursday after Pascha"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
-lemcLI.Gospel.book = bible_en_US_eob.John
-lemcLI.Gospel.chapverse = "(6:40-44)"
+lemcLI.Gospel.book_string = bible_en_US_eob.John.text
+lemcLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
+lemcLI.Gospel.chapverse = "6:40-44"
 lemcLI.Gospel.text = "The Lord said to the Jews who had believed in him: “This is the will of the one who sent me: that everyone who sees the Son and believes in him should have eternal life; and this one I will raise up on the last day.” At this, the Jews began to murmur concerning him, because he had said, “I am the bread which came down out of heaven.” They said, “Is this not Jesus, the son of Joseph, whose father and mother we know? How then does he say, ‘I have come down out of heaven?’” Therefore, Jesus answered them, “Do not murmur among yourselves. No one can come to me unless the Father who sent me draws him, and this one I will raise up on the last day.”"
 lemcLI.Gospel.pagenumber = ""

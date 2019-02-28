@@ -2,8 +2,9 @@ A_Resource_Whose_Name = le.go.lu.d002_en_US_eob
 
 leluLI.Gospel.title = "Tuesday of the First Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Luke
-leluLI.Gospel.chapverse = "(3:23-38; 4:1)"
+leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+leluLI.Gospel.chapverse = "3:23-38; 4:1"
 leluLI.Gospel.text = "A t that time, Jesus himself, when he began to teach, was about thirty years old, being the son (as was supposed) of Joseph, the son of Heli, the son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph, the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai, the son of Maath, the son of Mattathias, the son of Semein, the son of Josech , the son of Judah, the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri, the son of Melchi, the son of Addi, the son of Cosam, the son of Elmodam, the son of Er, the son of Jose, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi, the son of Simeon, the son of Judah, the son of Joseph, the son of Jonan, the son of Eliakim, the son of Melea, the son of Menan, the son of Mattatha, the son of Nathan, the son of David, the son of Jesse, the son of Obed, the son of Boaz, the son of Salmon, the son of Nahshon, the son of Amminadab, the son of Aram, the son of Joram, the son of Hezron, the son of Perez, the son of Judah, the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor, the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah, the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech, the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalaleel, the son of Cainan, the son of Enos, the son of Seth, the son of Adam, the son of God. Full of the Holy Spirit, Jesus returned from the Jordan, and was led by the Spirit into the wilderness."
 leluLI.Gospel.pagenumber = ""
 

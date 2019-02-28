@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.ep.me.m11.d01_en_US_eob
 
 lemeLI.Epistle.title = "For the Saints."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
-lemeLI.Epistle.book = bible_en_US_eob.Corinthians1
-lemeLI.Epistle.chapverse = "(12:27-31; 13:1-8)"
+lemeLI.Epistle.book_string = bible_en_US_eob.Corinthians1.text
+lemeLI.Epistle.book_abbr = bible_en_US_eob.Corinthians1.abbr
+lemeLI.Epistle.chapverse = "12:27-31; 13:1-8"
 lemeLI.Epistle.text = "Brethren, you are the body of Christ, and members individually. God has appointed some in the Church as follows: first apostles, second prophets, third teachers, then wonderworkers, also those having gifts of healing, those able to help others, those with gifts of administration, and those with different kinds of tongues. However, are all apostles? Are all prophets? Are all teachers? Are all miracle workers? Do all have gifts of healings? Do all speak with tongues? Do all interpret? But earnestly desire the best gifts. Moreover, I [will] show you a most excellent way. If I speak with the tongues of men and angels, but do not have love, I have become a noisy gong or a clanging cymbal. If I have the gift of prophecy and know all mysteries and have all knowledge, and if I have all faith, so as to move mountains, but I do not have love, I am nothing. If I give out all my goods to feed the poor, and give my body so that I will burn but do not have love, it profits me nothing. Love is patient and is kind; love does not envy. Love does not brag, it is not proud, it does not behave inappropriately, it is not self-oriented. [Love] does not take offence and does not keep track of evil, it does not rejoice in unrighteousness, but rejoices with the truth. [Love] bears all things, believes all things, hopes all things, endures all things. Love never fails."
 lemeLI.Epistle.pagenumber = ""

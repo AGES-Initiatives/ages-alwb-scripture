@@ -2,7 +2,8 @@ A_Resource_Whose_Name = le.go.lu.d051_en_US_eob
 
 leluLI.Gospel.title = "Tuesday of the Eighth Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
-leluLI.Gospel.book = bible_en_US_eob.Luke
-leluLI.Gospel.chapverse = "(12:42-48)"
+leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
+leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
+leluLI.Gospel.chapverse = "12:42-48"
 leluLI.Gospel.text = "The Lord said: “Who, then, is the faithful and wise steward whom his master will set over his household to give [his people] their allowance of food at the proper time? Blessed is that slave whom his lord will find doing so when he returns. Truly I tell you, he will set this slave over all that he has. But what if the slave says in his heart, ‘My lord is late in returning’ and begins to beat the [other] male and female slaves, and also to eat, drink, and become drunk? Then the lord of that slave will come in a day when he is not expecting him, and in an hour that he does not know. He will cut the slave in two and assign him a place with the unbelievers. Such a slave, who knew his lord’s will and yet did not prepare or do what the master wanted will be beaten with many stripes. But a servant who did not know and did things worthy of punishment will be beaten with few stripes. From everyone to whom much is given, much will be required; and from whoever was entrusted with much, much will be asked."
 leluLI.Gospel.pagenumber = ""
