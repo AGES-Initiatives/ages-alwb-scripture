@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d157_en_US_eob
 
 lemcLI.Epistle.title = "TUESDAY OF THE SIXTH WEEK"
+lemcLI.Epistle.title_abbr = "TUESDAY OF THE SIXTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians1.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians1.abbr

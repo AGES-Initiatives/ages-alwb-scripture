@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.tr.d027_en_US_saas 
 
 lemcVE.reading1.title = ""
+lemcVE.reading1.title_abbr = ""
 lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Genesis.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Genesis.abbr
@@ -8,6 +9,7 @@ lemcVE.reading1.chapverse = "2:4-19"
 lemcVE.reading1.text = "This is the book of the genesis of heaven and earth when they were made, in the day the Lord God made heaven and earth, before any plant of the field was on earth and before any herb of the field sprang up. For God had not sent rain on the earth, and there was no man to till the ground; but a fountain came up from the ground and watered the whole face of the earth. Then God formed man out of dust from the ground, and breathed in his face the breath of life; and man became a living soul. Then the Lord God planted a garden eastward in Eden, and there He put the man He formed. Besides this, God caused every tree beautiful to the sight and good for food to grow from the ground. Also, in the middle of the garden were the tree of life and the tree of learning the knowledge of good and evil. Now a river went out of Eden to water the garden, and from there it separated into four heads. The name of the first is Pishon. It circles all the land of Havilah, where there is gold. And the gold of that land is good. The carbuncle and the emerald are there as well. The name of the second river is Gihon. It circles all the land of Ethiopia. The name of the third river is Tigris. It flows over against the Assyrians. And the fourth river is Euphrates. Then the Lord God took the man He formed and put him in the garden to tend and keep it. And the Lord God commanded Adam, saying, “You may eat food from every tree in the garden; but from the tree of the knowledge of good and evil you may not eat; for in whatever day you eat from it, you shall die by death.” And the Lord God said, “It is not good for man to be alone. I will make him a helper comparable to him.” Also, God formed out of the ground all the wild animals of the field and all the birds of heaven, and brought them to Adam to see what he would call them. Thus whatever Adam called each living creature, that was its name."
 
 lemcVE.reading2.title = ""
+lemcVE.reading2.title_abbr = ""
 lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr
@@ -15,6 +17,7 @@ lemcVE.reading2.chapverse = "3:1-20"
 lemcVE.reading2.text = "My son, do not forget my laws, but let your heart keep my words; for length of days, and years of life and peace they will add to you. Do not let almsgiving and faithfulness forsake you, but hang them upon your neck; and you will find grace and provide good things before the Lord and men. Trust in God with all your heart, and do not exalt your own wisdom. In all your ways know wisdom, that she may cut a straight path for you; and your foot will not stumble. Do not rely on your own discernment, but fear God, and turn away from every evil. Then there shall be healing for your body and care for your bones. Honor the Lord from your righteous labors, and offer Him the firstfruits from the fruits of your righteousness, that your storehouses may be filled with abundance of grain, and your winepresses may gush with wine. My son, do not despise the instruction of the Lord, neither grow weary under His reproof. For whom the Lord loves He instructs, and chastises every son He receives. Blessed is a man who finds wisdom, and a mortal who sees discernment; for the profits gained from wisdom are better than the treasures of gold and silver. And wisdom is more valuable than precious stones, and nothing evil will withstand her; she is well known to all who come near her, and no honor is worthy of her. For length of days and years of life are in her right hand, and in her left hand are riches and glory; righteousness proceeds from her mouth, and she carries law and mercy upon her tongue. Her ways are good ways, and all her paths are in peace. She is a tree of life for all who cleave to her, and she is security for those who lean upon her as upon the Lord."
 
 lemcTE.reading1.title = ""
+lemcTE.reading1.title_abbr = ""
 lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr

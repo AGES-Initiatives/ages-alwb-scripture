@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d085_en_US_eob
 
 lemcMA.Gospel.title = "Sunday of the Myrrh-Bearing Women"
+lemcMA.Gospel.title_abbr = "Sunday of the Myrrh-Bearing Women"
 lemcMA.Gospel.version = properties_en_US_eob.version.designation
 lemcMA.Gospel.book_string = bible_en_US_eob.Luke.text
 lemcMA.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
@@ -8,6 +9,7 @@ lemcMA.Gospel.chapverse = "24:1-12"
 lemcMA.Gospel.text = "On the first day of the week, at early dawn, they and some others came to the tomb, bringing the spices which they had prepared. But they found the stone rolled away from the tomb. So they entered in and did not find the body of the Lord Jesus. And it happened, as they were greatly perplexed about this, that behold, two men stood by them in shining garments. Terrified, the women bowed their faces to the ground. The two men said to them, “Why do you seek the living among the dead? He is not here, but he is risen! Remember what he told you when he was still in Galilee, saying that the Son of Man must be delivered up into the hands of sinful men, be crucified, and [on] the third day rise again?” Then they remembered Jesus’ words. Returning from the tomb, they told all these things to the eleven, and to all the others. Now they were Mary Magdalene, Joanna, Mary [the mother] of James, and the other women with them, who told these things to the apostles. But their words seemed to be nonsense to them, and they did not believe them. However, Peter got up and ran to the tomb. Stooping and looking in, he saw the strips of linen lying by themselves. He returned to his home, wondering what had taken place."
 
 lemcLI.Gospel.title = "Sunday of the Myrrh-Bearing Women"
+lemcLI.Gospel.title_abbr = "Sunday of the Myrrh-Bearing Women"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.Mark.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr

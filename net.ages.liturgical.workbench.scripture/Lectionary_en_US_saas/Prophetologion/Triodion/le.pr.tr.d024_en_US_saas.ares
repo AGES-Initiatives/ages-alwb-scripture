@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.tr.d024_en_US_saas 
 
 lemcVE.reading1.title = ""
+lemcVE.reading1.title_abbr = ""
 lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = le.pr.me.r12_en_US_saas.leprVE.reading.book_string
 lemcVE.reading1.book_abbr = le.pr.me.r12_en_US_saas.leprVE.reading.book_abbr
@@ -8,6 +9,7 @@ lemcVE.reading1.chapverse = le.pr.me.r12_en_US_saas.leprVE.reading.chapverse
 lemcVE.reading1.text = le.pr.me.r12_en_US_saas.leprVE.reading.text
 
 lemcVE.reading2.title = ""
+lemcVE.reading2.title_abbr = ""
 lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr
@@ -15,6 +17,7 @@ lemcVE.reading2.chapverse = "1:1-20"
 lemcVE.reading2.text = "The Proverbs of Solomon, the son of David, who reigned in Israel, to know wisdom and instruction, and to understand words of discernment; to receive both subtlety of words, and to understand true righteousness and upright judgment; so as to give astuteness to the simple, and both perception and understanding to a young man; for a wise man who hears these things will be wiser, and the man of understanding will gain direction. He will understand both a parable and a hidden saying, both wise words and riddles. The fear of God is the beginning of wisdom, and there is good understanding in all who practice it; and godliness toward God is the beginning of perception, but the ungodly despise wisdom and instruction. Hear, my son, the instruction of your father, and do not reject the laws of your mother. For you will receive a crown of grace on your head and a gold chain around your neck. My son, do not let the ungodly lead you astray, and do not consent if they invite you, saying, “Come with us; take part in bloodshed, and let us hide a righteous man in the earth unjustly; and let us swallow him, just as Hades does the living, and let us take away his remembrance from the earth; let us seize his valuable property, and let us fill our houses with spoils; cast your lot with us and let us acquire a common bag; let there be one purse for us.” Do not walk in the way with them, but turn away your foot from their paths. For their feet run to evil, and they make haste to shed blood. For nets are not spread before birds for no reason,for those who participate in murder store up evils for themselves; and evil is the destruction of lawless men. These are the ways of all who accomplish lawless things, for they take away their own soul in ungodliness. Wisdom sings in the streets; she moves boldly in the squares."
 
 lemcTE.reading1.title = ""
+lemcTE.reading1.title_abbr = ""
 lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr

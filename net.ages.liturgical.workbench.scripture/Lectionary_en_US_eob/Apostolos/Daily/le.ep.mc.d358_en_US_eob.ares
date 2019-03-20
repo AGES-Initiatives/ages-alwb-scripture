@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d358_en_US_eob 
 
 lemcLI.Epistle.title = le.ep.mc.d008_en_US_eob.lemcLI.Epistle.title
+lemcLI.Epistle.title_abbr = le.ep.mc.d008_en_US_eob.lemcLI.Epistle.title
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = le.ep.mc.d008_en_US_eob.lemcLI.Epistle.book_string
 lemcLI.Epistle.book_abbr = le.ep.mc.d008_en_US_eob.lemcLI.Epistle.book_abbr

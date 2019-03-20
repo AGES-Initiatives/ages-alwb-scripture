@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d081_en_US_rsv
 
 lemcLI.Gospel.title = "Second Wednesday after Pascha"
+lemcLI.Gospel.title_abbr = "Second Wednesday after Pascha"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book_string = bible_en_US_rsv.John.text
 lemcLI.Gospel.book_abbr = bible_en_US_rsv.John.abbr

@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m12.d17_en_US_rsv 
 
 lemeMA.Gospel.title = "Orthros. For the Prophet."
+lemeMA.Gospel.title_abbr = "Orthros. For the Prophet."
 lemeMA.Gospel.version = le.go.lu.d046_en_US_rsv.leluLI.Gospel.version
 lemeMA.Gospel.book_string = le.go.lu.d046_en_US_rsv.leluLI.Gospel.book_string
 lemeMA.Gospel.book_abbr = le.go.lu.d046_en_US_rsv.leluLI.Gospel.book_abbr
@@ -8,6 +9,7 @@ lemeMA.Gospel.chapverse = le.go.lu.d046_en_US_rsv.leluLI.Gospel.chapverse
 lemeMA.Gospel.text = le.go.lu.d046_en_US_rsv.leluLI.Gospel.text
 
 lemeLI.Gospel.title = "Liturgy. For the Prophet."
+lemeLI.Gospel.title_abbr = "Liturgy. For the Prophet."
 lemeLI.Gospel.version = le.go.me.m11.d13_en_US_rsv.lemeLI.Gospel.version
 lemeLI.Gospel.book_string = le.go.me.m11.d13_en_US_rsv.lemeLI.Gospel.book_string
 lemeLI.Gospel.book_abbr = le.go.me.m11.d13_en_US_rsv.lemeLI.Gospel.book_abbr

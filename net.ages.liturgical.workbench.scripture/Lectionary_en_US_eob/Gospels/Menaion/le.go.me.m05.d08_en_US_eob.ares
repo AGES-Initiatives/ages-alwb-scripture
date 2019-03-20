@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m05.d08_en_US_eob
 
 lemeMA.Gospel.title = "For the Evangelist."
+lemeMA.Gospel.title_abbr = "For the Evangelist."
 lemeMA.Gospel.version = le.go.eo.w11_en_US_eob.leeoMA.Gospel.version
 lemeMA.Gospel.book_string = le.go.eo.w11_en_US_eob.leeoMA.Gospel.book_string
 lemeMA.Gospel.book_abbr = le.go.eo.w11_en_US_eob.leeoMA.Gospel.book_abbr
@@ -8,6 +9,7 @@ lemeMA.Gospel.chapverse = le.go.eo.w11_en_US_eob.leeoMA.Gospel.chapverse
 lemeMA.Gospel.text = le.go.eo.w11_en_US_eob.leeoMA.Gospel.text
 
 lemeLI.Gospel.title = "For the Evangelist."
+lemeLI.Gospel.title_abbr = "For the Evangelist."
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
 lemeLI.Gospel.book_string = bible_en_US_eob.John.text
 lemeLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
@@ -16,6 +18,7 @@ lemeLI.Gospel.text = "At that time, there were standing by the cross of Jesus hi
 lemeLI.Gospel.pagenumber = ""
 
 lemeLI.Gospel2.title = "For the Saint."
+lemeLI.Gospel2.title_abbr = "For the Saint."
 lemeLI.Gospel2.version = le.go.mc.d145_en_US_eob.lemcLI.Gospel.version
 lemeLI.Gospel2.book_string =  le.go.mc.d145_en_US_eob.lemcLI.Gospel.book_string
 lemeLI.Gospel2.chapverse =  le.go.mc.d145_en_US_eob.lemcLI.Gospel.chapverse

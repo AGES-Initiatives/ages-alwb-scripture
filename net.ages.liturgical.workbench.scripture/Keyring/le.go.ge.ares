@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.ge 
 
 legeMA.Gospel.title = ""
+legeMA.Gospel.title_abbr = ""
 legeMA.Gospel.version = 
 legeMA.Gospel.book_string = 
 legeMA.Gospel.book_abbr = 
@@ -8,6 +9,7 @@ legeMA.Gospel.chapverse = ""
 legeMA.Gospel.text = ""
 
 legeLI.Gospel.title = ""
+legeLI.Gospel.title_abbr = ""
 legeLI.Gospel.version = 
 legeLI.Gospel.book_string = 
 legeLI.Gospel.book_abbr = 

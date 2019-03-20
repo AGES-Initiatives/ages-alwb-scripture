@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d028_en_US_eob
 
 lemcCO.Gospel.title = "Gospel Reading at Compline on Friday"
+lemcCO.Gospel.title_abbr = "Gospel Reading at Compline on Friday"
 lemcCO.Gospel.version = properties_en_US_eob.version.designation
 lemcCO.Gospel.book_string = bible_en_US_eob.John.text
 lemcCO.Gospel.book_abbr = bible_en_US_eob.John.abbr
@@ -9,6 +10,7 @@ lemcCO.Gospel.text = "The Lord said to his disciples: “I am the true vine, and
 lemcCO.Gospel.pagenumber = ""
 
 lemcLI.Gospel.title = ""
+lemcLI.Gospel.title_abbr = ""
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.Mark.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr

@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m10.d26_en_US_eob
 
 lemeMA.Gospel.title = "For the Saint."
+lemeMA.Gospel.title_abbr = "For the Saint."
 lemeMA.Gospel.version = le.go.lu.d079_en_US_eob.leluLI.Gospel.version
 lemeMA.Gospel.book_string = le.go.lu.d079_en_US_eob.leluLI.Gospel.book_string
 lemeMA.Gospel.book_abbr = le.go.lu.d079_en_US_eob.leluLI.Gospel.book_abbr
@@ -9,6 +10,7 @@ lemeMA.Gospel.text = le.go.lu.d079_en_US_eob.leluLI.Gospel.text
 lemeMA.Gospel.pagenumber = le.go.lu.d079_en_US_eob.leluLI.Gospel.pagenumber
 
 lemeLI.Gospel.title = "For the Saint."
+lemeLI.Gospel.title_abbr = "For the Saint."
 lemeLI.Gospel.version = le.go.mc.d091_en_US_eob.lemcLI.Gospel.version
 lemeLI.Gospel.book_string = le.go.mc.d091_en_US_eob.lemcLI.Gospel.book_string
 lemeLI.Gospel.book_abbr = le.go.mc.d091_en_US_eob.lemcLI.Gospel.book_abbr
@@ -17,6 +19,7 @@ lemeLI.Gospel.text = le.go.mc.d091_en_US_eob.lemcLI.Gospel.text
 lemeLI.Gospel.pagenumber = le.go.mc.d091_en_US_eob.lemcLI.Gospel.pagenumber
 
 lemeLI.Gospel2.title = "For the Earthquake."
+lemeLI.Gospel2.title_abbr = "For the Earthquake."
 lemeLI.Gospel2.version = le.go.mc.d131_en_US_eob.lemcLI.Gospel.version
 lemeLI.Gospel2.book_string = le.go.mc.d131_en_US_eob.lemcLI.Gospel.book_string
 lemeLI.Gospel2.book_abbr = le.go.mc.d131_en_US_eob.lemcLI.Gospel.book_abbr

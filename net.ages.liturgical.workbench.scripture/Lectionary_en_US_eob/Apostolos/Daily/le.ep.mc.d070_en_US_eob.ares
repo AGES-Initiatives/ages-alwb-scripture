@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d070_en_US_eob
 
 lemcVE.Epistle.title = "HOLY AND GREAT FRIDAY"
+lemcVE.Epistle.title_abbr = "HOLY AND GREAT FRIDAY"
 lemcVE.Epistle.version = properties_en_US_eob.version.designation
 lemcVE.Epistle.book_string = bible_en_US_eob.Corinthians1.text
 lemcVE.Epistle.book_abbr = bible_en_US_eob.Corinthians1.abbr
@@ -10,6 +11,7 @@ lemcVE.Epistle.pagenumber = ""
 
 // This is at the end of Friday Night service
 lemcLI.Epistle.title = ""
+lemcLI.Epistle.title_abbr = ""
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians1.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians1.abbr

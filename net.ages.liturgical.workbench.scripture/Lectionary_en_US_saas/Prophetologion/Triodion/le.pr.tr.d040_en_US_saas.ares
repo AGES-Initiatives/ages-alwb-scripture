@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.tr.d040_en_US_saas
 
 lemcVE.reading1.title = ""
+lemcVE.reading1.title_abbr = ""
 lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Genesis.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Genesis.abbr
@@ -8,6 +9,7 @@ lemcVE.reading1.chapverse = "7:6-9"
 lemcVE.reading1.text = "Now Noah was six hundred years old when the flood of waters came on the earth. Then Noah, with his sons, his wife, and his sons’ wives, entered the ark because of the flood waters. Also the clean and unclean birds, the clean and unclean cattle, and everything that creeps on the earth, entered with Noah into the ark, two by two, male and female, as God commanded him."
 
 lemcVE.reading2.title = ""
+lemcVE.reading2.title_abbr = ""
 lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr
@@ -15,6 +17,7 @@ lemcVE.reading2.chapverse = "9:12-25"
 lemcVE.reading2.text = "My son, if you become wise in yourself, you shall also be wise toward your neighbor; but if you prove to be evil, you alone will go through troubles. He who supports himself with lies will shepherd winds and chase flying birds; for he abandoned the ways of his own vineyard and strayed from paths of his own farming; and he will pass through a waterless desert, a land assigned to drought, and he gathers barrenness with his hands. A woman in need of a morsel is without discernment and overbold; she has no sense of shame. She sits upon the doors of her own house, upon a seat openly in the streets, calling to those who pass by and who go straight along their paths, “He who is very lacking in discernment, let him turn aside to me; and he who is in need of discernment, I exhort, saying, ‘Grasp with pleasure the secret bread and the sweet water of theft.’ ” But he does not know that the inhabitants of the earth perish beside her, and he happens upon a snare of Hades. But hurry off, do not continue in that place, neither set your eye toward her; for so you shall pass through strange water and cross beyond a strange river; and keep away from strange water, and do not drink from a strange fountain; rhat you may live a long time and add years of life to yourself."
 
 lemcTE.reading1.title = ""
+lemcTE.reading1.title_abbr = ""
 lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr

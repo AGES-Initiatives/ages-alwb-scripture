@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.lu.d056_en_US_rsv
 
 leluLI.Gospel.title = "Eighth Sunday of Luke"
+leluLI.Gospel.title_abbr = "8th Sun. of Luke"
 leluLI.Gospel.version = properties_en_US_rsv.version.designation
 leluLI.Gospel.book_string = bible_en_US_rsv.Luke.text
 leluLI.Gospel.book_abbr = bible_en_US_rsv.Luke.abbr

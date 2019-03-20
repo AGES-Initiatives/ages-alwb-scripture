@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d068_en_US_rsv
 
 lemcVE.Gospel.title = "Great and Holy Wednesday"
+lemcVE.Gospel.title_abbr = "Great and Holy Wednesday"
 lemcVE.Gospel.version = properties_en_US_rsv.version.designation
 lemcVE.Gospel.book_string = bible_en_US_rsv.Matthew.text
 lemcVE.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr
@@ -8,6 +9,7 @@ lemcVE.Gospel.chapverse = "26:6-16"
 lemcVE.Gospel.text = "When Jesus was at Bethany at the house of Simon the leper, a woman came up to him with an alabaster flask of very expensive ointment and she poured it on his head, as he sat at table. But when the disciples saw it, they were indignant, saying, \"Why this waste? For this ointment might have been sold for a large sum, and given to the poor.\" But Jesus, aware of this, said to them, \"Why do you trouble the woman? For she has done a beautiful thing to me. For you always have the poor with you, but you will not always have me. In pouring this ointment on my body she has done it to prepare me for burial. Truly, I say to you wherever this gospel is preached in the whole world, what she has done will be told in memory of her.\" Then one of the twelve, who was called Judas Iscariot, went to the chief priests and said, \"What will you give me if I deliver him to you?\" And they paid him thirty pieces of silver. And from that moment he sought an opportunity to betray him."
 
 lemcMA.Gospel.title = "Great and Holy Thursday"
+lemcMA.Gospel.title_abbr = "Great and Holy Thursday"
 lemcMA.Gospel.version = properties_en_US_rsv.version.designation
 lemcMA.Gospel.book_string = bible_en_US_rsv.Luke.text
 lemcMA.Gospel.book_abbr = bible_en_US_rsv.Luke.abbr

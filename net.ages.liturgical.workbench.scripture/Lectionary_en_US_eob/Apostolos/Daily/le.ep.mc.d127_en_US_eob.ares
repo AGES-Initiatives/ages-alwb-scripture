@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d127_en_US_eob
 
 lemcLI.Epistle.title = "FIRST SUNDAY, SUNDAY OF ALL SAINTS"
+lemcLI.Epistle.title_abbr = "FIRST SUNDAY, SUNDAY OF ALL SAINTS"
 lemcLI.Epistle.book_string = bible_en_US_eob.Hebrews.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Hebrews.abbr
 lemcLI.Epistle.version = properties_en_US_eob.version.designation

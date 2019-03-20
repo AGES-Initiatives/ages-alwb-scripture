@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.os_en_US_saas 
 
 leosCO.Key0300.title = ""
+leosCO.Key0300.title_abbr = ""
 leosCO.Key0300.version = properties_en_US_saas.version.designation
 leosCO.Key0300.book_string = bible_en_US_saas.Isaiah.text
 leosCO.Key0300.book_abbr = bible_en_US_saas.Isaiah.abbr
@@ -29,6 +30,7 @@ leosCO.Key0320.text = "Mighty God, Master, Prince of Peace."
 leosCO.Key0321.text = "Father of the age to come."
 
 leosMA.LentAlleluia.title = ""
+leosMA.LentAlleluia.title_abbr = ""
 leosMA.LentAlleluia.version = properties_en_US_saas.version.designation
 leosMA.LentAlleluia.book_string = bible_en_US_saas.Isaiah.text
 leosMA.LentAlleluia.book_abbr = bible_en_US_saas.Isaiah.abbr
@@ -40,6 +42,7 @@ leosMA.LentAlleluiaVerse3.text = "Jealousy will seize an untaught people; and no
 leosMA.LentAlleluiaVerse4.text = "Bring more evils on them, O Lord, bring more evils on them, on the glorious of the earth."
 
 leosMA.GreatDoxology.v09.title = ""
+leosMA.GreatDoxology.v09.title_abbr = ""
 leosMA.GreatDoxology.v09.version = properties_en_US_saas.version.designation
 leosMA.GreatDoxology.v09.book_string = bible_en_US_saas.Daniel.text
 leosMA.GreatDoxology.v09.book_abbr = bible_en_US_saas.Daniel.abbr
@@ -48,6 +51,7 @@ leosMA.GreatDoxology.v09.chapverse = "3:26"
 leosMA.GreatDoxology.v09.text = "Blessed are You and praiseworthy, O Lord, the God of our fathers, and praised and glorified is Your name unto the ages. Amen."
 
 leosMA.tr.d036.LaudsSundayVerse1.title = ""
+leosMA.tr.d036.LaudsSundayVerse1.title_abbr = ""
 leosMA.tr.d036.LaudsSundayVerse1.version = properties_en_US_saas.version.designation
 leosMA.tr.d036.LaudsSundayVerse1.book_string = bible_en_US_saas.Proverbs.text
 leosMA.tr.d036.LaudsSundayVerse1.book_abbr = bible_en_US_saas.Proverbs.abbr
@@ -56,6 +60,7 @@ leosMA.tr.d036.LaudsSundayVerse1.chapverse = "10:32a-33a"
 leosMA.tr.d036.LaudsSundayVerse1.text = "The mouth of a righteous man distills wisdom; the lips of righteous men distill grace."
 
 leosLI.pe.d113.EpistleProkeimenon.title = "The Prayer of Azariah."
+leosLI.pe.d113.EpistleProkeimenon.title_abbr = "The Prayer of Azariah."
 leosLI.pe.d113.EpistleProkeimenon.version = properties_en_US_saas.version.designation
 leosLI.pe.d113.EpistleProkeimenon.book_string = bible_en_US_saas.Daniel.text
 leosLI.pe.d113.EpistleProkeimenon.book_abbr = bible_en_US_saas.Daniel.abbr
@@ -65,6 +70,7 @@ leosLI.pe.d113.EpistleProkeimenon.text = "Blessed are You, O Lord God of our fat
 leosLI.pe.d113.EpistleProkeimenonVerse.text = "For You are righteous in all You did for us, all You brought on us and on Jerusalem, the holy city of our fathers."
 
 leosFUN.Key1202.title = ""
+leosFUN.Key1202.title_abbr = ""
 leosFUN.Key1202.version = properties_en_US_saas.version.designation
 leosFUN.Key1202.book_string = bible_en_US_saas.Genesis.text
 leosFUN.Key1202.book_abbr = bible_en_US_saas.Genesis.abbr

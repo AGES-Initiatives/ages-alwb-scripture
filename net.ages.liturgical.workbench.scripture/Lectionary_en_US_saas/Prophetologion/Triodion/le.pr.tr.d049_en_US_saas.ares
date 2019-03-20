@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.tr.d049_en_US_saas
 
 lemcVE.reading1.title = ""
+lemcVE.reading1.title_abbr = ""
 lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Genesis.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Genesis.abbr
@@ -8,6 +9,7 @@ lemcVE.reading1.chapverse = "12:1-7"
 lemcVE.reading1.text = "Now the Lord said to Abram, “Get out of your country, from your kindred and from your father’s house, to a land I will show you. I will make you a great nation; I will bless you and make your name great; and you shall be a blessing. I will bless those who bless you, and curse those who curse you; and in you all the tribes of the earth shall be blessed.” Then Abram departed as the Lord said to him, and Lot went with him. Now Abram was seventy-five years old when he departed from Haran. So Abram took Sarai his wife and Lot his brother’s son and all their possessions and every soul they acquired in Haran, and they departed for the land of Canaan. Thus they came to the land of Canaan. Abram passed through the land to the place of Shechem, as far as the oak of Moreh. And the Canaanites were then in the land. Then the Lord appeared to Abram and said, “To your seed I will give this land.” And there Abram built an altar to the Lord, who appeared to him."
 
 lemcVE.reading2.title = ""
+lemcVE.reading2.title_abbr = ""
 lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr

@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.tr.d025_en_US_saas 
 
 lemcVE.reading1.title = ""
+lemcVE.reading1.title_abbr = ""
 lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Genesis.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Genesis.abbr
@@ -8,6 +9,7 @@ lemcVE.reading1.chapverse = "1:14-23"
 lemcVE.reading1.text = "Then God said, “Let there be lights in the firmament of heaven for illumination to divide day from night. Let them be for signs and seasons, and for days and years. Let them be for illumination in the firmament of heaven to give light on the earth.” It was so. Then God made two great lights: the greater light to rule the day, and the lesser light to rule the night. He made the stars also. God set them in the firmament of heaven to give light on the earth, and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good. So evening and morning were the fourth day. Then God said, “Let the waters bring forth creatures having life, and let birds fly above the earth across the face of heaven's firmament.” It was so. Thus God made great sea creatures and every living thing that moves with which the waters abounded, according to their kind, and every winged bird according to its kind. God saw that it was good. God blessed them, saying, “Be fruitful and multiply, and fill the waters in the seas, and let birds multiply on earth.” So evening and morning were the fifth day."
 
 lemcVE.reading2.title = ""
+lemcVE.reading2.title_abbr = ""
 lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr
@@ -15,6 +17,7 @@ lemcVE.reading2.chapverse = "1:20-35"
 lemcVE.reading2.text = "Wisdom sings in the streets; she moves boldly in the squares. She preaches on high city walls and sits at the gates of lords. At the gates of a city she boldly says, “So long a time as the simple hold fast to righteousness, they shall not be ashamed; but those without discernment, since they are desirous of arrogance, and are become ungodly, they hate perception, and are become subject to reproofs. Behold, I shall bring forth upon you the utterance of my breath, and I shall teach you my word. Since I called, but you did not obey, and spoke at length, but you paid no attention, but made my counsels invalid, and were not persuaded by my reproofs; consequently, I will laugh at your annihilation, and will exult when ruin comes to you, and when confusion reaches you unawares, and overthrow comes like a whirlwind, and when tribulation and anguish come to you, and when destruction comes to you. For it shall be, when you shall call upon me, I will not listen to you; evil men will seek me, but not find me, for they hate wisdom, and choose not the fear of the Lord. Neither do they wish to follow my counsels, but despise my reproofs. Therefore, they shall eat the fruits of their own way and be filled with their own ungodliness. For since they wrong the simple, they shall be killed, and a close examination shall destroy the ungodly. But he who obeys me shall dwell in hope, and shall be at rest without fear from every evil.”"
 
 lemcTE.reading1.title = ""
+lemcTE.reading1.title_abbr = ""
 lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr

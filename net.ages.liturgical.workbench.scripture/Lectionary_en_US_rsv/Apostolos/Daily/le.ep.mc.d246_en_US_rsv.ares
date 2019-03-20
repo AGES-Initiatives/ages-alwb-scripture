@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d246_en_US_rsv
 
 lemcLI.Epistle.title = "EIGHTEENTH SUNDAY"
+lemcLI.Epistle.title_abbr = "18th Sunday"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Corinthians2.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Corinthians2.abbr

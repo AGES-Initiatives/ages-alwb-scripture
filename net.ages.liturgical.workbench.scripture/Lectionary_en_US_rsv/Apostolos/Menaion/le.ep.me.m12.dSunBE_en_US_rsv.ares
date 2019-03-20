@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m12.dSunBE_en_US_rsv 
 
 lemeLI.Epistle.title = "SUNDAY BEFORE THEOPHANY"
+lemeLI.Epistle.title_abbr = "Sun. before Epiphany"
 lemeLI.Epistle.rubric = "From December 30 to January 5"
 lemeLI.Epistle.version = properties_en_US_rsv.version.designation
 lemeLI.Epistle.book_string = bible_en_US_rsv.Timothy2.text

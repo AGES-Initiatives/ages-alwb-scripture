@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m01.d06_en_US_eob
 
 lemeVE.Gospel.title = "For the Feast."
+lemeVE.Gospel.title_abbr = "For the Feast."
 lemeVE.Gospel.version = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.version
 lemeVE.Gospel.book_string = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.book_string
 lemeVE.Gospel.book_abbr = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.book_abbr
@@ -9,6 +10,7 @@ lemeVE.Gospel.text = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.text
 lemeVE.Gospel.pagenumber = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.pagenumber
 
 lemeMA.Gospel.title = "For the Feast."
+lemeMA.Gospel.title_abbr = "For the Feast."
 lemeMA.Gospel.version = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.version
 lemeMA.Gospel.book_string = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.book_string
 lemeMA.Gospel.book_abbr = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.book_abbr
@@ -17,6 +19,7 @@ lemeMA.Gospel.text = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.text
 lemeMA.Gospel.pagenumber = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.pagenumber
 
 lemeLI.Gospel.title = "For the Feast."
+lemeLI.Gospel.title_abbr = "For the Feast."
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
 lemeLI.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemeLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr

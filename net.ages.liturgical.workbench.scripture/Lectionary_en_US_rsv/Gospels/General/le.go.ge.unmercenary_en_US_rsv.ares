@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.ge.unmercenary_en_US_rsv 
 
 legeLI.Gospel.title = "For Unmercenaries"
+legeLI.Gospel.title_abbr = "For Unmercenaries"
 legeLI.Gospel.version = properties_en_US_rsv.version.designation
 legeLI.Gospel.book_string = bible_en_US_rsv.Matthew.text
 legeLI.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr

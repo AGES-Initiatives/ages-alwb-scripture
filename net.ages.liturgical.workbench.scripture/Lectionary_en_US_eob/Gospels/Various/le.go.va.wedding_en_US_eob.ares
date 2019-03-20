@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.va.wedding_en_US_eob
 
 levaWED.Gospel.title = ""
+levaWED.Gospel.title_abbr = ""
 levaWED.Gospel.version = properties_en_US_eob.version.designation
 levaWED.Gospel.book_string = bible_en_US_eob.John.text
 levaWED.Gospel.book_abbr = bible_en_US_eob.John.abbr

@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.ge.theotokos_en_US_rsv
 
 legeMA.Gospel.title = "For the Theotokos."
+legeMA.Gospel.title_abbr = "For the Theotokos."
 legeMA.Gospel.version = properties_en_US_rsv.version.designation
 legeMA.Gospel.book_string = bible_en_US_rsv.Luke.text
 legeMA.Gospel.book_abbr = bible_en_US_rsv.Luke.abbr
@@ -9,6 +10,7 @@ legeMA.Gospel.text = "In those days, Mary arose and went with haste into the hil
 legeMA.Gospel.pagenumber = ""
 
 legeLI.Gospel.title = "For the Theotokos."
+legeLI.Gospel.title_abbr = "For the Theotokos."
 legeLI.Gospel.version = properties_en_US_rsv.version.designation
 legeLI.Gospel.book_string = bible_en_US_rsv.Luke.text
 legeLI.Gospel.book_abbr = bible_en_US_rsv.Luke.abbr

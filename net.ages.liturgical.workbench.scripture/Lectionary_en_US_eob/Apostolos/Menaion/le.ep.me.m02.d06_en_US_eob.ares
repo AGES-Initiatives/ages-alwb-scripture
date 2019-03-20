@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m02.d06_en_US_eob 
 
 lemeLI.Epistle.title = "For the Saint."
+lemeLI.Epistle.title_abbr = "For the Saint."
 lemeLI.Epistle.version = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.book_abbr

@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d113_en_US_rsv
 
 lemcMA.Gospel.title = "Sunday of the Holy Fathers"
+lemcMA.Gospel.title_abbr = "Sunday of the Holy Fathers"
 lemcMA.Gospel.version = properties_en_US_rsv.version.designation
 lemcMA.Gospel.book_string = le.go.eo.w10_en_US_rsv.leeoMA.Gospel.book_string
 lemcMA.Gospel.book_abbr = le.go.eo.w10_en_US_rsv.leeoMA.Gospel.book_abbr
@@ -8,6 +9,7 @@ lemcMA.Gospel.chapverse = le.go.eo.w10_en_US_rsv.leeoMA.Gospel.chapverse
 lemcMA.Gospel.text = le.go.eo.w10_en_US_rsv.leeoMA.Gospel.text
 
 lemcLI.Gospel.title = "Sunday of the Holy Fathers"
+lemcLI.Gospel.title_abbr = "7th Sunday (Holy Fathers)"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book_string = bible_en_US_rsv.John.text
 lemcLI.Gospel.book_abbr = bible_en_US_rsv.John.abbr

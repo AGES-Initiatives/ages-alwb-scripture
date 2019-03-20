@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m03.d09_en_US_eob
 
 lemeMA.Gospel.title = "For the Martyrs."
+lemeMA.Gospel.title_abbr = "For the Martyrs."
 lemeMA.Gospel.version = le.go.lu.d079_en_US_eob.leluLI.Gospel.version
 lemeMA.Gospel.book_string = le.go.lu.d079_en_US_eob.leluLI.Gospel.book_string
 lemeMA.Gospel.book_abbr = le.go.lu.d079_en_US_eob.leluLI.Gospel.book_abbr
@@ -9,6 +10,7 @@ lemeMA.Gospel.text = le.go.lu.d079_en_US_eob.leluLI.Gospel.text
 lemeMA.Gospel.pagenumber = le.go.lu.d079_en_US_eob.leluLI.Gospel.pagenumber
 
 lemeLI.Gospel.title = "For the Martyrs."
+lemeLI.Gospel.title_abbr = "For the Martyrs."
 lemeLI.Gospel.version = le.go.mc.d179_en_US_eob.lemcLI.Gospel.version
 lemeLI.Gospel.book_string = le.go.mc.d179_en_US_eob.lemcLI.Gospel.book_string
 lemeLI.Gospel.book_abbr = le.go.mc.d179_en_US_eob.lemcLI.Gospel.book_abbr

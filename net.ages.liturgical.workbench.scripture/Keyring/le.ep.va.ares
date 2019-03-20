@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.va
 
 levaLI.Epistle.title = ""
+levaLI.Epistle.title_abbr = ""
 levaLI.Epistle.version = 
 levaLI.Epistle.book_string = 
 levaLI.Epistle.book_abbr = 

@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d077_en_US_rsv
 
 lemcLI.Gospel.title = "Renewal Saturday"
+lemcLI.Gospel.title_abbr = "Renewal Saturday"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book_string = bible_en_US_rsv.John.text
 lemcLI.Gospel.book_abbr = bible_en_US_rsv.John.abbr

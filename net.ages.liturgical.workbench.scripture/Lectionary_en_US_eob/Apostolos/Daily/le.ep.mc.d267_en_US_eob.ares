@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d267_en_US_eob
 
 lemcLI.Epistle.title = "TWENTY-FIRST SUNDAY"
+lemcLI.Epistle.title_abbr = "TWENTY-FIRST SUNDAY"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Galatians.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Galatians.abbr

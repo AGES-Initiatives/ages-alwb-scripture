@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d027_en_US_eob
 
 lemcCO.Gospel.title = "Gospel Reading at Compline on Thursday"
+lemcCO.Gospel.title_abbr = "Gospel Reading at Compline on Thursday"
 lemcCO.Gospel.version = properties_en_US_eob.version.designation
 lemcCO.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemcCO.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr

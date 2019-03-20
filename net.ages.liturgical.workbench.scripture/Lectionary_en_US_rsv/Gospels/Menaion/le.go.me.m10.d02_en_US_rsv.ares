@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m10.d02_en_US_rsv 
 
 lemeLI.Gospel.title = "For the Hieromartyr."
+lemeLI.Gospel.title_abbr = "For the Hieromartyr."
 lemeLI.Gospel.version = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.version
 lemeLI.Gospel.book_string = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.book_string
 lemeLI.Gospel.book_abbr = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.book_abbr

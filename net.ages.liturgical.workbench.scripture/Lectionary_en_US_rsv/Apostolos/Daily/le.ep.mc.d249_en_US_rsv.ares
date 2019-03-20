@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d249_en_US_rsv
 
 lemcLI.Epistle.title = "WEDNESDAY OF THE NINETEENTH WEEK"
+lemcLI.Epistle.title_abbr = "WEDNESDAY OF THE NINETEENTH WEEK"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Philippians.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Philippians.abbr

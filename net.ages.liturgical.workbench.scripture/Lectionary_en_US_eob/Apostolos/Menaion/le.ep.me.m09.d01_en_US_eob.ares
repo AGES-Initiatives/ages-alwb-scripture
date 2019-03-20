@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m09.d01_en_US_eob
 
 lemeLI.Epistle.title = "For the Indiction."
+lemeLI.Epistle.title_abbr = "For the Indiction."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book_string = bible_en_US_eob.Timothy1.text
 lemeLI.Epistle.book_abbr = bible_en_US_eob.Timothy1.abbr
@@ -9,6 +10,7 @@ lemeLI.Epistle.text = "Timothy, my child, I encourage that first of all, petitio
 lemeLI.Epistle.pagenumber = ""
 
 lemeLI.Epistle2.title = "For St. Symeon the Stylite."
+lemeLI.Epistle2.title_abbr = "For St. Symeon the Stylite."
 lemeLI.Epistle2.version = le.ep.mc.d330_en_US_eob.lemcLI.Epistle.version
 lemeLI.Epistle2.book_string = le.ep.mc.d330_en_US_eob.lemcLI.Epistle.book_string
 lemeLI.Epistle2.book_abbr = le.ep.mc.d330_en_US_eob.lemcLI.Epistle.book_abbr

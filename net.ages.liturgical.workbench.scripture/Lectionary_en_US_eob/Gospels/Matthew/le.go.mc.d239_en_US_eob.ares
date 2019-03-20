@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d239_en_US_eob
 
 lemcLI.Gospel.title = "Seventeenth Sunday" // Sunday of the Canaanite Woman
+lemcLI.Gospel.title_abbr = "Seventeenth Sunday" // Sunday of the Canaanite Woman
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr

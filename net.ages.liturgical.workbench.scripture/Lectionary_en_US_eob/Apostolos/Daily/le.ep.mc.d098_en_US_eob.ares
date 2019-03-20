@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d098_en_US_eob
 
 lemcLI.Epistle.title = "SATURDAY OF THE FOURTH WEEK"
+lemcLI.Epistle.title_abbr = "SATURDAY OF THE FOURTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Acts.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Acts.abbr

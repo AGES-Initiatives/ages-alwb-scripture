@@ -1,24 +1,28 @@
 A_Resource_Whose_Name = le.ep.me.m06.d29_en_US_eob
 
 lemeVE.Reading1.title = "For the Apostles."
+lemeVE.Reading1.title_abbr = "For the Apostles."
 lemeVE.Reading1.version = properties_en_US_eob.version.designation
 lemeVE.Reading1.book_string = bible_en_US_eob.Peter1.text
 lemeVE.Reading1.chapverse = "1:3-9"
 lemeVE.Reading1.text = ""
 
 lemeVE.Reading2.title = "For the Apostles."
+lemeVE.Reading2.title_abbr = "For the Apostles."
 lemeVE.Reading2.version = properties_en_US_eob.version.designation
 lemeVE.Reading2.book_string = bible_en_US_eob.Peter1.text
 lemeVE.Reading2.chapverse = "1:13-19"
 lemeVE.Reading2.text = ""
 
 lemeVE.Reading3.title = "For the Apostles."
+lemeVE.Reading3.title_abbr = "For the Apostles."
 lemeVE.Reading3.version = properties_en_US_eob.version.designation
 lemeVE.Reading3.book_string = bible_en_US_eob.Peter1.text
 lemeVE.Reading3.chapverse = "2:11-24"
 lemeVE.Reading3.text = ""
 
 lemeLI.Epistle.title = "For the Apostles."
+lemeLI.Epistle.title_abbr = "For the Apostles."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book_string = bible_en_US_eob.Corinthians2.text
 lemeLI.Epistle.book_abbr = bible_en_US_eob.Corinthians2.abbr

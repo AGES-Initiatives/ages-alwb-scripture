@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.tr.d035_en_US_saas
 
 lemcVE.reading1.title = ""
+lemcVE.reading1.title_abbr = ""
 lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Genesis.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Genesis.abbr
@@ -8,6 +9,7 @@ lemcVE.reading1.chapverse = "5:32, 6:1-8"
 lemcVE.reading1.text = "And Noah was five hundred years old, and he begot Shem, Ham, and Japheth. Now it came to pass that men began to exist in great numbers on the earth, and daughters were born to them. So when the sons of God saw the daughters of men were beautiful, they took wives for themselves of all they chose. Then the Lord God said, “My Spirit shall not remain with these people forever, for they are flesh. So their days shall be one hundred and twenty years.” Now there were giants on the earth in those days, and also afterward, when the sons of God came in to the daughters of men and they bore children to them. Those were the mighty men of old, men of renown. Then the Lord God saw man’s wickedness, that it was great in the earth, and every intent of the thoughts within his heart was only evil continually. So God was grieved that He had made man on the earth, and He thought this over. Then God said, “I will blot out man whom I created from the face of the earth, from man to cattle, and from the creeping things to the birds of heaven, for I am grieved I made them.” But Noah found grace in the presence of the Lord God."
 
 lemcVE.reading2.title = ""
+lemcVE.reading2.title_abbr = ""
 lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr

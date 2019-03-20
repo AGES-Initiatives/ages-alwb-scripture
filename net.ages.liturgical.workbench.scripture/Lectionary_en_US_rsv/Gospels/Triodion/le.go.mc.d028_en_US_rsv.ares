@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d028_en_US_rsv
 
 lemcCO.Gospel.title = "Gospel Reading at Compline on Friday"
+lemcCO.Gospel.title_abbr = "Gospel Reading at Compline on Friday"
 lemcCO.Gospel.version = properties_en_US_rsv.version.designation
 lemcCO.Gospel.book_string = bible_en_US_rsv.John.text
 lemcCO.Gospel.book_abbr = bible_en_US_rsv.John.abbr
@@ -9,6 +10,7 @@ lemcCO.Gospel.text = "I am the true vine, and my Father is the vinedresser. Ever
 lemcCO.Gospel.pagenumber = ""
 
 lemcLI.Gospel.title = "On Saturday of the First Week of Lent"
+lemcLI.Gospel.title_abbr = "On Saturday of the First Week of Lent"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book_string = bible_en_US_rsv.Mark.text
 lemcLI.Gospel.book_abbr = bible_en_US_rsv.Mark.abbr

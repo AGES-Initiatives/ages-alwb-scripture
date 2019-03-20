@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d078_en_US_rsv 
 
 lemcMA.Gospel.title = "Thomas Sunday"
+lemcMA.Gospel.title_abbr = "Thomas Sunday"
 lemcMA.Gospel.version = properties_en_US_rsv.version.designation
 lemcMA.Gospel.book_string = bible_en_US_rsv.Matthew.text
 lemcMA.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr
@@ -8,6 +9,7 @@ lemcMA.Gospel.chapverse = "28:16-20"
 lemcMA.Gospel.text = "At that time, the eleven disciples went to Galilee, to the mountain to which Jesus had directed them. And when they saw him they worshipped him; but some doubted. And Jesus came and said to them, \"All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you; and lo, I am with you always, to the close of the age. Amen.\""
 
 lemcLI.Gospel.title = "Thomas Sunday"
+lemcLI.Gospel.title_abbr = "Thomas Sunday"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book_string = bible_en_US_rsv.John.text
 lemcLI.Gospel.book_abbr = bible_en_US_rsv.John.abbr

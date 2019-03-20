@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m12.d24_en_US_eob
 
 lemeH1.Gospel.title = "First Hour."
+lemeH1.Gospel.title_abbr = "First Hour."
 lemeH1.Gospel.version = properties_en_US_eob.version.designation
 lemeH1.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemeH1.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
@@ -9,6 +10,7 @@ lemeH1.Gospel.text = "Now the birth of Jesus Christ happened like this: after hi
 lemeH1.Gospel.pagenumber = ""
 
 lemeH3.Gospel.title = "Third Hour."
+lemeH3.Gospel.title_abbr = "Third Hour."
 lemeH3.Gospel.version = properties_en_US_eob.version.designation
 lemeH3.Gospel.book_string = bible_en_US_eob.Luke.text
 lemeH3.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
@@ -17,6 +19,7 @@ lemeH3.Gospel.text = "In those days, Caesar Augustus issued a decree that a cens
 lemeH3.Gospel.pagenumber = ""
 
 lemeH6.Gospel.title = "Sixth Hour."
+lemeH6.Gospel.title_abbr = "Sixth Hour."
 lemeH6.Gospel.version = properties_en_US_eob.version.designation
 lemeH6.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemeH6.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
@@ -25,6 +28,7 @@ lemeH6.Gospel.text = "When Jesus was born in Bethlehem of Judea, in the days of 
 lemeH6.Gospel.pagenumber = ""
 
 lemeH9.Gospel.title = "Ninth Hour."
+lemeH9.Gospel.title_abbr = "Ninth Hour."
 lemeH9.Gospel.version = properties_en_US_eob.version.designation
 lemeH9.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemeH9.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr

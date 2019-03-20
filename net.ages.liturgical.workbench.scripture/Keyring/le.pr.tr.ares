@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.tr 
 
 lemcVE.reading1.title = ""
+lemcVE.reading1.title_abbr = ""
 lemcVE.reading1.version = 
 lemcVE.reading1.book_string = 
 lemcVE.reading1.book_abbr = 
@@ -8,6 +9,7 @@ lemcVE.reading1.chapverse = ""
 lemcVE.reading1.text = ""
 
 lemcVE.reading2.title = ""
+lemcVE.reading2.title_abbr = ""
 lemcVE.reading2.version = 
 lemcVE.reading2.book_string = 
 lemcVE.reading2.book_abbr = 
@@ -16,6 +18,7 @@ lemcVE.reading2.text = ""
 
 // As needed
 lemcVE.reading3.title = ""
+lemcVE.reading3.title_abbr = ""
 lemcVE.reading3.version = 
 lemcVE.reading3.book_string = 
 lemcVE.reading3.book_abbr = 
@@ -23,6 +26,7 @@ lemcVE.reading3.chapverse = ""
 lemcVE.reading3.text = ""
 
 lemcVE.reading4.title = ""
+lemcVE.reading4.title_abbr = ""
 lemcVE.reading4.version = 
 lemcVE.reading4.book_string = 
 lemcVE.reading4.book_abbr = 
@@ -30,6 +34,7 @@ lemcVE.reading4.chapverse = ""
 lemcVE.reading4.text = ""
 
 lemcVE.reading5.title = ""
+lemcVE.reading5.title_abbr = ""
 lemcVE.reading5.version = 
 lemcVE.reading5.book_string = 
 lemcVE.reading5.book_abbr = 
@@ -37,6 +42,7 @@ lemcVE.reading5.chapverse = ""
 lemcVE.reading5.text = ""
 
 lemcVE.reading6.title = ""
+lemcVE.reading6.title_abbr = ""
 lemcVE.reading6.version = 
 lemcVE.reading6.book_string = 
 lemcVE.reading6.book_abbr = 
@@ -44,6 +50,7 @@ lemcVE.reading6.chapverse = ""
 lemcVE.reading6.text = ""
 
 lemcVE.reading7.title = ""
+lemcVE.reading7.title_abbr = ""
 lemcVE.reading7.version = 
 lemcVE.reading7.book_string = 
 lemcVE.reading7.book_abbr = 
@@ -51,6 +58,7 @@ lemcVE.reading7.chapverse = ""
 lemcVE.reading7.text = ""
 
 lemcVE.reading8.title = ""
+lemcVE.reading8.title_abbr = ""
 lemcVE.reading8.version = 
 lemcVE.reading8.book_string = 
 lemcVE.reading8.book_abbr = 
@@ -58,6 +66,7 @@ lemcVE.reading8.chapverse = ""
 lemcVE.reading8.text = ""
 
 lemcVE.reading9.title = ""
+lemcVE.reading9.title_abbr = ""
 lemcVE.reading9.version = 
 lemcVE.reading9.book_string = 
 lemcVE.reading9.book_abbr = 
@@ -65,6 +74,7 @@ lemcVE.reading9.chapverse = ""
 lemcVE.reading9.text = ""
 
 lemcVE.reading10.title = ""
+lemcVE.reading10.title_abbr = ""
 lemcVE.reading10.version = 
 lemcVE.reading10.book_string = 
 lemcVE.reading10.book_abbr = 
@@ -72,6 +82,7 @@ lemcVE.reading10.chapverse = ""
 lemcVE.reading10.text = ""
 
 lemcVE.reading11.title = ""
+lemcVE.reading11.title_abbr = ""
 lemcVE.reading11.version = 
 lemcVE.reading11.book_string = 
 lemcVE.reading11.book_abbr = 
@@ -79,6 +90,7 @@ lemcVE.reading11.chapverse = ""
 lemcVE.reading11.text = ""
 
 lemcVE.reading12.title = ""
+lemcVE.reading12.title_abbr = ""
 lemcVE.reading12.version = 
 lemcVE.reading12.book_string = 
 lemcVE.reading12.book_abbr = 
@@ -86,6 +98,7 @@ lemcVE.reading12.chapverse = ""
 lemcVE.reading12.text = ""
 
 lemcVE.reading13.title = ""
+lemcVE.reading13.title_abbr = ""
 lemcVE.reading13.version = 
 lemcVE.reading13.book_string = 
 lemcVE.reading13.book_abbr = 
@@ -93,6 +106,7 @@ lemcVE.reading13.chapverse = ""
 lemcVE.reading13.text = ""
 
 lemcVE.reading14.title = ""
+lemcVE.reading14.title_abbr = ""
 lemcVE.reading14.version = 
 lemcVE.reading14.book_string = 
 lemcVE.reading14.book_abbr = 
@@ -100,6 +114,7 @@ lemcVE.reading14.chapverse = ""
 lemcVE.reading14.text = ""
 
 lemcVE.reading15.title = ""
+lemcVE.reading15.title_abbr = ""
 lemcVE.reading15.version = 
 lemcVE.reading15.book_string = 
 lemcVE.reading15.book_abbr = 
@@ -109,6 +124,7 @@ lemcVE.reading15.text = ""
 //Trithekte i.e. Sixth Hour
 
 lemcTE.reading1.title = ""
+lemcTE.reading1.title_abbr = ""
 lemcTE.reading1.version = 
 lemcTE.reading1.book_string = 
 lemcTE.reading1.book_abbr = 
@@ -118,6 +134,7 @@ lemcTE.reading1.text = ""
 // Great Hours
 
 lemcH1.reading1.title = ""
+lemcH1.reading1.title_abbr = ""
 lemcH1.reading1.version = 
 lemcH1.reading1.book_string = 
 lemcH1.reading1.book_abbr = 
@@ -125,6 +142,7 @@ lemcH1.reading1.chapverse = ""
 lemcH1.reading1.text = ""
 
 lemcH3.reading1.title = ""
+lemcH3.reading1.title_abbr = ""
 lemcH3.reading1.version = 
 lemcH3.reading1.book_string = 
 lemcH3.reading1.book_abbr = 
@@ -132,6 +150,7 @@ lemcH3.reading1.chapverse = ""
 lemcH3.reading1.text = ""
 
 lemcH6.reading1.title = ""
+lemcH6.reading1.title_abbr = ""
 lemcH6.reading1.version = 
 lemcH6.reading1.book_string = 
 lemcH6.reading1.book_abbr = 
@@ -139,6 +158,7 @@ lemcH6.reading1.chapverse = ""
 lemcH6.reading1.text = ""
 
 lemcH9.reading1.title = ""
+lemcH9.reading1.title_abbr = ""
 lemcH9.reading1.version = 
 lemcH9.reading1.book_string = 
 lemcH9.reading1.book_abbr = 

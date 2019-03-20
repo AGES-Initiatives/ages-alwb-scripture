@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.eo.w08_en_US_rsv
 
 leeoMA.Gospel.title = "8"
+leeoMA.Gospel.title_abbr = "8"
 leeoMA.Gospel.version = properties_en_US_rsv.version.designation
 leeoMA.Gospel.book_string = bible_en_US_rsv.John.text
 leeoMA.Gospel.book_abbr = bible_en_US_rsv.John.abbr

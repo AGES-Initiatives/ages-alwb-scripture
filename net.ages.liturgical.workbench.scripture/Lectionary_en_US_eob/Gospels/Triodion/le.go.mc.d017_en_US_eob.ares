@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d017_en_US_eob
 
 lemcLI.Gospel.title = "Cheesefare Tuesday"
+lemcLI.Gospel.title_abbr = "Cheesefare Tuesday"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.Luke.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr

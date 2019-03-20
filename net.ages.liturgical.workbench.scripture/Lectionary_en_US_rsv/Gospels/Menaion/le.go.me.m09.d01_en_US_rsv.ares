@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m09.d01_en_US_rsv 
 
 lemeMA.Gospel.title = "For the Saint."
+lemeMA.Gospel.title_abbr = "For the Saint."
 lemeMA.Gospel.version = properties_en_US_rsv.version.designation
 lemeMA.Gospel.book_string = le.go.me.m12.d05_en_US_rsv.lemeLI.Gospel.book_string
 lemeMA.Gospel.book_abbr = le.go.me.m12.d05_en_US_rsv.lemeLI.Gospel.book_abbr
@@ -9,6 +10,7 @@ lemeMA.Gospel.text = le.go.me.m12.d05_en_US_rsv.lemeLI.Gospel.text
 lemeLI.Gospel.pagenumber = ""
 
 lemeLI.Gospel.title = "For the Indiction."
+lemeLI.Gospel.title_abbr = "For the Indiction."
 lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book_string = bible_en_US_rsv.Luke.text
 lemeLI.Gospel.book_abbr = bible_en_US_rsv.Luke.abbr
@@ -17,6 +19,7 @@ lemeLI.Gospel.text = "At that time, Jesus came to Nazareth, where he had been br
 lemeLI.Gospel.pagenumber = ""
 
 lemeLI.Gospel2.title = "For St. Symeon the Stylite."
+lemeLI.Gospel2.title_abbr = "For St. Symeon the Stylite."
 lemeLI.Gospel2.version = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.version
 lemeLI.Gospel2.book_string = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.book_string
 lemeLI.Gospel2.book_abbr = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.book_abbr

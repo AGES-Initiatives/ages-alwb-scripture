@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m12.dSatBC_en_US_eob 
 
 lemeLI.Epistle.title = "For the Forefeast."
+lemeLI.Epistle.title_abbr = "For the Forefeast."
 lemeLI.Epistle.version = le.ep.mc.d301_en_US_eob.lemcLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.mc.d301_en_US_eob.lemcLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.mc.d301_en_US_eob.lemcLI.Epistle.book_abbr

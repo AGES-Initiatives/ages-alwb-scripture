@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m10.d10_en_US_rsv 
 
 lemeLI.Epistle.title = "For the Martyrs."
+lemeLI.Epistle.title_abbr = "For the Martyrs."
 lemeLI.Epistle.version = le.ep.me.m09.d02_en_US_rsv.lemeLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.me.m09.d02_en_US_rsv.lemeLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.me.m09.d02_en_US_rsv.lemeLI.Epistle.book_abbr

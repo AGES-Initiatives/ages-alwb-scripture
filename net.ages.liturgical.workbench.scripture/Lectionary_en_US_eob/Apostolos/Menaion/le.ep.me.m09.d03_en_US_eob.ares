@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m09.d03_en_US_eob 
 
 lemeLI.Epistle.title = "For St. Anthimos."
+lemeLI.Epistle.title_abbr = "For St. Anthimos."
 lemeLI.Epistle.version = le.ep.me.m01.d18_en_US_eob.lemeLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.me.m01.d18_en_US_eob.lemeLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.me.m01.d18_en_US_eob.lemeLI.Epistle.book_abbr
@@ -9,6 +10,7 @@ lemeLI.Epistle.text = le.ep.me.m01.d18_en_US_eob.lemeLI.Epistle.text
 lemeLI.Epistle.pagenumber = ""
 
 lemeLI.Epistle2.title = "For St. Theoktistos."
+lemeLI.Epistle2.title_abbr = "For St. Theoktistos."
 lemeLI.Epistle2.version = le.ep.me.m12.d15_en_US_eob.lemeLI.Epistle.version
 lemeLI.Epistle2.book_string = le.ep.me.m12.d15_en_US_eob.lemeLI.Epistle.book_string
 lemeLI.Epistle2.book_abbr = le.ep.me.m12.d15_en_US_eob.lemeLI.Epistle.book_abbr

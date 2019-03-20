@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d065_en_US_rsv
 
 lemcMA.Gospel.title = ""
+lemcMA.Gospel.title_abbr = ""
 lemcMA.Gospel.version = properties_en_US_rsv.version.designation
 lemcMA.Gospel.book_string = bible_en_US_rsv.Matthew.text
 lemcMA.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr

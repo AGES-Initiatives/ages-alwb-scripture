@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d099_en_US_rsv
 
 lemcMA.Gospel.title = "Sunday of the Samaritan Woman"
+lemcMA.Gospel.title_abbr = "Sunday of the Samaritan Woman"
 lemcMA.Gospel.version = properties_en_US_rsv.version.designation
 lemcMA.Gospel.book_string = bible_en_US_rsv.John.text
 lemcMA.Gospel.book_abbr = bible_en_US_rsv.John.abbr
@@ -8,6 +9,7 @@ lemcMA.Gospel.chapverse = "20:1-10"
 lemcMA.Gospel.text = "At that time, Mary Magdalene came to the tomb early, while it was still dark, and saw that the stone had been taken away from the tomb. So she ran, and went to Simon Peter and the other disciple, the one whom Jesus loved, and said to them, \"They have taken the Lord out of the tomb, and we do not know where they have laid him.\" Peter then came out with the other disciple, and they went toward the tomb. They both ran, but the other disciple outran Peter and reached the tomb first; and stooping to look in, he saw the linen cloths lying there, but he did not go in. Then Simon Peter came, following him, and went into the tomb; he saw the linen cloths lying, and the napkin, which had been on his head, not lying with the linen cloths but rolled up in a place by itself. Then the other disciple, who reached the tomb first, also went in, and he saw and believed; for as yet they did not know the scripture, that he must rise from the dead. Then the disciples went back to their homes."
 
 lemcLI.Gospel.title = "Sunday of the Samaritan Woman"
+lemcLI.Gospel.title_abbr = "5th Sunday (Samaritan Woman)"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book_string = bible_en_US_rsv.John.text
 lemcLI.Gospel.book_abbr = bible_en_US_rsv.John.abbr

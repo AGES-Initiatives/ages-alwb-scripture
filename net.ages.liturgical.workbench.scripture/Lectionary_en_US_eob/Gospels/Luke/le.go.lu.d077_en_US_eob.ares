@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.lu.d077_en_US_eob
 
 leluLI.Gospel.title = "Eleventh Sunday"
+leluLI.Gospel.title_abbr = "Eleventh Sunday"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr

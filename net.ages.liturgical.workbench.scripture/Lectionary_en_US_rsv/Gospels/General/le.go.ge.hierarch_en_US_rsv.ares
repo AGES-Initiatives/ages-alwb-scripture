@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.ge.hierarch_en_US_rsv 
 
 legeMA.Gospel.title = "For a Hierarch"
+legeMA.Gospel.title_abbr = "For a Hierarch"
 legeMA.Gospel.version = properties_en_US_rsv.version.designation
 legeMA.Gospel.book_string = bible_en_US_rsv.John.text
 legeMA.Gospel.book_abbr = bible_en_US_rsv.John.abbr
@@ -9,6 +10,7 @@ legeMA.Gospel.text = "The Lord said to the Jews who had come to him, \"Truly, tr
 legeMA.Gospel.pagenumber = ""
 
 legeLI.Gospel.title = "For a Hierarch"
+legeLI.Gospel.title_abbr = "For a Hierarch"
 legeLI.Gospel.version = properties_en_US_rsv.version.designation
 legeLI.Gospel.book_string = bible_en_US_rsv.John.text
 legeLI.Gospel.book_abbr = bible_en_US_rsv.John.abbr
@@ -17,6 +19,7 @@ legeLI.Gospel.text = "The Lord said, \"I am the door; if any one enters by me, h
 legeLI.Gospel.pagenumber = ""
 
 legeLI.Gospel2.title = "For Hierarchs."
+legeLI.Gospel2.title_abbr = "For Hierarchs."
 legeLI.Gospel2.version = properties_en_US_rsv.version.designation
 legeLI.Gospel2.book_string = bible_en_US_rsv.Matthew.text
 legeLI.Gospel2.book_abbr = bible_en_US_rsv.Matthew.abbr

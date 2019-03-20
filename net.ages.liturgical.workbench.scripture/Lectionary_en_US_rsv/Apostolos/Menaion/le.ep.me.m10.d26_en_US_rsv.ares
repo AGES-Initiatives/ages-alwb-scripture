@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m10.d26_en_US_rsv 
 
 lemeLI.Epistle.title = "For the Saint."
+lemeLI.Epistle.title_abbr = "For the Saint."
 lemeLI.Epistle.version = properties_en_US_rsv.version.designation
 lemeLI.Epistle.book_string = bible_en_US_rsv.Timothy2.text
 lemeLI.Epistle.book_abbr = bible_en_US_rsv.Timothy2.abbr

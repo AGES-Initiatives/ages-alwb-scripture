@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m01.d05_en_US_rsv 
 
 lemeH1.Gospel.title = "Gospel for the First Hour"
+lemeH1.Gospel.title_abbr = "Gospel for the First Hour"
 lemeH1.Gospel.version = properties_en_US_rsv.version.designation
 lemeH1.Gospel.book_string = bible_en_US_rsv.Matthew.text
 lemeH1.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr
@@ -9,6 +10,7 @@ lemeH1.Gospel.text = "At that time, John the Baptist came preaching in the wilde
 lemeH1.Gospel.pagenumber = ""
 
 lemeH3.Gospel.title = "Gospel for the Third Hour"
+lemeH3.Gospel.title_abbr = "Gospel for the Third Hour"
 lemeH3.Gospel.version = properties_en_US_rsv.version.designation
 lemeH3.Gospel.book_string = bible_en_US_rsv.Mark.text
 lemeH3.Gospel.book_abbr = bible_en_US_rsv.Mark.abbr
@@ -17,6 +19,7 @@ lemeH3.Gospel.text = "The beginning of the Gospel of Jesus Christ, the Son of Go
 lemeH3.Gospel.pagenumber = ""
 
 lemeH6.Gospel.title = "Gospel for the Sixth Hour"
+lemeH6.Gospel.title_abbr = "Gospel for the Sixth Hour"
 lemeH6.Gospel.version = properties_en_US_rsv.version.designation
 lemeH6.Gospel.book_string = bible_en_US_rsv.Mark.text
 lemeH6.Gospel.book_abbr = bible_en_US_rsv.Mark.abbr
@@ -25,6 +28,7 @@ lemeH6.Gospel.text = "In those days Jesus came from Nazareth of Galilee and was 
 lemeH6.Gospel.pagenumber = ""
 
 lemeH9.Gospel.title = "Gospel for the Ninth Hour"
+lemeH9.Gospel.title_abbr = "Gospel for the Ninth Hour"
 lemeH9.Gospel.version = properties_en_US_rsv.version.designation
 lemeH9.Gospel.book_string = bible_en_US_rsv.Luke.text
 lemeH9.Gospel.book_abbr = bible_en_US_rsv.Luke.abbr

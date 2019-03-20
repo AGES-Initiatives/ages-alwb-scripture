@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d106_en_US_rsv
 
 lemcMA.Gospel.title = "Sunday of the Blind Man"
+lemcMA.Gospel.title_abbr = "Sunday of the Blind Man"
 lemcMA.Gospel.version = properties_en_US_rsv.version.designation
 lemcMA.Gospel.book_string = bible_en_US_rsv.John.text
 lemcMA.Gospel.book_abbr = bible_en_US_rsv.John.abbr
@@ -8,6 +9,7 @@ lemcMA.Gospel.chapverse = "20:11-18"
 lemcMA.Gospel.text = "At that time, Mary stood weeping outside the tomb, and as she wept she stooped to look into the tomb; and she saw two angels in white, sitting where the body of Jesus had lain, one at the head and one at the feet. They said to her, \"Woman, why are you weeping?\" She said to them, \"Because they have taken away my Lord, and I do not know where they have laid Him.\" Saying this, she turned round and saw Jesus standing, but she did not know that it was Jesus. Jesus said to her, \"Woman, why are you weeping? Whom do you seek?\" Supposing Him to be the gardener, she said to Him, \"Sir, if you have carried Him away, tell me where you have laid Him, and I will take Him away.\" Jesus said to her, \"Mary.\" She turned and said to him in Hebrew, \"Rabboni!\" (which means Teacher). Jesus said to her, \"Do not hold me, for I have not yet ascended to the Father; but go to my brethren and say to them, I am ascending to my Father and your Father, to my God and your God.\" Mary Magdalene went and said to the disciples, \"I have seen the Lord\"; and she told them that He had said these things to her."
 
 lemcLI.Gospel.title = "Sunday of the Blind Man"
+lemcLI.Gospel.title_abbr = "6th Sunday (Blind Man)"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book_string = bible_en_US_rsv.John.text
 lemcLI.Gospel.book_abbr = bible_en_US_rsv.John.abbr

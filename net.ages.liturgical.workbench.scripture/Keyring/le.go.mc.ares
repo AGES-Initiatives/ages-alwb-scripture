@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc
 
 lemcVE.Gospel.title = ""
+lemcVE.Gospel.title_abbr = ""
 lemcVE.Gospel.version = 
 lemcVE.Gospel.book_string = 
 lemcVE.Gospel.book_abbr = 
@@ -8,6 +9,7 @@ lemcVE.Gospel.chapverse = ""
 lemcVE.Gospel.text = ""
 
 lemcCO.Gospel.title = ""
+lemcCO.Gospel.title_abbr = ""
 lemcCO.Gospel.version = 
 lemcCO.Gospel.book_string = 
 lemcCO.Gospel.book_abbr = 
@@ -15,6 +17,7 @@ lemcCO.Gospel.chapverse = ""
 lemcCO.Gospel.text = ""
 
 lemcMA.Gospel.title = ""
+lemcMA.Gospel.title_abbr = ""
 lemcMA.Gospel.version = 
 lemcMA.Gospel.book_string = 
 lemcMA.Gospel.book_abbr = 
@@ -22,6 +25,7 @@ lemcMA.Gospel.chapverse = ""
 lemcMA.Gospel.text = ""
 
 lemcLI.Gospel.title = ""
+lemcLI.Gospel.title_abbr = ""
 lemcLI.Gospel.version = 
 lemcLI.Gospel.book_string = 
 lemcLI.Gospel.book_abbr = 
@@ -30,6 +34,7 @@ lemcLI.Gospel.text = ""
 lemcLI.Gospel.pagenumber = ""
 
 lemcH1.Gospel.title = ""
+lemcH1.Gospel.title_abbr = ""
 lemcH1.Gospel.version = 
 lemcH1.Gospel.book_string = 
 lemcH1.Gospel.book_abbr = 
@@ -37,6 +42,7 @@ lemcH1.Gospel.chapverse = ""
 lemcH1.Gospel.text = ""
 
 lemcH3.Gospel.title = ""
+lemcH3.Gospel.title_abbr = ""
 lemcH3.Gospel.version = 
 lemcH3.Gospel.book_string = 
 lemcH3.Gospel.book_abbr = 
@@ -44,6 +50,7 @@ lemcH3.Gospel.chapverse = ""
 lemcH3.Gospel.text = ""
 
 lemcH6.Gospel.title = ""
+lemcH6.Gospel.title_abbr = ""
 lemcH6.Gospel.version = 
 lemcH6.Gospel.book_string = 
 lemcH6.Gospel.book_abbr = 
@@ -51,6 +58,7 @@ lemcH6.Gospel.chapverse = ""
 lemcH6.Gospel.text = ""
 
 lemcH9.Gospel.title = ""
+lemcH9.Gospel.title_abbr = ""
 lemcH9.Gospel.version = 
 lemcH9.Gospel.book_string = 
 lemcH9.Gospel.book_abbr = 

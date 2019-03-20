@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.ge.apostle_en_US_eob 
 
 legeLI.Gospel.title = "For an Apostle."
+legeLI.Gospel.title_abbr = "For an Apostle."
 legeLI.Gospel.version = properties_en_US_eob.version.designation
 legeLI.Gospel.book_string = bible_en_US_eob.Luke.text
 legeLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr

@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d338_en_US_rsv
 
 lemcLI.Epistle.title = "MONDAY OF THE THIRTY-SECOND WEEK"
+lemcLI.Epistle.title_abbr = "MONDAY OF THE THIRTY-SECOND WEEK"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.James.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.James.abbr

@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d072_en_US_eob
 
 lemcVE.Gospel.title = ""
+lemcVE.Gospel.title_abbr = ""
 lemcVE.Gospel.version = properties_en_US_eob.version.designation
 lemcVE.Gospel.book_string = bible_en_US_eob.John.text
 lemcVE.Gospel.book_abbr = bible_en_US_eob.John.abbr
@@ -11,6 +12,7 @@ lemcVE.Gospel.part2.text = "Then again, Jesus said, “Peace be with you! As the
 lemcVE.Gospel.part3.text = "However, Thomas, called the Twin, one of the Twelve, was not with them when Jesus came. So the other disciples told him, “We have seen the Lord!” But Thomas replied, “Unless I see in his hands the print of the nails and put my hand into his side, I will not believe!”"
 
 lemcLI.Gospel.title = "Renewal Monday"
+lemcLI.Gospel.title_abbr = "Renewal Monday"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.John.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.John.abbr

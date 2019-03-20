@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m01.d06_en_US_rsv 
 
 lemeVE.Epistle.title = "For the Feast."
+lemeVE.Epistle.title_abbr = "For the Feast."
 lemeVE.Epistle.version = properties_en_US_rsv.version.designation
 lemeVE.Epistle.book_string = bible_en_US_rsv.Corinthians1.text
 lemeVE.Epistle.book_abbr = bible_en_US_rsv.Corinthians1.abbr
@@ -8,6 +9,7 @@ lemeVE.Epistle.chapverse = "9:19-27"
 lemeVE.Epistle.text = "Brethren, though I am free from all men, I have made myself a slave to all, that I might win the more. To the Jews I became as a Jew, in order to win Jews; to those under the law I became as one under the law-though not being myself under the law—that I might win those under the law. To those outside the law I became as one outside the law- not being without law toward God but under the law of Christ—that I might win those outside the law. To the weak I became weak, that I might win the weak. I have become all things to all men, that I might by all means save some. I do it all for the sake of the gospel, that I may share in its blessings. Do you not know that in a race all the runners compete, but only one receives the prize? So run that you may obtain it. Every athlete exercises self-control in all things. They do it to receive a perishable wreath, but we an imperishable. Well, I do not run aimlessly, I do not box as one beating the air; but I pommel my body and subdue it, lest after preaching to others I myself should be disqualified."
 
 lemeGW.Epistle.title = "For the Blessing of Water"
+lemeGW.Epistle.title_abbr = "For the Blessing of Water"
 lemeGW.Epistle.version = properties_en_US_rsv.version.designation
 lemeGW.Epistle.book_string = bible_en_US_rsv.Corinthians1.text
 lemeGW.Epistle.book_abbr = bible_en_US_rsv.Corinthians1.abbr
@@ -15,6 +17,7 @@ lemeGW.Epistle.chapverse = "10:1-4"
 lemeGW.Epistle.text = "Brethren, I want you to know that our Fathers were all under the cloud, and all passed through the sea, and all were baptized into Moses in the cloud and in the sea, and all ate the same spiritual food and all drank the same spiritual drink. For they drank from the spiritual Rock which followed them, and the Rock was Christ."
 
 lemeLI.Epistle.title = "For the Feast."
+lemeLI.Epistle.title_abbr = "For the Feast."
 lemeLI.Epistle.version = properties_en_US_rsv.version.designation
 lemeLI.Epistle.book_string = le.ep.me.m01.d05_en_US_rsv.lemeH9.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.me.m01.d05_en_US_rsv.lemeH9.Epistle.book_abbr

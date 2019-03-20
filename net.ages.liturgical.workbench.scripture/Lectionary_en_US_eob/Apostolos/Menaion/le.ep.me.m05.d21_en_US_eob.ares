@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m05.d21_en_US_eob
 
 lemeLI.Epistle.title = "For the Saints."
+lemeLI.Epistle.title_abbr = "For the Saints."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book_string = bible_en_US_eob.Acts.text
 lemeLI.Epistle.book_abbr = bible_en_US_eob.Acts.abbr

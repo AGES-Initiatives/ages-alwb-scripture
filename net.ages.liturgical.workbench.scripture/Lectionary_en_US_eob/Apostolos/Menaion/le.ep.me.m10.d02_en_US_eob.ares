@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m10.d02_en_US_eob
 
 lemeLI.Epistle.title = "For the Hieromartyr."
+lemeLI.Epistle.title_abbr = "For the Hieromartyr."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book_string = bible_en_US_eob.Timothy1.text
 lemeLI.Epistle.book_abbr = bible_en_US_eob.Timothy1.abbr

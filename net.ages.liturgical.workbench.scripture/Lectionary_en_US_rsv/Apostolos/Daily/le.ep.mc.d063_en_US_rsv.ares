@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d063_en_US_rsv 
 
 lemcLI.Epistle.title = "SATURDAY OF SAINT LAZAROS THE JUST"
+lemcLI.Epistle.title_abbr = "Saturday of Lazarus"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Hebrews.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Hebrews.abbr

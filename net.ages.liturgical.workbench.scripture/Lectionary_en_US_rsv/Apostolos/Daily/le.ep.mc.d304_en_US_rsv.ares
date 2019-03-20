@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d304_en_US_rsv
 
 lemcLI.Epistle.title = "TUESDAY OF THE TWENTY-SEVENTH WEEK"
+lemcLI.Epistle.title_abbr = "TUESDAY OF THE TWENTY-SEVENTH WEEK"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Timothy1.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Timothy1.abbr

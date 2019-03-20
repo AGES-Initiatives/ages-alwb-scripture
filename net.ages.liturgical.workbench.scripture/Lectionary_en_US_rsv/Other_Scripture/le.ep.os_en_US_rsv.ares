@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.os_en_US_rsv
 
 leosLI.Jan06_CommunionHymn.title = ""
+leosLI.Jan06_CommunionHymn.title_abbr = ""
 leosLI.Jan06_CommunionHymn.version = properties_en_US_rsv.version.designation
 leosLI.Jan06_CommunionHymn.book_string = bible_en_US_rsv.Titus.text
 leosLI.Jan06_CommunionHymn.book_abbr = bible_en_US_rsv.Titus.abbr

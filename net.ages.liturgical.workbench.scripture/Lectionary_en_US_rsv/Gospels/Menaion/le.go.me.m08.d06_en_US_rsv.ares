@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m08.d06_en_US_rsv 
 
 lemeMA.Gospel.title = "For the Feast."
+lemeMA.Gospel.title_abbr = "For the Feast."
 lemeMA.Gospel.version = properties_en_US_rsv.version.designation
 lemeMA.Gospel.book_string = bible_en_US_rsv.Luke.text
 lemeMA.Gospel.book_abbr = bible_en_US_rsv.Luke.abbr
@@ -8,6 +9,7 @@ lemeMA.Gospel.chapverse = "9:28-36"
 lemeMA.Gospel.text = "At that time, Jesus took with him Peter and John and James, and went up on the mountain to pray. And as he was praying, the appearance of his countenance was altered, and his raiment became dazzling white. And behold, two men talked with him, Moses and Elijah, who appeared in glory and spoke of his departure, which he was to accomplish at Jerusalem. Now Peter and those who were with him were heavy with sleep, and when they wakened they saw his glory and the two men who stood with him. And as the men were parting from him, Peter said to Jesus, \"Master, it is well that we are here; let us make three booths, one for you and one for Moses and one for Elijah\"—not knowing what he said. As he said this, a cloud came and overshadowed them; and they were afraid as they entered the cloud. And a voice came out of the cloud, saying, \"This is my Son, my Chosen; listen to him!\" And when the voice had spoken, Jesus was found alone. And they kept silence and told no one in those days anything of what they had seen."
 
 lemeLI.Gospel.title = "For the Feast."
+lemeLI.Gospel.title_abbr = "For the Feast."
 lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book_string = bible_en_US_rsv.Matthew.text
 lemeLI.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr

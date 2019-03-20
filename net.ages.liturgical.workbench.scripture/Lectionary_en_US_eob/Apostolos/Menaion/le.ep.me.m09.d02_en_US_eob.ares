@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m09.d02_en_US_eob
 
 lemeLI.Epistle.title = "For St. Mamas."
+lemeLI.Epistle.title_abbr = "For St. Mamas."
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book_string = bible_en_US_eob.Romans.text
 lemeLI.Epistle.book_abbr = bible_en_US_eob.Romans.abbr
@@ -9,6 +10,7 @@ lemeLI.Epistle.text = "Brethren, we know that all things work together for good 
 lemeLI.Epistle.pagenumber = ""
 
 lemeLI.Epistle2.title = "For St. John."
+lemeLI.Epistle2.title_abbr = "For St. John."
 lemeLI.Epistle2.version = le.ep.me.m11.d13_en_US_eob.lemeLI.Epistle.version
 lemeLI.Epistle2.book_string = le.ep.me.m11.d13_en_US_eob.lemeLI.Epistle.book_string
 lemeLI.Epistle2.book_abbr = le.ep.me.m11.d13_en_US_eob.lemeLI.Epistle.book_abbr

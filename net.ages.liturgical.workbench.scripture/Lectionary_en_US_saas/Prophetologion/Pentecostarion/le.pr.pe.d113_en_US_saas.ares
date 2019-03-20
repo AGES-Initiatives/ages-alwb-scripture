@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.pe.d113_en_US_saas
 
 lemcVE.reading1.title = ""
+lemcVE.reading1.title_abbr = ""
 lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = le.pr.me.r61_en_US_saas.leprVE.reading.book_string
 lemcVE.reading1.book_abbr = le.pr.me.r61_en_US_saas.leprVE.reading.book_abbr
@@ -8,6 +9,7 @@ lemcVE.reading1.chapverse = le.pr.me.r61_en_US_saas.leprVE.reading.chapverse
 lemcVE.reading1.text = le.pr.me.r61_en_US_saas.leprVE.reading.text
 
 lemcVE.reading2.title = ""
+lemcVE.reading2.title_abbr = ""
 lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Deuteronomy.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Deuteronomy.abbr
@@ -15,6 +17,7 @@ lemcVE.reading2.chapverse = "1:8-11, 15-17a"
 lemcVE.reading2.text = "Moses spoke to the sons of Israel: Behold, I am delivering the land in your presence; go in and inherit the land I swore to your fathers—to Abraham, Isaac, and Jacob—to give it to them and their seed after them. So I spoke to you at that time, saying, ‘I alone am not able to bear you. The Lord your God multiplied you, and here you are today, as the stars of heaven in multitude. May the Lord God of your fathers make you a thousand times more numerous than you are, and bless you, just as He said.’ So I took from you wise, understanding, and knowledgeable men and made them leaders over you: leaders of thousands, of hundreds, of fifties, and of tens; judges to interpret the law for you. Then I commanded your judges at that time, saying, ‘Hear the cases between your brethren, and judge righteously between a man and his brother or the resident alien with him. You shall not show partiality in judgment; you shall judge the small and the great; you shall not shrink before any man’s presence, for the judgment is God’s. The case too hard for you, bring to me, and I will hear it.’"
 
 lemcVE.reading3.title = ""
+lemcVE.reading3.title_abbr = ""
 lemcVE.reading3.version = properties_en_US_saas.version.designation
 lemcVE.reading3.book_string = le.pr.me.r29_en_US_saas.leprVE.reading.book_string
 lemcVE.reading3.book_abbr = le.pr.me.r29_en_US_saas.leprVE.reading.book_abbr

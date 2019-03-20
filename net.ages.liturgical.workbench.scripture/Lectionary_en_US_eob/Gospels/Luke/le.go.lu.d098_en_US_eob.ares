@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.lu.d098_en_US_eob
 
 leluLI.Gospel.title = "Sunday of the Fourteenth Week"
+leluLI.Gospel.title_abbr = "Sunday of the Fourteenth Week"
 leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr

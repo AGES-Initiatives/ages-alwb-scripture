@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d064_en_US_eob
 
 lemcMA.Gospel.title = "Palm Sunday"
+lemcMA.Gospel.title_abbr = "Palm Sunday"
 lemcMA.Gospel.version = properties_en_US_eob.version.designation
 lemcMA.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemcMA.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
@@ -8,6 +9,7 @@ lemcMA.Gospel.chapverse = "21:1-11; 15-17"
 lemcMA.Gospel.text = "At that time, as Jesus was approaching Jerusalem and came to Bethsphage, to the Mount of Olives, he sent two disciples [ahead of the group]. He told them, “Go into the village that is opposite you, and immediately you will find a donkey tied, and a colt with her. Untie them, and bring them to me. If anyone says anything to you, you shall say, ‘The Lord has need of them,’ and immediately, he will let them go.” All this was done so that what had been spoken through the prophet might be fulfilled: Tell the daughter of Zion, behold, your King comes to you, humble, and riding on a donkey, on a colt, the foal of a donkey. The disciples went and did exactly what Jesus had instructed them. They brought the donkey and the colt, laid their clothes on them, and Jesus sat on them. A very great crowd spread their clothes on the road while others cut branches from the trees and spread them on the road. Many people went before him and those who followed kept shouting, “Hosanna to the son of David! Blessed is he who comes in the Name of the Lord! Hosanna in the highest!” When he had come into Jerusalem, the entire city was stirred up and people were saying, “Who is this?” And the multitude answered, “This is Jesus, the prophet from Nazareth of Galilee!” But when the chief priests and the scribes saw the amazing things that he was doing and that children were shouting in the temple and saying “Hosanna to the son of David!,” they were very displeased. They asked him, “Do you hear what these [children] are saying?” Jesus replied, “Yes! Have you never read, ‘Out of the mouth of infants and nursing babies you have prepared praise?’” He left them, went out of the city to Bethany and spent the night there."
 
 lemcLI.Gospel.title = "Palm Sunday"
+lemcLI.Gospel.title_abbr = "Palm Sunday"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.John.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.John.abbr

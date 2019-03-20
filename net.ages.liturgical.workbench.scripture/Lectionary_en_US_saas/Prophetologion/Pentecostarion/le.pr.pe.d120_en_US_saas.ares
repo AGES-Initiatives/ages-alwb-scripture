@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.pe.d120_en_US_saas
 
 lemcVE.reading1.title = ""
+lemcVE.reading1.title_abbr = ""
 lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Numbers.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Numbers.abbr
@@ -8,6 +9,7 @@ lemcVE.reading1.chapverse = "11:16-17, 24-29"
 lemcVE.reading1.text = "So the Lord said to Moses, \"Gather to Me seventy men from the elders of Israel, whom you yourself know to be the elders of the people and officers over them; bring them to the tabernacle of testimony, so they may stand there with you. Then I will descend and talk with you there. I will take of the Spirit upon you and put Him upon them; and they shall help you bear the wrath of the people, that you yourself may not bear them alone.\" So Moses went out and told the people the words of the Lord; and he gathered the seventy men of the elders of the people and placed them around the tabernacle. Then the Lord descended in the cloud and spoke to him, and took of the Spirit upon him, and put Him upon the seventy men of the elders; and when the Spirit rested upon them, they prophesied, although they never did so again. But two men remained in the camp: the name of the one was Eldad, and the name of the other, Medad, and the Spirit rested upon them. Now they were among those registered, but had not come to the tabernacle; yet they prophesied in the camp. So a young man ran and told Moses, and said, \"Eldad and Medad are prophesying in the camp.\" Then Joshua the son of Nun, who was near Moses, one of his choice men, answered and said, \"Lord Moses, forbid them.\" Then Moses said to him, \"Are you jealous for my sake? Would that all the Lord's people might be prophets, when the Lord would put His Spirit upon them.\""
 
 lemcVE.reading2.title = ""
+lemcVE.reading2.title_abbr = ""
 lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Joel.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Joel.abbr
@@ -15,6 +17,7 @@ lemcVE.reading2.chapverse = "2:23-3:5"
 lemcVE.reading2.text = "Thus says the Lord: \"You children of Zion, be glad and rejoice in the Lord your God, for He gives food that is right for you, and He will shower you as before with the early and the late rain. The threshing floors shall be full of wheat, and the presses of wine and olive oil will overflow. And I will restore to you the years the grasshopper and the locust have eaten, and for the blight, and the caterpillar, even for My great army, which I sent against you. You will eat abundantly and be satisfied and will praise the name of the Lord your God for what He has so wondrously done unto you. And My people will not be put to shame forever. Then you shall know that I am in the midst of Israel; that I am the Lord your God, and there is no other but Me. And at no time will My people be put to shame forever. After this it shall come to pass that I will pour out My Spirit upon all flesh; your sons and daughters shall prophesy, your old men shall dream dreams, and your young men shall see visions. And in those days I shall pour out My Spirit on My servants and on My handmaids. And I shall give wonders in the heavens and upon the earth, blood and fire and vapor of smoke. The sun shall be turned into darkness and the moon into blood before the great and glorious day of the Lord comes to pass. And it shall be that whoever shall call upon the name of the Lord shall be saved.\""
 
 lemcVE.reading3.title = ""
+lemcVE.reading3.title_abbr = ""
 lemcVE.reading3.version = properties_en_US_saas.version.designation
 lemcVE.reading3.book_string = bible_en_US_saas.Ezekiel.text
 lemcVE.reading3.book_abbr = bible_en_US_saas.Ezekiel.abbr

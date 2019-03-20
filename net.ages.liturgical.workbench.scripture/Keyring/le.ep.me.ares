@@ -2,6 +2,7 @@ A_Resource_Whose_Name = le.ep.me
 
 //for Apostles who have Epistle readings for Prophecies at Vespers
 lemeVE.reading1.title = ""
+lemeVE.reading1.title_abbr = ""
 lemeVE.reading1.version = 
 lemeVE.reading1.book_string = 
 lemeVE.reading1.book_abbr = 
@@ -9,6 +10,7 @@ lemeVE.reading1.chapverse = ""
 lemeVE.reading1.text = ""
 
 lemeVE.reading2.title = ""
+lemeVE.reading2.title_abbr = ""
 lemeVE.reading2.version = 
 lemeVE.reading2.book_string = 
 lemeVE.reading2.book_abbr = 
@@ -16,6 +18,7 @@ lemeVE.reading2.chapverse = ""
 lemeVE.reading2.text = ""
 
 lemeVE.reading3.title = ""
+lemeVE.reading3.title_abbr = ""
 lemeVE.reading3.version = 
 lemeVE.reading3.book_string = 
 lemeVE.reading3.book_abbr = 
@@ -23,6 +26,7 @@ lemeVE.reading3.chapverse = ""
 lemeVE.reading3.text = ""
 
 lemeVE.Epistle.title = ""
+lemeVE.Epistle.title_abbr = ""
 lemeVE.Epistle.version = 
 lemeVE.Epistle.book_string = 
 lemeVE.Epistle.book_abbr = 
@@ -30,6 +34,7 @@ lemeVE.Epistle.chapverse = ""
 lemeVE.Epistle.text = 
 
 lemeGW.Epistle.title = ""
+lemeGW.Epistle.title_abbr = ""
 lemeGW.Epistle.version = 
 lemeGW.Epistle.book_string = 
 lemeGW.Epistle.book_abbr = 
@@ -37,6 +42,7 @@ lemeGW.Epistle.chapverse = ""
 lemeGW.Epistle.text = 
 
 lemeLI.Epistle.title = ""
+lemeLI.Epistle.title_abbr = ""
 lemeLI.Epistle.rubric = 
 lemeLI.Epistle.version = 
 lemeLI.Epistle.book_string = 
@@ -46,12 +52,14 @@ lemeLI.Epistle.text = ""
 lemeLI.Epistle.pagenumber = ""
 
 lemeLI.Epistle2.title = ""
+lemeLI.Epistle2.title_abbr = ""
 lemeLI.Epistle2.version = 
 lemeLI.Epistle2.book_string = 
 lemeLI.Epistle2.chapverse = ""
 lemeLI.Epistle2.text = ""
 
 lemeH1.Epistle.title = ""
+lemeH1.Epistle.title_abbr = ""
 lemeH1.Epistle.version = 
 lemeH1.Epistle.book_string = 
 lemeH1.Epistle.book_abbr = 
@@ -59,6 +67,7 @@ lemeH1.Epistle.chapverse = ""
 lemeH1.Epistle.text = ""
 
 lemeH3.Epistle.title = ""
+lemeH3.Epistle.title_abbr = ""
 lemeH3.Epistle.version = 
 lemeH3.Epistle.book_string = 
 lemeH3.Epistle.book_abbr = 
@@ -66,6 +75,7 @@ lemeH3.Epistle.chapverse = ""
 lemeH3.Epistle.text = ""
 
 lemeH6.Epistle.title = ""
+lemeH6.Epistle.title_abbr = ""
 lemeH6.Epistle.version = 
 lemeH6.Epistle.book_string = 
 lemeH6.Epistle.book_abbr = 
@@ -73,6 +83,7 @@ lemeH6.Epistle.chapverse = ""
 lemeH6.Epistle.text = ""
 
 lemeH9.Epistle.title = ""
+lemeH9.Epistle.title_abbr = ""
 lemeH9.Epistle.version = 
 lemeH9.Epistle.book_string = 
 lemeH9.Epistle.book_abbr = 

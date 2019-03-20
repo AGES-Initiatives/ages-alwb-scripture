@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d043_en_US_eob
 
 lemcLI.Epistle.title = "THE THIRD SUNDAY IN LENT, THE SUNDAY OF THE VENERATION OF THE HOLY CROSS"
+lemcLI.Epistle.title_abbr = "THE THIRD SUNDAY IN LENT, THE SUNDAY OF THE VENERATION OF THE HOLY CROSS"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Hebrews.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Hebrews.abbr

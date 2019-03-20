@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.tr.d054_en_US_saas
 
 lemcVE.reading1.title = ""
+lemcVE.reading1.title_abbr = ""
 lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Genesis.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Genesis.abbr
@@ -8,6 +9,7 @@ lemcVE.reading1.chapverse = "17:1-9"
 lemcVE.reading1.text = "When Abram was ninety-nine years old, the Lord appeared to Abram and said to him, “I am your God; be pleasing before Me and blameless. I will establish My covenant between Me and you, and will multiply you exceedingly.” Then Abram fell on his face, and God talked with him, saying, “As for Me, behold, My covenant is with you, and you shall be a father of many nations. No longer shall your name be called Abram, but your name shall be Abraham; for I have made you a father of many nations. I will make you exceedingly fruitful; and I will make nations of you, and kings shall come from you. I will establish My covenant between Me and you and your seed after you in their generations, for an everlasting covenant, to be your God and the God of your seed after you. Also I will give you and your seed after you the land you are occupying as a sojourner, all the land of Canaan, as an everlasting possession; and I will be their God.” Then God said to Abraham, “As for you, you shall keep My covenant, you and your seed after you throughout their generations."
 
 lemcVE.reading2.title = ""
+lemcVE.reading2.title_abbr = ""
 lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr
@@ -15,6 +17,7 @@ lemcVE.reading2.chapverse = "15:22-33, 36-38; 16:1-5; 15:34-35"
 lemcVE.reading2.text = "A wise son gladdens a father, but a son without discernment treats his mother with contempt. The paths of one without understanding are in need of discernment, but a man with discernment walks uprightly. Those not honoring councils defer their deliberations, but counsel remains in the hearts of those who resolve to do it. The evil man will not obey counsel, nor will he speak anything appropriate, even something for the common good. The thoughts of a wise man are his ways of life, that he might turn aside and be saved from Hades. The Lord will destroy the houses of the arrogant, but He will strengthen the boundary of a widow. The thinking of the unrighteous man is an abomination to the Lord, but the words of the holy are sacred. He who receives bribes utterly destroys himself, but he who hates the receiving of bribes saves himself. Sins are cleansed by almsgiving and faithfulness, and by the fear of the Lord everyone turns aside from evil. The hearts of the righteous care about faithfulness, but the mouth of the ungodly answers evil things. The ways of righteous men are acceptable before the Lord, and through them even enemies become friends. God is far from the ungodly, but He hears the prayers of the righteous. The eye that beholds good things gladdens the heart, but a good report enriches the bones. He who rejects instruction hates himself, but he who gives heed to reproofs loves his soul. The fear of God is instruction and wisdom, and the beginning of glory will respond to it. All the works of the humble are evident before the Lord, but the ungodly will be destroyed in the evil day. Every high-hearted man is unclean before the Lord, and he who joins hands with the unrighteous will not go unpunished. The beginning of a good way is to do righteous things, and this is more acceptable to God than to offer sacrifices. He who seeks the Lord will find knowledge with righteousness, and those who seek Him rightly will find peace. All the works of the Lord are with righteousness, but the ungodly man is kept for an evil day. Better is a small yield with the righteous than abundant fruits with the unrighteous. Let the heart of a man think righteous things that he may make his steps straight under God. "
 
 lemcTE.reading1.title = ""
+lemcTE.reading1.title_abbr = ""
 lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr

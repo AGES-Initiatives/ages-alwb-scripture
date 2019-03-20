@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d071_en_US_eob
 
 lemcVE.Epistle.title = "HOLY SATURDAY"
+lemcVE.Epistle.title_abbr = "HOLY SATURDAY"
 lemcVE.Epistle.version = properties_en_US_eob.version.designation
 lemcVE.Epistle.book_string = bible_en_US_eob.Romans.text
 lemcVE.Epistle.book_abbr = bible_en_US_eob.Romans.abbr
@@ -9,6 +10,7 @@ lemcVE.Epistle.text = "Brethren, all {of us} we who were baptized into Christ Je
 lemcVE.Epistle.pagenumber = ""
 
 lemcLI.Epistle.title = "HOLY AND GREAT SUNDAY OF EASTER"
+lemcLI.Epistle.title_abbr = "HOLY AND GREAT SUNDAY OF EASTER"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Acts.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Acts.abbr

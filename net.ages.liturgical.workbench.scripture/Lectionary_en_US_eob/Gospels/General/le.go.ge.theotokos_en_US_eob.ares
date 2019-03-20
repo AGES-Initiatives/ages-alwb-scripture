@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.ge.theotokos_en_US_eob
 
 legeMA.Gospel.title = "For the Theotokos."
+legeMA.Gospel.title_abbr = "For the Theotokos."
 legeMA.Gospel.version = properties_en_US_eob.version.designation
 legeMA.Gospel.book_string = bible_en_US_eob.Luke.text
 legeMA.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
@@ -9,6 +10,7 @@ legeMA.Gospel.text = "In those days, Mary arose and went into the hill country w
 legeMA.Gospel.pagenumber = ""
 
 legeLI.Gospel.title = "For the Theotokos."
+legeLI.Gospel.title_abbr = "For the Theotokos."
 legeLI.Gospel.version = properties_en_US_eob.version.designation
 legeLI.Gospel.book_string = bible_en_US_eob.Luke.text
 legeLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr

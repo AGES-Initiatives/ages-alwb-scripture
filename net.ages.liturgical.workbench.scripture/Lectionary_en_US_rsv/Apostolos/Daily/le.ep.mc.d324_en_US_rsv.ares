@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d324_en_US_rsv
 
 lemcLI.Epistle.title = "MONDAY OF THE THIRTIETH WEEK"
+lemcLI.Epistle.title_abbr = "MONDAY OF THE THIRTIETH WEEK"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Hebrews.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Hebrews.abbr

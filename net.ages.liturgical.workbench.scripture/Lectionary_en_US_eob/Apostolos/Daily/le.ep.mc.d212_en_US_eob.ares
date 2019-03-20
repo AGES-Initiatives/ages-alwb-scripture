@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d212_en_US_eob
 
 lemcLI.Epistle.title = "MONDAY OF THE FOURTEENTH WEEK"
+lemcLI.Epistle.title_abbr = "MONDAY OF THE FOURTEENTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians2.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians2.abbr

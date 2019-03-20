@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.va.automobile_en_US_eob
 
 levaLI.Gospel.title = ""
+levaLI.Gospel.title_abbr = ""
 levaLI.Gospel.version = properties_en_US_eob.version.designation
 levaLI.Gospel.book_string = bible_en_US_eob.John.text
 levaLI.Gospel.book_abbr = bible_en_US_eob.John.abbr

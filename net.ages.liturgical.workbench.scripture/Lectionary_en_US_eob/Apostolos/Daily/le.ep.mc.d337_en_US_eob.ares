@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d337_en_US_eob
 
 lemcLI.Epistle.title = "THIRTY-FIRST SUNDAY"
+lemcLI.Epistle.title_abbr = "THIRTY-FIRST SUNDAY"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Timothy1.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Timothy1.abbr

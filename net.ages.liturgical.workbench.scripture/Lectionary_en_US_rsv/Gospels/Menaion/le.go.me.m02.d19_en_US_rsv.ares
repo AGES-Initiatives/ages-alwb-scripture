@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m02.d19_en_US_rsv
 
 lemeMA.Gospel.title = ""
+lemeMA.Gospel.title_abbr = ""
 lemeMA.Gospel.version = properties_en_US_rsv.version.designation
 lemeMA.Gospel.book_string = bible_en_US_rsv.Matthew.text
 lemeMA.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr
@@ -8,6 +9,7 @@ lemeMA.Gospel.chapverse = "6:19-21"
 lemeMA.Gospel.text = "The Lord said to His Disciples, \"Do not lay up for yourselves treasures on earth, where moth and rust consume and where thieves break in and steal, but lay up for yourselves treasures in heaven, where neither moth nor rust consumes and where thieves do not break in and steal. For where your treasure is, there will your heart be also.\""
 
 lemeLI.Gospel.title = "For the Saint."
+lemeLI.Gospel.title_abbr = "For the Saint."
 lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book_string = bible_en_US_rsv.John.text
 lemeLI.Gospel.book_abbr = bible_en_US_rsv.John.abbr

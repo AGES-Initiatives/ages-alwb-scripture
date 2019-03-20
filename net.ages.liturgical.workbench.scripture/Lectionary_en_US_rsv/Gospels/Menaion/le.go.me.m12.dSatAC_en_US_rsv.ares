@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m12.dSatAC_en_US_rsv 
 
-lemeLI.Gospel.title = "Saturday after Nativity."
+lemeLI.Gospel.title = "Saturday after Nativity"
+lemeLI.Gospel.title_abbr = "Sat. after Christmas"
 lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book_string = bible_en_US_rsv.Matthew.text
 lemeLI.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr

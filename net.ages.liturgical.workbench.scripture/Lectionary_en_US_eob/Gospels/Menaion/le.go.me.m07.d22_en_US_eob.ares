@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m07.d22_en_US_eob
 
 lemeLI.Gospel.title = "For the Saint."
+lemeLI.Gospel.title_abbr = "For the Saint."
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
 lemeLI.Gospel.book_string = bible_en_US_eob.Luke.text
 lemeLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr

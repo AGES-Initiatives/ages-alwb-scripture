@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.me.r15_en_US_saas
 
 leprVE.reading.title = ""
+leprVE.reading.title_abbr = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
 leprVE.reading.book_string = bible_en_US_saas.Joshua.text
 leprVE.reading.book_abbr = bible_en_US_saas.Joshua.abbr

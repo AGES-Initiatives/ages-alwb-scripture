@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.pr.tr.d062_en_US_saas 
 
 lemcVE.reading1.title = ""
+lemcVE.reading1.title_abbr = ""
 lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Genesis.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Genesis.abbr
@@ -8,6 +9,7 @@ lemcVE.reading1.chapverse = "46:1-7"
 lemcVE.reading1.text = "Now Israel took his journey with all he had, and came to the Well of Oath, and offered a sacrifice to the God of his father Isaac. Then God spoke to Israel in a vision of the night, and said, “Jacob, Jacob!” So he said, “Here I am.” So God said to him, “I am the God of your fathers; do not fear to go down to Egypt, for I will make of you a great nation there. I will go down with you to Egypt, and I will also surely bring you up again, and Joseph will put his hand on your eyes.” Then Jacob arose from the Well of Oath, and the sons of Israel carried their father Jacob, their baggage, and their wives in the carts Pharaoh had sent to carry him. So they took their livestock and their goods which they had acquired in the land of Canaan and went to Egypt, Jacob and all his seed with him. His sons and his sons’ sons, his daughters and his sons’ daughters, and all his seed he brought with him to Egypt."
 
 lemcVE.reading2.title = ""
+lemcVE.reading2.title_abbr = ""
 lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr
@@ -15,6 +17,7 @@ lemcVE.reading2.chapverse = "23:15-24:5"
 lemcVE.reading2.text = "My son, if your heart becomes wise, you will also gladden my heart; and your lips shall spend time with the words on my lips, if they be upright. Do not let your heart envy sinners, but be in fear of the Lord the whole day long. For if you keep these words, you shall have offspring, and your hope will not depart from you. Hear, my son, and become wise, and direct aright the thoughts of your heart. Do not be a wine-bibber, neither provide contributions of meats or goods at drinking parties. For every drunkard and fornicator shall become impoverished, and every sluggard shall clothe himself with tattered and ragged garments. Hear, my son, your father who begot you, and do not despise your mother because she has grown old. A righteous father rears his child well, and his soul rejoices in a wise son. Let your father and mother be glad in you, and let her who bore you rejoice. My son, give me your heart, and let your eyes observe my ways; for a house of prostitution is a pierced vessel and a strange and empty well; for he shall perish suddenly, and every lawless man shall be destroyed. Who has woe? Who has tumult? Who has condemnation? Who has unpleasantness and gossip? Who has afflictions with no purpose? Whose eyes are pale? Is it not those who linger long with wines? Is it not those who hunt for the whereabouts of drinking parties? Do not be drunk with wine, but keep company with righteous men, and keep company in public walks; for if you set your eyes to the bowls and cups, afterward you will walk about more naked than ground meat. And at last, he stretches himself out as one bitten by a serpent, and the venom spreads through him as one bitten by a horned serpent. When your eyes behold a strange woman, then your mouth will speak twisted things; and you will lie down as in the heart of the sea and as a pilot in a great storm; and you will say, “They beat me, but I did not suffer, and they mocked me, but I knew it not; when will it be morning, that I may go seek those with whom I may company?” My son, do not envy evil men, neither desire to be with them; for their heart ponders a lie, and their lips speak of sufferings. A house is built with wisdom, and it is built up with understanding. Storehouses are filled with perception from all honorable and good riches. It is better to be a wise man of strength and a man having discernment, than to be a man who has a large estate."
 
 lemcTE.reading1.title = ""
+lemcTE.reading1.title_abbr = ""
 lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr

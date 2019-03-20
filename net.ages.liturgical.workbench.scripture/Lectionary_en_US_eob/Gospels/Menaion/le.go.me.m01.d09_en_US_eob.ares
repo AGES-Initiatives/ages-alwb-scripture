@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m01.d09_en_US_eob 
 
 lemeLI.Gospel.title = "For the Afterfeast."
+lemeLI.Gospel.title_abbr = "For the Afterfeast."
 lemeLI.Gospel.version = le.go.mc.d198_en_US_eob.lemcLI.Gospel.version
 lemeLI.Gospel.book_string = le.go.mc.d198_en_US_eob.lemcLI.Gospel.book_string
 lemeLI.Gospel.book_abbr = le.go.mc.d198_en_US_eob.lemcLI.Gospel.book_abbr
