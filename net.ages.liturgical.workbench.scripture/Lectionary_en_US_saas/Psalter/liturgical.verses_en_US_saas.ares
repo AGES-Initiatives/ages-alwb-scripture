@@ -973,7 +973,7 @@ psMA.sunday.m8.prokeimenon.v2.text = "Praise the Lord, O my soul!"
 
 psMA.gospelintro.v1.info = ps_en_US_saas.psa150.v6.number
 psMA.gospelintro.v1.text = "Let everything that breathes praise the Lord."
-psMA.gospelintro.v1a.text = "Let everything that breathes."
+psMA.gospelintro.v1a.text = "Let everything that breathes"
 psMA.gospelintro.v1b.text = "praise the Lord."
 
 psMA.ps50.intro.v1.info = ps_en_US_saas.psa85.v15.number
