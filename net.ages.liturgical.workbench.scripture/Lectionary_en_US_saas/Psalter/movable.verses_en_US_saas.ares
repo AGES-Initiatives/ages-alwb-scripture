@@ -1159,10 +1159,10 @@ psLI.pe.d071.prokeimenon.v1.text = "This is the day the Lord made; let us greatl
 psLI.pe.d071.prokeimenon.v2.info = ps_en_US_saas.psa117.v29.number
 psLI.pe.d071.prokeimenon.v2.text = "Give thanks to the Lord, for He is good; for His mercy endures forever."
 psLI.pe.d071.alleluia.title = "Psalm 101."
-psLI.pe.d071.alleluia.v1.info = ps_en_US_saas.psa101.v13.number
-psLI.pe.d071.alleluia.v1.text = "And their memorial abides from generation to generation."
-psLI.pe.d071.alleluia.v2.info = ps_en_US_saas.psa101.v19.number
-psLI.pe.d071.alleluia.v2.text = "Let this be written for another generation, and the people who are created shall praise the Lord."
+psLI.pe.d071.alleluia.v1.info = ps_en_US_saas.psa101.v14.number
+psLI.pe.d071.alleluia.v1.text = "When You rise up, Lord, You shall have compassion on Zion."
+psLI.pe.d071.alleluia.v2.info = ps_en_US_saas.psa101.v20.number
+psLI.pe.d071.alleluia.v2.text = "The Lord looked upon the earth from heaven."
 
 psLI.pe.d072.prokeimenon.title = "Psalm 18."
 psLI.pe.d072.prokeimenon.v1.info = ps_en_US_saas.psa18.v5.number
