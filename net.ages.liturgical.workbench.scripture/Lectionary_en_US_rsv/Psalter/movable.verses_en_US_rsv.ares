@@ -1069,13 +1069,13 @@ psVE.tr.d070.prokeimenon3.v1.info = ps_en_US_rsv.psa87.v7.number
 psVE.tr.d070.prokeimenon3.v1.text = ""
 psVE.tr.d070.prokeimenon3.v2.info = ps_en_US_rsv.psa87.v2.number
 psVE.tr.d070.prokeimenon3.v2.text = ""
-psVE.tr.d069.alleluia.title = ""
-psVE.tr.d069.alleluia.v1.info = ps_en_US_rsv.psa68.v2.number
-psVE.tr.d069.alleluia.v1.text = ""
-psVE.tr.d069.alleluia.v2.info = ps_en_US_rsv.psa68.v22.number
-psVE.tr.d069.alleluia.v2.text = ""
-psVE.tr.d069.alleluia.v3.info = ps_en_US_rsv.psa68.v24.number
-psVE.tr.d069.alleluia.v3.text = ""
+psVE.tr.d070.alleluia.title = ""
+psVE.tr.d070.alleluia.v1.info = ps_en_US_rsv.psa68.v2.number
+psVE.tr.d070.alleluia.v1.text = ""
+psVE.tr.d070.alleluia.v2.info = ps_en_US_rsv.psa68.v22.number
+psVE.tr.d070.alleluia.v2.text = ""
+psVE.tr.d070.alleluia.v3.info = ps_en_US_rsv.psa68.v24.number
+psVE.tr.d070.alleluia.v3.text = ""
 
 psMA.tr.d070.prokeimenon.title = ""
 psMA.tr.d070.prokeimenon.v1.info = ps_en_US_rsv.psa9.v33.number
@@ -1250,6 +1250,12 @@ psLI.pe.d095.prokeimenon.v1.info = ps_en_US_rsv.psa73.v2.number
 psLI.pe.d095.prokeimenon.v1.text = ""
 psLI.pe.d095.prokeimenon.v2.info = ps_en_US_rsv.psa73.v12.number
 psLI.pe.d095.prokeimenon.v2.text = ""
+//Alleluia verses according to Church of Greece
+psLI.pe.d095.alleluia.title = ""
+psLI.pe.d095.alleluia.v1.info = ps_en_US_rsv.psa146.v5.number
+psLI.pe.d095.alleluia.v1.text = ""
+psLI.pe.d095.alleluia.v2.info = ps_en_US_rsv.psa146.v1.number
+psLI.pe.d095.alleluia.v2.text = ""
 
 psLI.pe.d110.antiphon1.title = ""
 psLI.pe.d110.antiphon1.v1.info = ps_en_US_rsv.psa46.v2.number

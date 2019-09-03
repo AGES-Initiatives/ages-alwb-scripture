@@ -1068,13 +1068,13 @@ psVE.tr.d070.prokeimenon3.v1.info = ps_en_US_saas.psa87.v7.number
 psVE.tr.d070.prokeimenon3.v1.text = "They laid me in the lowest pit, in dark places and in the shadow of death."
 psVE.tr.d070.prokeimenon3.v2.info = ps_en_US_saas.psa87.v2.number
 psVE.tr.d070.prokeimenon3.v2.text = "O Lord God of my salvation, I cry day and night before You."
-psVE.tr.d069.alleluia.title = "Psalm 68."
-psVE.tr.d069.alleluia.v1.info = ps_en_US_saas.psa68.v2.number
-psVE.tr.d069.alleluia.v1.text = "Save me, O God, for the waters flood my soul."
-psVE.tr.d069.alleluia.v2.info = ps_en_US_saas.psa68.v22.number
-psVE.tr.d069.alleluia.v2.text = "They gave me gall for my food, and they gave me vinegar for my drink."
-psVE.tr.d069.alleluia.v3.info = ps_en_US_saas.psa68.v24.number
-psVE.tr.d069.alleluia.v3.text = "Let their eyes be darkened so they may not see, and bend down their backs continually."
+psVE.tr.d070.alleluia.title = "Psalm 68."
+psVE.tr.d070.alleluia.v1.info = ps_en_US_saas.psa68.v2.number
+psVE.tr.d070.alleluia.v1.text = "Save me, O God, for the waters flood my soul."
+psVE.tr.d070.alleluia.v2.info = ps_en_US_saas.psa68.v22.number
+psVE.tr.d070.alleluia.v2.text = "They gave me gall for my food, and they gave me vinegar for my drink."
+psVE.tr.d070.alleluia.v3.info = ps_en_US_saas.psa68.v24.number
+psVE.tr.d070.alleluia.v3.text = "Let their eyes be darkened so they may not see, and bend down their backs continually."
 
 psMA.tr.d070.prokeimenon.title = "Psalm 9."
 psMA.tr.d070.prokeimenon.v1.info = ps_en_US_saas.psa9.v33.number
@@ -1247,6 +1247,12 @@ psLI.pe.d095.prokeimenon.v1.info = ps_en_US_saas.psa73.v2.number
 psLI.pe.d095.prokeimenon.v1.text = "Remember Your congregation You acquired from the beginning."
 psLI.pe.d095.prokeimenon.v2.info = ps_en_US_saas.psa73.v12.number
 psLI.pe.d095.prokeimenon.v2.text = "God is our King before the ages; He worked salvation in the midst of the earth."
+//Alleluia verses according to Church of Greece
+psLI.pe.d095.alleluia.title = "Psalm 146."
+psLI.pe.d095.alleluia.v1.info = ps_en_US_saas.psa146.v5.number
+psLI.pe.d095.alleluia.v1.text = "Great is our Lord, and great is His strength."
+psLI.pe.d095.alleluia.v2.info = ps_en_US_saas.psa146.v1.number
+psLI.pe.d095.alleluia.v2.text = "Praise the Lord, for a psalm is a good thing."
 
 psLI.pe.d110.antiphon1.title = "Psalm 46."
 psLI.pe.d110.antiphon1.v1.info = ps_en_US_saas.psa46.v2.number
