@@ -268,7 +268,7 @@ psVE.consecration.aposverse.v2.info = ps_en_US_saas.psa92.v5.number
 psVE.consecration.aposverse.v2.text = "Holiness is proper to Your house, O Lord, unto length of days."
 
 psVE.cross.aposverse.v1.info = ps_en_US_saas.psa98.v5.number
-psVE.cross.aposverse.v1.text = "Exalt the Lord our God, and worship at the footstool of His feet."
+psVE.cross.aposverse.v1.text = "Exalt the Lord our God, and worship at the footstool of His feet; for He is holy."
 psVE.cross.aposverse.v2.info = ps_en_US_saas.psa73.v12.number
 psVE.cross.aposverse.v2.text = "God is our King before the ages; He worked salvation in the midst of the earth."
 
@@ -561,7 +561,7 @@ psMA.tuesday.kathismata.v1.text = "O Lord, do not rebuke me in Your wrath, nor c
 psMA.tuesday.kathismata.v2.info = ps_en_US_saas.psa118.v132.number
 psMA.tuesday.kathismata.v2.text = "Look upon me and have mercy on me."
 psMA.wednesday.kathismata.v1.info = ps_en_US_saas.psa98.v5.number
-psMA.wednesday.kathismata.v1.text = "Exalt the Lord our God, and worship at the footstool of His feet."
+psMA.wednesday.kathismata.v1.text = "Exalt the Lord our God, and worship at the footstool of His feet; for He is holy."
 psMA.wednesday.kathismata.v2.info = ps_en_US_saas.psa73.v12.number
 psMA.wednesday.kathismata.v2.text = "God is our King before the ages; He worked salvation in the midst of the earth."
 psMA.thursday.kathismata.v1.info = ps_en_US_saas.psa18.v5.number
@@ -569,7 +569,7 @@ psMA.thursday.kathismata.v1.text = "Their proclamation went forth into all the e
 psMA.thursday.kathismata.v2.info = ps_en_US_saas.psa18.v2.number
 psMA.thursday.kathismata.v2.text = "The heavens declare the glory of God; the firmament shows the creation of His hands."
 psMA.friday.kathismata.v1.info = ps_en_US_saas.psa98.v5.number
-psMA.friday.kathismata.v1.text = "Exalt the Lord our God, and worship at the footstool of His feet."
+psMA.friday.kathismata.v1.text = "Exalt the Lord our God, and worship at the footstool of His feet; for He is holy."
 psMA.friday.kathismata.v2.info = ps_en_US_saas.psa73.v12.number
 psMA.friday.kathismata.v2.text = "God is our King before the ages; He worked salvation in the midst of the earth."
 psMA.saturday.kathismata.v1.info = ps_en_US_saas.psa67.v36.number
