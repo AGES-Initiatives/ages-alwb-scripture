@@ -222,15 +222,15 @@ psVE.breadhymn.v1.text = "Rich men turned poor and went hungry; but those who se
 
 //verses for aposticha and lauds
 
-psVE.angels.aposverses.v1.info = ps_en_US_saas.psa103.v4.number
-psVE.angels.aposverses.v1.text = "He makes His angels spirits and His ministers a flame of fire."
-psVE.angels.aposverses.v2.info = ps_en_US_saas.psa103.v1.number
-psVE.angels.aposverses.v2.text = "Bless the Lord, O my soul. O Lord my God, You are magnified exceedingly."
+psVE.angels.aposverse.v1.info = ps_en_US_saas.psa103.v4.number
+psVE.angels.aposverse.v1.text = "He makes His angels spirits and His ministers a flame of fire."
+psVE.angels.aposverse.v2.info = ps_en_US_saas.psa103.v1.number
+psVE.angels.aposverse.v2.text = "Bless the Lord, O my soul. O Lord my God, You are magnified exceedingly."
 
-psVE.annunciation.aposverses.v1.info = ps_en_US_saas.psa95.v2.number
-psVE.annunciation.aposverses.v1.text = "Proclaim from day to day the salvation of our God."
-psVE.annunciation.aposverses.v2.info = ps_en_US_saas.psa95.v1.number
-psVE.annunciation.aposverses.v2.text = "Oh, sing a new song to the Lord, sing to the Lord, all the earth."
+psVE.annunciation.aposverse.v1.info = ps_en_US_saas.psa95.v2.number
+psVE.annunciation.aposverse.v1.text = "Proclaim from day to day the salvation of our God."
+psVE.annunciation.aposverse.v2.info = ps_en_US_saas.psa95.v1.number
+psVE.annunciation.aposverse.v2.text = "Oh, sing a new song to the Lord, sing to the Lord, all the earth."
 
 psVE.apostle.aposverse.v1.info = ps_en_US_saas.psa18.v5.number
 psVE.apostle.aposverse.v1.text = "His proclamation went forth into all the earth, and his words to the ends of the world."
