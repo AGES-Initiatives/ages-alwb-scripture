@@ -6,7 +6,7 @@ lemeMA.Gospel.version = le.go.mc.d145_en_US_rsv.lemcLI.Gospel.version
 lemeMA.Gospel.book_string =  le.go.mc.d145_en_US_rsv.lemcLI.Gospel.book_string
 lemeMA.Gospel.book_abbr =  le.go.mc.d145_en_US_rsv.lemcLI.Gospel.book_abbr
 lemeMA.Gospel.chapverse =  le.go.mc.d145_en_US_rsv.lemcLI.Gospel.chapverse
-lemeMA.Gospel.text =  le.go.mc.d145_en_US_rsv.lemcLI.Gospel.text
+lemeMA.Gospel.text = le.go.mc.d145_en_US_rsv.lemcLI.Gospel.text
 lemeMA.Gospel.pagenumber = "" //le.go.mc.d145_en_US_rsv.lemcLI.Gospel.pagemumber
 
 lemeLI.Gospel.title = "For the Saint."
