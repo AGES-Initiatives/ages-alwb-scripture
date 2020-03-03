@@ -11,6 +11,17 @@ psLI.tr.d014.alleluia.v1.text = "Blessed are they whom You have chosen and recei
 psLI.tr.d014.alleluia.v2.info = ps_en_US_saas.psa101.v13.number
 psLI.tr.d014.alleluia.v2.text = "Their memorial abides from generation to generation."
 
+psLI.tr.d015.prokeimenon.title = "Psalms 146, 134."
+psLI.tr.d015.prokeimenon.v1.info = ps_en_US_saas.psa146.v5.number
+psLI.tr.d015.prokeimenon.v1.text = "Great is our Lord, and great is His strength."
+psLI.tr.d015.prokeimenon.v2.info = ps_en_US_saas.psa134.v3.number
+psLI.tr.d015.prokeimenon.v2.text = "Praise the Lord, for the Lord is good."
+psLI.tr.d015.alleluia.title = "Psalm 94."
+psLI.tr.d015.alleluia.v1.info = ps_en_US_saas.psa94.v1.number
+psLI.tr.d015.alleluia.v1.text = "Come, let us greatly rejoice in the Lord."
+psLI.tr.d015.alleluia.v2.info = ps_en_US_saas.psa94.v3.number
+psLI.tr.d015.alleluia.v2.text = "For the Lord is a great God."
+
 //Cheese Wed
 psTE.tr.d018.prokeimenon1.title = "Psalm 27."
 psTE.tr.d018.prokeimenon1.v1.info = ps_en_US_saas.psa27.v9.number
@@ -65,6 +76,17 @@ psLI.tr.d021.alleluia.v1.info = ps_en_US_saas.psa91.v14.number
 psLI.tr.d021.alleluia.v1.text = "Those planted in the house of the Lord shall blossom forth in the courts of our God."
 psLI.tr.d021.alleluia.v2.info = ps_en_US_saas.psa32.v1.number
 psLI.tr.d021.alleluia.v2.text = "Rejoice greatly in the Lord, O righteous ones; praise is fitting for the upright."
+
+psLI.tr.d022.prokeimenon.title = "Psalm 75."
+psLI.tr.d022.prokeimenon.v1.info = ps_en_US_saas.psa75.v12.number
+psLI.tr.d022.prokeimenon.v1.text = "Pray and return to the Lord Your God."
+psLI.tr.d022.prokeimenon.v2.info = ps_en_US_saas.psa75.v2.number
+psLI.tr.d022.prokeimenon.v2.text = "In Judah God is known; His name is great in Israel."
+psLI.tr.d022.alleluia.title = "Psalm 91."
+psLI.tr.d022.alleluia.v1.info = ps_en_US_saas.psa91.v2.number
+psLI.tr.d022.alleluia.v1.text = "It is good to give thanks to the Lord and to sing to Your name, O Most High."
+psLI.tr.d022.alleluia.v2.info = ps_en_US_saas.psa91.v3.number
+psLI.tr.d022.alleluia.v2.text = "To proclaim Your mercy in the morning and Your truth at night."
 
 //Mon 1
 psTE.tr.d023.prokeimenon1.title = "Psalm 1."

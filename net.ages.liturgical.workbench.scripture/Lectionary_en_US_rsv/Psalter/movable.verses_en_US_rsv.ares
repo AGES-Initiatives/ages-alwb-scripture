@@ -11,6 +11,17 @@ psLI.tr.d014.alleluia.v1.text = ""
 psLI.tr.d014.alleluia.v2.info = ps_en_US_rsv.psa101.v13.number
 psLI.tr.d014.alleluia.v2.text = ""
 
+psLI.tr.d015.prokeimenon.title = ""
+psLI.tr.d015.prokeimenon.v1.info = ps_en_US_rsv.psa146.v5.number
+psLI.tr.d015.prokeimenon.v1.text = ""
+psLI.tr.d015.prokeimenon.v2.info = ps_en_US_rsv.psa134.v3.number
+psLI.tr.d015.prokeimenon.v2.text = ""
+psLI.tr.d015.alleluia.title = ""
+psLI.tr.d015.alleluia.v1.info = ps_en_US_rsv.psa94.v1.number
+psLI.tr.d015.alleluia.v1.text = ""
+psLI.tr.d015.alleluia.v2.info = ps_en_US_rsv.psa94.v3.number
+psLI.tr.d015.alleluia.v2.text = ""
+
 //Cheese Wed
 psTE.tr.d018.prokeimenon1.title = ""
 psTE.tr.d018.prokeimenon1.v1.info = ps_en_US_rsv.psa27.v9.number
@@ -65,6 +76,17 @@ psLI.tr.d021.alleluia.v1.info = ps_en_US_rsv.psa91.v14.number
 psLI.tr.d021.alleluia.v1.text = ""
 psLI.tr.d021.alleluia.v2.info = ps_en_US_rsv.psa32.v1.number
 psLI.tr.d021.alleluia.v2.text = ""
+
+psLI.tr.d022.prokeimenon.title = ""
+psLI.tr.d022.prokeimenon.v1.info = ps_en_US_rsv.psa75.v12.number
+psLI.tr.d022.prokeimenon.v1.text = ""
+psLI.tr.d022.prokeimenon.v2.info = ps_en_US_rsv.psa75.v2.number
+psLI.tr.d022.prokeimenon.v2.text = ""
+psLI.tr.d022.alleluia.title = ""
+psLI.tr.d022.alleluia.v1.info = ps_en_US_rsv.psa91.v2.number
+psLI.tr.d022.alleluia.v1.text = ""
+psLI.tr.d022.alleluia.v2.info = ps_en_US_rsv.psa91.v3.number
+psLI.tr.d022.alleluia.v2.text = ""
 
 //Mon 1
 psTE.tr.d023.prokeimenon1.title = ""
