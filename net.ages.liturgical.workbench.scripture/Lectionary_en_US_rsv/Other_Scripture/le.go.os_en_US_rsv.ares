@@ -52,3 +52,10 @@ leosTY.Beatitudes_Refrain2.text = "Remember us, O Master, when You come in Your 
 leosTY.Beatitudes_Refrain3.text = "Remember us, O Holy One, when You come in Your kingdom."
 
 leos.prokeimenon.MM.ode92v8v1.text = properties_en_US_rsv.media.key
+
+leosCA.ParaklesisPandemic.Gospel.title = ""
+leosCA.ParaklesisPandemic.Gospel.version = properties_en_US_rsv.version.designation
+leosCA.ParaklesisPandemic.Gospel.book_string = bible_en_US_rsv.Matthew.text
+leosCA.ParaklesisPandemic.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr
+leosCA.ParaklesisPandemic.Gospel.chapverse = "8:1-4"
+leosCA.ParaklesisPandemic.Gospel.text = "At that time, when Jesus came down from the mountain, great crowds followed him; and behold, a leper came to him and knelt before him saying, \"Lord, if you will, you can make me clean.\" And he stretched out his hand and touched him, saying, \"I will; be clean.\" And immediately his leprosy was cleansed. And Jesus said to him, \"See that you say nothing to any one; but go, show yourself to the priest, and offer the gift that Moses commanded, for a proof to them.\""
