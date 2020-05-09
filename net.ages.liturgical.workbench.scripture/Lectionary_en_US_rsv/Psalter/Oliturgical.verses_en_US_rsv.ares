@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = liturgical.verses_en_US_rsv
+A_Resource_Whose_Name = Oliturgical.verses_en_US_rsv
 
 //Vespers
 
@@ -181,6 +181,42 @@ psVE.prokeimenon.lent2.v3.text = ""
 psVE.prokeimenon.lent2.v4.info = ps_en_US_rsv.psa60.v9.number
 psVE.prokeimenon.lent2.v4.text = ""
 
+psVE.prokeimenon.goodfriday.title = ""
+psVE.prokeimenon.goodfriday.v1.info = ps_en_US_rsv.psa21.v19.number
+psVE.prokeimenon.goodfriday.v1.text = ""
+psVE.prokeimenon.goodfriday.v2.info = ps_en_US_rsv.psa21.v2.number
+psVE.prokeimenon.goodfriday.v2.text = ""
+
+psVE.prokeimenon.brighttuesday.title = ""
+psVE.prokeimenon.brighttuesday.v1.info = ps_en_US_rsv.psa76.v2.number
+psVE.prokeimenon.brighttuesday.v1.text = ""
+psVE.prokeimenon.brighttuesday.v2.info = ps_en_US_rsv.psa76.v3.number
+psVE.prokeimenon.brighttuesday.v2.text = ""
+psVE.prokeimenon.brighttuesday.v3.info = ps_en_US_rsv.psa76.v3.number
+psVE.prokeimenon.brighttuesday.v3.text = ""
+psVE.prokeimenon.brighttuesday.v4.info = ps_en_US_rsv.psa76.v14.number
+psVE.prokeimenon.brighttuesday.v4.text = ""
+
+psVE.prokeimenon.brightwednesday.title = ""
+psVE.prokeimenon.brightwednesday.v1.info = ps_en_US_rsv.psa54.v2.number
+psVE.prokeimenon.brightwednesday.v1.text = ""
+psVE.prokeimenon.brightwednesday.v2.info = ps_en_US_rsv.psa54.v3.number
+psVE.prokeimenon.brightwednesday.v2.text = ""
+psVE.prokeimenon.brightwednesday.v3.info = ps_en_US_rsv.psa54.v4.number
+psVE.prokeimenon.brightwednesday.v3.text = ""
+psVE.prokeimenon.brightwednesday.v4.info = ps_en_US_rsv.psa54.v17.number
+psVE.prokeimenon.brightwednesday.v4.text = ""
+
+psVE.prokeimenon.brightthursday.title = ""
+psVE.prokeimenon.brightthursday.v1.info = ps_en_US_rsv.psa17.v2.number
+psVE.prokeimenon.brightthursday.v1.text = ""
+psVE.prokeimenon.brightthursday.v2.info = ps_en_US_rsv.psa17.v3.number
+psVE.prokeimenon.brightthursday.v2.text = ""
+psVE.prokeimenon.brightthursday.v3.info = ps_en_US_rsv.psa17.v4.number
+psVE.prokeimenon.brightthursday.v3.text = ""
+psVE.prokeimenon.brightthursday.v4.info = ps_en_US_rsv.psa17.v7.number
+psVE.prokeimenon.brightthursday.v4.text = ""
+
 psVE.breadhymn.v1.info = ps_en_US_rsv.psa33.v11.number
 psVE.breadhymn.v1.text = ""
 
@@ -206,6 +242,15 @@ psVE.apostles.aposverse.v1.text = ""
 psVE.apostles.aposverse.v2.info = ps_en_US_rsv.psa18.v2.number
 psVE.apostles.aposverse.v2.text = ""
 
+psVE.ascension.aposverse.v1.info = ps_en_US_rsv.psa46.v6.number
+psVE.ascension.aposverse.v1.text = ""
+psVE.ascension.aposverse.v2.info = ps_en_US_rsv.psa46.v2.number
+psVE.ascension.aposverse.v2.text = ""
+
+psVE.blindman.aposverse.v1.info = ps_en_US_rsv.psa118.v132.number
+psVE.blindman.aposverse.v1.text = ""
+psVE.blindman.aposverse.v2.info = ps_en_US_rsv.psa118.v133.number
+psVE.blindman.aposverse.v2.text = ""
 
 psVE.christmas.aposverse.v1.info = ps_en_US_rsv.psa109.v1.number
 psVE.christmas.aposverse.v1.text = ""
@@ -331,12 +376,31 @@ psVE.meeting.aposverse.v1.text = ""
 psVE.meeting.aposverse.v2.info = le.go.os_en_US_rsv.leosVE.Prayer_NynApolyeis.chapverse
 psVE.meeting.aposverse.v2.text = ""
 
+psVE.midpentecost.aposverse.v1.info = ps_en_US_rsv.psa73.v2.number
+psVE.midpentecost.aposverse.v1.text = ""
+psVE.midpentecost.aposverse.v2.info = ps_en_US_rsv.psa73.v12.number
+psVE.midpentecost.aposverse.v2.text = ""
+
+psVE.myrrhbearers.aposverse.v1.info = ps_en_US_rsv.psa84.v2.number
+psVE.myrrhbearers.aposverse.v1.text = ""
+psVE.myrrhbearers.aposverse.v2.info = ps_en_US_rsv.psa84.v11.number
+psVE.myrrhbearers.aposverse.v2.text = ""
+
 psVE.oneapostle.aposverse.v1.info = ps_en_US_rsv.psa18.v5.number
 psVE.oneapostle.aposverse.v1.text = ""
 psVE.oneapostle.aposverse.v2.info = ps_en_US_rsv.psa18.v2.number
 psVE.oneapostle.aposverse.v2.text = ""
 psVE.oneapostle.aposverse.v3.info = ps_en_US_rsv.psa18.v5.number
 psVE.oneapostle.aposverse.v3.text = ""
+
+psVE.palmsunday.aposverse.v1.info = ps_en_US_rsv.psa8.v3.number
+psVE.palmsunday.aposverse.v1.text = ""
+psVE.palmsunday.aposverse.v2.info = ps_en_US_rsv.psa8.v2.number
+psVE.palmsunday.aposverse.v2.text = ""
+psVE.palmsunday.aposverse.v3.info = ps_en_US_rsv.psa97.v1.number
+psVE.palmsunday.aposverse.v3.text = ""
+psVE.palmsunday.aposverse.v4.info = ps_en_US_rsv.psa97.v3.number
+psVE.palmsunday.aposverse.v4.text = ""
 
 psVE.paralytic.aposverse.v1.info = ps_en_US_rsv.psa88.v2.number
 psVE.paralytic.aposverse.v1.text = ""
@@ -368,6 +432,11 @@ psVE.righteous.aposverse.v1.text = ""
 psVE.righteous.aposverse.v2.info = ps_en_US_rsv.psa127.v1.number
 psVE.righteous.aposverse.v2.text = ""
 
+psVE.samaritanwoman.aposverse.v1.info = ps_en_US_rsv.psa44.v5.number
+psVE.samaritanwoman.aposverse.v1.text = ""
+psVE.samaritanwoman.aposverse.v2.info = ps_en_US_rsv.psa44.v8.number
+psVE.samaritanwoman.aposverse.v2.text = ""
+
 psVE.synods.aposverse.v1.info =
 psVE.synods.aposverse.v1.text = ""
 psVE.synods.aposverse.v2.info = ps_en_US_rsv.psa49.v5.number
@@ -383,10 +452,20 @@ psVE.theotokosbelt.aposverse.v1.text = ""
 psVE.theotokosbelt.aposverse.v2.info = ps_en_US_rsv.psa45.v5.number
 psVE.theotokosbelt.aposverse.v2.text = ""
 
+psVE.theotokosfount.aposverse.v1.info = ps_en_US_rsv.psa44.v2.number
+psVE.theotokosfount.aposverse.v1.text = ""
+psVE.theotokosfount.aposverse.v2.info = ps_en_US_rsv.psa45.v5.number
+psVE.theotokosfount.aposverse.v2.text = ""
+
 psVE.theotokosrobe.aposverse.v1.info = ps_en_US_rsv.psa131.v8.number
 psVE.theotokosrobe.aposverse.v1.text = ""
 psVE.theotokosrobe.aposverse.v2.info = ps_en_US_rsv.psa44.v13.number
 psVE.theotokosrobe.aposverse.v2.text = ""
+
+psVE.thomas.aposverse.v1.info = ps_en_US_rsv.psa147.v1.number
+psVE.thomas.aposverse.v1.text = ""
+psVE.thomas.aposverse.v2.info = ps_en_US_rsv.psa147.v2.number
+psVE.thomas.aposverse.v2.text = ""
 
 psVE.transfiguration.aposverse.v1.info = ps_en_US_rsv.psa88.v12.number
 psVE.transfiguration.aposverse.v1.text = ""
@@ -738,6 +817,12 @@ psMA.hierarchs.prokeimenon.v1.text = ""
 psMA.hierarchs.prokeimenon.v2.info = ps_en_US_rsv.psa48.v4.number
 psMA.hierarchs.prokeimenon.v2.text = ""
 
+psMA.holyfriday.prokeimenon.title = ""
+psMA.holyfriday.prokeimenon.v1.info = ps_en_US_rsv.psa21.v19.number
+psMA.holyfriday.prokeimenon.v1.text = ""
+psMA.holyfriday.prokeimenon.v2.info = ps_en_US_rsv.psa21.v2.number
+psMA.holyfriday.prokeimenon.v2.text = ""
+
 psMA.holyprotection.prokeimenon.title = ""
 psMA.holyprotection.prokeimenon.v1.info = ps_en_US_rsv.psa44.v18.number
 psMA.holyprotection.prokeimenon.v1.text = ""
@@ -767,6 +852,18 @@ psMA.martyrs.prokeimenon.v1.info = ps_en_US_rsv.psa65.v12.number
 psMA.martyrs.prokeimenon.v1.text = ""
 psMA.martyrs.prokeimenon.v2.info = ps_en_US_rsv.psa65.v10.number
 psMA.martyrs.prokeimenon.v2.text = ""
+
+psMA.palmsunday.prokeimenon.title = ""
+psMA.palmsunday.prokeimenon.v1.info = ps_en_US_rsv.psa8.v3.number
+psMA.palmsunday.prokeimenon.v1.text = ""
+psMA.palmsunday.prokeimenon.v2.info = ps_en_US_rsv.psa8.v2.number
+psMA.palmsunday.prokeimenon.v2.text = ""
+
+psMA.pentecost.prokeimenon.title = ""
+psMA.pentecost.prokeimenon.v1.info = ps_en_US_rsv.psa142.v10.number
+psMA.pentecost.prokeimenon.v1.text = ""
+psMA.pentecost.prokeimenon.v2.info = ps_en_US_rsv.psa142.v1.number
+psMA.pentecost.prokeimenon.v2.text = ""
 
 psMA.prophet.prokeimenon.title = ""
 psMA.prophet.prokeimenon.v1.info = ps_en_US_rsv.psa109.v4.number
@@ -803,6 +900,12 @@ psMA.theotokos1.prokeimenon.v1.info = ps_en_US_rsv.psa44.v18.number
 psMA.theotokos1.prokeimenon.v1.text = ""
 psMA.theotokos1.prokeimenon.v2.info = ps_en_US_rsv.psa44.v2.number
 psMA.theotokos1.prokeimenon.v2.text = ""
+
+psMA.thomas.prokeimenon.title = ""
+psMA.thomas.prokeimenon.v1.info = ps_en_US_rsv.psa147.v1.number
+psMA.thomas.prokeimenon.v1.text = ""
+psMA.thomas.prokeimenon.v2.info = ps_en_US_rsv.psa147.v2.number
+psMA.thomas.prokeimenon.v2.text = ""
 
 psMA.trasfiguration.prokeimenon.title = ""
 psMA.trasfiguration.prokeimenon.v1.info = ps_en_US_rsv.psa88.v13.number
@@ -1159,6 +1262,11 @@ psMA.holyfathers.laudsverse.v1.text = ""
 psMA.holyfathers.laudsverse.v2.info = ps_en_US_rsv.psa49.v5.number
 psMA.holyfathers.laudsverse.v2.text = ""
 
+psMA.allsaints.laudsverse.v1.info = ps_en_US_rsv.psa33.v18.number
+psMA.allsaints.laudsverse.v1.text = ""
+psMA.allsaints.laudsverse.v2.info = ps_en_US_rsv.psa67.v36.number
+psMA.allsaints.laudsverse.v2.text = ""
+
 psMA.weekday.aposverse.v1.info = ps_en_US_rsv.psa89.v14.number
 psMA.weekday.aposverse.v1.text = ""
 psMA.weekday.aposverse.v1a.info = ps_en_US_rsv.psa89.v14.number
@@ -1167,6 +1275,20 @@ psMA.weekday.aposverse.v1b.info = ps_en_US_rsv.psa89.v15.number
 psMA.weekday.aposverse.v1b.text = ""
 psMA.weekday.aposverse.v2.info = ps_en_US_rsv.psa89.v17.number
 psMA.weekday.aposverse.v2.text = ""
+
+psMA.holythursday.aposverse.v1.info = ps_en_US_rsv.psa40.v10.number
+psMA.holythursday.aposverse.v1.text = ""
+psMA.holythursday.aposverse.v2.info = ps_en_US_rsv.psa40.v7.number
+psMA.holythursday.aposverse.v2.text = ""
+psMA.holythursday.aposverse.v3.info = ps_en_US_rsv.psa40.v9.number
+psMA.holythursday.aposverse.v3.text = ""
+
+psMA.holyfriday.aposverse.v1.info = ps_en_US_rsv.psa21.v19.number
+psMA.holyfriday.aposverse.v1.text = ""
+psMA.holyfriday.aposverse.v2.info = ps_en_US_rsv.psa68.v22.number
+psMA.holyfriday.aposverse.v2.text = ""
+psMA.holyfriday.aposverse.v3.info = ps_en_US_rsv.psa73.v12.number
+psMA.holyfriday.aposverse.v3.text = ""
 
 psMA.weekday.end.v1.info = ps_en_US_rsv.psa91.v2.number
 psMA.weekday.end.v1.text = ""
@@ -2918,6 +3040,8 @@ psEU.funeral.stanza3.v6.text = ""
 psEU.funeral.stanza3.v7.info = ps_en_US_rsv.psa118.v176.number
 psEU.funeral.stanza3.v7.text = ""
 psEU.funeral.prokeimenon.title = ""
+//psEU.funeral.prokeimenon.v1.info = ""
+//psEU.funeral.prokeimenon.v1.text = "
 psEU.funeral.prokeimenon.v2.info = ps_en_US_rsv.psa27.v1.number
 psEU.funeral.prokeimenon.v2.text = ""
 psEU.funeral.casket.v1.info = ps_en_US_rsv.psa50.v9.number

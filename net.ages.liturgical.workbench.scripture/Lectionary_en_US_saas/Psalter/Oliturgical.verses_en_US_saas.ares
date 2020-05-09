@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = liturgical.verses_en_US_saas 
+A_Resource_Whose_Name = Oliturgical.verses_en_US_saas 
 
 //Vespers
 
@@ -181,6 +181,42 @@ psVE.prokeimenon.lent2.v3.text = "I will be covered with the shelter of Your win
 psVE.prokeimenon.lent2.v4.info = ps_en_US_saas.psa60.v9.number
 psVE.prokeimenon.lent2.v4.text = "So I will sing praise to Your name unto ages of ages, that I may pay my vows day to day."
 
+psVE.prokeimenon.goodfriday.title = "Psalm 21."
+psVE.prokeimenon.goodfriday.v1.info = ps_en_US_saas.psa21.v19.number
+psVE.prokeimenon.goodfriday.v1.text = "They divided my garments among themselves, and for my clothing they cast lots."
+psVE.prokeimenon.goodfriday.v2.info = ps_en_US_saas.psa21.v2.number
+psVE.prokeimenon.goodfriday.v2.text = "O God, my God, hear me; why have You forsaken me?"
+
+psVE.prokeimenon.brighttuesday.title = "Psalm 76."
+psVE.prokeimenon.brighttuesday.v1.info = ps_en_US_saas.psa76.v2.number
+psVE.prokeimenon.brighttuesday.v1.text = "With my voice I cried to the Lord, with my voice to God, and He gave heed to me."
+psVE.prokeimenon.brighttuesday.v2.info = ps_en_US_saas.psa76.v3.number
+psVE.prokeimenon.brighttuesday.v2.text = "In the day of my affliction I sought out God."
+psVE.prokeimenon.brighttuesday.v3.info = ps_en_US_saas.psa76.v3.number
+psVE.prokeimenon.brighttuesday.v3.text = "My soul refused to be comforted."
+psVE.prokeimenon.brighttuesday.v4.info = ps_en_US_saas.psa76.v14.number
+psVE.prokeimenon.brighttuesday.v4.text = "O God, Your way is in the holy place."
+
+psVE.prokeimenon.brightwednesday.title = "Psalm 54."
+psVE.prokeimenon.brightwednesday.v1.info = ps_en_US_saas.psa54.v2.number
+psVE.prokeimenon.brightwednesday.v1.text = "Give ear to my prayer, O God, and do not despise my supplication."
+psVE.prokeimenon.brightwednesday.v2.info = ps_en_US_saas.psa54.v3.number
+psVE.prokeimenon.brightwednesday.v2.text = "Attend to me, and hear me."
+psVE.prokeimenon.brightwednesday.v3.info = ps_en_US_saas.psa54.v4.number
+psVE.prokeimenon.brightwednesday.v3.text = "For they turned their lawlessness upon me."
+psVE.prokeimenon.brightwednesday.v4.info = ps_en_US_saas.psa54.v17.number
+psVE.prokeimenon.brightwednesday.v4.text = "But I cried out to God."
+
+psVE.prokeimenon.brightthursday.title = "Psalm 17."
+psVE.prokeimenon.brightthursday.v1.info = ps_en_US_saas.psa17.v2.number
+psVE.prokeimenon.brightthursday.v1.text = "I will love You, O Lord, my strength. The Lord is my foundation, my refuge, my deliverer."
+psVE.prokeimenon.brightthursday.v2.info = ps_en_US_saas.psa17.v3.number
+psVE.prokeimenon.brightthursday.v2.text = "My God is my helper, on Him I will hope."
+psVE.prokeimenon.brightthursday.v3.info = ps_en_US_saas.psa17.v4.number
+psVE.prokeimenon.brightthursday.v3.text = "I will call upon the Lord and praise Him."
+psVE.prokeimenon.brightthursday.v4.info = ps_en_US_saas.psa17.v7.number
+psVE.prokeimenon.brightthursday.v4.text = "He heard my voice from His holy temple."
+
 psVE.breadhymn.v1.info = ps_en_US_saas.psa33.v11.number
 psVE.breadhymn.v1.text = "Rich men turned poor and went hungry; but those who seek the Lord shall not lack any good thing."
 
@@ -205,6 +241,11 @@ psVE.apostles.aposverse.v1.info = ps_en_US_saas.psa18.v5.number
 psVE.apostles.aposverse.v1.text = "Their proclamation went forth into all the earth, and their words to the ends of the world."
 psVE.apostles.aposverse.v2.info = ps_en_US_saas.psa18.v2.number
 psVE.apostles.aposverse.v2.text = "The heavens declare the glory of God; the firmament shows the creation of His hands."
+
+psVE.ascension.aposverse.v1.info = ps_en_US_saas.psa46.v6.number
+psVE.ascension.aposverse.v1.text = "God ascended with a shout, the Lord with the sound of the trumpet."
+psVE.ascension.aposverse.v2.info = ps_en_US_saas.psa46.v2.number
+psVE.ascension.aposverse.v2.text = "Oh, clap your hands, all you nations; shout to God with the voice of rejoicing."
 
 psVE.blindman.aposverse.v1.info = ps_en_US_saas.psa118.v132.number
 psVE.blindman.aposverse.v1.text = "Look upon me and have mercy on me."
@@ -289,6 +330,12 @@ psVE.forerunner.aposverse.v3.info = ps_en_US_saas.psa131.v17.number
 psVE.forerunner.aposverse.v3.text = "There I shall cause to spring up a horn for David; there I prepared a lamp for my anointed."
 psVE.forerunner.aposverse.v4.info = ps_en_US_saas.psa131.v1.number
 psVE.forerunner.aposverse.v4.text = "Remember David, O Lord, and all his meekness."
+//psVE.forerunner.aposverse.v5.info = ps_en_US_saas.bode9.v1.number
+//psVE.forerunner.aposverse.v5.text = ""
+//psVE.forerunner.aposverse.v6.info = ps_en_US_saas.bode9.v8.number
+//psVE.forerunner.aposverse.v6.text = ""
+//psVE.forerunner.aposverse.v7.info = ps_en_US_saas.bode9.v7.number
+//psVE.forerunner.aposverse.v7.text = ""
 
 psVE.greatmartyrs.aposverse.v1.info = ps_en_US_saas.psa91.v13.number
 psVE.greatmartyrs.aposverse.v1.text = "The righteous shall flourish like a palm tree; he shall be multiplied like the cedar in Lebanon."
@@ -324,6 +371,20 @@ psVE.martyrs.aposverse.v2.text = "To the saints on His earth, in them the Lord m
 psVE.martyrs.aposverse.v3.info = ps_en_US_saas.psa39.v2.number
 psVE.martyrs.aposverse.v3.text = "I waited patiently for the Lord, and He heeded me; and He heard my supplication."
 
+//psVE.meeting.aposverse.v1.info =
+//psVE.meeting.aposverse.v1.text = ""
+//psVE.meeting.aposverse.v2.info =
+//psVE.meeting.aposverse.v2.text = ""
+
+psVE.midpentecost.aposverse.v1.info = ps_en_US_saas.psa73.v2.number
+psVE.midpentecost.aposverse.v1.text = "Remember Your congregation You acquired from the beginning."
+psVE.midpentecost.aposverse.v2.info = ps_en_US_saas.psa73.v12.number
+psVE.midpentecost.aposverse.v2.text = "God is our King before the ages; He worked salvation in the midst of the earth."
+
+psVE.myrrhbearers.aposverse.v1.info = ps_en_US_saas.psa84.v2.number
+psVE.myrrhbearers.aposverse.v1.text = "O Lord, You were pleased with Your land; You turned back the captivity of Jacob."
+psVE.myrrhbearers.aposverse.v2.info = ps_en_US_saas.psa84.v11.number
+psVE.myrrhbearers.aposverse.v2.text = "Mercy and truth met together; righteousness and peace kissed each other."
 
 psVE.oneapostle.aposverse.v1.info = ps_en_US_saas.psa18.v5.number
 psVE.oneapostle.aposverse.v1.text = "His proclamation went forth into all the earth, and his words to the ends of the world."
@@ -331,6 +392,20 @@ psVE.oneapostle.aposverse.v2.info = ps_en_US_saas.psa18.v2.number
 psVE.oneapostle.aposverse.v2.text = "The heavens declare the glory of God; the firmament shows the creation of His hands."
 psVE.oneapostle.aposverse.v3.info = ps_en_US_saas.psa18.v5.number
 psVE.oneapostle.aposverse.v3.text = "Her proclamation went forth into all the earth, and her words to the ends of the world."
+
+psVE.palmsunday.aposverse.v1.info = ps_en_US_saas.psa8.v3.number
+psVE.palmsunday.aposverse.v1.text = "From the mouths of babies and nursing infants You prepared praise."
+psVE.palmsunday.aposverse.v2.info = ps_en_US_saas.psa8.v2.number
+psVE.palmsunday.aposverse.v2.text = "O Lord, our Lord, how wondrous is Your name in all the earth."
+psVE.palmsunday.aposverse.v3.info = ps_en_US_saas.psa97.v1.number
+psVE.palmsunday.aposverse.v3.text = "Sing a new song to the Lord."
+psVE.palmsunday.aposverse.v4.info = ps_en_US_saas.psa97.v3.number
+psVE.palmsunday.aposverse.v4.text = "All the ends of the earth saw the salvation of our God."
+
+psVE.paralytic.aposverse.v1.info = ps_en_US_saas.psa88.v2.number
+psVE.paralytic.aposverse.v1.text = "O Lord, I will sing of Your mercies forever."
+psVE.paralytic.aposverse.v2.info = ps_en_US_saas.psa88.v3.number
+psVE.paralytic.aposverse.v2.text = "For You said, \"Mercy shall be built up forever.\""
 
 psVE.pentecost.aposverse.v1.info = ps_en_US_saas.psa50.v12.number
 psVE.pentecost.aposverse.v1.text = "Create in me a clean heart, O God, and renew a right spirit within me."
@@ -357,6 +432,11 @@ psVE.righteous.aposverse.v1.text = "Rejoice greatly in the Lord, O righteous one
 psVE.righteous.aposverse.v2.info = ps_en_US_saas.psa127.v1.number
 psVE.righteous.aposverse.v2.text = "Blessed are all who fear the Lord, who walk in His ways."
 
+psVE.samaritanwoman.aposverse.v1.info = ps_en_US_saas.psa44.v5.number
+psVE.samaritanwoman.aposverse.v1.text = "Stretch Your bow, and grant prosperity, and reign, because of truth and goodness."
+psVE.samaritanwoman.aposverse.v2.info = ps_en_US_saas.psa44.v8.number
+psVE.samaritanwoman.aposverse.v2.text = "You loved righteousness and hated lawlessness."
+
 psVE.synods.aposverse.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.text
 psVE.synods.aposverse.v1.text = "Blessed are You, O Lord God of our fathers, for You are praiseworthy and exalted beyond measure unto the ages."
 psVE.synods.aposverse.v2.info = ps_en_US_saas.psa49.v5.number
@@ -372,10 +452,20 @@ psVE.theotokosbelt.aposverse.v1.text = "The Most High sanctified His tabernacle.
 psVE.theotokosbelt.aposverse.v2.info = ps_en_US_saas.psa45.v5.number
 psVE.theotokosbelt.aposverse.v2.text = "The torrents of the river gladden the city of God."
 
+psVE.theotokosfount.aposverse.v1.info = ps_en_US_saas.psa44.v2.number
+psVE.theotokosfount.aposverse.v1.text = "My heart overflowed with a good word; I tell my works to the King."
+psVE.theotokosfount.aposverse.v2.info = ps_en_US_saas.psa45.v5.number
+psVE.theotokosfount.aposverse.v2.text = "The Most High sanctified His tabernacle."
+
 psVE.theotokosrobe.aposverse.v1.info = ps_en_US_saas.psa131.v8.number
 psVE.theotokosrobe.aposverse.v1.text = "Arise, O Lord, into Your rest, You and the ark of Your holiness."
 psVE.theotokosrobe.aposverse.v2.info = ps_en_US_saas.psa44.v13.number
 psVE.theotokosrobe.aposverse.v2.text = "The rich among the people shall entreat your favor."
+
+psVE.thomas.aposverse.v1.info = ps_en_US_saas.psa147.v1.number
+psVE.thomas.aposverse.v1.text = "Praise the Lord, O Jerusalem; praise your God, O Zion."
+psVE.thomas.aposverse.v2.info = ps_en_US_saas.psa147.v2.number
+psVE.thomas.aposverse.v2.text = "For He strengthens the bars of your gates; He blesses your children within you."
 
 psVE.transfiguration.aposverse.v1.info = ps_en_US_saas.psa88.v12.number
 psVE.transfiguration.aposverse.v1.text = "The heavens belong to You, and the earth is Yours."
@@ -655,6 +745,12 @@ psMA.apostles.prokeimenon.v1.text = "Their proclamation went forth into all the 
 psMA.apostles.prokeimenon.v2.info = ps_en_US_saas.psa18.v2.number
 psMA.apostles.prokeimenon.v2.text = "The heavens declare the glory of God; the firmament shows the creation of His hands."
 
+psMA.ascension.prokeimenon.title = "Psalm 46."
+psMA.ascension.prokeimenon.v1.info = ps_en_US_saas.psa46.v6.number
+psMA.ascension.prokeimenon.v1.text = "God ascended with a shout, the Lord with the sound of the trumpet."
+psMA.ascension.prokeimenon.v2.info = ps_en_US_saas.psa46.v2.number
+psMA.ascension.prokeimenon.v2.text = "Oh, clap your hands, all you nations; shout to God with the voice of rejoicing."
+
 psMA.christmas.prokeimenon.title = "Psalm 109."
 psMA.christmas.prokeimenon.v1.info = ps_en_US_saas.psa109.v3.number
 psMA.christmas.prokeimenon.v1.text = "I have begotten You from the womb before the morning star. The Lord swore and will not repent."
@@ -691,6 +787,10 @@ psMA.equaltoapostles.prokeimenon.v1.text = "I raised up a chosen one from My peo
 psMA.equaltoapostles.prokeimenon.v2.info = ps_en_US_saas.psa44.v8.number
 psMA.equaltoapostles.prokeimenon.v2.text = "Therefore God, Your God, anointed You."
 
+//psMA.forerunnerbirth.prokeimenon.v1.info = ps_en_US_saas.bode9.v8.number
+//psMA.forerunnerbirth.prokeimenon.v1.text = ""
+//psMA.forerunnerbirth.prokeimenon.v2.info = ps_en_US_saas.bode9.v1.number
+//psMA.forerunnerbirth.prokeimenon.v2.text = ""
 
 psMA.forerunnerhead.prokeimenon.title = "Psalm 131."
 psMA.forerunnerhead.prokeimenon.v1.info = ps_en_US_saas.psa131.v17.number
@@ -715,6 +815,12 @@ psMA.hierarchs.prokeimenon.v1.info = ps_en_US_saas.psa131.v9.number
 psMA.hierarchs.prokeimenon.v1.text = "O Lord, Your priests shall clothe themselves in righteousness; Your saints shall greatly rejoice."
 psMA.hierarchs.prokeimenon.v2.info = ps_en_US_saas.psa48.v4.number
 psMA.hierarchs.prokeimenon.v2.text = "My mouth shall speak wisdom, and the meditation of my heart, understanding."
+
+psMA.holyfriday.prokeimenon.title = "Psalm 21."
+psMA.holyfriday.prokeimenon.v1.info = ps_en_US_saas.psa21.v19.number
+psMA.holyfriday.prokeimenon.v1.text = "They divided my garments among themselves, and for my clothing they cast lots."
+psMA.holyfriday.prokeimenon.v2.info = ps_en_US_saas.psa21.v2.number
+psMA.holyfriday.prokeimenon.v2.text = "O God, my God, hear me; why have You forsaken me?"
 
 psMA.holyprotection.prokeimenon.title = "Psalms 44, 60."
 psMA.holyprotection.prokeimenon.v1.info = ps_en_US_saas.psa44.v18.number
@@ -745,6 +851,18 @@ psMA.martyrs.prokeimenon.v1.info = ps_en_US_saas.psa65.v12.number
 psMA.martyrs.prokeimenon.v1.text = "We went through fire and water, and You led us into a refreshing place."
 psMA.martyrs.prokeimenon.v2.info = ps_en_US_saas.psa65.v10.number
 psMA.martyrs.prokeimenon.v2.text = "You, O God, tested us; You tried us in the fire, as silver is purified by fire."
+
+psMA.palmsunday.prokeimenon.title = "Psalm 8."
+psMA.palmsunday.prokeimenon.v1.info = ps_en_US_saas.psa8.v3.number
+psMA.palmsunday.prokeimenon.v1.text = "From the mouths of babies and nursing infants You prepared praise."
+psMA.palmsunday.prokeimenon.v2.info = ps_en_US_saas.psa8.v2.number
+psMA.palmsunday.prokeimenon.v2.text = "O Lord, our Lord, how wondrous is Your name in all the earth."
+
+psMA.pentecost.prokeimenon.title = "Psalm 142."
+psMA.pentecost.prokeimenon.v1.info = ps_en_US_saas.psa142.v10.number
+psMA.pentecost.prokeimenon.v1.text = "Your good Spirit shall guide me in the land of uprightness."
+psMA.pentecost.prokeimenon.v2.info = ps_en_US_saas.psa142.v1.number
+psMA.pentecost.prokeimenon.v2.text = "O Lord, hear my prayer; give ear to my supplication in Your truth."
 
 psMA.prophet.prokeimenon.title = "Psalms 109, 104."
 psMA.prophet.prokeimenon.v1.info = ps_en_US_saas.psa109.v4.number
@@ -781,6 +899,12 @@ psMA.theotokos1.prokeimenon.v1.info = ps_en_US_saas.psa44.v18.number
 psMA.theotokos1.prokeimenon.v1.text = "I will remember your name from generation to generation."
 psMA.theotokos1.prokeimenon.v2.info = ps_en_US_saas.psa44.v2.number
 psMA.theotokos1.prokeimenon.v2.text = "My heart overflowed with a good word; I tell my works to the King."
+
+psMA.thomas.prokeimenon.title = "Psalm 147."
+psMA.thomas.prokeimenon.v1.info = ps_en_US_saas.psa147.v1.number
+psMA.thomas.prokeimenon.v1.text = "Praise the Lord, O Jerusalem; praise your God, O Zion."
+psMA.thomas.prokeimenon.v2.info = ps_en_US_saas.psa147.v2.number
+psMA.thomas.prokeimenon.v2.text = "For He strengthens the bars of your gates; He blesses your children within you."
 
 psMA.trasfiguration.prokeimenon.title = "Psalm 88."
 psMA.trasfiguration.prokeimenon.v1.info = ps_en_US_saas.psa88.v13.number
@@ -1025,7 +1149,42 @@ psMA.bode8.verse11.text = "Bless the Lord, O Hananiah, Azariah, and Mishael, and
 psMA.bode8.verse12.info = ps_en_US_saas.bode8.v17.number
 psMA.bode8.verse12.text = "Bless the Lord, O Apostles, Prophets, and Martyrs, and exalt Him beyond measure, unto all the ages."
 
+//psMA.magnificat.title = ""
+//psMA.magnificat.v1.info = ps_en_US_saas.bode9_mag.v1.number
+//psMA.magnificat.v1.text = ""
+//psMA.magnificat.v2.info = ps_en_US_saas.bode9_mag.v2.number
+//psMA.magnificat.v2.text = ""
+//psMA.magnificat.v3.info = ps_en_US_saas.bode9_mag.v3.number
+//psMA.magnificat.v3.text = ""
+//psMA.magnificat.v4.info = ps_en_US_saas.bode9_mag.v4.number
+//psMA.magnificat.v4.text = ""
+//psMA.magnificat.v5.info = ps_en_US_saas.bode9_mag.v5.number
+//psMA.magnificat.v5.text = ""
+//psMA.magnificat.v6.info = ps_en_US_saas.bode9_mag.v6.number
+//psMA.magnificat.v6.text = ""
 
+//psMA.bode9.title = ""
+//psMA.bode9.refrain.text = ""
+//psMA.bode9.verse03.info = ps_en_US_saas.bode9.v1.number
+//psMA.bode9.verse03.text = ""
+//psMA.bode9.verse04.info = ps_en_US_saas.bode9.v2.number
+//psMA.bode9.verse04.text = ""
+//psMA.bode9.verse05.info = ps_en_US_saas.bode9.v3.number
+//psMA.bode9.verse05.text = ""
+//psMA.bode9.verse06.info = ps_en_US_saas.bode9.v5.number
+//psMA.bode9.verse06.text = ""
+//psMA.bode9.verse07.info = ps_en_US_saas.bode9.v6.number
+//psMA.bode9.verse07.text = ""
+//psMA.bode9.verse08.info = ps_en_US_saas.bode9.v7.number
+//psMA.bode9.verse08.text = ""
+//psMA.bode9.verse09.info = ps_en_US_saas.bode9.v8.number
+//psMA.bode9.verse09.text = ""
+//psMA.bode9.verse10.info = ps_en_US_saas.bode9.v9.number
+//psMA.bode9.verse10.text = ""
+//psMA.bode9.verse11.info = ps_en_US_saas.bode9.v10.number
+//psMA.bode9.verse11.text = ""
+//psMA.bode9.verse12.info = ps_en_US_saas.bode9.v11.number
+//psMA.bode9.verse12.text = ""
 
 psMA.exapintro.v1.info = ps_en_US_saas.psa98.v9.number
 psMA.exapintro.v1.text = "Holy is the Lord our God."
@@ -1102,6 +1261,11 @@ psMA.holyfathers.laudsverse.v1.text = "Blessed are You, O Lord God of our father
 psMA.holyfathers.laudsverse.v2.info = ps_en_US_saas.psa49.v5.number
 psMA.holyfathers.laudsverse.v2.text = "Gather His holy ones to Him, who establish His covenant upon sacrifices."
 
+psMA.allsaints.laudsverse.v1.info = ps_en_US_saas.psa33.v18.number
+psMA.allsaints.laudsverse.v1.text = "The righteous cried, and the Lord heard them."
+psMA.allsaints.laudsverse.v2.info = ps_en_US_saas.psa67.v36.number
+psMA.allsaints.laudsverse.v2.text = "God is wondrous in His saints."
+
 psMA.weekday.aposverse.v1.info = ps_en_US_saas.psa89.v14.number
 psMA.weekday.aposverse.v1.text = "We were filled with Your mercy in the morning, and in all our days we greatly rejoiced and were glad; gladden us in return for the days You humbled us, for the years we saw evil things. And behold Your servants and Your works, and guide their sons."
 psMA.weekday.aposverse.v1a.info = ps_en_US_saas.psa89.v14.number
@@ -1110,6 +1274,20 @@ psMA.weekday.aposverse.v1b.info = ps_en_US_saas.psa89.v15.number
 psMA.weekday.aposverse.v1b.text = "Gladden us in return for the days You humbled us, for the years we saw evil things. And behold Your servants and Your works, and guide their sons."
 psMA.weekday.aposverse.v2.info = ps_en_US_saas.psa89.v17.number
 psMA.weekday.aposverse.v2.text = "And let the brightness of the Lord our God be upon us, and prosper for us the works of our hands."
+
+psMA.holythursday.aposverse.v1.info = ps_en_US_saas.psa40.v10.number
+psMA.holythursday.aposverse.v1.text = "He who ate my bread, dealt deceptively with me."
+psMA.holythursday.aposverse.v2.info = ps_en_US_saas.psa40.v7.number
+psMA.holythursday.aposverse.v2.text = "He went forth and spoke the same. All my enemies whisper together against me; against me they devise evils for me."
+psMA.holythursday.aposverse.v3.info = ps_en_US_saas.psa40.v9.number
+psMA.holythursday.aposverse.v3.text = "They testify a lawless word against me, \"Since he is asleep, will he rise up again?\""
+
+psMA.holyfriday.aposverse.v1.info = ps_en_US_saas.psa21.v19.number
+psMA.holyfriday.aposverse.v1.text = "They divided my garments among themselves, and for my clothing they cast lots."
+psMA.holyfriday.aposverse.v2.info = ps_en_US_saas.psa68.v22.number
+psMA.holyfriday.aposverse.v2.text = "They gave me gall for my food, and they gave me vinegar for my drink."
+psMA.holyfriday.aposverse.v3.info = ps_en_US_saas.psa73.v12.number
+psMA.holyfriday.aposverse.v3.text = "God is our King before the ages; He worked salvation in the midst of the earth."
 
 psMA.weekday.end.v1.info = ps_en_US_saas.psa91.v2.number
 psMA.weekday.end.v1.text = "It is good to give thanks to the Lord and to sing to Your name, O Most High, to proclaim Your mercy in the morning and Your truth at night."
@@ -1537,6 +1715,10 @@ psLI.weekday.d3.communion.title = "Psalm 111."
 psLI.weekday.d3.communion.v1.info = ps_en_US_saas.psa111.v6.number
 psLI.weekday.d3.communion.v1.text = "A righteous man shall be in everlasting remembrance."
 
+//psLI.weekday.d4.prokeimenon.v1.info = ps_en_US_saas.bode9_mag.v1.number
+//psLI.weekday.d4.prokeimenon.v1.text = ""
+//psLI.weekday.d4.prokeimenon.v2.info = ps_en_US_saas.bode9_mag.v2.number
+//psLI.weekday.d4.prokeimenon.v2.text = ""
 psLI.weekday.d4.alleluia.title = "Psalm 131."
 psLI.weekday.d4.alleluia.v1.info = ps_en_US_saas.psa131.v8.number
 psLI.weekday.d4.alleluia.v1.text = "Arise, O Lord, into Your rest, You and the ark of Your holiness."
@@ -2139,6 +2321,14 @@ psHO.ecloge.forerunner.v15.info = ps_en_US_saas.psa108.v24.number
 psHO.ecloge.forerunner.v15.text = "My knees were weak from fasting, and my flesh was changed because of the oil."
 psHO.ecloge.forerunner.v16.info = ps_en_US_saas.psa14.v2.number
 psHO.ecloge.forerunner.v16.text = "He who walks blamelessly, and works righteousness."
+//psHO.ecloge.forerunner.v17.info = ps_en_US_saas.bode9.v8.number
+//psHO.ecloge.forerunner.v17.text = ""
+//psHO.ecloge.forerunner.v18.info = ps_en_US_saas.bode9.v8.number
+//psHO.ecloge.forerunner.v18.text = ""
+//psHO.ecloge.forerunner.v19.info = ps_en_US_saas.bode9.v9.number
+//psHO.ecloge.forerunner.v19.text = ""
+//psHO.ecloge.forerunner.v20.info = ps_en_US_saas.bode9.v9.number
+//psHO.ecloge.forerunner.v20.text = ""
 psHO.ecloge.forerunner.v21.info = ps_en_US_saas.psa16.v4.number
 psHO.ecloge.forerunner.v21.text = "I held to hard ways because of the words of Your lips."
 psHO.ecloge.forerunner.v22.info = ps_en_US_saas.psa39.v11.number
@@ -2848,6 +3038,8 @@ psEU.funeral.stanza3.v6.text = "My soul shall live and praise You, and Your judg
 psEU.funeral.stanza3.v7.info = ps_en_US_saas.psa118.v176.number
 psEU.funeral.stanza3.v7.text = "I went astray like a lost sheep; seek Your servant, for I have not forgotten Your commandments."
 psEU.funeral.prokeimenon.title = "Psalm  27."
+//psEU.funeral.prokeimenon.v1.info = ""
+//psEU.funeral.prokeimenon.v1.text = "
 psEU.funeral.prokeimenon.v2.info = ps_en_US_saas.psa27.v1.number
 psEU.funeral.prokeimenon.v2.text = "To You, O Lord, I cry; O my God, may You not pass over me in silence; may You never be silent to me, else I would become like those who go down into the pit."
 psEU.funeral.casket.v1.info = ps_en_US_saas.psa50.v9.number
