@@ -1,5 +1,9 @@
 A_Resource_Whose_Name = menaion.verses_en_US_nkjv 
 
+psVE.m02.d02.aposverse.v1.info = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.chapverse
+psVE.m02.d02.aposverse.v1.text = "Lord, now You are letting Your servant depart in peace, according to Your word; for my eyes have seen Your salvation which You have prepared before the face of all peoples."
+psVE.m02.d02.aposverse.v2.info = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.chapverse
+psVE.m02.d02.aposverse.v2.text = "A light to bring revelation to the Gentiles, and the glory of Your people Israel."
 psLI.m02.d02.alleluia.title = "Luke 2."
 psLI.m02.d02.alleluia.v1.info = le.go.os_en_US_nkjv.leosVE.Prayer_NynApolyeis.chapverse //"Luke 2:29-31"
 psLI.m02.d02.alleluia.v1.text = "Lord, now You are letting Your servant depart in peace, according to Your word; for my eyes have seen Your salvation which You have prepared before the face of all peoples."

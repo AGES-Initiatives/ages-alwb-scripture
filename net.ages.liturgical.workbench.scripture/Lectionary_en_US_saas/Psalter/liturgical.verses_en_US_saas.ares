@@ -191,11 +191,11 @@ psVE.angels.aposverse.v1.text = "He makes His angels spirits and His ministers a
 psVE.angels.aposverse.v2.info = ps_en_US_saas.psa103.v1.number
 psVE.angels.aposverse.v2.text = "Bless the Lord, O my soul. O Lord my God, You are magnified exceedingly."
 
-psVE.annunciation.aposverse.v1.info = ps_en_US_saas.psa95.v2.number
-psVE.annunciation.aposverse.v1.text = "Proclaim from day to day the salvation of our God."
-psVE.annunciation.aposverse.v2.info = ps_en_US_saas.psa95.v1.number
-psVE.annunciation.aposverse.v2.text = "Oh, sing a new song to the Lord, sing to the Lord, all the earth."
-
+//psVE.annunciation.aposverse.v1.info = ps_en_US_saas.psa95.v2.number
+//psVE.annunciation.aposverse.v1.text = "Proclaim from day to day the salvation of our God."
+//psVE.annunciation.aposverse.v2.info = ps_en_US_saas.psa95.v1.number
+//psVE.annunciation.aposverse.v2.text = "Oh, sing a new song to the Lord, sing to the Lord, all the earth."
+//
 psVE.apostle.aposverse.v1.info = ps_en_US_saas.psa18.v5.number
 psVE.apostle.aposverse.v1.text = "His proclamation went forth into all the earth, and his words to the ends of the world."
 psVE.apostle.aposverse.v2.info = ps_en_US_saas.psa18.v2.number
@@ -211,21 +211,21 @@ psVE.blindman.aposverse.v1.text = "Look upon me and have mercy on me."
 psVE.blindman.aposverse.v2.info = ps_en_US_saas.psa118.v133.number
 psVE.blindman.aposverse.v2.text = "Direct my steps according to Your teaching."
 
-psVE.christmas.aposverse.v1.info = ps_en_US_saas.psa109.v1.number
-psVE.christmas.aposverse.v1.text = "The Lord said to my Lord: \"Sit at My right hand, until I make your enemies the footstool of Your feet.\""
-psVE.christmas.aposverse.v2.info = ps_en_US_saas.psa109.v3.number
-psVE.christmas.aposverse.v2.text = "I have begotten You from the womb before the morning star. The Lord swore and will not repent."
-
-psVE.conceptionofanne.aposverse.v1.info = ps_en_US_saas.psa131.v11.number
-psVE.conceptionofanne.aposverse.v1.text = "The Lord swore to David this truth, and He shall not reject it."
-psVE.conceptionofanne.aposverse.v2.info = ps_en_US_saas.psa131.v11.number
-psVE.conceptionofanne.aposverse.v2.text = "I shall set upon your throne one from the fruit of your loins."
-
-psVE.consecration.aposverse.v1.info = ps_en_US_saas.psa25.v8.number
-psVE.consecration.aposverse.v1.text = "O Lord, I love the beauty of Your house, and the place where Your glory dwells."
-psVE.consecration.aposverse.v2.info = ps_en_US_saas.psa92.v5.number
-psVE.consecration.aposverse.v2.text = "Holiness is proper to Your house, O Lord, unto length of days."
-
+//psVE.christmas.aposverse.v1.info = ps_en_US_saas.psa109.v1.number
+//psVE.christmas.aposverse.v1.text = "The Lord said to my Lord: \"Sit at My right hand, until I make your enemies the footstool of Your feet.\""
+//psVE.christmas.aposverse.v2.info = ps_en_US_saas.psa109.v3.number
+//psVE.christmas.aposverse.v2.text = "I have begotten You from the womb before the morning star. The Lord swore and will not repent."
+//
+//psVE.conceptionofanne.aposverse.v1.info = ps_en_US_saas.psa131.v11.number
+//psVE.conceptionofanne.aposverse.v1.text = "The Lord swore to David this truth, and He shall not reject it."
+//psVE.conceptionofanne.aposverse.v2.info = ps_en_US_saas.psa131.v11.number
+//psVE.conceptionofanne.aposverse.v2.text = "I shall set upon your throne one from the fruit of your loins."
+//
+//psVE.consecration.aposverse.v1.info = ps_en_US_saas.psa25.v8.number
+//psVE.consecration.aposverse.v1.text = "O Lord, I love the beauty of Your house, and the place where Your glory dwells."
+//psVE.consecration.aposverse.v2.info = ps_en_US_saas.psa92.v5.number
+//psVE.consecration.aposverse.v2.text = "Holiness is proper to Your house, O Lord, unto length of days."
+//
 psVE.cross.aposverse.v1.info = ps_en_US_saas.psa98.v5.number
 psVE.cross.aposverse.v1.text = "Exalt the Lord our God, and worship at the footstool of His feet; for He is holy."
 psVE.cross.aposverse.v2.info = ps_en_US_saas.psa73.v12.number
@@ -247,40 +247,40 @@ psVE.devoutmen.aposverse.v3.text = "What shall we give back to the Lord for all 
 psVE.devoutmen.aposverse.v4.info = ps_en_US_saas.psa149.v5.number
 psVE.devoutmen.aposverse.v4.text = "The holy ones shall boast in glory, and they shall greatly rejoice on their beds."
 
-psVE.dormition.aposverse.v1.info = ps_en_US_saas.psa131.v8.number
-psVE.dormition.aposverse.v1.text = "Arise, O Lord, into Your rest, You and the ark of Your holiness."
-psVE.dormition.aposverse.v2.info = ps_en_US_saas.psa131.v11.number
-psVE.dormition.aposverse.v2.text = "The Lord swore to David this truth, and He shall not reject it, \"I shall set upon your throne one from the fruit of your loins.\""
-
-psVE.earthquake.aposverse.v1.info = ps_en_US_saas.psa59.v4.number
-psVE.earthquake.aposverse.v1.text = "You made the earth quake, and You troubled it; repair its ruins, for it was shaken."
-psVE.earthquake.aposverse.v2.info = ps_en_US_saas.psa103.v32.number
-psVE.earthquake.aposverse.v2.text = "He looks upon the earth and makes it tremble; He touches the mountains, and they smoke."
-
-psVE.entry.aposverse.v1.info = ps_en_US_saas.psa44.v15.number
-psVE.entry.aposverse.v1.text = "The virgins behind her shall be brought to the King; her neighbors shall be brought to You."
-psVE.entry.aposverse.v2.info = ps_en_US_saas.psa44.v16.number
-psVE.entry.aposverse.v2.text = "They shall be brought with gladness and rejoicing; they shall be led into the temple of the King."
-
-psVE.epiphany.aposverse.v1.info = ps_en_US_saas.psa113.v3.number
-psVE.epiphany.aposverse.v1.text = "The sea saw them and fled, the Jordan turned back."
-psVE.epiphany.aposverse.v2.info = ps_en_US_saas.psa113.v5.number
-psVE.epiphany.aposverse.v2.text = "What is it to you, O Sea, that you fled, and to you, O Jordan, that you turned back?"
-psVE.epiphany.aposverse.v3.info = ps_en_US_saas.psa41.v7.number
-psVE.epiphany.aposverse.v3.text = "Therefore I will remember You from the land of the Jordan and Hermon."
-psVE.epiphany.aposverse.v4.info = ps_en_US_saas.psa76.v17.number
-psVE.epiphany.aposverse.v4.text = "The waters saw You, O God; the waters saw You and were afraid."
-
-psVE.equaltoapostles.aposverse.v1.info = ps_en_US_saas.psa88.v20.number
-psVE.equaltoapostles.aposverse.v1.text = "I raised up a chosen one from My people. I found David My servant; I anointed him with My holy oil."
-psVE.equaltoapostles.aposverse.v2.info = ps_en_US_saas.psa44.v8.number
-psVE.equaltoapostles.aposverse.v2.text = "Therefore God, Your God, anointed You with the oil of gladness."
-
-psVE.forefathers.aposverse.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.text
-psVE.forefathers.aposverse.v1.text = "Blessed are You, O Lord God of our fathers, for You are praiseworthy and exalted beyond measure unto the ages."
-psVE.forefathers.aposverse.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenonVerse.text
-psVE.forefathers.aposverse.v2.text = "For You are righteous in all You did for us."
-
+//psVE.dormition.aposverse.v1.info = ps_en_US_saas.psa131.v8.number
+//psVE.dormition.aposverse.v1.text = "Arise, O Lord, into Your rest, You and the ark of Your holiness."
+//psVE.dormition.aposverse.v2.info = ps_en_US_saas.psa131.v11.number
+//psVE.dormition.aposverse.v2.text = "The Lord swore to David this truth, and He shall not reject it, \"I shall set upon your throne one from the fruit of your loins.\""
+//
+//psVE.earthquake.aposverse.v1.info = ps_en_US_saas.psa59.v4.number
+//psVE.earthquake.aposverse.v1.text = "You made the earth quake, and You troubled it; repair its ruins, for it was shaken."
+//psVE.earthquake.aposverse.v2.info = ps_en_US_saas.psa103.v32.number
+//psVE.earthquake.aposverse.v2.text = "He looks upon the earth and makes it tremble; He touches the mountains, and they smoke."
+//
+//psVE.entry.aposverse.v1.info = ps_en_US_saas.psa44.v15.number
+//psVE.entry.aposverse.v1.text = "The virgins behind her shall be brought to the King; her neighbors shall be brought to You."
+//psVE.entry.aposverse.v2.info = ps_en_US_saas.psa44.v16.number
+//psVE.entry.aposverse.v2.text = "They shall be brought with gladness and rejoicing; they shall be led into the temple of the King."
+//
+//psVE.epiphany.aposverse.v1.info = ps_en_US_saas.psa113.v3.number
+//psVE.epiphany.aposverse.v1.text = "The sea saw them and fled, the Jordan turned back."
+//psVE.epiphany.aposverse.v2.info = ps_en_US_saas.psa113.v5.number
+//psVE.epiphany.aposverse.v2.text = "What is it to you, O Sea, that you fled, and to you, O Jordan, that you turned back?"
+//psVE.epiphany.aposverse.v3.info = ps_en_US_saas.psa41.v7.number
+//psVE.epiphany.aposverse.v3.text = "Therefore I will remember You from the land of the Jordan and Hermon."
+//psVE.epiphany.aposverse.v4.info = ps_en_US_saas.psa76.v17.number
+//psVE.epiphany.aposverse.v4.text = "The waters saw You, O God; the waters saw You and were afraid."
+//
+//psVE.equaltoapostles.aposverse.v1.info = ps_en_US_saas.psa88.v20.number
+//psVE.equaltoapostles.aposverse.v1.text = "I raised up a chosen one from My people. I found David My servant; I anointed him with My holy oil."
+//psVE.equaltoapostles.aposverse.v2.info = ps_en_US_saas.psa44.v8.number
+//psVE.equaltoapostles.aposverse.v2.text = "Therefore God, Your God, anointed You with the oil of gladness."
+//
+//psVE.forefathers.aposverse.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.text
+//psVE.forefathers.aposverse.v1.text = "Blessed are You, O Lord God of our fathers, for You are praiseworthy and exalted beyond measure unto the ages."
+//psVE.forefathers.aposverse.v2.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenonVerse.text
+//psVE.forefathers.aposverse.v2.text = "For You are righteous in all You did for us."
+//
 psVE.forerunner.aposverse.v1.info = ps_en_US_saas.psa91.v13.number
 psVE.forerunner.aposverse.v1.text = "The righteous shall flourish like a palm tree; he shall be multiplied like the cedar in Lebanon."
 psVE.forerunner.aposverse.v2.info = ps_en_US_saas.psa63.v11.number
@@ -310,20 +310,19 @@ psVE.hierarchs.aposverse.v5.text = "The mouth of a righteous man distills wisdom
 psVE.hierarchs.aposverse.v6.info = ps_en_US_saas.psa115.v5.number
 psVE.hierarchs.aposverse.v6.text = "Precious in the sight of the Lord is the death of His holy one."
 
-psVE.indiction.aposverse.v1.info = ps_en_US_saas.psa64.v2.number
-psVE.indiction.aposverse.v1.text = "It is fitting to sing a hymn to You in Zion, O God, and a vow shall be rendered to You in Jerusalem."
-psVE.indiction.aposverse.v2.info = ps_en_US_saas.psa64.v5.number
-psVE.indiction.aposverse.v2.text = "We shall be filled with the good things of Your house."
-psVE.indiction.aposverse.v3.info = ps_en_US_saas.psa64.v12.number
-psVE.indiction.aposverse.v3.text = "Bless the crown of the year, O Lord, with Your goodness."
-
+//psVE.indiction.aposverse.v1.info = ps_en_US_saas.psa64.v2.number
+//psVE.indiction.aposverse.v1.text = "It is fitting to sing a hymn to You in Zion, O God, and a vow shall be rendered to You in Jerusalem."
+//psVE.indiction.aposverse.v2.info = ps_en_US_saas.psa64.v5.number
+//psVE.indiction.aposverse.v2.text = "We shall be filled with the good things of Your house."
+//psVE.indiction.aposverse.v3.info = ps_en_US_saas.psa64.v12.number
+//psVE.indiction.aposverse.v3.text = "Bless the crown of the year, O Lord, with Your goodness."
+//
 psVE.martyrs.aposverse.v1.info = ps_en_US_saas.psa67.v36.number
 psVE.martyrs.aposverse.v1.text = "God is wondrous in His saints, the God of Israel."
 psVE.martyrs.aposverse.v2.info = ps_en_US_saas.psa15.v3.number
 psVE.martyrs.aposverse.v2.text = "To the saints on His earth, in them the Lord magnified all His will."
 psVE.martyrs.aposverse.v3.info = ps_en_US_saas.psa39.v2.number
 psVE.martyrs.aposverse.v3.text = "I waited patiently for the Lord, and He heeded me; and He heard my supplication."
-
 
 psVE.oneapostle.aposverse.v1.info = ps_en_US_saas.psa18.v5.number
 psVE.oneapostle.aposverse.v1.text = "His proclamation went forth into all the earth, and his words to the ends of the world."
@@ -332,21 +331,16 @@ psVE.oneapostle.aposverse.v2.text = "The heavens declare the glory of God; the f
 psVE.oneapostle.aposverse.v3.info = ps_en_US_saas.psa18.v5.number
 psVE.oneapostle.aposverse.v3.text = "Her proclamation went forth into all the earth, and her words to the ends of the world."
 
-psVE.pentecost.aposverse.v1.info = ps_en_US_saas.psa50.v12.number
-psVE.pentecost.aposverse.v1.text = "Create in me a clean heart, O God, and renew a right spirit within me."
-psVE.pentecost.aposverse.v2.info = ps_en_US_saas.psa50.v13.number
-psVE.pentecost.aposverse.v2.text = "Do not cast me away from Your presence, and do not take Your Holy Spirit from me."
-
-psVE.prechristmas.aposverse.v1.info = ps_en_US_saas.bode4.v3.number
-psVE.prechristmas.aposverse.v1.text = "God will come from Teman, the Holy One from the mount of shaded leafy trees."
-psVE.prechristmas.aposverse.v2.info = ps_en_US_saas.bode4.v1.number
-psVE.prechristmas.aposverse.v2.text = "Lord, I have heard Your report and was afraid; I considered Your works and was greatly astonished."
-
-psVE.preepiphany.aposverse.v1.info = ps_en_US_saas.psa41.v7.number
-psVE.preepiphany.aposverse.v1.text = "Therefore I will remember You from the land of the Jordan and Hermon."
-psVE.preepiphany.aposverse.v2.info = ps_en_US_saas.psa76.v17.number
-psVE.preepiphany.aposverse.v2.text = "The waters saw You, O God; the waters saw You and were afraid."
-
+//psVE.prechristmas.aposverse.v1.info = ps_en_US_saas.bode4.v3.number
+//psVE.prechristmas.aposverse.v1.text = "God will come from Teman, the Holy One from the mount of shaded leafy trees."
+//psVE.prechristmas.aposverse.v2.info = ps_en_US_saas.bode4.v1.number
+//psVE.prechristmas.aposverse.v2.text = "Lord, I have heard Your report and was afraid; I considered Your works and was greatly astonished."
+//
+//psVE.preepiphany.aposverse.v1.info = ps_en_US_saas.psa41.v7.number
+//psVE.preepiphany.aposverse.v1.text = "Therefore I will remember You from the land of the Jordan and Hermon."
+//psVE.preepiphany.aposverse.v2.info = ps_en_US_saas.psa76.v17.number
+//psVE.preepiphany.aposverse.v2.text = "The waters saw You, O God; the waters saw You and were afraid."
+//
 psVE.prophets.aposverse.v1.info = ps_en_US_saas.psa104.v15.number
 psVE.prophets.aposverse.v1.text = "Do not touch My anointed ones, and do not act wickedly towards My prophets."
 psVE.prophets.aposverse.v2.info = ps_en_US_saas.psa109.v4.number
@@ -377,15 +371,15 @@ psVE.theotokosrobe.aposverse.v1.text = "Arise, O Lord, into Your rest, You and t
 psVE.theotokosrobe.aposverse.v2.info = ps_en_US_saas.psa44.v13.number
 psVE.theotokosrobe.aposverse.v2.text = "The rich among the people shall entreat your favor."
 
-psVE.transfiguration.aposverse.v1.info = ps_en_US_saas.psa88.v12.number
-psVE.transfiguration.aposverse.v1.text = "The heavens belong to You, and the earth is Yours."
-psVE.transfiguration.aposverse.v2.info = ps_en_US_saas.psa88.v13.number
-psVE.transfiguration.aposverse.v2.text = "Tabor and Hermon shall greatly rejoice in Your name."
-psVE.transfiguration.aposverse.v3.info = ps_en_US_saas.psa84.v11.number
-psVE.transfiguration.aposverse.v3.text = "Mercy and truth met together; righteousness and peace kissed each other."
-psVE.transfiguration.aposverse.v4.info = ps_en_US_saas.psa88.v16.number
-psVE.transfiguration.aposverse.v4.text = "We shall walk in the light of the glory of Your face, O Lord, forever."
-
+//psVE.transfiguration.aposverse.v1.info = ps_en_US_saas.psa88.v12.number
+//psVE.transfiguration.aposverse.v1.text = "The heavens belong to You, and the earth is Yours."
+//psVE.transfiguration.aposverse.v2.info = ps_en_US_saas.psa88.v13.number
+//psVE.transfiguration.aposverse.v2.text = "Tabor and Hermon shall greatly rejoice in Your name."
+//psVE.transfiguration.aposverse.v3.info = ps_en_US_saas.psa84.v11.number
+//psVE.transfiguration.aposverse.v3.text = "Mercy and truth met together; righteousness and peace kissed each other."
+//psVE.transfiguration.aposverse.v4.info = ps_en_US_saas.psa88.v16.number
+//psVE.transfiguration.aposverse.v4.text = "We shall walk in the light of the glory of Your face, O Lord, forever."
+//
 psVE.unmercenaries.aposverse.v1.info = ps_en_US_saas.psa15.v3.number
 psVE.unmercenaries.aposverse.v1.text = "To the saints on His earth, in them the Lord magnified all His will."
 psVE.unmercenaries.aposverse.v2.info = ps_en_US_saas.psa132.v1.number
@@ -637,12 +631,12 @@ psMA.angels.prokeimenon.v1.text = "He makes His angels spirits and His ministers
 psMA.angels.prokeimenon.v2.info = ps_en_US_saas.psa103.v1.number
 psMA.angels.prokeimenon.v2.text = "Bless the Lord, O my soul. O Lord my God, You are magnified exceedingly."
 
-psMA.annunciation.prokeimenon.title = "Psalm 95."
-psMA.annunciation.prokeimenon.v1.info = ps_en_US_saas.psa95.v2.number
-psMA.annunciation.prokeimenon.v1.text = "Proclaim from day to day the salvation of our God."
-psMA.annunciation.prokeimenon.v2.info = ps_en_US_saas.psa95.v1.number
-psMA.annunciation.prokeimenon.v2.text = "Oh, sing a new song to the Lord, sing to the Lord, all the earth."
-
+//psMA.annunciation.prokeimenon.title = "Psalm 95."
+//psMA.annunciation.prokeimenon.v1.info = ps_en_US_saas.psa95.v2.number
+//psMA.annunciation.prokeimenon.v1.text = "Proclaim from day to day the salvation of our God."
+//psMA.annunciation.prokeimenon.v2.info = ps_en_US_saas.psa95.v1.number
+//psMA.annunciation.prokeimenon.v2.text = "Oh, sing a new song to the Lord, sing to the Lord, all the earth."
+//
 psMA.apostle.prokeimenon.title = "Psalm 18."
 psMA.apostle.prokeimenon.v1.info = ps_en_US_saas.psa18.v5.number
 psMA.apostle.prokeimenon.v1.text = "His proclamation went forth into all the earth, and his words to the ends of the world."
@@ -655,43 +649,42 @@ psMA.apostles.prokeimenon.v1.text = "Their proclamation went forth into all the 
 psMA.apostles.prokeimenon.v2.info = ps_en_US_saas.psa18.v2.number
 psMA.apostles.prokeimenon.v2.text = "The heavens declare the glory of God; the firmament shows the creation of His hands."
 
-psMA.christmas.prokeimenon.title = "Psalm 109."
-psMA.christmas.prokeimenon.v1.info = ps_en_US_saas.psa109.v3.number
-psMA.christmas.prokeimenon.v1.text = "I have begotten You from the womb before the morning star. The Lord swore and will not repent."
-psMA.christmas.prokeimenon.v2.info = ps_en_US_saas.psa109.v1.number
-psMA.christmas.prokeimenon.v2.text = "The Lord said to my Lord: \"Sit at My right hand, until I make your enemies the footstool of Your feet.\""
-
+//psMA.christmas.prokeimenon.title = "Psalm 109."
+//psMA.christmas.prokeimenon.v1.info = ps_en_US_saas.psa109.v3.number
+//psMA.christmas.prokeimenon.v1.text = "I have begotten You from the womb before the morning star. The Lord swore and will not repent."
+//psMA.christmas.prokeimenon.v2.info = ps_en_US_saas.psa109.v1.number
+//psMA.christmas.prokeimenon.v2.text = "The Lord said to my Lord: \"Sit at My right hand, until I make your enemies the footstool of Your feet.\""
+//
 psMA.cross.prokeimenon.title = "Psalm 97."
 psMA.cross.prokeimenon.v1.info = ps_en_US_saas.psa97.v3.number
 psMA.cross.prokeimenon.v1.text = "All the ends of the earth saw the salvation of our God."
 psMA.cross.prokeimenon.v2.info = ps_en_US_saas.psa97.v1.number
 psMA.cross.prokeimenon.v2.text = "Sing a new song to the Lord, for He did wondrous things."
 
-psMA.dormition.prokeimenon.title = "Psalm 44."
-psMA.dormition.prokeimenon.v1.info = ps_en_US_saas.psa44.v18.number
-psMA.dormition.prokeimenon.v1.text = "I will remember your name from generation to generation."
-psMA.dormition.prokeimenon.v2.info = ps_en_US_saas.psa44.v11.number
-psMA.dormition.prokeimenon.v2.text = "Listen, O daughter, behold and incline your ear, and forget your people and your father's house. For the King desired your beauty."
-
-psMA.entry.prokeimenon.title = "Psalm 44."
-psMA.entry.prokeimenon.v1.info = ps_en_US_saas.psa44.v11.number
-psMA.entry.prokeimenon.v1.text = "Listen, O daughter, behold and incline your ear, and forget your people and your father's house. For the King desired your beauty."
-psMA.entry.prokeimenon.v2.info = ps_en_US_saas.psa44.v2.number
-psMA.entry.prokeimenon.v2.text = "My heart overflowed with a good word; I tell my works to the King."
-
-psMA.epiphany.prokeimenon.title = "Psalm 113."
-psMA.epiphany.prokeimenon.v1.info = ps_en_US_saas.psa113.v3.number
-psMA.epiphany.prokeimenon.v1.text = "The sea saw them and fled, the Jordan turned back."
-psMA.epiphany.prokeimenon.v2.info = ps_en_US_saas.psa113.v5.number
-psMA.epiphany.prokeimenon.v2.text = "What is it to you, O Sea, that you fled, and to you, O Jordan, that you turned back?"
-
-psMA.equaltoapostles.prokeimenon.title = "Psalms 88, 44."
-psMA.equaltoapostles.prokeimenon.v1.info = ps_en_US_saas.psa88.v20.number
-psMA.equaltoapostles.prokeimenon.v1.text = "I raised up a chosen one from My people. I found David My servant; I anointed him with My holy oil."
-psMA.equaltoapostles.prokeimenon.v2.info = ps_en_US_saas.psa44.v8.number
-psMA.equaltoapostles.prokeimenon.v2.text = "Therefore God, Your God, anointed You."
-
-
+//psMA.dormition.prokeimenon.title = "Psalm 44."
+//psMA.dormition.prokeimenon.v1.info = ps_en_US_saas.psa44.v18.number
+//psMA.dormition.prokeimenon.v1.text = "I will remember your name from generation to generation."
+//psMA.dormition.prokeimenon.v2.info = ps_en_US_saas.psa44.v11.number
+//psMA.dormition.prokeimenon.v2.text = "Listen, O daughter, behold and incline your ear, and forget your people and your father's house. For the King desired your beauty."
+//
+//psMA.entry.prokeimenon.title = "Psalm 44."
+//psMA.entry.prokeimenon.v1.info = ps_en_US_saas.psa44.v11.number
+//psMA.entry.prokeimenon.v1.text = "Listen, O daughter, behold and incline your ear, and forget your people and your father's house. For the King desired your beauty."
+//psMA.entry.prokeimenon.v2.info = ps_en_US_saas.psa44.v2.number
+//psMA.entry.prokeimenon.v2.text = "My heart overflowed with a good word; I tell my works to the King."
+//
+//psMA.epiphany.prokeimenon.title = "Psalm 113."
+//psMA.epiphany.prokeimenon.v1.info = ps_en_US_saas.psa113.v3.number
+//psMA.epiphany.prokeimenon.v1.text = "The sea saw them and fled, the Jordan turned back."
+//psMA.epiphany.prokeimenon.v2.info = ps_en_US_saas.psa113.v5.number
+//psMA.epiphany.prokeimenon.v2.text = "What is it to you, O Sea, that you fled, and to you, O Jordan, that you turned back?"
+//
+//psMA.equaltoapostles.prokeimenon.title = "Psalms 88, 44."
+//psMA.equaltoapostles.prokeimenon.v1.info = ps_en_US_saas.psa88.v20.number
+//psMA.equaltoapostles.prokeimenon.v1.text = "I raised up a chosen one from My people. I found David My servant; I anointed him with My holy oil."
+//psMA.equaltoapostles.prokeimenon.v2.info = ps_en_US_saas.psa44.v8.number
+//psMA.equaltoapostles.prokeimenon.v2.text = "Therefore God, Your God, anointed You."
+//
 psMA.forerunnerhead.prokeimenon.title = "Psalm 131."
 psMA.forerunnerhead.prokeimenon.v1.info = ps_en_US_saas.psa131.v17.number
 psMA.forerunnerhead.prokeimenon.v1.text = "There I shall cause to spring up a horn for David; there I prepared a lamp for my anointed."
@@ -722,12 +715,12 @@ psMA.holyprotection.prokeimenon.v1.text = "I will remember your name from genera
 psMA.holyprotection.prokeimenon.v2.info = ps_en_US_saas.psa60.v5.number
 psMA.holyprotection.prokeimenon.v2.text = "I will be covered with the shelter of Your wings."
 
-psMA.indiction.prokeimenon.title = "Psalm 146."
-psMA.indiction.prokeimenon.v1.info = ps_en_US_saas.psa146.v5.number
-psMA.indiction.prokeimenon.v1.text = "Great is our Lord, and great is His strength."
-psMA.indiction.prokeimenon.v2.info = ps_en_US_saas.psa146.v1.number
-psMA.indiction.prokeimenon.v2.text = "Praise the Lord, for a psalm is a good thing; let praise be sweet to our God."
-
+//psMA.indiction.prokeimenon.title = "Psalm 146."
+//psMA.indiction.prokeimenon.v1.info = ps_en_US_saas.psa146.v5.number
+//psMA.indiction.prokeimenon.v1.text = "Great is our Lord, and great is His strength."
+//psMA.indiction.prokeimenon.v2.info = ps_en_US_saas.psa146.v1.number
+//psMA.indiction.prokeimenon.v2.text = "Praise the Lord, for a psalm is a good thing; let praise be sweet to our God."
+//
 psMA.martyr1.prokeimenon.title = "Psalms 67, 15."
 psMA.martyr1.prokeimenon.v1.info = ps_en_US_saas.psa67.v36.number
 psMA.martyr1.prokeimenon.v1.text = "God is wondrous in His saints."
@@ -782,12 +775,12 @@ psMA.theotokos1.prokeimenon.v1.text = "I will remember your name from generation
 psMA.theotokos1.prokeimenon.v2.info = ps_en_US_saas.psa44.v2.number
 psMA.theotokos1.prokeimenon.v2.text = "My heart overflowed with a good word; I tell my works to the King."
 
-psMA.trasfiguration.prokeimenon.title = "Psalm 88."
-psMA.trasfiguration.prokeimenon.v1.info = ps_en_US_saas.psa88.v13.number
-psMA.trasfiguration.prokeimenon.v1.text = "Tabor and Hermon shall greatly rejoice in Your name."
-psMA.trasfiguration.prokeimenon.v2.info = ps_en_US_saas.psa88.v12.number
-psMA.trasfiguration.prokeimenon.v2.text = "The heavens belong to You, and the earth is Yours; You founded the world and all its fullness."
-
+//psMA.trasfiguration.prokeimenon.title = "Psalm 88."
+//psMA.trasfiguration.prokeimenon.v1.info = ps_en_US_saas.psa88.v13.number
+//psMA.trasfiguration.prokeimenon.v1.text = "Tabor and Hermon shall greatly rejoice in Your name."
+//psMA.trasfiguration.prokeimenon.v2.info = ps_en_US_saas.psa88.v12.number
+//psMA.trasfiguration.prokeimenon.v2.text = "The heavens belong to You, and the earth is Yours; You founded the world and all its fullness."
+//
 psMA.woman1.prokeimenon.title = "Psalm 39."
 psMA.woman1.prokeimenon.v1.info = ps_en_US_saas.psa39.v2.number
 psMA.woman1.prokeimenon.v1.text = "I waited patiently for the Lord, and He heeded me; and He heard my supplication."
