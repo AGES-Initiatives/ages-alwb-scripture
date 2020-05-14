@@ -1591,7 +1591,6 @@ psa44.v17.number = "(44:17 / rsv 45:16)"
 psa44.v17.text = "Instead of your fathers shall be your sons; you will make them princes in all the earth."
 psa44.v18.number = "(44:18 / rsv 45:17)"
 psa44.v18.text = "I will cause your name to be celebrated in all generations; therefore the peoples will praise you for ever and ever."
-psa44.v18.text = "I will cause your name to be celebrated in all generations; therefore the peoples will praise you for ever and ever."
 
 psa45.title = "Psalm 45"
 psa45.version = properties_en_US_rsv.version.designation

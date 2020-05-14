@@ -7,7 +7,6 @@ lemeMA.Gospel.book_string = le.go.me.m12.d05_en_US_rsv.lemeLI.Gospel.book_string
 lemeMA.Gospel.book_abbr = le.go.me.m12.d05_en_US_rsv.lemeLI.Gospel.book_abbr
 lemeMA.Gospel.chapverse = le.go.me.m12.d05_en_US_rsv.lemeLI.Gospel.chapverse
 lemeMA.Gospel.text = le.go.me.m12.d05_en_US_rsv.lemeLI.Gospel.text
-lemeLI.Gospel.pagenumber = ""
 
 lemeLI.Gospel.title = "For the Indiction."
 lemeLI.Gospel.title_abbr = "For the Indiction."

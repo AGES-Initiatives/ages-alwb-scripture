@@ -9,10 +9,10 @@ lemeLI.Epistle.chapverse = le.ep.me.m09.d08_en_US_eob.lemeLI.Epistle.chapverse
 lemeLI.Epistle.text = le.ep.me.m09.d08_en_US_eob.lemeLI.Epistle.text
 lemeLI.Epistle.pagenumber = ""
 
-lemeLI.Epistle.title = "For the Saint."
-lemeLI.Epistle.title_abbr = "For the Saint."
-lemeLI.Epistle.version = le.ep.mc.d351_en_US_eob.lemcLI.Epistle.version
-lemeLI.Epistle.book_string = le.ep.mc.d351_en_US_eob.lemcLI.Epistle.book_string
-lemeLI.Epistle.book_abbr = le.ep.mc.d351_en_US_eob.lemcLI.Epistle.book_abbr
-lemeLI.Epistle.chapverse = le.ep.mc.d351_en_US_eob.lemcLI.Epistle.chapverse
-lemeLI.Epistle.text = le.ep.mc.d351_en_US_eob.lemcLI.Epistle.text 
+lemeLI.Epistle2.title = "For the Saint."
+lemeLI.Epistle2.title_abbr = "For the Saint."
+lemeLI.Epistle2.version = le.ep.mc.d351_en_US_eob.lemcLI.Epistle.version
+lemeLI.Epistle2.book_string = le.ep.mc.d351_en_US_eob.lemcLI.Epistle.book_string
+lemeLI.Epistle2.book_abbr = le.ep.mc.d351_en_US_eob.lemcLI.Epistle.book_abbr
+lemeLI.Epistle2.chapverse = le.ep.mc.d351_en_US_eob.lemcLI.Epistle.chapverse
+lemeLI.Epistle2.text = le.ep.mc.d351_en_US_eob.lemcLI.Epistle.text 
