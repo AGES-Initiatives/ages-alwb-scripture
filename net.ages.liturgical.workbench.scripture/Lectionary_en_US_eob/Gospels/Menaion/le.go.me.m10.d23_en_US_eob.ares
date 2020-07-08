@@ -1,5 +1,13 @@
 A_Resource_Whose_Name = le.go.me.m10.d23_en_US_eob 
 
+lemeMA.Gospel.title = "For the Apostle."
+lemeMA.Gospel.title_abbr = "For the Apostle."
+lemeMA.Gospel.version = le.go.mc.d152_en_US_eob.lemcLI.Gospel.version
+lemeMA.Gospel.book_string = le.go.mc.d152_en_US_eob.lemcLI.Gospel.book_string
+lemeMA.Gospel.book_abbr = le.go.mc.d152_en_US_eob.lemcLI.Gospel.book_abbr
+lemeMA.Gospel.chapverse = le.go.mc.d152_en_US_eob.lemcLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.mc.d152_en_US_eob.lemcLI.Gospel.text
+
 lemeLI.Gospel.title = "For the Apostle."
 lemeLI.Gospel.title_abbr = "For the Apostle."
 lemeLI.Gospel.version = le.go.mc.d163_en_US_eob.lemcLI.Gospel.version
