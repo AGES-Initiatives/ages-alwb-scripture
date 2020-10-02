@@ -13,5 +13,6 @@ lemeLI.Epistle2.title = "For the Apostle."
 lemeLI.Epistle2.title_abbr = "For the Apostle."
 lemeLI.Epistle2.version = properties_en_US_eob.version.designation
 lemeLI.Epistle2.book_string = bible_en_US_eob.Acts.text
+lemeLI.Epistle2.book_abbr = bible_en_US_eob.Acts.abbr
 lemeLI.Epistle2.chapverse = "9:10-19"
 lemeLI.Epistle2.text = ""
