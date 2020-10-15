@@ -634,6 +634,8 @@ psLI.m05.d07.alleluia.v1.text = "Remember Your congregation You acquired from th
 psLI.m05.d07.alleluia.v2.info = ps_en_US_saas.psa73.v12.number
 psLI.m05.d07.alleluia.v2.text = "God is our King before the ages; He worked salvation in the midst of the earth."
 
+psMA.m05.d08.postgospelverse.v1.info = ps_en_US_saas.psa18.v5.number
+psMA.m05.d08.postgospelverse.v1.text = "His proclamation went forth into all the earth, and his words to the ends of the world."
 psLI.m05.d08.prokeimenon.title = "Psalm 18."
 psLI.m05.d08.prokeimenon.v1.info = ps_en_US_saas.psa18.v5.number
 psLI.m05.d08.prokeimenon.v1.text = "His proclamation went forth into all the earth."

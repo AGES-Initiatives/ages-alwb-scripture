@@ -641,6 +641,8 @@ psLI.m05.d07.alleluia.v1.text = ""
 psLI.m05.d07.alleluia.v2.info = ps_en_US_rsv.psa73.v12.number
 psLI.m05.d07.alleluia.v2.text = ""
 
+psMA.m05.d08.postgospelverse.v1.info = ps_en_US_rsv.psa18.v5.number
+psMA.m05.d08.postgospelverse.v1.text = ""
 psLI.m05.d08.prokeimenon.title = ""
 psLI.m05.d08.prokeimenon.v1.info = ps_en_US_rsv.psa18.v5.number
 psLI.m05.d08.prokeimenon.v1.text = ""
