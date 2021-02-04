@@ -23,7 +23,7 @@ leosLI.pe.d095.CommunionHymn.title_abbr = ""
 leosLI.pe.d095.CommunionHymn.version = ""
 leosLI.pe.d095.CommunionHymn.book_string = bible_en_US_nkjv.John.text
 leosLI.pe.d095.CommunionHymn.book_abbr = bible_en_US_nkjv.John.abbr
-leosLI.pe.d095.CommunionHymn.number = "6:56"
+leosLI.pe.d095.CommunionHymn.chapverse = "6:56"
 leosLI.pe.d095.CommunionHymn.text = "He who eats My flesh and drinks My blood abides in Me, and I in him. So said the Lord."
 
 leosTY.Beatitudes.title = ""
