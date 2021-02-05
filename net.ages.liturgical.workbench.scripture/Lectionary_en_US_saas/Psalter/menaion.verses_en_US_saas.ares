@@ -313,7 +313,6 @@ psLI.m01.d31.alleluia.v1.text = "Behold now, what is so good or so pleasant as f
 psLI.m01.d31.alleluia.v2.info = ps_en_US_saas.psa132.v3.number
 psLI.m01.d31.alleluia.v2.text = "For there the Lord commanded the blessing and life forever."
 
-
 //February
 
 psLI.m02.d01.prokeimenon.title = "Psalms 15, 67."
@@ -463,7 +462,6 @@ psLI.m02.d24.alleluia.v1.text = "The righteous shall flourish like a palm tree."
 psLI.m02.d24.alleluia.v2.info = ps_en_US_saas.psa91.v14.number
 psLI.m02.d24.alleluia.v2.text = "Those planted in the house of the Lord."
 
-
 //March
 
 psLI.m03.d09.prokeimenon.title = "Psalm 11."
@@ -549,7 +547,6 @@ psLI.m03.d30.alleluia.v1.text = "The righteous cried, and the Lord heard them."
 psLI.m03.d30.alleluia.v2.info = ps_en_US_saas.psa111.v1.number
 psLI.m03.d30.alleluia.v2.text = "Blessed is the man who fears the Lord."
 
-
 //April
 
 psLI.m04.d01.prokeimenon.title = "Psalm 67."
@@ -608,7 +605,6 @@ psLI.m04.d30.alleluia.v1.info = ps_en_US_saas.psa88.v6.number
 psLI.m04.d30.alleluia.v1.text = "The heavens shall confess Your wonders, O Lord."
 psLI.m04.d30.alleluia.v2.info = ps_en_US_saas.psa88.v8.number
 psLI.m04.d30.alleluia.v2.text = "God is glorified in the counsel of saints."
-
 
 //May
 
@@ -677,7 +673,6 @@ psLI.m05.d25.alleluia.v1.info = ps_en_US_saas.psa91.v13.number
 psLI.m05.d25.alleluia.v1.text = "The righteous shall flourish like a palm tree."
 psLI.m05.d25.alleluia.v2.info = ps_en_US_saas.psa91.v14.number
 psLI.m05.d25.alleluia.v2.text = "Those planted in the house of the Lord."
-
 
 //June
 
@@ -795,7 +790,6 @@ psLI.m06.d30.alleluia.v1.info = ps_en_US_saas.psa88.v6.number
 psLI.m06.d30.alleluia.v1.text = "The heavens shall confess Your wonders, O Lord."
 psLI.m06.d30.alleluia.v2.info = ps_en_US_saas.psa88.v8.number
 psLI.m06.d30.alleluia.v2.text = "God is glorified in the counsel of saints."
-
 
 //July
 
@@ -968,7 +962,6 @@ psLI.m07.d29.prokeimenon.v1.info = ps_en_US_saas.psa63.v11.number
 psLI.m07.d29.prokeimenon.v1.text = "The righteous man shall be glad in the Lord."
 psLI.m07.d29.prokeimenon.v2.info = ps_en_US_saas.psa63.v2.number
 psLI.m07.d29.prokeimenon.v2.text = "Hear my voice, O God."
-
 
 //August
 
@@ -1177,7 +1170,6 @@ psLI.m08.d31.alleluia.v1.info = ps_en_US_saas.psa131.v8.number
 psLI.m08.d31.alleluia.v1.text = "Arise, O Lord, into Your rest, You and the ark of Your holiness."
 psLI.m08.d31.alleluia.v2.info = ps_en_US_saas.psa44.v11.number
 psLI.m08.d31.alleluia.v2.text = "Listen, O daughter, behold and incline your ear, and forget your people and your father's house."
-
 
 //September
 
@@ -1579,7 +1571,6 @@ psLI.m09.d30.alleluia.v1.text = "O Lord, Your priests shall clothe themselves in
 psLI.m09.d30.alleluia.v2.info = ps_en_US_saas.psa131.v13.number
 psLI.m09.d30.alleluia.v2.text = "For the Lord has chosen Zion."
 
-
 //October
 
 //psLI.m10.d01.prokeimenon.v1.info = ps_en_US_saas.bode9_mag.v1.number
@@ -1784,7 +1775,6 @@ psLI.m10.d28.alleluia.v1.info = ps_en_US_saas.psa131.v8.number
 psLI.m10.d28.alleluia.v1.text = "Arise, O Lord, into Your rest, You and the ark of Your holiness."
 psLI.m10.d28.alleluia.v2.info = ps_en_US_saas.psa44.v11.number
 psLI.m10.d28.alleluia.v2.text = "Listen, O daughter, behold and incline your ear, and forget your people and your father's house."
-
 
 //November
 
@@ -1999,7 +1989,6 @@ psLI.m11.d30.alleluia.v1.info = ps_en_US_saas.psa88.v6.number
 psLI.m11.d30.alleluia.v1.text = "The heavens shall confess Your wonders, O Lord."
 psLI.m11.d30.alleluia.v2.info = ps_en_US_saas.psa88.v8.number
 psLI.m11.d30.alleluia.v2.text = "God is glorified in the counsel of saints."
-
 
 //December
 

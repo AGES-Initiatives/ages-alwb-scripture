@@ -728,7 +728,6 @@ psa22.v5.text = "Thou preparest a table before me in the presence of my enemies;
 psa22.v6.number = "(22:6 / rsv 23:6)"
 psa22.v6.text = "Surely goodness and mercy shall follow me all the days of my life; and I shall dwell in the house of the LORD for ever."
 
-
 psa23.title = "Psalm 23"
 psa23.version = properties_en_US_rsv.version.designation
 psa23.text = "The earth is the LORD's and the fullness thereof, the world and those who dwell therein; for he has founded it upon the seas, and established it upon the rivers. Who shall ascend the hill of the LORD? And who shall stand in his holy place? He who has clean hands and a pure heart, who does not lift up his soul to what is false, and does not swear deceitfully. He will receive blessing from the LORD, and vindication from the God of his salvation. Such is the generation of those who seek him, who seek the face of the God of Jacob. Lift up your heads, O gates! and be lifted up, O ancient doors! that the King of glory may come in. Who is the King of glory? The LORD, strong and mighty, the LORD, mighty in battle! Lift up your heads, O gates! and be lifted up, O ancient doors! that the King of glory may come in. Who is this King of glory? The LORD of hosts, he is the King of glory!"
@@ -802,7 +801,6 @@ psa24.v21.number = "(24:21 / rsv 25:21)"
 psa24.v21.text = "May integrity and uprightness preserve me, for I wait for thee."
 psa24.v22.number = "(24:22 / rsv 25:22)"
 psa24.v22.text = "Redeem Israel, O God, out of all his troubles."
-
 
 psa25.title = "Psalm 25"
 psa25.version = properties_en_US_rsv.version.designation
@@ -1645,7 +1643,6 @@ psa46.v9.number = "(46:9 / rsv 47:8)"
 psa46.v9.text = "God reigns over the nations; God sits on his holy throne."
 psa46.v10.number = "(46:10 / rsv 47:9)"
 psa46.v10.text = "The princes of the peoples gather as the people of the God of Abraham. For the shields of the earth belong to God; he is highly exalted!"
-
 
 psa47.title = "Psalm 47"
 psa47.version = properties_en_US_rsv.version.designation

@@ -626,7 +626,6 @@ psa13.v7b.number_net = "(14:7b)"
 psa13.v7b.number = "(13:7b)"
 psa13.v7b.text = "When the Lord restores the well-being of his people, may Jacob rejoice, may Israel be happy!"
 
-
 psa14.title = "Psalm 14"
 psa14.version = properties_en_US_net.version.designation
 psa14.text = "Lord, who may be a guest in your home? Who may live on your holy hill? Whoever lives a blameless life, does what is right, and speaks honestly. He does not slander, or do harm to others, or insult his neighbor. He despises a reprobate, but honors the Lord's loyal followers. He makes firm commitments and does not renege on his promise. He does not charge interest when he lends his money. He does not take bribes to testify against the innocent. The one who lives like this will never be upended."
@@ -987,7 +986,6 @@ psa18.v15b.number_net = "(19:14b)"
 psa18.v15b.number = "(18:15b)"
 psa18.v15b.text = "O Lord, my sheltering rock and my redeemer."
 
-
 psa19.title = "Psalm 19"
 psa19.version = properties_en_US_net.version.designation
 psa19.text = "May the Lord answer you when you are in trouble; may the God of Jacob make you secure! May he send you help from his temple; from Zion may he give you support! May he take notice of your offerings; may he accept your burnt sacrifice! May he grant your heart's desire; may he bring all your plans to pass! Then we will shout for joy over your victory; we will rejoice in the name of our God! May the Lord grant all your requests! Now I am sure that the Lord will deliver his chosen king; he will intervene for him from his holy heavenly temple, and display his mighty ability to deliver. Some trust in chariots and others in horses, but we depend on the Lord our God. They will fall down, but we will stand firm. The Lord will deliver the king; he will answer us when we call to him for help!"
@@ -1334,7 +1332,6 @@ psa24.v22.number_net = "(25:22)"
 psa24.v22.number = "(24:22)"
 psa24.v22.text = "O God, rescue Israel from all their distress!"
 
-
 psa25.title = "Psalm 25"
 psa25.version = properties_en_US_net.version.designation
 psa25.text = "Vindicate me, O Lord, for I have integrity, and I trust in the Lord without wavering. Examine me, O Lord, and test me! Evaluate my inner thoughts and motives! For I am ever aware of your faithfulness, and your loyalty continually motivates me. I do not associate with deceitful men, or consort with those who are dishonest. I hate the mob of evil men, and do not associate with the wicked. I maintain a pure lifestyle, so I can appear before your altar, O Lord, to give you thanks, and to tell about all your amazing deeds. O Lord, I love the temple where you live, the place where your splendor is revealed. Do not sweep me away with sinners, or execute me along with violent people, who are always ready to do wrong or offer a bribe. But I have integrity! Rescue me and have mercy on me! I am safe, and among the worshipers I will praise the Lord."
@@ -1374,7 +1371,6 @@ psa25.v11.text = "But I have integrity! Rescue me and have mercy on me!"
 psa25.v12.number_net = "(26:12)"
 psa25.v12.number = "(25:12)"
 psa25.v12.text = "I am safe, and among the worshipers I will praise the Lord."
-
 
 psa26.title = "Psalm 26"
 psa26.version = properties_en_US_net.version.designation
@@ -9688,7 +9684,6 @@ psa151.v6.text = ""
 psa151.v7.number_net = ""
 psa151.v7.number = "(151:7)"
 psa151.v7.text = ""
-
 
 bode.title = ""
 bode.version = properties_en_US_net.version.designation

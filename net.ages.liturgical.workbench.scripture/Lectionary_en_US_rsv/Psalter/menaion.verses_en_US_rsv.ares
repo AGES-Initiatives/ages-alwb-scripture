@@ -313,7 +313,6 @@ psLI.m01.d31.alleluia.v1.text = ""
 psLI.m01.d31.alleluia.v2.info = ps_en_US_rsv.psa132.v3.number
 psLI.m01.d31.alleluia.v2.text = ""
 
-
 //February
 
 psLI.m02.d01.prokeimenon.title = ""
@@ -469,7 +468,6 @@ psLI.m02.d24.alleluia.v1.text = ""
 psLI.m02.d24.alleluia.v2.info = ps_en_US_rsv.psa91.v14.number
 psLI.m02.d24.alleluia.v2.text = ""
 
-
 //March
 
 psLI.m03.d09.prokeimenon.title = ""
@@ -556,7 +554,6 @@ psLI.m03.d30.alleluia.v1.text = ""
 psLI.m03.d30.alleluia.v2.info = ps_en_US_rsv.psa111.v1.number
 psLI.m03.d30.alleluia.v2.text = ""
 
-
 //April
 
 psLI.m04.d01.prokeimenon.title = ""
@@ -615,7 +612,6 @@ psLI.m04.d30.alleluia.v1.info = ps_en_US_rsv.psa88.v6.number
 psLI.m04.d30.alleluia.v1.text = ""
 psLI.m04.d30.alleluia.v2.info = ps_en_US_rsv.psa88.v8.number
 psLI.m04.d30.alleluia.v2.text = ""
-
 
 //May
 
@@ -684,7 +680,6 @@ psLI.m05.d25.alleluia.v1.info = ps_en_US_rsv.psa91.v13.number
 psLI.m05.d25.alleluia.v1.text = ""
 psLI.m05.d25.alleluia.v2.info = ps_en_US_rsv.psa91.v14.number
 psLI.m05.d25.alleluia.v2.text = ""
-
 
 psLI.m06.d02.prokeimenon.title = ""
 psLI.m06.d02.prokeimenon.v1.info = ps_en_US_rsv.psa115.v5.number
@@ -801,7 +796,6 @@ psLI.m06.d30.alleluia.v1.info = ps_en_US_rsv.psa88.v6.number
 psLI.m06.d30.alleluia.v1.text = ""
 psLI.m06.d30.alleluia.v2.info = ps_en_US_rsv.psa88.v8.number
 psLI.m06.d30.alleluia.v2.text = ""
-
 
 //July
 
@@ -975,7 +969,6 @@ psLI.m07.d29.prokeimenon.v1.info = ps_en_US_rsv.psa63.v11.number
 psLI.m07.d29.prokeimenon.v1.text = ""
 psLI.m07.d29.prokeimenon.v2.info = ps_en_US_rsv.psa63.v2.number
 psLI.m07.d29.prokeimenon.v2.text = ""
-
 
 //August
 
@@ -1186,7 +1179,6 @@ psLI.m08.d31.alleluia.v1.info = ps_en_US_rsv.psa131.v8.number //"131:8"
 psLI.m08.d31.alleluia.v1.text = ""
 psLI.m08.d31.alleluia.v2.info = ps_en_US_rsv.psa44.v11.number //"44:11"
 psLI.m08.d31.alleluia.v2.text = ""
-
 
 //September
 
@@ -1595,7 +1587,6 @@ psLI.m09.d30.alleluia.v1.text = ""
 psLI.m09.d30.alleluia.v2.info = ps_en_US_rsv.psa131.v13.number
 psLI.m09.d30.alleluia.v2.text = ""
 
-
 //October
 
 psLI.m10.d01.prokeimenon.title = "Ode ix."
@@ -1802,7 +1793,6 @@ psLI.m10.d28.alleluia.v1.info = ps_en_US_rsv.psa131.v8.number
 psLI.m10.d28.alleluia.v1.text = ""
 psLI.m10.d28.alleluia.v2.info = ps_en_US_rsv.psa44.v11.number
 psLI.m10.d28.alleluia.v2.text = ""
-
 
 //November
 
@@ -2018,7 +2008,6 @@ psLI.m11.d30.alleluia.v1.info = ps_en_US_rsv.psa88.v6.number
 psLI.m11.d30.alleluia.v1.text = ""
 psLI.m11.d30.alleluia.v2.info = ps_en_US_rsv.psa88.v8.number
 psLI.m11.d30.alleluia.v2.text = ""
-
 
 //December
 
