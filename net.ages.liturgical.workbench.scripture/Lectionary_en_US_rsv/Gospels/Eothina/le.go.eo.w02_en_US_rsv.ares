@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.eo.w02_en_US_rsv
 
-leeoMA.Gospel.title = "2"
-leeoMA.Gospel.title_abbr = "2"
+leeoMA.Gospel.title = ""
+leeoMA.Gospel.title_abbr = ""
 leeoMA.Gospel.version = properties_en_US_rsv.version.designation
 leeoMA.Gospel.book_string = bible_en_US_rsv.Mark.text
 leeoMA.Gospel.book_abbr = bible_en_US_rsv.Mark.abbr

@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.eo.w06_en_US_eob
 
-leeoMA.Gospel.title = "6"
-leeoMA.Gospel.title_abbr = "6"
+leeoMA.Gospel.title = ""
+leeoMA.Gospel.title_abbr = ""
 leeoMA.Gospel.version = properties_en_US_eob.version.designation
 leeoMA.Gospel.book_string = bible_en_US_eob.Luke.text
 leeoMA.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
