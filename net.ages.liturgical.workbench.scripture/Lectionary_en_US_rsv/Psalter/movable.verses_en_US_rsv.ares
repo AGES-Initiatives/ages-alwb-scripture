@@ -1104,6 +1104,7 @@ psH9.tr.d069.prokeimenon.v2.text = ""
 
 psVE.tr.d070.prokeimenon1.title = ""
 psVE.tr.d070.prokeimenon1.v1.info = ps_en_US_rsv.psa21.v19.number
+psVE.tr.d070.prokeimenon1.v1.incipit = ""
 psVE.tr.d070.prokeimenon1.v1.text = ""
 psVE.tr.d070.prokeimenon1.v2.info = ps_en_US_rsv.psa21.v2.number
 psVE.tr.d070.prokeimenon1.v2.text = ""
@@ -1237,6 +1238,7 @@ psLI.pe.d073.alleluia.v2.text = ""
 
 psVE.pe.d074.prokeimenon.title = ""
 psVE.pe.d074.prokeimenon.v1.info = ps_en_US_rsv.psa76.v2.number
+psVE.pe.d074.prokeimenon.v1.incipit = ""
 psVE.pe.d074.prokeimenon.v1.text = ""
 psVE.pe.d074.prokeimenon.v2.info = ps_en_US_rsv.psa76.v3.number
 psVE.pe.d074.prokeimenon.v2.text = ""
@@ -1257,6 +1259,7 @@ psLI.pe.d074.alleluia.v2.text = "For he has regarded the low estate of his handm
 
 psVE.pe.d075.prokeimenon.title = ""
 psVE.pe.d075.prokeimenon.v1.info = ps_en_US_rsv.psa54.v2.number
+psVE.pe.d075.prokeimenon.v1.incipit = ""
 psVE.pe.d075.prokeimenon.v1.text = ""
 psVE.pe.d075.prokeimenon.v2.info = ps_en_US_rsv.psa54.v3.number
 psVE.pe.d075.prokeimenon.v2.text = ""
@@ -1277,6 +1280,7 @@ psLI.pe.d075.alleluia.v2.text = ""
 
 psVE.pe.d076.prokeimenon.title = ""
 psVE.pe.d076.prokeimenon.v1.info = ps_en_US_rsv.psa17.v2.number
+psVE.pe.d076.prokeimenon.v1.incipit = ""
 psVE.pe.d076.prokeimenon.v1.text = ""
 psVE.pe.d076.prokeimenon.v2.info = ps_en_US_rsv.psa17.v3.number
 psVE.pe.d076.prokeimenon.v2.text = ""

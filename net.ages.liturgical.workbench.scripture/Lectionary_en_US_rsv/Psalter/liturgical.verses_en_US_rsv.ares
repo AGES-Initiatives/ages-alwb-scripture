@@ -126,6 +126,7 @@ psVE.stichologia.v01.text = ""
 
 psVE.prokeimenon.sunday.title = ""
 psVE.prokeimenon.sunday.v1.info = ps_en_US_rsv.psa133.v1.number
+psVE.prokeimenon.sunday.v1.incipit = ""
 psVE.prokeimenon.sunday.v1.text = ""
 psVE.prokeimenon.sunday.v1a.text = ""
 psVE.prokeimenon.sunday.v1b.text = ""
@@ -134,36 +135,42 @@ psVE.prokeimenon.sunday.v2.text = ""
 
 psVE.prokeimenon.monday.title = ""
 psVE.prokeimenon.monday.v1.info = ps_en_US_rsv.psa4.v4.number
+psVE.prokeimenon.monday.v1.incipit = ""
 psVE.prokeimenon.monday.v1.text = ""
 psVE.prokeimenon.monday.v2.info = ps_en_US_rsv.psa4.v2.number
 psVE.prokeimenon.monday.v2.text = ""
 
 psVE.prokeimenon.tuesday.title = ""
 psVE.prokeimenon.tuesday.v1.info = ps_en_US_rsv.psa22.v6.number
+psVE.prokeimenon.tuesday.v1.incipit = ""
 psVE.prokeimenon.tuesday.v1.text = ""
 psVE.prokeimenon.tuesday.v2.info = ps_en_US_rsv.psa22.v1.number
 psVE.prokeimenon.tuesday.v2.text = ""
 
 psVE.prokeimenon.wednesday.title = ""
 psVE.prokeimenon.wednesday.v1.info = ps_en_US_rsv.psa53.v3.number
+psVE.prokeimenon.wednesday.v1.incipit = ""
 psVE.prokeimenon.wednesday.v1.text = ""
 psVE.prokeimenon.wednesday.v2.info = ps_en_US_rsv.psa53.v4.number
 psVE.prokeimenon.wednesday.v2.text = ""
 
 psVE.prokeimenon.thursday.title = ""
 psVE.prokeimenon.thursday.v1.info = ps_en_US_rsv.psa120.v2.number
+psVE.prokeimenon.thursday.v1.incipit = ""
 psVE.prokeimenon.thursday.v1.text = ""
 psVE.prokeimenon.thursday.v2.info = ps_en_US_rsv.psa120.v1.number
 psVE.prokeimenon.thursday.v2.text = ""
 
 psVE.prokeimenon.friday.title = ""
 psVE.prokeimenon.friday.v1.info = ps_en_US_rsv.psa58.v10.number
+psVE.prokeimenon.friday.v1.incipit = ""
 psVE.prokeimenon.friday.v1.text = ""
 psVE.prokeimenon.friday.v2.info = ps_en_US_rsv.psa58.v2.number
 psVE.prokeimenon.friday.v2.text = ""
 
 psVE.prokeimenon.saturday.title = ""
 psVE.prokeimenon.saturday.v1.info = ps_en_US_rsv.psa92.v1.number
+psVE.prokeimenon.saturday.v1.incipit = ""
 psVE.prokeimenon.saturday.v1.text = ""
 psVE.prokeimenon.saturday.v1a.text = ""
 psVE.prokeimenon.saturday.v1b.text = ""
@@ -174,6 +181,7 @@ psVE.prokeimenon.saturday.v3.text = ""
 
 psVE.prokeimenon.great1.title = ""
 psVE.prokeimenon.great1.v1.info = ps_en_US_rsv.psa76.v14.number
+psVE.prokeimenon.great1.v1.incipit = ""
 psVE.prokeimenon.great1.v1.text = ""
 psVE.prokeimenon.great1.v2.info = ps_en_US_rsv.psa76.v15.number
 psVE.prokeimenon.great1.v2.text = ""
@@ -184,6 +192,7 @@ psVE.prokeimenon.great1.v4.text = ""
 
 psVE.prokeimenon.great2.title = ""
 psVE.prokeimenon.great2.v1.info = ps_en_US_rsv.psa113.v11.number
+psVE.prokeimenon.great2.v1.incipit = ""
 psVE.prokeimenon.great2.v1.text = ""
 psVE.prokeimenon.great2.v2.info = ps_en_US_rsv.psa113.v1.number
 psVE.prokeimenon.great2.v2.text = ""
@@ -194,6 +203,7 @@ psVE.prokeimenon.great2.v4.text = ""
 
 psVE.prokeimenon.lent1.title = ""
 psVE.prokeimenon.lent1.v1.info = ps_en_US_rsv.psa68.v18.number
+psVE.prokeimenon.lent1.v1.incipit = ""
 psVE.prokeimenon.lent1.v1.text = ""
 psVE.prokeimenon.lent1.v2.info = ps_en_US_rsv.psa68.v30.number
 psVE.prokeimenon.lent1.v2.text = ""
@@ -202,6 +212,7 @@ psVE.prokeimenon.lent1.v3.text = ""
 
 psVE.prokeimenon.lent2.title = ""
 psVE.prokeimenon.lent2.v1.info = ps_en_US_rsv.psa60.v6.number
+psVE.prokeimenon.lent2.v1.incipit = ""
 psVE.prokeimenon.lent2.v1.text = ""
 psVE.prokeimenon.lent2.v2.info = ps_en_US_rsv.psa60.v3.number
 psVE.prokeimenon.lent2.v2.text = ""
@@ -360,6 +371,7 @@ psVE.saturday.aposverse.v3.info = ps_en_US_rsv.psa92.v5.number
 psVE.saturday.aposverse.v3.text = ""
 
 goVE.songofsymeon.v1.info = le.go.os_en_US_rsv.leosVE.Prayer_NynApolyeis.chapverse
+goVE.songofsymeon.v1.incipit = ""
 goVE.songofsymeon.v1.text = "Lord, now lettest thou thy servant depart in peace, according to thy word; for mine eyes have seen thy salvation which thou hast prepared in the presence of all peoples, a light for revelation to the Gentiles, and for glory to thy people Israel."
 goVE.songofsymeon.v1a.text = "Lord, now lettest thou thy servant depart in peace, according to thy word; for mine eyes have seen thy salvation which thou hast prepared in the presence of all peoples."
 goVE.songofsymeon.v1b.text = "A light for revelation to the Gentiles, and for glory to thy people Israel."

@@ -126,6 +126,7 @@ psVE.stichologia.v01.text = "For His mercy rules over us; and the truth of the L
 
 psVE.prokeimenon.sunday.title = "Psalm 133."
 psVE.prokeimenon.sunday.v1.info = ps_en_US_saas.psa133.v1.number
+psVE.prokeimenon.sunday.v1.incipit = "Behold now, bless the Lord"
 psVE.prokeimenon.sunday.v1.text = "Behold now, bless the Lord, all you servants of the Lord."
 psVE.prokeimenon.sunday.v1a.text = "Behold now, bless the Lord,"
 psVE.prokeimenon.sunday.v1b.text = "all you servants of the Lord."
@@ -134,36 +135,42 @@ psVE.prokeimenon.sunday.v2.text = "Who stand in the house of the Lord, in the co
 
 psVE.prokeimenon.monday.title = "Psalm 4."
 psVE.prokeimenon.monday.v1.info = ps_en_US_saas.psa4.v4.number
+psVE.prokeimenon.monday.v1.incipit = "The Lord will hear me"
 psVE.prokeimenon.monday.v1.text = "The Lord will hear me when I cry to Him."
 psVE.prokeimenon.monday.v2.info = ps_en_US_saas.psa4.v2.number
 psVE.prokeimenon.monday.v2.text = "You heard me when I called, O God of my righteousness. You strengthened my heart when I was in distress."
 
 psVE.prokeimenon.tuesday.title = "Psalm 22."
 psVE.prokeimenon.tuesday.v1.info = ps_en_US_saas.psa22.v6.number
+psVE.prokeimenon.tuesday.v1.incipit = "Your mercy, O Lord"
 psVE.prokeimenon.tuesday.v1.text = "Your mercy, O Lord, shall follow me all the days of my life."
 psVE.prokeimenon.tuesday.v2.info = ps_en_US_saas.psa22.v1.number
 psVE.prokeimenon.tuesday.v2.text = "The Lord is my shepherd; I shall not want. He makes me to lie down in green pastures."
 
 psVE.prokeimenon.wednesday.title = "Psalm 53."
 psVE.prokeimenon.wednesday.v1.info = ps_en_US_saas.psa53.v3.number
+psVE.prokeimenon.wednesday.v1.incipit = "Save me, O God"
 psVE.prokeimenon.wednesday.v1.text = "Save me, O God, in Your name, and judge me in Your power."
 psVE.prokeimenon.wednesday.v2.info = ps_en_US_saas.psa53.v4.number
 psVE.prokeimenon.wednesday.v2.text = "O God, hear my prayer; give ear to the words of my mouth."
 
 psVE.prokeimenon.thursday.title = "Psalm 120."
 psVE.prokeimenon.thursday.v1.info = ps_en_US_saas.psa120.v2.number
+psVE.prokeimenon.thursday.v1.incipit = "My help comes from the Lord"
 psVE.prokeimenon.thursday.v1.text = "My help comes from the Lord, who made heaven and earth."
 psVE.prokeimenon.thursday.v2.info = ps_en_US_saas.psa120.v1.number
 psVE.prokeimenon.thursday.v2.text = "I lifted my eyes to the mountains; from where shall my help come?"
 
 psVE.prokeimenon.friday.title = "Psalm 58."
 psVE.prokeimenon.friday.v1.info = ps_en_US_saas.psa58.v10.number
+psVE.prokeimenon.friday.v1.incipit = "You are my protector"
 psVE.prokeimenon.friday.v1.text = "You are my protector, O God. Your mercy shall go before me."
 psVE.prokeimenon.friday.v2.info = ps_en_US_saas.psa58.v2.number
 psVE.prokeimenon.friday.v2.text = "Rescue me from my enemies, O God, and redeem me from those who rise up against me."
 
 psVE.prokeimenon.saturday.title = "Psalm 92."
 psVE.prokeimenon.saturday.v1.info = ps_en_US_saas.psa92.v1.number
+psVE.prokeimenon.saturday.v1.incipit = "The Lord reigns"
 psVE.prokeimenon.saturday.v1.text = "The Lord reigns; He clothed Himself with majesty."
 psVE.prokeimenon.saturday.v1a.text = "The Lord reigns."
 psVE.prokeimenon.saturday.v1b.text = "He clothed Himself with majesty."
@@ -174,6 +181,7 @@ psVE.prokeimenon.saturday.v3.text = "And He established the world, which shall n
 
 psVE.prokeimenon.great1.title = "Psalm 76."
 psVE.prokeimenon.great1.v1.info = ps_en_US_saas.psa76.v14.number
+psVE.prokeimenon.great1.v1.incipit = "Who is so great"
 psVE.prokeimenon.great1.v1.text = "Who is so great a God as our God? You alone are the God who does wonders."
 psVE.prokeimenon.great1.v2.info = ps_en_US_saas.psa76.v15.number
 psVE.prokeimenon.great1.v2.text = "You made known Your power among the peoples."
@@ -184,6 +192,7 @@ psVE.prokeimenon.great1.v4.text = "I remembered the Lord's works, for I will rem
 
 psVE.prokeimenon.great2.title = "Psalm 113."
 psVE.prokeimenon.great2.v1.info = ps_en_US_saas.psa113.v11.number
+psVE.prokeimenon.great2.v1.incipit = "Our God is in heaven"
 psVE.prokeimenon.great2.v1.text = "Our God is in heaven and on earth, all things whatsoever He wills, He does."
 psVE.prokeimenon.great2.v2.info = ps_en_US_saas.psa113.v1.number
 psVE.prokeimenon.great2.v2.text = "In the exodus of Israel from Egypt, the house of Jacob from a foreign people."
@@ -194,6 +203,7 @@ psVE.prokeimenon.great2.v4.text = "What is it to you, O Sea, that you fled, and 
 
 psVE.prokeimenon.lent1.title = "Psalm 68."
 psVE.prokeimenon.lent1.v1.info = ps_en_US_saas.psa68.v18.number
+psVE.prokeimenon.lent1.v1.incipit = "Turn not Your face"
 psVE.prokeimenon.lent1.v1.text = "Turn not Your face from Your child, for I am afflicted; hear me speedily. Give heed to my soul and redeem it."
 psVE.prokeimenon.lent1.v2.info = ps_en_US_saas.psa68.v30.number
 psVE.prokeimenon.lent1.v2.text = "And the salvation of Your presence, O God, lays hold of me."
@@ -202,6 +212,7 @@ psVE.prokeimenon.lent1.v3.text = "Let the poor behold this, and be glad; seek Go
 
 psVE.prokeimenon.lent2.title = "Psalm 60."
 psVE.prokeimenon.lent2.v1.info = ps_en_US_saas.psa60.v6.number
+psVE.prokeimenon.lent2.v1.incipit = "You give an inheritance"
 psVE.prokeimenon.lent2.v1.text = "You give an inheritance to those who fear Your name."
 psVE.prokeimenon.lent2.v2.info = ps_en_US_saas.psa60.v3.number
 psVE.prokeimenon.lent2.v2.text = "From the end of the earth I cried out to You when my heart was discouraged; You lifted me high on a rock."
@@ -359,6 +370,7 @@ psVE.saturday.aposverse.v3.info = ps_en_US_saas.psa92.v5.number
 psVE.saturday.aposverse.v3.text = "Holiness is proper to Your house, O Lord, unto length of days."
 
 //goVE.songofsymeon.v1.info = //(Lk 2:29-32) le.go.os_en_US_saas.leosVE.Prayer_NynApolyeis.chapverse
+//goVE.songofsymeon.v1.incipit = ""
 //goVE.songofsymeon.v1.text = ""
 //goVE.songofsymeon.v1a.text = ""
 //goVE.songofsymeon.v1b.text = ""
