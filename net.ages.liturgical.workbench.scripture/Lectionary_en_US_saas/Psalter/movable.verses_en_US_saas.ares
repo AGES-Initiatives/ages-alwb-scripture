@@ -1104,7 +1104,7 @@ psH9.tr.d069.prokeimenon.v2.text = "There is none, not even one, who does good."
 
 psVE.tr.d070.prokeimenon1.title = "Psalm 21."
 psVE.tr.d070.prokeimenon1.v1.info = ps_en_US_saas.psa21.v19.number
-psVE.tr.d070.prokeimenon1.v1.incipit = "They divided my garments"
+psVE.tr.d070.prokeimenon1.v1.incipit = "They divided my garments…"
 psVE.tr.d070.prokeimenon1.v1.text = "They divided my garments among themselves, and for my clothing they cast lots."
 psVE.tr.d070.prokeimenon1.v2.info = ps_en_US_saas.psa21.v2.number
 psVE.tr.d070.prokeimenon1.v2.text = "O God, my God, hear me; why have You forsaken me?"
@@ -1237,7 +1237,7 @@ psLI.pe.d073.alleluia.v2.text = "The Lord swore to David this truth, and He shal
 
 psVE.pe.d074.prokeimenon.title = "Psalm 76."
 psVE.pe.d074.prokeimenon.v1.info = ps_en_US_saas.psa76.v2.number
-psVE.pe.d074.prokeimenon.v1.incipit = "With my voice I cried"
+psVE.pe.d074.prokeimenon.v1.incipit = "With my voice I cried…"
 psVE.pe.d074.prokeimenon.v1.text = "With my voice I cried to the Lord, with my voice to God, and He gave heed to me."
 psVE.pe.d074.prokeimenon.v2.info = ps_en_US_saas.psa76.v3.number
 psVE.pe.d074.prokeimenon.v2.text = "In the day of my affliction I sought out God."
@@ -1257,7 +1257,7 @@ psLI.pe.d074.prokeimenon.v2.text = "Listen, O daughter, behold and incline your 
 
 psVE.pe.d075.prokeimenon.title = "Psalm 54."
 psVE.pe.d075.prokeimenon.v1.info = ps_en_US_saas.psa54.v2.number
-psVE.pe.d075.prokeimenon.v1.incipit = "Give ear to my prayer"
+psVE.pe.d075.prokeimenon.v1.incipit = "Give ear to my prayer…"
 psVE.pe.d075.prokeimenon.v1.text = "Give ear to my prayer, O God, and do not despise my supplication."
 psVE.pe.d075.prokeimenon.v2.info = ps_en_US_saas.psa54.v3.number
 psVE.pe.d075.prokeimenon.v2.text = "Attend to me, and hear me."
@@ -1278,7 +1278,7 @@ psLI.pe.d075.alleluia.v2.text = "You loved righteousness and hated lawlessness."
 
 psVE.pe.d076.prokeimenon.title = "Psalm 17."
 psVE.pe.d076.prokeimenon.v1.info = ps_en_US_saas.psa17.v2.number
-psVE.pe.d076.prokeimenon.v1.incipit = "I will love You, O Lord"
+psVE.pe.d076.prokeimenon.v1.incipit = "I will love You, O Lord…"
 psVE.pe.d076.prokeimenon.v1.text = "I will love You, O Lord, my strength. The Lord is my foundation, my refuge, my deliverer."
 psVE.pe.d076.prokeimenon.v2.info = ps_en_US_saas.psa17.v3.number
 psVE.pe.d076.prokeimenon.v2.text = "My God is my helper, on Him I will hope."

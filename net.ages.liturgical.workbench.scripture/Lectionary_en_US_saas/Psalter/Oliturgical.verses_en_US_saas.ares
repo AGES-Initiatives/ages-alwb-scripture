@@ -977,7 +977,7 @@ psMA.gospelintro.v1a.text = "Let everything that breathes"
 psMA.gospelintro.v1b.text = "praise the Lord."
 
 psMA.ps50.intro.v1.info = ps_en_US_saas.psa85.v15.number
-psMA.ps50.intro.v1.text = "[Merciful,] "
+psMA.ps50.intro.v1.text = "[Merciful,]"
 psMA.ps50.end.v1.info = ps_en_US_saas.psa50.v21.number
 psMA.ps50.end.v1.text = "Then You will be pleased with a sacrifice of righteousness, with offerings and whole burnt offerings."
 psMA.ps50.end.v2.info = ps_en_US_saas.psa50.v21.number

@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d118_en_US_eob
 
-lemcLI.Gospel.title = "Seventh Friday after Pascha "
-lemcLI.Gospel.title_abbr = "Seventh Friday after Pascha "
+lemcLI.Gospel.title = "Seventh Friday after Pascha"
+lemcLI.Gospel.title_abbr = "Seventh Friday after Pascha"
 lemcLI.Gospel.version = ""
 lemcLI.Gospel.book_string = bible_en_US_eob.John.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
