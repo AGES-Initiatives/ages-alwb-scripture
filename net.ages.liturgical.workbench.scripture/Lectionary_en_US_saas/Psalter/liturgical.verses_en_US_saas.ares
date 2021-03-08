@@ -363,10 +363,13 @@ psVE.friday.aposverse.v3.info = ps_en_US_saas.psa64.v5.number
 psVE.friday.aposverse.v3.text = "Blessed are they whom You have chosen and received, O Lord. And their memorial abides from generation to generation."
 
 psVE.saturday.aposverse.v1.info = ps_en_US_saas.psa92.v1.number
+psVE.saturday.aposverse.v1.incipit = "The Lord reigns…"
 psVE.saturday.aposverse.v1.text = "The Lord reigns; He clothed Himself with majesty; the Lord clothed and girded Himself with power."
 psVE.saturday.aposverse.v2.info = ps_en_US_saas.psa92.v1.number
+psVE.saturday.aposverse.v2.incipit = "And He established…"
 psVE.saturday.aposverse.v2.text = "And He established the world, which shall not be moved."
 psVE.saturday.aposverse.v3.info = ps_en_US_saas.psa92.v5.number
+psVE.saturday.aposverse.v3.incipit = "Holiness is proper…"
 psVE.saturday.aposverse.v3.text = "Holiness is proper to Your house, O Lord, unto length of days."
 
 //goVE.songofsymeon.v1.info = //(Lk 2:29-32) le.go.os_en_US_saas.leosVE.Prayer_NynApolyeis.chapverse

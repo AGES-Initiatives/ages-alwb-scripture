@@ -364,10 +364,13 @@ psVE.friday.aposverse.v3.info = ps_en_US_rsv.psa64.v5.number
 psVE.friday.aposverse.v3.text = ""
 
 psVE.saturday.aposverse.v1.info = ps_en_US_rsv.psa92.v1.number
+psVE.saturday.aposverse.v1.incipit = ""
 psVE.saturday.aposverse.v1.text = ""
 psVE.saturday.aposverse.v2.info = ps_en_US_rsv.psa92.v1.number
+psVE.saturday.aposverse.v2.incipit = ""
 psVE.saturday.aposverse.v2.text = ""
 psVE.saturday.aposverse.v3.info = ps_en_US_rsv.psa92.v5.number
+psVE.saturday.aposverse.v3.incipit = ""
 psVE.saturday.aposverse.v3.text = ""
 
 goVE.songofsymeon.v1.info = le.go.os_en_US_rsv.leosVE.Prayer_NynApolyeis.chapverse
