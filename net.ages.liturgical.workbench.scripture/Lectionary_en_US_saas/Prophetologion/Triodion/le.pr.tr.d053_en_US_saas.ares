@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.pr.tr.d053_en_US_saas 
+A_Resource_Whose_Name = le.pr.tr.d053_en_US_saas
 
 lemcVE.reading1.title = ""
 lemcVE.reading1.title_abbr = ""
@@ -6,6 +6,7 @@ lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Genesis.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Genesis.abbr
 lemcVE.reading1.chapverse = "15:1-15"
+lemcVE.reading1.incipit = "The Word of the Lord came to Abram in…"
 lemcVE.reading1.text = "The Word of the Lord came to Abram in a vision, saying, “Do not be afraid, Abram. I am your shield and will be your exceedingly great reward.” But Abram said, “Lord, what will You give me, seeing I go childless, and the heir of my house is Eliezer of Damascus, the son of Masek, my domestic maidservant?” Then Abram said, “Look, You have given me no offspring; indeed, my household servant is my heir.” And immediately the Voice of the Lord came to him, saying, “This one shall not be your heir, but the One who will come from your own body shall be your heir.” Then He brought him outside and said to him, “Look now toward heaven, and count the stars if you are able to number them.” And He said to him, “So shall your seed be.” And Abram believed God, and He accounted it to him for righteousness. Then He said to him, “I am the God who brought you out of Ur of the Chaldeans, to give you this land to inherit it.” And he said, “Master and Lord, how will I know I will inherit it?” So He said to him, “Bring Me a three-year-old heifer, a three-year-old female goat, a three-year-old ram, a turtledove, and a young pigeon.” So he brought all these to Him and cut them in half, down the middle, and placed each piece opposite the other; but he did not cut the birds in two. And when the vultures came down on the carcasses, Abram drove them away. Now around sunset, a trance fell upon Abram; and behold, horror and great darkness fell upon him. Then He said to Abram, “Know for certain that your seed will be strangers in a land not their own, and will serve them; and they will afflict and humble them four hundred years. Also, the nation they serve I will judge; and afterward, they shall come out with great possessions. But as for you, you shall go to your fathers in peace, buried in a good old age.”"
 
 lemcVE.reading2.title = ""
@@ -14,6 +15,7 @@ lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr
 lemcVE.reading2.chapverse = "15:8-21"
+lemcVE.reading2.incipit = "The lips of the wise are bound by perception,…"
 lemcVE.reading2.text = "The lips of the wise are bound by perception, but the hearts of those without discernment are not safe. The sacrifices of the ungodly are an abomination to the Lord, but the prayers of the upright are acceptable with Him. The ways of the ungodly are an abomination to the Lord, but He loves those who pursue righteousness. The instruction of the simple is known by those who pass by, but those who hate reproofs will die shamefully. Hades and destruction are manifest before the Lord; how can the hearts of men not be also? An uninstructed man will not love those who reprove him, and he will not keep company with the wise. When one’s heart is glad, his face is cheerful, but when it is in grief, his face is sad. The upright heart seeks perception, but the mouth of the uninstructed will know evil things. The eyes of evil men are waiting for evil things all the time, but good men are at rest continually. Better is a small portion with the fear of the Lord than great treasures with lack of fear. Better is a dinner of herbs with friendship and grace than a fatted calf with hostility. An angry man stirs up contention, but a longsuffering man even calms the rising quarrel. A longsuffering man will extinguish condemnations, but the ungodly man stirs up more. The ways of idle men are strewn with thorny plants, but the thorny plants of the courageous are worn smooth."
 
 lemcTE.reading1.title = ""
@@ -22,5 +24,6 @@ lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr
 lemcTE.reading1.chapverse = "41:4-14"
+lemcTE.reading1.incipit = "Thus says the Lord: “I, God, am the first,…"
 lemcTE.reading1.text = "Thus says the Lord: “I, God, am the first, and into the future I Am. The Gentiles saw His righteousness and feared. The ends of the earth drew near and came together, each one judging for his neighbor, that he might help his brother. One will say, ‘The craftsman is strong, as is the metalworker who strikes with the hammer and forges at the same time.’ Sometimes one will say, ‘It is put together well, and they fastened it with nails. They arranged them, and they shall not be moved.’ But you, O Israel, are My servant, and Jacob, whom I chose, the seed of Abraham, whom I loved. I took you from the ends of the earth, and called you from its height. I said to you, ‘You are My servant. I chose you, and have not forsaken you. Fear not, for I am with you. Do not go astray, for I am your God who strengthens you; and I will help and secure you with My righteous right hand.’ Behold, all your adversaries shall be put to shame and disgraced. For they shall be as though they did not exist, and all who oppose you shall perish. You shall seek but not find the men who rage against you, for those who war against you shall be as though they did not exist. For I am your God who holds your right hand, saying to you, ‘Fear not.’ O Jacob, O Israel, few in number, I will help you, and I will redeem you, O Israel.”"
 

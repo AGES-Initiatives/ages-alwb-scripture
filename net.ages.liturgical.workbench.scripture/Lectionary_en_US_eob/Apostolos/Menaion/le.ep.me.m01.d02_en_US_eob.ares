@@ -6,5 +6,6 @@ lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book_string = bible_en_US_eob.Hebrews.text
 lemeLI.Epistle.book_abbr = bible_en_US_eob.Hebrews.abbr
 lemeLI.Epistle.chapverse = "5:4-10"
+lemeLI.Epistle.incipit = "Brethren, nobody assumes this honor by himself but one…"
 lemeLI.Epistle.text = "Brethren, nobody assumes this honor by himself but one is called by God, just as Aaron was. Likewise, Christ did not glorify himself to be made a high priest, but it was God who said to him: You are my Son: Today I have become your father. As he says also in another place: You are a priest forever, according to the order of Melchizedek. During his life on earth, Christ offered prayers and petitions with loud cries and tears to the one who could deliver him from death, and he was heard because of his godly fear. Although he was a Son, he learned obedience through suffering. Having been made perfect, he became to all those who obey him the cause of eternal salvation, appointed by God as a high priest according to the order of Melchizedek."
 lemeLI.Epistle.pagenumber = ""

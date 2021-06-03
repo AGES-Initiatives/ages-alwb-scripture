@@ -6,5 +6,6 @@ leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Mark.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
 leluLI.Gospel.chapverse = "11:27-33"
+leluLI.Gospel.incipit = "At that time, Jesus returned to Jerusalem, and as…"
 leluLI.Gospel.text = "At that time, Jesus returned to Jerusalem, and as he was walking in the temple, the chief priests, the scribes, and the presbyters came to him. And they said to him, “By what authority do you do these things, or who gave you the authority to do such things?” Jesus replied, “I also will ask you one question. Answer me, and I will tell you by what authority I do these things. The baptism of John—was it from heaven, or from men? Answer me.” They debated among themselves, saying, “If we say, ‘From heaven’ he will reply, ‘Why then did you not believe him?’ But dare we say, ‘From men?’” They feared the people, for all considered that John was a prophet. They answered Jesus, “We do not know!” Jesus answered and said to them, “Then neither do I tell you by what authority I do these things.”"
 leluLI.Gospel.pagenumber = ""

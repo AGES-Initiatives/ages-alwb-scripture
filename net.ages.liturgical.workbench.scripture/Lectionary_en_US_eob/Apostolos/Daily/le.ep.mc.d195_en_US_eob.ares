@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians2.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians2.abbr
 lemcLI.Epistle.chapverse = "4:13-18"
+lemcLI.Epistle.incipit = "Brethren, we have the same spirit of faith, according…"
 lemcLI.Epistle.text = "Brethren, we have the same spirit of faith, according to what is written, “I believed, and therefore I spoke.” We believe, and therefore we also speak; knowing that he who raised the Lord Jesus will also raise us with Jesus, and bring us with you into his presence. All these things are for your benefit, so that as grace is extended to many, this may also cause thanksgiving to be multiplied to the glory of God. Therefore, we do not lose heart, but even if outwardly we are decaying, yet the inner self is being renewed day by day. Indeed, the result is that our light affliction (which is temporary) is producing for us an ever-increasing standing in eternal glory! This is because we do not look at visible things but at invisible things, and the things which are seen are temporal, but the things which are not seen are eternal."
 lemcLI.Epistle.pagenumber = ""

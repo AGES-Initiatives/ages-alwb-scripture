@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.ep.me.m09.d24_en_US_rsv 
+A_Resource_Whose_Name = le.ep.me.m09.d24_en_US_rsv
 
 lemeLI.Epistle.title = "For the Theotokos."
 lemeLI.Epistle.title_abbr = "For the Theotokos."
@@ -6,6 +6,7 @@ lemeLI.Epistle.version = le.ep.me.m09.d08_en_US_rsv.lemeLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.me.m09.d08_en_US_rsv.lemeLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.me.m09.d08_en_US_rsv.lemeLI.Epistle.book_abbr
 lemeLI.Epistle.chapverse = le.ep.me.m09.d08_en_US_rsv.lemeLI.Epistle.chapverse
+lemeLI.Epistle.incipit = le.ep.me.m09.d08_en_US_rsv.lemeLI.Epistle.incipit
 lemeLI.Epistle.text = le.ep.me.m09.d08_en_US_rsv.lemeLI.Epistle.text
 lemeLI.Epistle.pagenumber = ""
 
@@ -15,4 +16,5 @@ lemeLI.Epistle2.version = le.ep.mc.d351_en_US_rsv.lemcLI.Epistle.version
 lemeLI.Epistle2.book_string = le.ep.mc.d351_en_US_rsv.lemcLI.Epistle.book_string
 lemeLI.Epistle2.book_abbr = le.ep.mc.d351_en_US_rsv.lemcLI.Epistle.book_abbr
 lemeLI.Epistle2.chapverse = le.ep.mc.d351_en_US_rsv.lemcLI.Epistle.chapverse
-lemeLI.Epistle2.text = le.ep.mc.d351_en_US_rsv.lemcLI.Epistle.text 
+lemeLI.Epistle2.incipit = le.ep.mc.d351_en_US_rsv.lemcLI.Epistle.incipit
+lemeLI.Epistle2.text = le.ep.mc.d351_en_US_rsv.lemcLI.Epistle.text

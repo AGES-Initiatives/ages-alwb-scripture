@@ -6,6 +6,7 @@ lemeLI.Gospel.version = properties_en_US_eob.version.designation
 lemeLI.Gospel.book_string = bible_en_US_eob.Luke.text
 lemeLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
 lemeLI.Gospel.chapverse = "12:8-12"
+lemeLI.Gospel.incipit = "The Lord said to his disciples: “I tell you,…"
 lemeLI.Gospel.text = "The Lord said to his disciples: “I tell you, whoever confesses me before men, the Son of Man will also acknowledge before the angels of God. But whoever denies me in the presence of men will be denied in the presence of the angels of God. Everyone who speaks a word against the Son of Man will be forgiven, but those who blaspheme against the Holy Spirit will not be forgiven. When you are brought before the synagogues, rulers, and authorities, do not be anxious about how you will defend yourselves or what you will say; for the Holy Spirit will teach you in that same hour what you must say.”"
 lemeLI.Gospel.pagenumber = ""
 

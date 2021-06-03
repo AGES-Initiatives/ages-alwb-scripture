@@ -6,5 +6,6 @@ lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
 lemcLI.Gospel.chapverse = "7:1-8"
+lemcLI.Gospel.incipit = "The Lord said: “Do not judge in order not…"
 lemcLI.Gospel.text = "The Lord said: “Do not judge in order not to be judged. For in the same way that you judge others, you will be judged, and with the measure that you use, it will be measured to you. Why do you see the speck that is in someone else’s eye but do not consider the beam that is in your own eye? How can you tell someone, ‘Let me remove the speck from your eye;’ and behold, there is a beam in your own eye? You hypocrite! First, remove the beam out of your own eye, and then you will be able to see clearly [so as] to remove the speck out of your brother’s eye. Do not give what is holy to the dogs and do not throw your pearls before pigs, for fear that they might trample them under their feet, and then turn [against you] and tear you to pieces. Ask, and it will be given to you! Seek, and you will find! Knock, and it will be opened for you! Indeed, everyone who asks receives. Whoever seeks finds! To the one who knocks, it will be opened.”"
 lemcLI.Gospel.pagenumber = ""

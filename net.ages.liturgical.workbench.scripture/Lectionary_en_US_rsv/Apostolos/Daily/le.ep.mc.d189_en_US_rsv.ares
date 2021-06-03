@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Romans.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Romans.abbr
 lemcLI.Epistle.chapverse = "15:30-33"
+lemcLI.Epistle.incipit = "Brethren, I appeal to you, by our Lord Jesus…"
 lemcLI.Epistle.text = "Brethren, I appeal to you, by our Lord Jesus Christ and by the love of the Spirit, to strive together with me in your prayers to God on my behalf, that I may be delivered from the unbelievers in Judea, and that my service for Jerusalem may be acceptable to the saints, so that by God's will I may come to you with joy and be refreshed in your company. The God of peace be with you all. Amen."
 lemcLI.Epistle.pagenumber = ""

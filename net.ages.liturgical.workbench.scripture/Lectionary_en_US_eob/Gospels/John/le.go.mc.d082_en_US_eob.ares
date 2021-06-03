@@ -6,5 +6,6 @@ lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.John.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
 lemcLI.Gospel.chapverse = "5:24-30"
+lemcLI.Gospel.incipit = "The Lord said to the Jews who had come…"
 lemcLI.Gospel.text = "The Lord said to the Jews who had come to him: “Amen, amen, I tell you; the one who hears my word and believes in him who sent me has eternal life and does not come into judgment, but has passed out of death into life.” “Amen, amen, I tell you; the hour is coming and now is, when the dead will hear the voice of the Son of God, and those who hear will come to life. For as the Father has life in himself, so has he given to the Son to have life in himself. He also gave him authority to execute judgment, because he is Son of Man. Do not be astonished at this, because the hour is coming when all who are in the tombs will hear his voice and come out; those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of judgment. I can do nothing of myself. As I hear, I judge, and my judgment is righteous because I do not seek my own will, but the will of the Father who sent me.”"
 lemcLI.Gospel.pagenumber = ""

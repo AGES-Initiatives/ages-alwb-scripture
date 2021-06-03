@@ -6,6 +6,7 @@ lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Genesis.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Genesis.abbr
 lemcVE.reading1.chapverse = "7:6-9"
+lemcVE.reading1.incipit = "Now Noah was six hundred years old when the…"
 lemcVE.reading1.text = "Now Noah was six hundred years old when the flood of waters came on the earth. Then Noah, with his sons, his wife, and his sons’ wives, entered the ark because of the flood waters. Also the clean and unclean birds, the clean and unclean cattle, and everything that creeps on the earth, entered with Noah into the ark, two by two, male and female, as God commanded him."
 
 lemcVE.reading2.title = ""
@@ -14,6 +15,7 @@ lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr
 lemcVE.reading2.chapverse = "9:12-25"
+lemcVE.reading2.incipit = "My son, if you become wise in yourself, you…"
 lemcVE.reading2.text = "My son, if you become wise in yourself, you shall also be wise toward your neighbor; but if you prove to be evil, you alone will go through troubles. He who supports himself with lies will shepherd winds and chase flying birds; for he abandoned the ways of his own vineyard and strayed from paths of his own farming; and he will pass through a waterless desert, a land assigned to drought, and he gathers barrenness with his hands. A woman in need of a morsel is without discernment and overbold; she has no sense of shame. She sits upon the doors of her own house, upon a seat openly in the streets, calling to those who pass by and who go straight along their paths, “He who is very lacking in discernment, let him turn aside to me; and he who is in need of discernment, I exhort, saying, ‘Grasp with pleasure the secret bread and the sweet water of theft.’ ” But he does not know that the inhabitants of the earth perish beside her, and he happens upon a snare of Hades. But hurry off, do not continue in that place, neither set your eye toward her; for so you shall pass through strange water and cross beyond a strange river; and keep away from strange water, and do not drink from a strange fountain; rhat you may live a long time and add years of life to yourself."
 
 lemcTE.reading1.title = ""
@@ -22,5 +24,6 @@ lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr
 lemcTE.reading1.chapverse = "11:10-12:2"
+lemcTE.reading1.incipit = "Thus says the Lord, “It shall come to pass…"
 lemcTE.reading1.text = "Thus says the Lord, “It shall come to pass in that day that there shall be a Root of Jesse who shall arise to rule nations. The Gentiles shall hope in Him, and His resting place shall be honorable.” It shall come to pass in that day that the Lord will show His hand again to be zealous for the remnant left of His people: left by the Assyrians and by Egypt, Babylon and Ethiopia, and by the Elamites, and from the rising of the sun, and out of Arabia. He shall set up a sign for the Gentiles and will assemble the lost ones of Israel. He shall gather together the dispersed of Judah, from the four corners of the earth. Also the envy of Ephraim shall depart, and the enemies of Judah shall be destroyed. Ephraim shall not envy Judah, and Judah shall not afflict Ephraim. But they shall spread sails on the ships of foreigners, and together they shall plunder the sea and the people of the East and Edom. They shall lay their hands first on Moab, but the sons of Ammon shall obey them first. The Lord shall make desolate the Sea of Egypt, and He will lay His hand on the river with a violent wind, and will strike the seven channels, that men might pass across it in sandals. “There shall be a highway for the remnant of My people in Egypt, and it will be for Israel as in the day he came out of the land of Egypt.” And in that day, you will say, “I will bless You, O Lord. Although You were angry with me, You turned away Your anger and had mercy on me. Behold, God is my Savior and Lord. I will trust in Him and be saved by Him. I will not be afraid, for the Lord is my glory and my praise. He has become my salvation.”"
 

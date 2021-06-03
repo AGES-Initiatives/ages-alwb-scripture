@@ -6,6 +6,7 @@ lemcVE.Epistle.version = properties_en_US_eob.version.designation
 lemcVE.Epistle.book_string = bible_en_US_eob.Romans.text
 lemcVE.Epistle.book_abbr = bible_en_US_eob.Romans.abbr
 lemcVE.Epistle.chapverse = "6:3-11"
+lemcVE.Epistle.incipit = "Brethren, all {of us} we who were baptized into…"
 lemcVE.Epistle.text = "Brethren, all {of us} we who were baptized into Christ Jesus were baptized into his death? And so, we were buried with him through baptism to death, so that just as Christ was raised from the dead by the glory of the Father, [likewise] we might also walk in newness of life. Truly, if we have become united with him in the likeness of his death, we will also be [united with him] by a resurrection like his. It means that we recognize this, that our old humanity was crucified with him, so that the body of sin might be done away with, and so that we would no longer be in bondage to sin. Whoever has died has been freed from sin! But if we have died with Christ, we believe that we will also live with him; knowing that Christ, being raised from the dead, dies no more. Death no longer has dominion over him! For the death that he died, he died to sin one time; but the life that he lives, he lives to God. Thus, consider yourselves to be dead as regards sin, but alive to God in Christ Jesus our Lord."
 lemcVE.Epistle.pagenumber = ""
 
@@ -15,6 +16,7 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Acts.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Acts.abbr
 lemcLI.Epistle.chapverse = "1:1-8"
+lemcLI.Epistle.incipit = "The first book I wrote, Theophilus, dealt with all…"
 lemcLI.Epistle.text = "The first book I wrote, Theophilus, dealt with all that Jesus did and taught from the beginning, until the day in which he was taken up, after giving instructions through the Holy Spirit to the apostles whom he had chosen. After he suffered, he also presented himself alive to them by many proofs, appearing to them over a period of forty days, and speaking about God’s Kingdom. Being assembled together with them, he commanded them, “Do not leave Jerusalem, but wait for the promise of the Father, which you heard from me. Indeed, John baptized in water, but not many days from now, you will be baptized in the Holy Spirit.” Therefore, when they had come together, they asked him, “Lord, are you now restoring the kingdom to Israel?” Jesus told them, “It is not for you to know the times or seasons which the Father has set by his own authority. However, you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth.”"
 lemcLI.Epistle.pagenumber = ""
 

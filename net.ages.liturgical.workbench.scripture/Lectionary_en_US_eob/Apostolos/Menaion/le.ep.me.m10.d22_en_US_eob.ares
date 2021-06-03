@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.ep.me.m10.d22_en_US_eob 
+A_Resource_Whose_Name = le.ep.me.m10.d22_en_US_eob
 
 lemeLI.Epistle.title = "For the Hierarch."
 lemeLI.Epistle.title_abbr = "For the Hierarch."
@@ -15,4 +15,4 @@ lemeLI.Epistle2.version = le.ep.mc.d127_en_US_eob.lemcLI.Epistle.version
 lemeLI.Epistle2.book_string = le.ep.mc.d127_en_US_eob.lemcLI.Epistle.book_string
 lemeLI.Epistle2.book_abbr = le.ep.mc.d127_en_US_eob.lemcLI.Epistle.book_abbr
 lemeLI.Epistle2.chapverse = le.ep.mc.d127_en_US_eob.lemcLI.Epistle.chapverse
-lemeLI.Epistle2.text = le.ep.mc.d127_en_US_eob.lemcLI.Epistle.text 
+lemeLI.Epistle2.text = le.ep.mc.d127_en_US_eob.lemcLI.Epistle.text

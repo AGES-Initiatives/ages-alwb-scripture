@@ -6,5 +6,6 @@ lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
 lemcLI.Gospel.chapverse = "7:15-21"
+lemcLI.Gospel.incipit = "The Lord said: “Beware of false prophets who come…"
 lemcLI.Gospel.text = "The Lord said: “Beware of false prophets who come to you in sheep’s clothing. Inwardly, they are ravenous wolves! You will recognize them by their fruits. Do you gather grapes from thorns, or figs from thistles? Likewise, every good tree produces good fruit, but the corrupt tree produces evil fruit. A good tree cannot produce evil fruit, and neither can a corrupt tree produce good fruit. Every tree that does not grow good fruit is cut down, and thrown into the fire. Therefore, by their fruits you will recognize them. It is not everyone who tells me, ‘Lord, Lord’ who will enter into the Kingdom of Heaven, but the one who does the will of my Father who is in heaven.”"
 lemcLI.Gospel.pagenumber = ""

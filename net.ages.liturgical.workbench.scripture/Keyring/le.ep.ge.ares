@@ -2,9 +2,10 @@ A_Resource_Whose_Name = le.ep.ge
 
 legeLI.Epistle.title = ""
 legeLI.Epistle.title_abbr = ""
-legeLI.Epistle.version = 
-legeLI.Epistle.book_string = 
-legeLI.Epistle.book_abbr = 
+legeLI.Epistle.version =
+legeLI.Epistle.book_string =
+legeLI.Epistle.book_abbr =
 legeLI.Epistle.chapverse = ""
+legeLI.Epistle.incipit = ""
 legeLI.Epistle.text = ""
 

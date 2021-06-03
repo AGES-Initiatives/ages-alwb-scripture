@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Romans.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Romans.abbr
 lemcLI.Epistle.chapverse = "8:14-21"
+lemcLI.Epistle.incipit = "Brethren, as many as are led by the Spirit…"
 lemcLI.Epistle.text = "Brethren, as many as are led by the Spirit of God are children of God. You did not receive the spirit of bondage to [live in] fear again. Instead, you received the Spirit of adoption through which we cry, “Abba! Father!” The Spirit himself testifies with our spirit that we are children of God; and if [we are] children, then [we are] heirs; heirs of God, and joint-heirs with Christ; if indeed we suffer with him, so that we may also be glorified with him. For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us. As it is, the creation waits with eager expectation for the revelation of God’s children. Indeed, creation was subjected to futility, not of its own will, but because of him who subjected it, in hope that creation will also be delivered from the bondage of decay into the glorious freedom of the children of God."
 lemcLI.Epistle.pagenumber = ""

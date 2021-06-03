@@ -6,5 +6,6 @@ lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book_string = bible_en_US_eob.Ephesians.text
 lemeLI.Epistle.book_abbr = bible_en_US_eob.Ephesians.abbr
 lemeLI.Epistle.chapverse = "4:7-13"
+lemeLI.Epistle.incipit = "Brethren, grace has been granted to each one of…"
 lemeLI.Epistle.text = "Brethren, grace has been granted to each one of us according to the measure of Christ’s gift. Therefore, God says, “When he ascended on high, he led captivity captive, and gave gifts to men.” Now what does “he ascended” mean, if not that he first descended into the lower parts of the earth? He who descended is the [same] one who also ascended far above all the heavens, so that he might fill all things. He gave some to be apostles, some prophets, some evangelists, some shepherds and teachers, for the perfecting of the saints, for a work of ministry, to build up the body of Christ. This is until we all attain to the unity of the faith and to the knowledge of the Son of God, to maturity, having reached the very fullness of Christ."
 lemeLI.Epistle.pagenumber = ""

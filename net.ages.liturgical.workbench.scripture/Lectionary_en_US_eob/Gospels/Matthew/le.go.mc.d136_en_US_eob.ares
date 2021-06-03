@@ -6,5 +6,6 @@ lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
 lemcLI.Gospel.chapverse = "10:9-15"
+lemcLI.Gospel.incipit = "The Lord said to his Disciples: “Do not take…"
 lemcLI.Gospel.text = "The Lord said to his Disciples: “Do not take any gold, silver or brass in your money belts. Do not take a bag for your journey, or two coats, or shoes, or staff: the one who works is worthy of his food. As you enter any city or village, find out who is worthy and stay there until you go on. As you enter into the household, greet it, saying, “Peace be to this house.” If the household is worthy, let your peace come upon it, but if it is not worthy, let your peace return to you. If some place does not receive you and does not hear your words, shake off the dust from your feet as you depart from that house or that city. Amen, I tell you: in the day of judgment, it will be more tolerable for the land of Sodom and Gomorrah than for that city.”"
 lemcLI.Gospel.pagenumber = ""

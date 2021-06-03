@@ -6,5 +6,6 @@ leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
 leluLI.Gospel.chapverse = "9:37-43"
+leluLI.Gospel.incipit = "At that time, when Jesus had come down from…"
 leluLI.Gospel.text = "At that time, when Jesus had come down from the mountain, a great multitude met him. A man from the crowd called out, saying, “Teacher, I beg you to look at my son, for he is my only child. Behold, when a spirit seizes him, he suddenly cries out and it convulses him so that he foams [at the mouth]. It scarcely ever leaves him and is breaking him. I begged your disciples to cast it out, but they could not.” Jesus answered, “Faithless and perverse generation, how long shall I be with you and bear with you? Bring your son here.” While the boy was still coming, the demon threw him down and convulsed him violently. But Jesus rebuked the unclean spirit, healed the boy, and gave him back to his father. And all were astonished at the majesty of God."
 leluLI.Gospel.pagenumber = ""

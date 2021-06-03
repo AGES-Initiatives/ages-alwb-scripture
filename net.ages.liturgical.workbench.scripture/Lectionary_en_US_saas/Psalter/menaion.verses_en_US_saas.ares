@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = menaion.verses_en_US_saas 
+A_Resource_Whose_Name = menaion.verses_en_US_saas
 
 psLI.m01.d01.antiphon1.title = "Psalms 65, 104."
 psLI.m01.d01.antiphon1.v1.info = ps_en_US_saas.psa65.v1.number
@@ -41,9 +41,9 @@ psVE.m01.d02.aposverse.v1.text = "Therefore I will remember You from the land of
 psVE.m01.d02.aposverse.v2.info = ps_en_US_saas.psa76.v17.number
 psVE.m01.d02.aposverse.v2.text = "The waters saw You, O God; the waters saw You and were afraid."
 psLI.m01.d02.prokeimenon.title = "Psalm 115."
-psLI.m01.d02.prokeimenon.v1.info = ps_en_US_saas.psa115.v5.number 
+psLI.m01.d02.prokeimenon.v1.info = ps_en_US_saas.psa115.v5.number
 psLI.m01.d02.prokeimenon.v1.text = "Precious in the sight of the Lord is the death of His holy one."
-psLI.m01.d02.prokeimenon.v2.info = ps_en_US_saas.psa115.v3.number 
+psLI.m01.d02.prokeimenon.v2.info = ps_en_US_saas.psa115.v3.number
 psLI.m01.d02.prokeimenon.v2.text = "What shall I give back to the Lord for all He rendered to me?"
 
 psGH.m01.d05.v1.info = ps_en_US_saas.psa41.v7.number

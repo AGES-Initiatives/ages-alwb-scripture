@@ -6,6 +6,7 @@ lemeLI.Gospel.version = properties_en_US_eob.version.designation
 lemeLI.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemeLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
 lemeLI.Gospel.chapverse = "10:32-36; 11:1"
+lemeLI.Gospel.incipit = "The Lord said to his Disciples: “Whoever confesses me…"
 lemeLI.Gospel.text = "The Lord said to his Disciples: “Whoever confesses me before men I will also confess before my Father who is in heaven. But whoever denies me in front of others I will also deny before my Father who is in heaven. Do not think that I came to bring peace on the earth! I did not come to bring peace, but a sword. Indeed, I came to set a son against his father, a daughter against her mother and a daughter-in-law against her mother-in-law. A man’s enemies will be members of his own household.” When Jesus had finished giving instructions to his twelve disciples, he left that place to teach and preach in their cities."
 lemeLI.Gospel.pagenumber = ""
 

@@ -6,5 +6,6 @@ leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Mark.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
 leluLI.Gospel.chapverse = "12:13-17"
+leluLI.Gospel.incipit = "At that time, the chief priests and scribes sent…"
 leluLI.Gospel.text = "At that time, the chief priests and scribes sent some of the Pharisees and Herodians to Jesus, in order to trap him in what he said. They came to him and said, “Teacher, we know that you are truthful, and that you are not afraid of anyone because you do not look at human rank but truly teach the way of God. Tell us therefore, is it lawful to pay taxes to Caesar, or not? Shall we give, or shall we not give?” But knowing their hypocrisy, Jesus replied, “Why do you test me? Bring me a denarius, so that I may see it.” They brought it. Jesus then asked them, “Whose image and inscription is this?” They answered, “Caesar’s.” Jesus then replied to them, “Render to Caesar what belongs to Caesar, and to God what belongs to God.”"
 leluLI.Gospel.pagenumber = ""

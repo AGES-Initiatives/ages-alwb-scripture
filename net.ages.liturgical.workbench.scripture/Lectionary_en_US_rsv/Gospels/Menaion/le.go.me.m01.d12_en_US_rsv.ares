@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.go.me.m01.d12_en_US_rsv 
+A_Resource_Whose_Name = le.go.me.m01.d12_en_US_rsv
 
 lemeLI.Gospel.title = "For the Afterfeast."
 lemeLI.Gospel.title_abbr = "For the Afterfeast."
@@ -6,6 +6,7 @@ lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book_string = bible_en_US_rsv.John.text
 lemeLI.Gospel.book_abbr = bible_en_US_rsv.John.abbr
 lemeLI.Gospel.chapverse = "10:39-42"
+lemeLI.Gospel.incipit = "At that time, the Jews tried to arrest Him,…"
 lemeLI.Gospel.text = "At that time, the Jews tried to arrest Him, but He escaped from their hands. He went away again across the Jordan to the place where John at first baptized, and there He remained. And many came to Him; and they said, \"John did no sign, but everything that John said about this man was true.\" And many believed in him there."
 lemeLI.Gospel.pagenumber = ""
 

@@ -6,5 +6,6 @@ lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.John.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
 lemcLI.Gospel.chapverse = "8:12-20"
+lemcLI.Gospel.incipit = "The Lord said to the Jews who had come…"
 lemcLI.Gospel.text = "The Lord said to the Jews who had come to him: “I am the light of the world. Whoever follows me will not walk in the darkness but will have the light of life.” At this, the Pharisees said to him, “You bear witness to yourself! Your testimony is not valid!” Jesus answered them, “Even if I bear witness to myself, my testimony is true, because I know where I came from and where I am going. But you do not know where I came from or where I am going. You judge according to the flesh. I judge no one. Even if I do judge, my judgment is true, for I am not alone, but I am with the Father who sent me. It is also written in your law that the testimony of two people is truthful. I am one who testifies about myself, and the Father who sent me [also] bears witness to me.” At this, they asked him, “Where is your Father?” Jesus answered, “You do not know me or my Father. If you knew me, you would know my Father also.” Jesus spoke these words in the treasury, as he taught in the temple. Yet no one arrested him, because his hour had not yet come."
 lemcLI.Gospel.pagenumber = ""

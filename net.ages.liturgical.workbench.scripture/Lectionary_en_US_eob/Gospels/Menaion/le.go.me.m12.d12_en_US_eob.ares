@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.go.me.m12.d12_en_US_eob 
+A_Resource_Whose_Name = le.go.me.m12.d12_en_US_eob
 
 lemeMA.Gospel.title = "Orthros. For the Saint."
 lemeMA.Gospel.title_abbr = "Orthros. For the Saint."
@@ -15,4 +15,4 @@ lemeLI.Gospel.book_string = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.book_strin
 lemeLI.Gospel.book_abbr = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.book_abbr
 lemeLI.Gospel.chapverse = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.chapverse
 lemeLI.Gospel.text = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.text
-lemeLI.Gospel.pagenumber = 
+lemeLI.Gospel.pagenumber =

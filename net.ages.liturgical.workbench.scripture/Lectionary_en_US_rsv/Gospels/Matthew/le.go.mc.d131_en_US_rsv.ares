@@ -6,5 +6,6 @@ lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book_string = bible_en_US_rsv.Matthew.text
 lemcLI.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr
 lemcLI.Gospel.chapverse = "8:23-27"
+lemcLI.Gospel.incipit = "At that time, when Jesus got into the boat,…"
 lemcLI.Gospel.text = "At that time, when Jesus got into the boat, his disciples followed him. And behold, there arose a great storm on the sea, so that the boat was being swamped by the waves; but he was asleep. And they went and woke him, saying, \"Save us, O Lord; we are perishing.\" And he said to them, \"Why are you afraid, O men of little faith?\" Then he rose and rebuked the winds and the sea; and there was a great calm. And the men marveled, saying, \"What sort of man is this, that even winds and sea obey him?\""
 lemcLI.Gospel.pagenumber = ""

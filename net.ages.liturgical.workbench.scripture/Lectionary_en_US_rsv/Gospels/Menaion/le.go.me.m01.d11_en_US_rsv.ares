@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.go.me.m01.d11_en_US_rsv 
+A_Resource_Whose_Name = le.go.me.m01.d11_en_US_rsv
 
 lemeLI.Gospel.title = "For the Afterfeast."
 lemeLI.Gospel.title_abbr = "For the Afterfeast."
@@ -6,6 +6,7 @@ lemeLI.Gospel.version = le.go.lu.d003_en_US_rsv.leluLI.Gospel.version
 lemeLI.Gospel.book_string = le.go.lu.d003_en_US_rsv.leluLI.Gospel.book_string
 lemeLI.Gospel.book_abbr = le.go.lu.d003_en_US_rsv.leluLI.Gospel.book_abbr
 lemeLI.Gospel.chapverse = le.go.lu.d003_en_US_rsv.leluLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.lu.d003_en_US_rsv.leluLI.Gospel.incipit
 lemeLI.Gospel.text = le.go.lu.d003_en_US_rsv.leluLI.Gospel.text
 lemeLI.Gospel.pagenumber = ""
 
@@ -15,6 +16,7 @@ lemeLI.Gospel2.version = le.go.mc.d145_en_US_rsv.lemcLI.Gospel.version
 lemeLI.Gospel2.book_string =  le.go.mc.d145_en_US_rsv.lemcLI.Gospel.book_string
 lemeLI.Gospel2.book_abbr =  le.go.mc.d145_en_US_rsv.lemcLI.Gospel.book_abbr
 lemeLI.Gospel2.chapverse =  le.go.mc.d145_en_US_rsv.lemcLI.Gospel.chapverse
+lemeLI.Gospel2.incipit = le.go.mc.d145_en_US_rsv.lemcLI.Gospel.incipit
 lemeLI.Gospel2.text = le.go.mc.d145_en_US_rsv.lemcLI.Gospel.text
 lemeLI.Gospel2.pagenumber = "" //le.go.mc.d145_en_US_rsv.lemcLI.Gospel.pagemumber
 

@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.ep.me.m12.d24_en_US_eob 
+A_Resource_Whose_Name = le.ep.me.m12.d24_en_US_eob
 
 lemeH1.Epistle.title = "First Hour."
 lemeH1.Epistle.title_abbr = "First Hour."
@@ -6,7 +6,7 @@ lemeH1.Epistle.version = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.version
 lemeH1.Epistle.book_string = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.book_string
 lemeH1.Epistle.book_abbr = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.book_abbr
 lemeH1.Epistle.chapverse = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.chapverse
-lemeH1.Epistle.text = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.text 
+lemeH1.Epistle.text = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.text
 
 lemeH3.Epistle.title = "Third Hour."
 lemeH3.Epistle.title_abbr = "Third Hour."
@@ -14,7 +14,7 @@ lemeH3.Epistle.version = le.ep.mc.d222_en_US_eob.lemcLI.Epistle.version
 lemeH3.Epistle.book_string = le.ep.mc.d222_en_US_eob.lemcLI.Epistle.book_string
 lemeH3.Epistle.book_abbr = le.ep.mc.d222_en_US_eob.lemcLI.Epistle.book_abbr
 lemeH3.Epistle.chapverse = le.ep.mc.d222_en_US_eob.lemcLI.Epistle.chapverse
-lemeH3.Epistle.text = le.ep.mc.d222_en_US_eob.lemcLI.Epistle.text 
+lemeH3.Epistle.text = le.ep.mc.d222_en_US_eob.lemcLI.Epistle.text
 
 lemeH6.Epistle.title = "Sixth Hour."
 lemeH6.Epistle.title_abbr = "Sixth Hour."
@@ -22,7 +22,7 @@ lemeH6.Epistle.version = le.ep.mc.d036_en_US_eob.lemcLI.Epistle.version
 lemeH6.Epistle.book_string = le.ep.mc.d036_en_US_eob.lemcLI.Epistle.book_string
 lemeH6.Epistle.book_abbr = le.ep.mc.d036_en_US_eob.lemcLI.Epistle.book_abbr
 lemeH6.Epistle.chapverse = le.ep.mc.d036_en_US_eob.lemcLI.Epistle.chapverse
-lemeH6.Epistle.text = le.ep.mc.d036_en_US_eob.lemcLI.Epistle.text 
+lemeH6.Epistle.text = le.ep.mc.d036_en_US_eob.lemcLI.Epistle.text
 
 lemeH9.Epistle.title = "Ninth Hour."
 lemeH9.Epistle.title_abbr = "Ninth Hour."

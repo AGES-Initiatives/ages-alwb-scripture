@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Timothy1.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Timothy1.abbr
 lemcLI.Epistle.chapverse = "1:15-17"
+lemcLI.Epistle.incipit = "Timothy, my child, this saying is faithful and worthy…"
 lemcLI.Epistle.text = "Timothy, my child, this saying is faithful and worthy of all acceptance: that Christ Jesus came into the world to save sinners of whom I am the first. This is how I obtained mercy, so that in me as ‘the first,’ Jesus Christ might show all his patience as an example for those who would believe in him for eternal life. Now to the eternal King, immortal, invisible, to God who alone is wise, be honor and glory unto ages of ages. Amen."
 lemcLI.Epistle.pagenumber = ""

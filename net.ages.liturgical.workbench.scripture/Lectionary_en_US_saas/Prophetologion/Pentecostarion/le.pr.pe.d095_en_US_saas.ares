@@ -6,6 +6,7 @@ lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Micah.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Micah.abbr
 lemcVE.reading1.chapverse = "4:2d, 3a, 5; 6:2-5a, 8; 5:3a, 3c, 4a"
+lemcVE.reading1.incipit = "Thus says the Lord: For out of Zion the…"
 lemcVE.reading1.text = "Thus says the Lord: For out of Zion the law shall go forth, and the word of the Lord from Jerusalem. And He will judge between many peoples and rebuke strong nations afar off. For all the peoples shall walk each one his own way, but we will walk in the name of the Lord our God for ever and ever. Thus says the Lord Almighty: Hear, O mountains, the judgment of the Lord, and you valleys, the foundations of the earth; for the Lord has a case against His people, and He will contend with Israel. O My people, what have I done to you? How have I grieved you? Answer Me! For I brought you up from the land of Egypt and redeemed you from the house of bondage; and I sent you Moses, and Aaron, and Miriam. O My people, remember now what your enemies plotted against you. And He shall stand and see, and shepherd His flock in the strength of the Lord, for now they will be magnified unto the ends of the earth. And she will have peace."
 
 lemcVE.reading2.title = ""
@@ -14,6 +15,7 @@ lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Isaiah.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Isaiah.abbr
 lemcVE.reading2.chapverse = "55:1; 12:3-4; 55:2b-3a, 6-13"
+lemcVE.reading2.incipit = "Thus says the Lord:  You who are thirsty, go…"
 lemcVE.reading2.text = "Thus says the Lord:  You who are thirsty, go to the water, and all who have no money, go and buy wine and fat, and eat and drink without money and price. For thus says the Lord Almighty to you: You will draw water with gladness from the wells of salvation. In that day, you will say, “Praise the Lord; call upon His name. Declare His glorious things among the Gentiles and make mention that His name is exalted.” My people, listen to Me and eat good things, and your soul will delight in good things. Incline your ears and follow my ways. Listen to Me, and your soul shall live in good things; and I will make an everlasting covenant with you. Seek God, and when you find Him, call upon Him when He draws near to you. Let the ungodly man abandon his ways, and the lawless man his counsels; and let him return to the Lord, and He will have mercy on him; for He shall forgive your sins abundantly. “For My counsels are not as your counsels, neither are your ways My ways,” says the Lord. “But as heaven is distant from earth, so is My way distant from your ways, and your thoughts from My mind. For as rain comes down, or snow from heaven, and does not return until it saturates the earth, and it brings forth and produces, and gives seed to the sower and bread for food, so shall My word be, whatever proceeds from My mouth. It shall not return until it accomplishes whatever I willed, and I shall prosper your ways and My commandments. For you shall go forth with gladness and shall be taught with joy, for the mountains and hills shall exult to receive you with joy; and all the trees of the field shall applaud with their branches. Instead of the broom-tree shall come up the cypress, and instead of the nettle shall come up the myrtle; and the Lord shall be for a name and for an everlasting sign, and He shall not fail,” says the Lord God, the Holy One of Israel."
 
 lemcVE.reading3.title = ""
@@ -22,5 +24,6 @@ lemcVE.reading3.version = properties_en_US_saas.version.designation
 lemcVE.reading3.book_string = le.pr.me.r41_en_US_saas.leprVE.reading.book_string
 lemcVE.reading3.book_abbr = le.pr.me.r41_en_US_saas.leprVE.reading.book_abbr
 lemcVE.reading3.chapverse = le.pr.me.r41_en_US_saas.leprVE.reading.chapverse
+lemcVE.reading3.incipit = le.pr.me.r41_en_US_saas.leprVE.reading.incipit
 lemcVE.reading3.text = le.pr.me.r41_en_US_saas.leprVE.reading.text
 

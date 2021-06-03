@@ -6,5 +6,6 @@ leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
 leluLI.Gospel.chapverse = "13:31-35"
+leluLI.Gospel.incipit = "At that time, some Pharisees came and said to…"
 leluLI.Gospel.text = "At that time, some Pharisees came and said to Jesus: “Leave this place and go somewhere else, for Herod wants to kill you!” Jesus replied, “Go and tell that fox, ‘Behold, I cast out demons and perform cures today and tomorrow, and the third day I fulfill my end. Nevertheless, I must go on my way today and tomorrow and the next day, for it cannot be that a prophet should perish outside of Jerusalem.’ Jerusalem, Jerusalem, [the one] that kills the prophets and stones those who are sent to her! How often have I longed to gather your children together, as a hen gathers her brood under her wings, and you were not willing! Behold, your house is left to you desolate! I tell you, you will not see me, until [the time] comes when you say, ‘Blessed is he who comes in the Name of the Lord!’ ”"
 leluLI.Gospel.pagenumber = ""

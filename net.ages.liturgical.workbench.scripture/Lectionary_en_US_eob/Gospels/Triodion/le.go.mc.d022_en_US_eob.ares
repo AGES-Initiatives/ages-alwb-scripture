@@ -6,6 +6,7 @@ lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
 lemcLI.Gospel.chapverse = "6:14-21"
+lemcLI.Gospel.incipit = "The Lord said: “If you forgive people their offenses,…"
 lemcLI.Gospel.text = "The Lord said: “If you forgive people their offenses, your heavenly Father will also forgive you. But if you do not forgive people their offenses, neither will your Father forgive your offenses. Moreover, when you fast, do not be like the hypocrites with their gloomy faces: they disfigure their faces so that people may see that they are fasting! Amen, I tell you: they have received their reward. But you, when you fast, anoint your head and wash your face so that people may not see that you are fasting. Only your Father who is in secret will see, and your Father, who sees in secret, will reward you openly. Do not store up treasures for yourselves on the earth, where moth and rust consume and where thieves break in and steal. Instead, store for yourselves treasures in heaven, where neither moth nor rust consume, and where thieves do not break in and steal. Indeed, where your treasure is, there your heart will be also.”"
 lemcLI.Gospel.pagenumber = ""
 

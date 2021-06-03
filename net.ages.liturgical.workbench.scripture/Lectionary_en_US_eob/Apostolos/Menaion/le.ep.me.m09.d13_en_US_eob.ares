@@ -7,5 +7,6 @@ lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book_string = bible_en_US_eob.Hebrews.text
 lemeLI.Epistle.book_abbr = bible_en_US_eob.Hebrews.abbr
 lemeLI.Epistle.chapverse = "3:1-4"
+lemeLI.Epistle.incipit = "Holy brethren, partakers of a heavenly calling, consider the…"
 lemeLI.Epistle.text = "Holy brethren, partakers of a heavenly calling, consider the Apostle and High Priest of our confession, Jesus Christ, who was faithful to the one who had appointed him, just as Moses was faithful in all God’s house. Yet Jesus is accounted worthy of more glory than Moses, just as the builder of a house has more honor than the house! Every house is built by someone, but the one who built all things is God."
 lemeLI.Epistle.pagenumber = ""

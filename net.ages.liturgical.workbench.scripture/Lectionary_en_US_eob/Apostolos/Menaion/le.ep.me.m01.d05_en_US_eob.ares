@@ -6,6 +6,7 @@ lemeH1.Epistle.version = properties_en_US_eob.version.designation
 lemeH1.Epistle.book_string = bible_en_US_eob.Acts.text
 lemeH1.Epistle.book_abbr = bible_en_US_eob.Acts.abbr
 lemeH1.Epistle.chapverse = "13:25-33"
+lemeH1.Epistle.incipit = "In those days, as John was completing his work,…"
 lemeH1.Epistle.text = "In those days, as John was completing his work, he said, ‘Who do you suppose that I am? I am not he! But behold, one comes after me whose sandals I am unworthy to untie.’ Brethren, children of the line of Abraham, and those among you who fear God, this message of salvation has been sent to you! Indeed, those who live in Jerusalem and their rulers did not recognize him or the voices of the prophets which are read every Sabbath. Still, by condemning him, they fulfilled the prophets! Although they could find no cause for his execution, they asked Pilate to have Jesus killed. After fulfilling all the things that were written about him, they took him down from the tree, and laid him in a tomb. But God raised him from the dead, and he was seen for many days by those who had come up with him from Galilee to Jerusalem. They are his witnesses to the people. And now, we bring you the Good News that the promise made to the fathers has come about: God has fulfilled it for us, their children, by raising up Jesus."
 
 lemeH3.Epistle.title = "THIRD HOUR"
@@ -14,6 +15,7 @@ lemeH3.Epistle.version = properties_en_US_eob.version.designation
 lemeH3.Epistle.book_string = bible_en_US_eob.Acts.text
 lemeH3.Epistle.book_abbr = bible_en_US_eob.Acts.abbr
 lemeH3.Epistle.chapverse = "19:1-8"
+lemeH3.Epistle.incipit = "In those days, while Apollos was in Corinth, Paul…"
 lemeH3.Epistle.text = "In those days, while Apollos was in Corinth, Paul had passed through the upper country and arrived in Ephesus. And finding some disciples, he asked them, “Did you receive [the] Holy Spirit when you believed?” They replied, “No, we have not even heard that there is a Holy Spirit!” Paul asked them, “Then into what were you baptized?” They answered, “Into John’s baptism.” Paul said, “John indeed baptized with the baptism of repentance, saying to the people that they should believe in the one who would come after him, that is, in Jesus Christ.” After hearing this, they were baptized in the Name of the Lord Jesus. When Paul had laid his hands on them, the Holy Spirit came on them, and they spoke in other tongues and prophesied. They were about twelve men in all. Then Paul visited the synagogue and spoke boldly for a period of three months, debating and presenting arguments concerning the Kingdom of God."
 
 lemeH6.Epistle.title = "SIXTH HOUR"
@@ -22,6 +24,7 @@ lemeH6.Epistle.version = properties_en_US_eob.version.designation
 lemeH6.Epistle.book_string = bible_en_US_eob.Romans.text
 lemeH6.Epistle.book_abbr = bible_en_US_eob.Romans.abbr
 lemeH6.Epistle.chapverse = "6:3-11"
+lemeH6.Epistle.incipit = "Brethren, all {of us} we who were baptized into…"
 lemeH6.Epistle.text = "Brethren, all {of us} we who were baptized into Christ Jesus were baptized into his death? And so, we were buried with him through baptism to death, so that just as Christ was raised from the dead by the glory of the Father, [likewise] we might also walk in newness of life. Truly, if we have become united with him in the likeness of his death, we will also be [united with him] by a resurrection like his. It means that we recognize this, that our old humanity was crucified with him, so that the body of sin might be done away with, and so that we would no longer be in bondage to sin. Whoever has died has been freed from sin! But if we have died with Christ, we believe that we will also live with him; knowing that Christ, being raised from the dead, dies no more. Death no longer has dominion over him! For the death that he died, he died to sin one time; but the life that he lives, he lives to God. Thus, consider yourselves to be dead as regards sin, but alive to God in Christ Jesus our Lord."
 
 lemeH9.Epistle.title = "NINTH HOUR"
@@ -30,5 +33,6 @@ lemeH9.Epistle.version = properties_en_US_eob.version.designation
 lemeH9.Epistle.book_string = bible_en_US_eob.Titus.text
 lemeH9.Epistle.book_abbr = bible_en_US_eob.Titus.abbr
 lemeH9.Epistle.chapverse = "2:11-14; 3:4-7"
+lemeH9.Epistle.incipit = "Titus, my child, the grace of God has appeared,…"
 lemeH9.Epistle.text = "Titus, my child, the grace of God has appeared, bringing salvation to all. It has taught us that we should deny what is ungodly and worldly lusts, that we should live soberly, righteously, and in a godly way in this present world, waiting for the blessed hope: the appearing of the glory of our great God and Savior Jesus Christ. He gave himself for us in order to redeem us from all iniquity and to purify for himself a people for his own possession, zealous for good works. But when the kindness of God our Savior and his love toward mankind appeared, (not by works of righteousness which we did ourselves, but according to his mercy), he saved us through the washing of regeneration and renewing of the Holy Spirit. Yes, God richly poured out this Spirit on us, through Jesus Christ our Savior, so that being justified by his grace, we become heirs according to the hope of eternal life."
 

@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Corinthians2.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Corinthians2.abbr
 lemcLI.Epistle.chapverse = "8:1-5"
+lemcLI.Epistle.incipit = "Brethren, I want you to know about the grace…"
 lemcLI.Epistle.text = "Brethren, I want you to know about the grace that God has given in the Churches of Macedonia: in spite of extreme tribulations, the abundance of their joy (and their deep poverty) has resulted in generous giving. I can testify that within their means and even beyond, they gave freely, begging us to receive the grace to have such a participation in the ministry to the saints. We had not hoped for so much, but first they gave themselves to the Lord and to us, by the will of God."
 lemcLI.Epistle.pagenumber = ""

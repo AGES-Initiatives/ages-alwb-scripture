@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = ps_en_US_rsv 
+A_Resource_Whose_Name = ps_en_US_rsv
 
 ps.title = "PSALTER"
 ps.version = properties_en_US_rsv.version.designation
@@ -1956,7 +1956,7 @@ psa55.v5.text = "In God, whose word I praise, in God I trust without a fear. Wha
 psa55.v6.number = "(55:6 / rsv 56:5)"
 psa55.v6.text = "All day long they seek to injure my cause; all their thoughts are against me for evil."
 psa55.v7.number = "(55:7 / rsv 56:6)"
-psa55.v7.text = "They band themselves together, they lurk, they watch my steps. As they have waited for my life," 
+psa55.v7.text = "They band themselves together, they lurk, they watch my steps. As they have waited for my life,"
 psa55.v8.number = "(55:8 / rsv 56:7)"
 psa55.v8.text = "So recompense them for their crime; in wrath cast down the peoples, O God!"
 psa55.v9.number = "(55:9 / rsv 56:8)"

@@ -6,5 +6,6 @@ leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Mark.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
 leluLI.Gospel.chapverse = "14:3-9"
+leluLI.Gospel.incipit = "At that time, while Jesus was at Bethany, in…"
 leluLI.Gospel.text = "At that time, while Jesus was at Bethany, in the house of Simon the leper, as he sat at the table, a woman came with an alabaster jar of very expensive perfume, made of pure nard. She broke the jar and poured the oil over his head. But there were some who were upset, saying, “Why has this ointment been wasted? It could have been sold for more than three hundred denarii, and given to the poor.” They grumbled against her, but Jesus said, “Leave her alone! Why do you trouble her? She has done a good work for me. You always have the poor with you, and whenever you want to, you can do them good; but you will not always have me! She has done what she could: she has anointed my body in advance for the burial. Amen, I tell you: wherever this Good News will be preached throughout the whole world, what she has done will also be told, in memory of her.”"
 leluLI.Gospel.pagenumber = ""

@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Acts.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Acts.abbr
 lemcLI.Epistle.chapverse = "20:7-12"
+lemcLI.Epistle.incipit = "In those days, when the disciples were gathered together…"
 lemcLI.Epistle.text = "In those days, when the disciples were gathered together to break bread, Paul talked with them. Since he intended to depart on the next day, he continued his speech until midnight. (There were many lights in the upper room where we had assembled). A certain young man named Eutychus was sitting in the window, becoming drowsy. As Paul spoke still longer, the young man was overcome by sleep and fell down from the third floor. He was taken up dead. But Paul went down, fell on him, and took him in his arms, saying, “Do not be distressed! His soul is [still] in him!” Paul went back upstairs, broke bread, ate, and talked with them a long while, even until daybreak. Then he departed. The people brought the boy [home] alive, greatly comforted."
 lemcLI.Epistle.pagenumber = ""

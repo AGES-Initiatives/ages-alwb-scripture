@@ -6,5 +6,6 @@ leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
 leluLI.Gospel.chapverse = "8:22-25"
+leluLI.Gospel.incipit = "At that time, Jesus entered into a boat with…"
 leluLI.Gospel.text = "At that time, Jesus entered into a boat with his disciples and said to them, “Let us go over to the other side of the lake.” And so, they launched out. But as they were sailing, Jesus fell asleep. A windstorm came down on the lake, and they were taking on dangerous amounts of water. His disciples came to him and woke him up, saying, “Master, master, we are perishing!” Jesus awoke, rebuked the wind and the raging of the water, and they ceased, and it was calm. He said to them, “Where is your faith?” In fear and amazement, they said to one another, “Who is this, then, that he commands even the winds and the water, and they obey him?”"
 leluLI.Gospel.pagenumber = ""

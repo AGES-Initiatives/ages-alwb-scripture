@@ -24,6 +24,7 @@ lemeLI.Gospel.version = properties_en_US_eob.version.designation
 lemeLI.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemeLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
 lemeLI.Gospel.chapverse = "3:13-17"
+lemeLI.Gospel.incipit = "At that time, Jesus came from Galilee to the…"
 lemeLI.Gospel.text = "At that time, Jesus came from Galilee to the Jordan to be baptized by John. However, John would have prevented him, saying, “I need to be baptized by you, and [it is] you who come to me?” But Jesus answered and said to him, “Allow it for now, for it is fitting that in this way, we should fulfill all righteousness.” Then John allowed Jesus [to be baptized]. After he had been baptized, Jesus immediately came out of the water and behold, the heavens were opened to him. He saw the Spirit of God descending as a dove and coming down on him. And behold, a voice from heaven said: “This is my beloved Son, with whom I am well pleased!”"
 lemeLI.Gospel.pagenumber = ""
 

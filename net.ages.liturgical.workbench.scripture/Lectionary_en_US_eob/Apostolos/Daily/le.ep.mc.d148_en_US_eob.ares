@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Romans.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Romans.abbr
 lemcLI.Epistle.chapverse = "6:18-23"
+lemcLI.Epistle.incipit = "Brethren, having been released from sin, you became slaves…"
 lemcLI.Epistle.text = "Brethren, having been released from sin, you became slaves of righteousness. I speak in human terms because of the weakness of your flesh. Indeed, as you used to offer your members as slaves of impurity and ever-increasing wickedness, now offer your members as slaves of righteousness for sanctification. For when you were slaves of sin, you were free in regard to righteousness. What fruit did you obtain at that time by those things which now shame you? The end result of those things is death! But now, being made free from sin and having become enslaved to God, you have your fruit of sanctification, and the result of eternal life. The wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."
 lemcLI.Epistle.pagenumber = ""

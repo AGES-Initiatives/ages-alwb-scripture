@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.pr.tr.d032_en_US_saas 
+A_Resource_Whose_Name = le.pr.tr.d032_en_US_saas
 
 lemcVE.reading1.title = ""
 lemcVE.reading1.title_abbr = ""
@@ -6,6 +6,7 @@ lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Genesis.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Genesis.abbr
 lemcVE.reading1.chapverse = "4:8-15"
+lemcVE.reading1.incipit = "Now Cain talked with Abel his brother; and it…"
 lemcVE.reading1.text = "Now Cain talked with Abel his brother; and it came to pass, when they were in the field, that Cain rose up against Abel his brother and killed him. Then God said to Cain, “Where is Abel your brother?” He replied, “I do not know. Am I my brother’s keeper?” Thus God said, “What have you done? The voice of your brother’s blood cries out to Me from the ground. So now you are cursed from the earth, which has opened its mouth to receive your brother’s blood from your hand. When you till the ground, it shall no longer yield its strength to you. You will be groaning and trembling on the earth.” Then Cain said to the Lord, “My guilt is too great to be forgiven! Surely You have driven me out this day from the face of the ground; I shall be hidden from Your face; I shall be groaning and trembling on the earth. Then it will happen if anyone finds me, he will kill me.” So the Lord God said to him, “Not so! Whoever kills Cain, vengeance shall be taken on him sevenfold.” Thus the Lord set a sign on Cain, lest anyone finding him should kill him."
 
 lemcVE.reading2.title = ""
@@ -14,6 +15,7 @@ lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr
 lemcVE.reading2.chapverse = "5:1-15"
+lemcVE.reading2.incipit = "My son, hold fast to wisdom and incline your…"
 lemcVE.reading2.text = "My son, hold fast to wisdom and incline your ear to my words, that you may guard good thinking; and I command you with the perception of my lips. Do not join yourself to a base woman, for honey drips from the lips of a prostitute, or for a season she is pleasing to your taste; afterward, however, you will find her more bitter than gall and sharper than a two-edged sword. For feet lacking discernment lead those using her down into Hades with death; her footsteps are not planted, for she does not travel the ways of life; and her paths are slippery and not easy to discern. Now therefore, my son, hear me, and do not make my words invalid; make your way distant from her and do not come near the doors of her house, that you may not give away your life to others and your existence to the merciless; that strangers may not be filled with your strength, and your labors go into the houses of strangers, and you should feel regret at the last, when the flesh of your body is consumed; and you will say, “How I hated instruction and turned my heart away from reproofs; I did not hear the voice of my instructor and teacher, nor did I incline my ear; little by little I was in every evil in the midst of the church and congregation.” Drink waters from your vessels and from the fountains of your spring."
 
 lemcTE.reading1.title = ""
@@ -22,5 +24,6 @@ lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr
 lemcTE.reading1.chapverse = "5:16-25"
+lemcTE.reading1.incipit = "The Lord of hosts shall be exalted in judgment,…"
 lemcTE.reading1.text = "The Lord of hosts shall be exalted in judgment, and the Holy God shall be glorified in righteousness. Those plundered shall be fed as bulls, and lambs shall eat on the waste places of those taken away. Woe to those who draw sins to themselves as with a long rope and lawlessness as with the strap of a cow’s yoke, who say, “Let Him speedily hasten what He will do that we may see it, and let the counsel of the Holy One of Israel come, that we may know it!” Woe to those who call evil good and good evil, who put darkness for light and light for darkness, who put bitter for sweet and sweet for bitter! Woe to those who are intelligent in their own eyes and expert in their own sight! Woe to your strong ones who drink wine and the mighty ones who mix intoxicating drink, who justify the ungodly for a bribe and take away justice from the righteous man! Therefore in the manner that stubble shall be burned by coals of fire and consumed by a violent flame, their root shall be like chaff and their flower shall go up like dust, for they did not will to do the law of the Lord of hosts, but despised the word of the Holy One of Israel. Thus the wrath of the Lord of hosts is furious against His people. He laid His hand on them and struck them. The mountains were provoked, and their carcasses were as refuse in the midst of the road. For all this His anger was not turned away, but His hand is still uplifted."
 

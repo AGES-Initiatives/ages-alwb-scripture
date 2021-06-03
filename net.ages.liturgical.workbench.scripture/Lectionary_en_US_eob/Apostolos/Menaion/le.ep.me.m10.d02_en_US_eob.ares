@@ -6,5 +6,6 @@ lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book_string = bible_en_US_eob.Timothy1.text
 lemeLI.Epistle.book_abbr = bible_en_US_eob.Timothy1.abbr
 lemeLI.Epistle.chapverse = "1:12-17"
+lemeLI.Epistle.incipit = "Timothy, my child, I give thanks to Christ Jesus…"
 lemeLI.Epistle.text = "Timothy, my child, I give thanks to Christ Jesus our Lord who has enabled me, because he has considered me faithful and has appointed me to [this] ministry, even though I used to be a blasphemer, a persecutor, and disrespectful. Nevertheless, I obtained mercy because I did those things in ignorance and unbelief; and so the grace of our Lord overflowed [onto me, along] with faith and love in Christ Jesus. This saying is faithful and worthy of all acceptance: that Christ Jesus came into the world to save sinners of whom I am the first. This is how I obtained mercy, so that in me as ‘the first,’ Jesus Christ might show all his patience as an example for those who would believe in him for eternal life. Now to the eternal King, immortal, invisible, to God who alone is wise, be honor and glory unto ages of ages. Amen."
 lemeLI.Epistle.pagenumber = ""

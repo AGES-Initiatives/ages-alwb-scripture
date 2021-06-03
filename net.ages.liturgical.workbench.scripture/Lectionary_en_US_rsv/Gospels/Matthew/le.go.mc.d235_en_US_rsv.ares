@@ -1,10 +1,11 @@
-A_Resource_Whose_Name = le.go.mc.d235_en_US_rsv 
+A_Resource_Whose_Name = le.go.mc.d235_en_US_rsv
 
 lemcLI.Gospel.title = ""
 lemcLI.Gospel.title_abbr = ""
-lemcLI.Gospel.version = 
+lemcLI.Gospel.version =
 lemcLI.Gospel.book_string = ""
 lemcLI.Gospel.book_abbr = ""
 lemcLI.Gospel.chapverse = ""
+lemcLI.Gospel.incipit = ""
 lemcLI.Gospel.text = ""
 lemcLI.Gospel.pagenumber = ""

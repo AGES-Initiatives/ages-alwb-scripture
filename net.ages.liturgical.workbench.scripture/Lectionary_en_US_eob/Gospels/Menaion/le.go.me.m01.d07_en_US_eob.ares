@@ -6,6 +6,7 @@ lemeLI.Gospel.version = properties_en_US_eob.version.designation
 lemeLI.Gospel.book_string = bible_en_US_eob.John.text
 lemeLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
 lemeLI.Gospel.chapverse = "1:29-34"
+lemeLI.Gospel.incipit = "At that time, John saw Jesus coming to him…"
 lemeLI.Gospel.text = "At that time, John saw Jesus coming to him and said, “Behold, the Lamb of God who takes away the sin of the world! This is the one of whom I said, ‘After me comes a man who is ranked before me, because he was before me.’ I did not know him, but for this reason I came baptizing in water: so that he would be revealed to Israel.” John bore witness, saying, “I saw the Spirit descending as a dove out of heaven and remain on him. I did not know him, but the one who sent me to baptize in water said to me, ‘Upon whom you will see the Spirit descending and remaining, this is he who baptizes in the Holy Spirit.’ Moreover, I myself have seen and testified that this is the Son of God.”"
 lemeLI.Gospel.pagenumber = ""
 

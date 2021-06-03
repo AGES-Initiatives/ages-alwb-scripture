@@ -6,6 +6,7 @@ lemeLI.Gospel.version = properties_en_US_eob.version.designation
 lemeLI.Gospel.book_string = bible_en_US_eob.John.text
 lemeLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
 lemeLI.Gospel.chapverse = "10:39-42"
+lemeLI.Gospel.incipit = "At that time, the Jews sought again to seize…"
 lemeLI.Gospel.text = "At that time, the Jews sought again to seize him, but he escaped out of their hand. He went away again beyond the Jordan into the place where John was baptizing at first, and he stayed there. Many came to him, saying, “John indeed did no sign, but everything that John said about this man is true!” And many believed in him there."
 lemeLI.Gospel.pagenumber = ""
 

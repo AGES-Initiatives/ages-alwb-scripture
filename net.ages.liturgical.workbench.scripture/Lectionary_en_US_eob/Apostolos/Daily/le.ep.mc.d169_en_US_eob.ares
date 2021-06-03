@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Romans.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Romans.abbr
 lemcLI.Epistle.chapverse = "15:1-7"
+lemcLI.Epistle.incipit = "Brethren, we who are strong should bear the weaknesses…"
 lemcLI.Epistle.text = "Brethren, we who are strong should bear the weaknesses of the weak, and not {just} please ourselves. Let each one of us please our neighbor for what is good, to be edifying to him. Even Christ did not please himself. But, as it is written, “The insults of those who insulted you fell on me.” For whatever things were written before were written for our instruction, so that through patience and the Scriptures’ encouragement we might have hope. Now may the God of endurance and encouragement grant you to be together of the same mind according to Christ Jesus, so that with one accord, you may with one mouth glorify the God and Father of our Lord Jesus Christ. Therefore, accept one another, even as Christ also accepted you, to the glory of God."
 lemcLI.Epistle.pagenumber = ""

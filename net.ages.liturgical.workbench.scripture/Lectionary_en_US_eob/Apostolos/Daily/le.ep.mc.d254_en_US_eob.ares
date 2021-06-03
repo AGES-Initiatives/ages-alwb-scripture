@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Philippians.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Philippians.abbr
 lemcLI.Epistle.chapverse = "2:12-16"
+lemcLI.Epistle.incipit = "Brethren, even as you have always obeyed, not only…"
 lemcLI.Epistle.text = "Brethren, even as you have always obeyed, not only in my presence, but now much more in my absence, work out your own salvation with fear and trembling, for it is God who works in you, both to will and to work, according to his good purpose. Do all things without murmurings and disputes in order to become blameless and harmless, children of God without fault in the midst of a crooked and perverse generation among whom you are seen as lights in the world. Uphold the word of life, so that I may have a reason to glory in the day of Christ: that I did not run or labor in vain."
 lemcLI.Epistle.pagenumber = ""

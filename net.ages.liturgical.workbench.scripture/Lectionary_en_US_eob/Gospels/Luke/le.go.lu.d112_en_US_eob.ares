@@ -6,5 +6,6 @@ leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
 leluLI.Gospel.chapverse = "18:10-14"
+leluLI.Gospel.incipit = "The Lord said this parable: “Two men went up…"
 leluLI.Gospel.text = "The Lord said this parable: “Two men went up into the temple to pray; one was a Pharisee, and the other was a Publican. The Pharisee, standing by himself, prayed like this: ‘God, I thank you that I am not like the rest of men, dishonest, unrighteous, adulterers, or even like this tax collector. I fast twice a week; I give tithes of all that I earn.’ But the tax collector, standing far aside, would not even lift up his eyes to heaven. Instead, he beat his breast, saying, ‘God, be merciful to me, a sinner!’ I tell you, this man, rather than the other, went down to his house justified. For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”"
 leluLI.Gospel.pagenumber = ""

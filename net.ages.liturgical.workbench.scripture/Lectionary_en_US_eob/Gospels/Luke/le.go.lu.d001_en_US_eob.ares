@@ -6,5 +6,6 @@ leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
 leluLI.Gospel.chapverse = "3:19-22"
+leluLI.Gospel.incipit = "At that time, Herod the tetrarch, being reproved by…"
 leluLI.Gospel.text = "At that time, Herod the tetrarch, being reproved by John for Herodias, his brother’s wife, and for all the evil things which he had done, added this also to them all, that he shut up John in prison. Now it happened, after all the people were baptized, that Jesus was also baptized. As he was praying, heaven was opened, and the Holy Spirit descended in a bodily form as a dove on him. A voice came out of heaven which said “You are my beloved Son! In you I am well pleased.”"
 leluLI.Gospel.pagenumber = ""

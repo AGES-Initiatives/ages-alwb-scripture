@@ -6,5 +6,6 @@ lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
 lemcLI.Gospel.chapverse = "12:30-37"
+lemcLI.Gospel.incipit = "The Lord said: “Whoever is not with me is…"
 lemcLI.Gospel.text = "The Lord said: “Whoever is not with me is against me! Whoever does not gather with me scatters! Therefore, I tell you, every sin and blasphemy will be forgiven, but the blasphemy against the Spirit will not be forgiven. Anyone who speaks a word against the Son of Man will be forgiven, but anyone who speaks against the Holy Spirit will not be forgiven, neither in this age, nor in the one which is to come. Make the tree good and its fruit [will be] good, or make the tree corrupt and its fruit [will be] corrupt, for the tree is known by its fruit. You offspring of vipers, how can you, being evil, speak good things? Indeed, words flow out of what fills the heart. The good man brings out good things from his good treasure, and the evil man brings out evil things from his evil treasure. I tell you that for every idle word that people speak, they will give an account of it in the day of judgment. For by your words you will be justified, and by your words you will be condemned.”"
 lemcLI.Gospel.pagenumber = ""

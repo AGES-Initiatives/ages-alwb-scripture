@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Ephesians.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Ephesians.abbr
 lemcLI.Epistle.chapverse = "1:16-23"
+lemcLI.Epistle.incipit = "Brethren, I do not cease to give thanks for…"
 lemcLI.Epistle.text = "Brethren, I do not cease to give thanks for you, making mention of you in my prayers. [I pray] that the God of our Lord Jesus Christ, the Father of glory, may give you a spirit of wisdom and revelation to bring you to full knowledge of him. Having the eyes of your heart enlightened, may you experience the hope of his calling and know the riches of the glory of his inheritance in the saints. May you also experience the exceeding greatness of his power toward us who believe, according to his power and might which he accomplished in Christ, when he raised him from the dead and made him to sit at his right hand in the heavenly places. Yes, Christ now sits above all rule, authority, power, dominion, and every name that can be named, not only in this age, but also in the age to come. God put all things in subjection under his feet and granted him to be head over all things for the sake of the Church, which is his body, the fullness of him who fills all in all."
 lemcLI.Epistle.pagenumber = ""

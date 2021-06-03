@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.go.lu.d094_en_US_rsv 
+A_Resource_Whose_Name = le.go.lu.d094_en_US_rsv
 
 leluLI.Gospel.title = "Wednesday of the Fourteenth Week of Luke"
 leluLI.Gospel.title_abbr = "Wednesday of the Fourteenth Week of Luke"
@@ -6,5 +6,6 @@ leluLI.Gospel.version = properties_en_US_rsv.version.designation
 leluLI.Gospel.book_string = bible_en_US_rsv.Mark.text
 leluLI.Gospel.book_abbr = bible_en_US_rsv.Mark.abbr
 leluLI.Gospel.chapverse = "10:11-16"
+leluLI.Gospel.incipit = "The Lord said, \"Whoever divorces his wife and marries…"
 leluLI.Gospel.text = "The Lord said, \"Whoever divorces his wife and marries another, commits adultery against her; and if she divorces her husband and marries another, she commits adultery.\" And they were bringing children to him, that he might touch them; and the disciples rebuked them. But when Jesus saw it he was indignant, and said to them, \"Let the children come to me, do not hinder them; for to such belongs the kingdom of God. Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it.\" And he took them in his arms and blessed them, laying his hands upon them."
 leluLI.Gospel.pagenumber = ""

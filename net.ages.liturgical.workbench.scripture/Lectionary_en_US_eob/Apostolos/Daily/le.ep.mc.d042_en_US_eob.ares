@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Hebrews.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Hebrews.abbr
 lemcLI.Epistle.chapverse = "10:32-38"
+lemcLI.Epistle.incipit = "Brethren, remember the early days when you had just…"
 lemcLI.Epistle.text = "Brethren, remember the early days when you had just been enlightened, how you endured a great struggle with sufferings. Sometimes you were exposed to insults and oppressions; and at other times you stood with those who were treated in such a way. Indeed, you had compassion for me in my chains and joyfully accepted the seizure of your property, knowing that you have a better and enduring property in the heavens. Therefore, do not throw away your confidence which has a great reward. Indeed, you need endurance in order to receive the promise after having done the will of God: In a very little while, he who comes will come and will not wait. But the righteous will live by faith."
 lemcLI.Epistle.pagenumber = ""

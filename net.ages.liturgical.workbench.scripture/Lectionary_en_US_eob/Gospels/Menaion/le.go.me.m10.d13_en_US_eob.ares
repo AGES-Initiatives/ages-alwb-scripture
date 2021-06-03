@@ -6,6 +6,7 @@ lemeLI.Gospel.version = properties_en_US_eob.version.designation
 lemeLI.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemeLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
 lemeLI.Gospel.chapverse = "7:12-21"
+lemeLI.Gospel.incipit = "The Lord said: “Therefore, whatever you desire other people…"
 lemeLI.Gospel.text = "The Lord said: “Therefore, whatever you desire other people to do for you, you shall also do for them! This is the law and the prophets. Enter by the narrow gate, for wide is the gate and broad is the way that leads to destruction, and many are those who enter by it. How narrow is the gate, and how pressing is the way that leads to life! Few are those who find it. Beware of false prophets who come to you in sheep’s clothing. Inwardly, they are ravenous wolves! You will recognize them by their fruits. Do you gather grapes from thorns, or figs from thistles? Likewise, every good tree produces good fruit, but the corrupt tree produces evil fruit. A good tree cannot produce evil fruit, and neither can a corrupt tree produce good fruit. Every tree that does not grow good fruit is cut down, and thrown into the fire. Therefore, by their fruits you will recognize them. It is not everyone who tells me, ‘Lord, Lord’ who will enter into the Kingdom of Heaven, but the one who does the will of my Father who is in heaven.”"
 lemeLI.Gospel.pagenumber = ""
 

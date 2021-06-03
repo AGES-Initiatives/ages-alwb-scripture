@@ -6,5 +6,6 @@ lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.Mark.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
 lemcLI.Gospel.chapverse = "6:1-7"
+lemcLI.Gospel.incipit = "At that time, Jesus came into his own country,…"
 lemcLI.Gospel.text = "At that time, Jesus came into his own country, and his disciples followed him. When the Sabbath came, he began to teach in the synagogue. Hearing him, many were astonished, saying, “Where did this man get these things?” and, “What is the wisdom that is given to him, [that] such powerful works come about by his hands? Is this not the carpenter, the son of Mary, and brother of James, Joses, Judah, and Simon? Are not his sisters here with us?” And they rejected him. Jesus said to them, “A prophet is not without honor, except in his own country, and among his own relatives, and in his own house.” He could not perform any miracles there, except that he laid his hands on a few sick people and healed them. He was astonished because of their unbelief. He went around the villages, teaching. Calling to himself the Twelve, he began to send them out two by two and gave them authority over the unclean spirits."
 lemcLI.Gospel.pagenumber = ""

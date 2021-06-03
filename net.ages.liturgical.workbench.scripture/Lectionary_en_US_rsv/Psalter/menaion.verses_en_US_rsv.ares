@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = menaion.verses_en_US_rsv 
+A_Resource_Whose_Name = menaion.verses_en_US_rsv
 
 psLI.m01.d01.antiphon1.title = ""
 psLI.m01.d01.antiphon1.v1.info = ps_en_US_rsv.psa65.v1.number //"65:1"
@@ -41,9 +41,9 @@ psVE.m01.d02.aposverse.v1.text = ""
 psVE.m01.d02.aposverse.v2.info = ps_en_US_rsv.psa76.v17.number
 psVE.m01.d02.aposverse.v2.text = ""
 psLI.m01.d02.prokeimenon.title = ""
-psLI.m01.d02.prokeimenon.v1.info = ps_en_US_rsv.psa115.v5.number 
+psLI.m01.d02.prokeimenon.v1.info = ps_en_US_rsv.psa115.v5.number
 psLI.m01.d02.prokeimenon.v1.text = ""
-psLI.m01.d02.prokeimenon.v2.info = ps_en_US_rsv.psa115.v3.number 
+psLI.m01.d02.prokeimenon.v2.info = ps_en_US_rsv.psa115.v3.number
 psLI.m01.d02.prokeimenon.v2.text = ""
 
 psGH.m01.d05.v1.info = ps_en_US_rsv.psa41.v7.number //"41:7"

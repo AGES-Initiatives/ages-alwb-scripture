@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.pr.tr.d052_en_US_saas 
+A_Resource_Whose_Name = le.pr.tr.d052_en_US_saas
 
 lemcVE.reading1.title = ""
 lemcVE.reading1.title_abbr = ""
@@ -6,6 +6,7 @@ lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Genesis.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Genesis.abbr
 lemcVE.reading1.chapverse = "13:12-18"
+lemcVE.reading1.incipit = "Abram dwelt in the land of Canaan, but Lot…"
 lemcVE.reading1.text = "Abram dwelt in the land of Canaan, but Lot dwelt in the cities of the plain and pitched his tent even as far as Sodom. Now the men of Sodom were exceedingly wicked and sinful before God. Then God said to Abram, after Lot separated from him, “Lift your eyes now and look from the place where you are—northward, southward, eastward, and westward; for all the land you see I give to you and your seed forever. And I will make your seed as the dust of the earth; that if a man could number the dust of the earth, then your seed also could be numbered. Arise, walk in the land through its length and its breadth, for I will give it to you.” Then Abram moved his tent, and went and dwelt by the oak of Mamre in Hebron, and built an altar there to the Lord."
 
 lemcVE.reading2.title = ""
@@ -14,6 +15,7 @@ lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr
 lemcVE.reading2.chapverse = "14:27-15:4"
+lemcVE.reading2.incipit = "The fear of the Lord is a fountain of…"
 lemcVE.reading2.text = "The fear of the Lord is a fountain of life, for it causes one to turn from the snare of death. The glory of a king is in a large nation, but the destruction of a ruler is in a lack of people. A longsuffering man is strong in discernment, but the fainthearted man is strongly without discernment. A man with a gentle spirit is a healer of the heart, but a sensual heart is the moth of the bones. He who oppresses the poor provokes his Maker, but he who honors Him has mercy upon a poor man. In his evil an ungodly man will be rejected, but a righteous man has confidence in his own holiness. There is wisdom in the good heart of a man, but wisdom is unknown in the heart of those without discernment. Righteousness exalts a nation, but sins diminish tribes. A wise servant is acceptable to a king, and by his own versatility he removes dishonor. Wrath destroys even men of discernment; but a humble answer turns away anger, and a grievous word stirs up wrath. The tongue of the wise understands good things, but the mouth of those without discernment proclaims evil things. The eyes of the Lord are in every place; they keep watch over both the evil and the good. The healing of the tongue is a tree of life, and the one who guards it will be filled with the Spirit."
 
 lemcTE.reading1.title = ""
@@ -22,5 +24,6 @@ lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr
 lemcTE.reading1.chapverse = "40:18-31"
+lemcTE.reading1.incipit = "Thus says the Lord: To whom then will you…"
 lemcTE.reading1.text = "Thus says the Lord: To whom then will you liken the Lord, and to what likeness will you compare Him? Has the workman made an image, or has the goldsmith overspread it with gold, gilding it, making a likeness of Him? For the workman chooses wood that will not rot, and skillfully seeks to prepare a carved image that will not totter. Will you not know? Will you not hear? Has it not been told you from the beginning? Do you not know the foundations of the earth? It is He who possesses the circle of the earth, and its inhabitants are like grasshoppers. It is He who stretches out heaven like a vault, and spreads them out like a tent to dwell in. He makes the rulers He establishes to rule to be as nothing; He makes the earth as nothing. Scarcely shall they be planted, scarcely shall they be sown, scarcely shall their stock take root in the earth, when He shall also blow on them and they will wither, and the whirlwind will take them away like stubble. “Now then, to whom will you liken Me, that I should be exalted?” says the Holy One. Lift up your eyes on high, and see. Who displayed these things? He who brings forth their host by number; He who calls them all by name. From the greatness of His glory to the strength of His might, nothing escapes Your notice. For why do you say, O Jacob, and speak, O Israel, saying, “My way is hidden from God, and my God took away my judgment and departed”? So then, have you not known? Have you not heard? The everlasting God, the God who created the ends of the earth, neither hungers nor is weary. His understanding is unsearchable. He gives strength to the hungry, and sorrow to those who do not grieve. Even the youths shall faint and be weary, and the elect shall be without strength, but those who wait on God shall renew their strength."
 

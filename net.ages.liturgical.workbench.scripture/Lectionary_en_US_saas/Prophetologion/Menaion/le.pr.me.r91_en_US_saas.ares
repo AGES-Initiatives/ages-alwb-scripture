@@ -6,4 +6,5 @@ leprVE.reading.version = properties_en_US_saas.version.designation
 leprVE.reading.book_string = bible_en_US_saas.Isaiah.text
 leprVE.reading.book_abbr = bible_en_US_saas.Isaiah.abbr
 leprVE.reading.chapverse = "9:5-6"
+leprVE.reading.incipit = "For unto us a Child is born, unto us…"
 leprVE.reading.text = "For unto us a Child is born, unto us a Son is given; and the government will be upon His shoulder. His name will be called the Angel of Great Counsel, for I shall bring peace upon the rulers, peace and health by Him. Great shall be His government, and of His peace there is no end. His peace shall be upon the throne of David and over His kingdom, to order and establish it with righteousness and judgment, from that time forward and unto ages of ages. The zeal of the Lord of hosts shall perform this."

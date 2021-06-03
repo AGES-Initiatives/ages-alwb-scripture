@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = liturgical.verses_en_US_saas 
+A_Resource_Whose_Name = liturgical.verses_en_US_saas
 
 //Vespers
 
@@ -401,6 +401,7 @@ psMA.sixpsalms.ps142.end.v2.info = ps_en_US_saas.psa142.v10.number
 psMA.sixpsalms.ps142.end.v2.text = "Your good Spirit shall guide me in the land of uprightness."
 
 psMA.beginning.v1.info = ps_en_US_saas.psa117.v27.number
+psMA.beginning.v1.incipit = "God is the Lord…"
 psMA.beginning.v1.text = "God is the Lord, and He revealed Himself to us. Blessed is he who comes in the name of the Lord."
 psMA.beginning.v2.info = ps_en_US_saas.psa104.v1.number
 psMA.beginning.v2.text = "Give thanks to the Lord and call upon His holy name."
@@ -717,41 +718,49 @@ psMA.woman3.prokeimenon.v2.text = "Deliver my soul from fear of the enemy."
 
 psMA.sunday.m1.prokeimenon.title = "Psalm 11."
 psMA.sunday.m1.prokeimenon.v1.info = ps_en_US_saas.psa11.v6.number
+psMA.sunday.m1.prokeimenon.v1.incipit = "\"Now I will arise,\" says the Lord…"
 psMA.sunday.m1.prokeimenon.v1.text = "\"Now I will arise,\" says the Lord; \"I will establish them in salvation; I will declare it boldly.\""
 psMA.sunday.m1.prokeimenon.v2.info = ps_en_US_saas.psa11.v7.number
 psMA.sunday.m1.prokeimenon.v2.text = "The words of the Lord are pure words, like silver fired in a furnace of earth, purified seven times."
 psMA.sunday.m2.prokeimenon.title = "Psalm 7."
 psMA.sunday.m2.prokeimenon.v1.info = ps_en_US_saas.psa7.v7.number
+psMA.sunday.m2.prokeimenon.v1.incipit = "Awaken, O Lord my God…"
 psMA.sunday.m2.prokeimenon.v1.text = "Awaken, O Lord my God, in the ordinance You commanded, so the congregation of the peoples shall surround You."
 psMA.sunday.m2.prokeimenon.v2.info = ps_en_US_saas.psa7.v2.number
 psMA.sunday.m2.prokeimenon.v2.text = "O Lord my God in You I hope."
 psMA.sunday.m3.prokeimenon.title = "Psalm 95."
 psMA.sunday.m3.prokeimenon.v1.info = ps_en_US_saas.psa95.v10.number
+psMA.sunday.m3.prokeimenon.v1.incipit = "Say among the Gentiles…"
 psMA.sunday.m3.prokeimenon.v1.text = "Say among the Gentiles, \"The Lord is King, for He established the world, which shall not be shaken.\""
 psMA.sunday.m3.prokeimenon.v2.info = ps_en_US_saas.psa95.v1.number
 psMA.sunday.m3.prokeimenon.v2.text = "Oh, sing a new song to the Lord."
 psMA.sunday.m4.prokeimenon.title = "Psalm 43."
 psMA.sunday.m4.prokeimenon.v1.info = ps_en_US_saas.psa43.v27.number
+psMA.sunday.m4.prokeimenon.v1.incipit = "Arise, O Lord; help us…"
 psMA.sunday.m4.prokeimenon.v1.text = "Arise, O Lord; help us, and redeem us, because of the glory of Your name."
 psMA.sunday.m4.prokeimenon.v2.info = ps_en_US_saas.psa43.v2.number
 psMA.sunday.m4.prokeimenon.v2.text = "O God, we heard with our ears."
 psMA.sunday.m5.prokeimenon.title = "Psalm 9."
 psMA.sunday.m5.prokeimenon.v1.info = ps_en_US_saas.psa9.v33.number
+psMA.sunday.m5.prokeimenon.v1.incipit = "Arise, O Lord my God…"
 psMA.sunday.m5.prokeimenon.v1.text = "Arise, O Lord my God, for You reign unto the ages."
 psMA.sunday.m5.prokeimenon.v2.info = ps_en_US_saas.psa9.v2.number
 psMA.sunday.m5.prokeimenon.v2.text = "I will give thanks to You, O Lord, with my whole heart."
 psMA.sunday.m6.prokeimenon.title = "Psalm 79."
 psMA.sunday.m6.prokeimenon.v1.info = ps_en_US_saas.psa79.v3.number
+psMA.sunday.m6.prokeimenon.v1.incipit = "O Lord, raise up Your power…"
 psMA.sunday.m6.prokeimenon.v1.text = "O Lord, raise up Your power, and come for our salvation."
 psMA.sunday.m6.prokeimenon.v2.info = ps_en_US_saas.psa79.v2.number
 psMA.sunday.m6.prokeimenon.v2.text = "Give heed, O You who shepherd Israel."
 psMA.sunday.m7.prokeimenon.title = "Psalm 9."
 psMA.sunday.m7.prokeimenon.v1.info = ps_en_US_saas.psa9.v33.number
+psMA.sunday.m7.prokeimenon.v1.incipit = "Arise, O Lord my God…"
 psMA.sunday.m7.prokeimenon.v1.text = "Arise, O Lord my God, let Your hand be lifted high, and do not forget Your poor to the end."
 psMA.sunday.m7.prokeimenon.v2.info = ps_en_US_saas.psa9.v2.number
 psMA.sunday.m7.prokeimenon.v2.text = "I will give thanks to You, O Lord, with my whole heart."
 psMA.sunday.m8.prokeimenon.title = "Psalm 145."
 psMA.sunday.m8.prokeimenon.v1.info = ps_en_US_saas.psa145.v10.number
+psMA.sunday.m8.prokeimenon.v1.incipit = "The Lord shall reign forever…"
 psMA.sunday.m8.prokeimenon.v1.text = "The Lord shall reign forever; your God, O Zion, to all generations."
 psMA.sunday.m8.prokeimenon.v2.info = ps_en_US_saas.psa145.v1.number
 psMA.sunday.m8.prokeimenon.v2.text = "Praise the Lord, O my soul!"
@@ -935,8 +944,10 @@ psMA.bode8.verse12.info = ps_en_US_saas.bode8.v17.number
 psMA.bode8.verse12.text = "Bless the Lord, O Apostles, Prophets, and Martyrs, and exalt Him beyond measure, unto all the ages."
 
 psMA.exapintro.v1.info = ps_en_US_saas.psa98.v9.number
+psMA.exapintro.v1.incipit = "Holy is the Lord…"
 psMA.exapintro.v1.text = "Holy is the Lord our God."
 psMA.exapintro.v2.info = ps_en_US_saas.psa98.v5.number
+psMA.exapintro.v2.incipit = "Exalt the Lord…"
 psMA.exapintro.v2.text = "Exalt the Lord our God, and worship at the footstool of His feet."
 psMA.exapintro.v3.info = ps_en_US_saas.psa98.v5.number
 psMA.exapintro.v3.text = "For He is holy."
@@ -987,26 +998,37 @@ psMA.lauds.stichologia.v08.text = "To deal retribution to the nations, reproving
 psMA.lauds.stichologia.v07.info = ps_en_US_saas.psa149.v8.number
 psMA.lauds.stichologia.v07.text = "To shackle their kings with chains and their nobles with fetters of iron."
 psMA.lauds.stichologia.v06.info = ps_en_US_saas.psa149.v9.number
+psMA.lauds.stichologia.v06.incipit = "To fulfill among them the written judgment…"
 psMA.lauds.stichologia.v06.text = "To fulfill among them the written judgment: this glory have all His holy ones."
 psMA.lauds.stichologia.v05.info = ps_en_US_saas.psa150.v1.number
+psMA.lauds.stichologia.v05.incipit = "Praise God in His saints; praise Him in the…"
+psMA.lauds.stichologia.v05.incipit = "Praise God in His saints…"
 psMA.lauds.stichologia.v05.text = "Praise God in His saints; praise Him in the firmament of His power."
 psMA.lauds.stichologia.v04.info = ps_en_US_saas.psa150.v2.number
+psMA.lauds.stichologia.v04.incipit = "Praise Him for His mighty acts…"
 psMA.lauds.stichologia.v04.text = "Praise Him for His mighty acts; praise Him according to the abundance of His greatness."
 psMA.lauds.stichologia.v03.info = ps_en_US_saas.psa150.v3.number
+psMA.lauds.stichologia.v03.incipit = "Praise Him with the sound of trumpet…"
 psMA.lauds.stichologia.v03.text = "Praise Him with the sound of trumpet; praise Him with the harp and lyre."
 psMA.lauds.stichologia.v02.info = ps_en_US_saas.psa150.v4.number
+psMA.lauds.stichologia.v02.incipit = "Praise Him with timbrel and dance…"
 psMA.lauds.stichologia.v02.text = "Praise Him with timbrel and dance; praise Him with strings and flute."
 psMA.lauds.stichologia.v01.info = ps_en_US_saas.psa150.v5.number
+psMA.lauds.stichologia.v01.incipit = "Praise Him with resounding cymbals…"
 psMA.lauds.stichologia.v01.text = "Praise Him with resounding cymbals; praise Him with triumphant cymbals; let everything that breathes praise the Lord."
 
 psMA.resurrectional.laudsverse.v1.info = ps_en_US_saas.psa9.v33.number
+psMA.resurrectional.laudsverse.v1.incipit = "Arise, O Lord my God…"
 psMA.resurrectional.laudsverse.v1.text = "Arise, O Lord my God, let Your hand be lifted high, and do not forget Your poor to the end."
 psMA.resurrectional.laudsverse.v2.info = ps_en_US_saas.psa9.v2.number
+psMA.resurrectional.laudsverse.v2.incipit = "I will give thanks to You, O Lord…"
 psMA.resurrectional.laudsverse.v2.text = "I will give thanks to You, O Lord, with my whole heart; I will tell of all Your wondrous things."
 
 psMA.holyfathers.laudsverse.v1.info = le.pr.os_en_US_saas.leosLI.pe.d113.EpistleProkeimenon.chapverse
+psMA.holyfathers.laudsverse.v1.incipit = "Blessed are You, O Lord…"
 psMA.holyfathers.laudsverse.v1.text = "Blessed are You, O Lord God of our fathers, for You are praiseworthy and exalted beyond measure unto the ages."
 psMA.holyfathers.laudsverse.v2.info = ps_en_US_saas.psa49.v5.number
+psMA.holyfathers.laudsverse.v2.incipit = "Gather His holy ones to…"
 psMA.holyfathers.laudsverse.v2.text = "Gather His holy ones to Him, who establish His covenant upon sacrifices."
 
 psMA.weekday.aposverse.v1.info = ps_en_US_saas.psa89.v14.number
@@ -1395,6 +1417,7 @@ psLI.sunday.m8.alleluia.v2.info = ps_en_US_saas.psa94.v2.number
 psLI.sunday.m8.alleluia.v2.text = "Let us come before His face with thanksgiving."
 psLI.sunday.communion.title = "Psalm 148."
 psLI.sunday.communion.v1.info = ps_en_US_saas.psa148.v1.number
+psLI.sunday.communion.v1.incipit = "Praise the Lord…"
 psLI.sunday.communion.v1.text = "Praise the Lord from the heavens, praise Him in the highest."
 
 psLI.weekday.antiphon1.v1.info = ps_en_US_saas.psa91.v2.number
@@ -1428,6 +1451,7 @@ psLI.weekday.d2.alleluia.v2.info = ps_en_US_saas.psa148.v2.number
 psLI.weekday.d2.alleluia.v2.text = "Praise Him, all you His angels; praise Him, all you His hosts."
 psLI.weekday.d2.communion.title = "Psalm 103."
 psLI.weekday.d2.communion.v1.info = ps_en_US_saas.psa103.v4.number
+psLI.weekday.d2.communion.v1.incipit = "He makes His angels…"
 psLI.weekday.d2.communion.v1.text = "He makes His angels spirits and His ministers a flame of fire."
 
 psLI.weekday.d3.prokeimenon.title = "Psalm 63."
@@ -1442,6 +1466,7 @@ psLI.weekday.d3.alleluia.v2.info = ps_en_US_saas.psa91.v14.number
 psLI.weekday.d3.alleluia.v2.text = "Those planted in the house of the Lord shall blossom forth in the courts of our God."
 psLI.weekday.d3.communion.title = "Psalm 111."
 psLI.weekday.d3.communion.v1.info = ps_en_US_saas.psa111.v6.number
+psLI.weekday.d3.communion.v1.incipit = "A righteous man…"
 psLI.weekday.d3.communion.v1.text = "A righteous man shall be in everlasting remembrance."
 
 psLI.weekday.d4.alleluia.title = "Psalm 131."
@@ -1451,6 +1476,7 @@ psLI.weekday.d4.alleluia.v2.info = ps_en_US_saas.psa131.v11.number
 psLI.weekday.d4.alleluia.v2.text = "The Lord swore to David this truth, and He shall not reject it, \"I shall set upon your throne one from the fruit of your loins.\""
 psLI.weekday.d4.communion.title = "Psalm 115."
 psLI.weekday.d4.communion.v1.info = ps_en_US_saas.psa115.v4.number
+psLI.weekday.d4.communion.v1.incipit = "I will take up the cup…"
 psLI.weekday.d4.communion.v1.text = "I will take up the cup of salvation, and call upon the name of the Lord."
 
 psLI.weekday.d5.prokeimenon.title = "Psalm 18."
@@ -1465,6 +1491,7 @@ psLI.weekday.d5.alleluia.v2.info = ps_en_US_saas.psa88.v8.number
 psLI.weekday.d5.alleluia.v2.text = "God is glorified in the counsel of saints."
 psLI.weekday.d5.communion.title = "Psalm 18."
 psLI.weekday.d5.communion.v1.info = ps_en_US_saas.psa18.v5.number
+psLI.weekday.d5.communion.v1.incipit = "Their proclamation went forth…"
 psLI.weekday.d5.communion.v1.text = "Their proclamation went forth into all the earth, and their words to the ends of the world."
 
 psLI.weekday.d6.prokeimenon.title = "Psalm 98."
@@ -1479,9 +1506,11 @@ psLI.weekday.d6.alleluia.v2.info = ps_en_US_saas.psa73.v12.number
 psLI.weekday.d6.alleluia.v2.text = "God is our King before the ages; He worked salvation in the midst of the earth."
 psLI.weekday.d6.communion1.title = "Psalm 73."
 psLI.weekday.d6.communion1.v1.info = ps_en_US_saas.psa73.v12.number
+psLI.weekday.d6.communion1.v1.incipit = "You worked salvation…"
 psLI.weekday.d6.communion1.v1.text = "You worked salvation in the midst of the earth, O Christ our God."
 psLI.weekday.d6.communion2.title = "Psalm 4."
 psLI.weekday.d6.communion2.v1.info = ps_en_US_saas.psa4.v7.number
+psLI.weekday.d6.communion2.v1.incipit = "O Lord, the light of Your face…"
 psLI.weekday.d6.communion2.v1.text = "O Lord, the light of Your face was stamped upon us."
 
 psLI.weekday.d7.prokeimenon.title = "Psalm 31."
@@ -1496,9 +1525,11 @@ psLI.weekday.d7.alleluia.v2.info = ps_en_US_saas.psa101.v13.number
 psLI.weekday.d7.alleluia.v2.text = "And their memorial abides from generation to generation."
 psLI.weekday.d7.communion1.title = "Psalm 32."
 psLI.weekday.d7.communion1.v1.info = ps_en_US_saas.psa32.v1.number
+psLI.weekday.d7.communion1.v1.incipit = "Rejoice greatly in the Lord…"
 psLI.weekday.d7.communion1.v1.text = "Rejoice greatly in the Lord, O righteous ones; praise is fitting for the upright."
 psLI.weekday.d7.communion2.title = "Psalms 64, 101."
 psLI.weekday.d7.communion2.v1.info = ps_en_US_saas.psa64.v5.number
+psLI.weekday.d7.communion2.v1.incipit = "Blessed are they whom You have chosen…"
 psLI.weekday.d7.communion2.v1.text = "Blessed are they whom You have chosen and received, O Lord. Their memorial abides from generation to generation."
 
 psLI.trisagionbaptized.title = ""
@@ -1519,6 +1550,7 @@ psLI.censechalice.v1.text = "Be exalted, O God, above the heavens, and Your glor
 
 psLI.aftercommunion.title = "Psalm 112."
 psLI.aftercommunion.v1.info = ps_en_US_saas.psa112.v2.number
+psLI.aftercommunion.v1.incipit = "Blessed be the name…"
 psLI.aftercommunion.v1.text = "Blessed be the name of the Lord from this present time and unto the ages."
 psLI.aftercommunion.v1a.info = ps_en_US_saas.psa112.v2.number
 psLI.aftercommunion.v1a.text = "Blessed be the name of the Lord,"
@@ -1538,6 +1570,7 @@ psPL.incense.v5.text = "Let my prayer be set forth before You as incense."
 psPL.incense.v6.info = ps_en_US_saas.psa140.v2.number
 psPL.incense.v6.text = "The lifting up of my hands as the evening sacrifice."
 psPL.communion.v1.info = ps_en_US_saas.psa33.v9.number
+psPL.communion.v1.incipit = "Taste and see…"
 psPL.communion.v1.text = "Taste and see that the Lord is good."
 
 psGC.lordofpowers.v1.info = ps_en_US_saas.psa150.v1.number

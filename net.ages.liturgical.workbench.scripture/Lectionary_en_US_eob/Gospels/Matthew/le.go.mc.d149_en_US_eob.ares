@@ -6,5 +6,6 @@ lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
 lemcLI.Gospel.chapverse = "12:9-13"
+lemcLI.Gospel.incipit = "At that time, Jesus went into the synagogue of…"
 lemcLI.Gospel.text = "At that time, Jesus went into the synagogue of the Jews. And behold, there was a man with a withered hand. Looking for a reason to accuse Jesus, the Pharisees asked him, “Is it lawful to heal on the Sabbath day?” Jesus replied, “Who among you, having one sheep, and if this one falls into a pit on the Sabbath day, will not take hold of it and lift it out? Of how much more value is a man compared to a sheep! Therefore, it is lawful to do what is good on the Sabbath day.” Then he told the man, “Stretch out your hand.” The man stretched it out, and it was restored whole, just like the other hand."
 lemcLI.Gospel.pagenumber = ""

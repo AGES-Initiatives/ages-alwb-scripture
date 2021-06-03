@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.pr.tr.d024_en_US_saas 
+A_Resource_Whose_Name = le.pr.tr.d024_en_US_saas
 
 lemcVE.reading1.title = ""
 lemcVE.reading1.title_abbr = ""
@@ -6,6 +6,7 @@ lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = le.pr.me.r12_en_US_saas.leprVE.reading.book_string
 lemcVE.reading1.book_abbr = le.pr.me.r12_en_US_saas.leprVE.reading.book_abbr
 lemcVE.reading1.chapverse = le.pr.me.r12_en_US_saas.leprVE.reading.chapverse
+lemcVE.reading1.incipit = le.pr.me.r12_en_US_saas.leprVE.reading.incipit
 lemcVE.reading1.text = le.pr.me.r12_en_US_saas.leprVE.reading.text
 
 lemcVE.reading2.title = ""
@@ -14,6 +15,7 @@ lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr
 lemcVE.reading2.chapverse = "1:1-20"
+lemcVE.reading2.incipit = "The Proverbs of Solomon, the son of David, who…"
 lemcVE.reading2.text = "The Proverbs of Solomon, the son of David, who reigned in Israel, to know wisdom and instruction, and to understand words of discernment; to receive both subtlety of words, and to understand true righteousness and upright judgment; so as to give astuteness to the simple, and both perception and understanding to a young man; for a wise man who hears these things will be wiser, and the man of understanding will gain direction. He will understand both a parable and a hidden saying, both wise words and riddles. The fear of God is the beginning of wisdom, and there is good understanding in all who practice it; and godliness toward God is the beginning of perception, but the ungodly despise wisdom and instruction. Hear, my son, the instruction of your father, and do not reject the laws of your mother. For you will receive a crown of grace on your head and a gold chain around your neck. My son, do not let the ungodly lead you astray, and do not consent if they invite you, saying, “Come with us; take part in bloodshed, and let us hide a righteous man in the earth unjustly; and let us swallow him, just as Hades does the living, and let us take away his remembrance from the earth; let us seize his valuable property, and let us fill our houses with spoils; cast your lot with us and let us acquire a common bag; let there be one purse for us.” Do not walk in the way with them, but turn away your foot from their paths. For their feet run to evil, and they make haste to shed blood. For nets are not spread before birds for no reason,for those who participate in murder store up evils for themselves; and evil is the destruction of lawless men. These are the ways of all who accomplish lawless things, for they take away their own soul in ungodliness. Wisdom sings in the streets; she moves boldly in the squares."
 
 lemcTE.reading1.title = ""
@@ -22,5 +24,6 @@ lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr
 lemcTE.reading1.chapverse = "1:19-31; 2:1-3"
+lemcTE.reading1.incipit = "Thus says the Lord: “If you are willing and…"
 lemcTE.reading1.text = "Thus says the Lord: “If you are willing and obedient, you shall eat the good things of the land. But if you are unwilling and disobedient, you shall be devoured by the sword,” for the mouth of the Lord has spoken. How the faithful city of Zion has become a prostitute! It was full of judgment. Righteousness lodged in it, but now murderers. Your silver is worthless; your tavern-keepers mix wine with water. Your rulers are disobedient and companions of thieves. Everyone loves bribes and follows after rewards. They do not defend the orphans, nor do they regard the cause of the widow. Therefore says the Master, the Lord of hosts: “Woe to the mighty ones of Israel, for My anger against the adversaries will not cease; and I will execute judgment on My enemies. I will bring My hand upon you and purge you completely. I will destroy those who disobey and remove all the lawless from you; I will humble all the arrogant. I will establish your judges as at the first and your counselors as at the beginning. Afterward, you shall be called the city of righteousness, Zion, the faithful mother-city.” For her captives shall be saved with judgment and with mercy. The lawless and sinners shall be destroyed together. Those who forsake the Lord shall come to an end. For they shall be ashamed of the idols they desired and the gardens they longed for. For they shall be as a terebinth tree that has lost its leaves; like a garden with no water. Their strength shall be as broken fiber and their works as sparks of fire. The lawless and the sinners will burn together, and no one shall quench them. The word that came from the Lord to Isaiah the son of Amoz concerning Judah and Jerusalem. Now it shall come to pass in the last days, the mountain of the Lord and the house of God shall be visible on the tops of the mountains and exalted above the hills. All the Gentiles shall come to it. Many Gentiles shall travel and say, “Come and let us go up to the mountain of the Lord, to the house of the God of Jacob. He will proclaim His way to us, and we shall walk in it.”"
 

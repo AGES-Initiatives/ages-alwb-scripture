@@ -6,5 +6,6 @@ lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.John.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
 lemcLI.Gospel.chapverse = "11:47-54"
+lemcLI.Gospel.incipit = "At that time, the chief priests and the Pharisees…"
 lemcLI.Gospel.text = "At that time, the chief priests and the Pharisees gathered a council against Jesus and said, “What are we to do? This man does many signs! If we leave him alone like this, everyone will believe in him, and the Romans will come and take away both our place and our nation.” But one of them, Caiaphas, who was high priest that year, said to them, “You understand nothing at all! Do you not consider that it is better for us that one man should die for the people than that the whole nation should perish?” Now he did not say this of himself, but being high priest that year, he prophesied that Jesus would die for the nation, and not for the nation only, but also in order to gather as one the children of God scattered abroad. And so, from that day forward, they planned together to put him to death. For this reason, Jesus no longer walked openly among the Jews. Instead, he left that place [and went] into the countryside near the wilderness, to a city called Ephraim. He stayed there with his disciples."
 lemcLI.Gospel.pagenumber = ""

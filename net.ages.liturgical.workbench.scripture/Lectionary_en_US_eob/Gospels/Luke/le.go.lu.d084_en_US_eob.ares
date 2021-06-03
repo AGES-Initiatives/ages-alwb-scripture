@@ -6,5 +6,6 @@ leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
 leluLI.Gospel.chapverse = "17:12-19"
+leluLI.Gospel.incipit = "At that time, as Jesus entered into a certain…"
 leluLI.Gospel.text = "At that time, as Jesus entered into a certain village, ten men who were lepers met him, and they stood at a distance. They lifted up their voices, saying, “Jesus, Master, have mercy on us!” When Jesus saw them, he told them, “Go and show yourselves to the priests.” And it happened that as they went, they were cleansed. One of them, when he saw that he was healed, turned back, glorifying God with a loud voice. He fell on his face at Jesus’ feet, giving him thanks; and this man was a Samaritan. Jesus said, “Were not ten cleansed? But where are the nine [others]? Was no one found who came back to glorify God, except for this foreigner?” Then Jesus said to him, “Get up and go your way. Your faith has healed you!”"
 leluLI.Gospel.pagenumber = ""

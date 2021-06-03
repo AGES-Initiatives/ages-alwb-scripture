@@ -6,5 +6,6 @@ leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Mark.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
 leluLI.Gospel.chapverse = "13:9-13"
+leluLI.Gospel.incipit = "The Lord said to his disciples: “But be on…"
 leluLI.Gospel.text = "The Lord said to his disciples: “But be on your guard, for people will hand you over to the courts. You will be beaten in their synagogues, and you will stand before rulers and kings for my sake, as a testimony to them. The Good News must first be preached to all the nations. When they take you away and arrest you, do not worry in advance. Do not think ahead about what you will say, but say whatever will be given you in that hour. For it is not you who speak, but the Holy Spirit. Brother will deliver up [his own] brother to death, and a father his [own] child. Children will rise up against parents and cause them to be put to death. You will be hated by all for my Name’s sake, but the one who endures to the end will be saved.”"
 leluLI.Gospel.pagenumber = ""

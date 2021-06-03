@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Philippians.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Philippians.abbr
 lemcLI.Epistle.chapverse = "1:8-14"
+lemcLI.Epistle.incipit = "Brethren, God is my witness: I long for all…"
 lemcLI.Epistle.text = "Brethren, God is my witness: I long for all of you in the tender mercies of Jesus Christ! I pray [especially] for this, that your love may overflow even more, with an increase of knowledge and all discernment. This way, you will be able to discern what things are excellent, so that you may be sincere and without offense until the day of Christ, filled with the fruits of righteousness which are through Jesus Christ, to the glory and praise of God! Now I want to you to know, brethren, that what happened to me has turned out to be for the progress of the Good News! It became clear to the whole palace guard and to others that my chains are in Christ, and most of the brethren in the Lord, being confident through my bonds, are even bolder to speak the word without fear."
 lemcLI.Epistle.pagenumber = ""

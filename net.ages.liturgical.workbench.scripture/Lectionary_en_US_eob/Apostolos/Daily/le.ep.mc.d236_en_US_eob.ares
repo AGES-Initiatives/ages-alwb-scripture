@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Ephesians.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Ephesians.abbr
 lemcLI.Epistle.chapverse = "4:14-17"
+lemcLI.Epistle.incipit = "Brethren, we may no longer be children, tossed back…"
 lemcLI.Epistle.text = "Brethren, we may no longer be children, tossed back and forth and carried about by every wind of doctrine through human trickery, according to clever deceits and mistaken schemes. Instead, speaking the truth in love, may we grow up in all things into him who is the head, Christ. From him, the whole body, being fitted and knit together by what every joint supplies, and according to the participation of each part, grows and builds itself in love. Therefore, I say and testify in the Lord that you [should] no longer walk as the rest of the Gentiles also walk, in the futility of their mind."
 lemcLI.Epistle.pagenumber = ""

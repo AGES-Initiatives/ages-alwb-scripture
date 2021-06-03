@@ -6,5 +6,6 @@ leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
 leluLI.Gospel.chapverse = "7:31-35"
+leluLI.Gospel.incipit = "The Lord said: “To what, then, can I compare…"
 leluLI.Gospel.text = "The Lord said: “To what, then, can I compare the people of this generation? What are they like? They are like children who sit in the marketplace and who call to one another, saying: ‘We played the pipes to you, and you did not dance! We mourned to you, and you did not cry!’ For John the Baptizer came neither eating bread nor drinking wine, and you say, ‘He has a demon!’ The Son of Man came eating and drinking, and you say, ‘Behold, a glutton and a drunkard; a friend of tax collectors and sinners!’ Yet Wisdom is justified by all her children!”"
 leluLI.Gospel.pagenumber = ""

@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.pr.tr.d046_en_US_saas 
+A_Resource_Whose_Name = le.pr.tr.d046_en_US_saas
 
 lemcVE.reading1.title = ""
 lemcVE.reading1.title_abbr = ""
@@ -6,6 +6,7 @@ lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Genesis.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Genesis.abbr
 lemcVE.reading1.chapverse = "9:8-17"
+lemcVE.reading1.incipit = "Then God spoke to Noah and his sons with…"
 lemcVE.reading1.text = "Then God spoke to Noah and his sons with him, saying, “Behold, I am establishing My covenant with you and with your seed after you, and every living creature with you: the birds, the cattle, and all the wild animals of the earth, of all that came out of the ark with you. Thus I will establish My covenant with you, and never again shall all flesh be cut off by the waters of the flood; nor shall there ever again be a flood to destroy the earth.” Then the Lord God said to Noah, “This is the sign of the covenant I am making between Me and you, and every living creature with you, for perpetual generations: I am setting My rainbow in the cloud, and it shall be a sign of the covenant between Me and the earth. It shall be, when I bring a cloud over the earth, the rainbow shall be seen in the cloud; and I will remember My covenant between Me and you and every living creature of all flesh; the waters shall never again become a flood to destroy all flesh. My rainbow shall be in the cloud, and I will certainly remember the everlasting covenant between God and every living creature of all flesh on the earth.” Again God said to Noah, “This is the sign of the covenant I established between Me and all flesh on the earth.”"
 
 lemcVE.reading2.title = ""
@@ -14,6 +15,7 @@ lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr
 lemcVE.reading2.chapverse = "12:8-24"
+lemcVE.reading2.incipit = "The mouth of a man of understanding is praised…"
 lemcVE.reading2.text = "The mouth of a man of understanding is praised by a man, but the slothful of heart are treated with contempt. It is better for a man in dishonor to serve himself than for him to surround himself with honor while in need of bread. A righteous man has compassion on the lives of his cattle, but the affections of the ungodly are without mercy. He who works his own land will be satisfied with bread, but those who pursue vain things are in need of discernment. He who is gladdened by wines in passing his time shall leave dishonor in his own strongholds. The desires of the ungodly are evil, but the roots of the godly are in strongholds. By the sin of his lips a sinner falls into snares, but a righteous man escapes from them. He whose looks are gentle will show mercy, but he who contends in the gates will afflict souls. By the fruits of his mouth, the soul of a man will be filled with good things, and the recompense of his lips will be given to him. The ways of undiscerning men are right in their own eyes, but a wise man hearkens to counsels. A man without discernment immediately proclaims his wrath, but an astute man hides his own dishonor. A righteous man declares his honesty openly, but the witness of the unrighteous is deceitful. There are those who wound with a sword as they speak, but the tongues of the wise heal. Truthful lips establish a testimony, but a hasty witness has an unrighteous tongue. There is deceit in the heart of a man who devises evil things, but those who counsel peace shall be glad. Nothing unrighteous will ever be pleasing to the righteous, but the ungodly will be filled with evil things. Lying lips are an abomination to the Lord, but he who shows faithfulness is acceptable to Him."
 
 lemcTE.reading1.title = ""
@@ -22,5 +24,6 @@ lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr
 lemcTE.reading1.chapverse = "26:21-27:9"
+lemcTE.reading1.incipit = "For behold, the Lord is bringing wrath from His…"
 lemcTE.reading1.text = "For behold, the Lord is bringing wrath from His holy place upon the inhabitants of the earth, and the earth will uncover its blood and will not cover its slain. In that day, God will bring His holy, great, and strong sword upon the fleeing dragon serpent, the perverse dragon serpent that flees; and He shall destroy the dragon. In that day, there shall be a beautiful vineyard, and a desire to begin a hymn against a city: “I am a strong city, a besieged city; I water it in vain; for it shall be taken at night, and its wall shall fall by day. There is no woman who has not taken hold of it. Who will appoint me to guard straw in a field? I rejected it because of this enemy. For that very reason therefore, the Lord God did all the things He ordered. I am burned down.” Those who dwell in it will cry out, “Let us make peace with Him, let us make peace.” Those who come are the children of Jacob. Israel shall bud and put forth flowers, and the inhabited earth shall be filled with its fruit. As he struck, shall he not be thus struck? As he slew, shall he not be thus slain? Fighting and denouncing he shall send them away. Did you not think with a harsh spirit about killing them in a spirit of anger? Therefore the lawlessness of Jacob will be removed; and this is his blessing when I take away his sin, when they make all the stones of the altars beaten like fine dust. Their trees do not remain, and their idols shall be cut down like a distant forest."
 

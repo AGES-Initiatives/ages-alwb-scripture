@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Romans.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Romans.abbr
 lemcLI.Epistle.chapverse = "8:22-27"
+lemcLI.Epistle.incipit = "Brethren, we know that the totality of creation groans…"
 lemcLI.Epistle.text = "Brethren, we know that the totality of creation groans and labors in pain until now. Moreover, so do we who have the first fruits of the Spirit! We groan within ourselves, awaiting the adoption, the redemption of our body. We were saved in hope, but hope that is seen is not hope! Indeed, why does one still hope for what is seen? But if we hope for what we do not see, we wait for it with patience. Also, the Spirit helps our weaknesses, because we do not know how to pray as we should. But the Spirit himself makes intercession for us with groanings which cannot be uttered. He who searches the hearts knows the way of thinking of the Spirit, because the prayers that the Spirit makes for the saints are always in accordance with God."
 lemcLI.Epistle.pagenumber = ""

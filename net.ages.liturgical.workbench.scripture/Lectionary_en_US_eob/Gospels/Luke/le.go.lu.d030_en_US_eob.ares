@@ -6,5 +6,6 @@ leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
 leluLI.Gospel.chapverse = "9:23-27"
+leluLI.Gospel.incipit = "The Lord said to his disciples: “Anyone who desires…"
 leluLI.Gospel.text = "The Lord said to his disciples: “Anyone who desires to come after me must deny himself, take up his cross daily, and follow me. For whoever desires to save his life will lose it, but whoever will lose his life for my sake will save it. Indeed what profit is there if someone gains the whole world but loses or surrenders his own self? If anyone is ashamed of me and my words, the Son of Man will be ashamed of him when he comes in his glory, and in the glory of the Father and of the holy angels. But I tell you the truth: There are some who stand here who will in no way taste of death until they see the Kingdom of God.”"
 leluLI.Gospel.pagenumber = ""

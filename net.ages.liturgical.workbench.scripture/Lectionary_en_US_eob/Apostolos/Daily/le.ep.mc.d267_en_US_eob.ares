@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Galatians.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Galatians.abbr
 lemcLI.Epistle.chapverse = "2:16-20"
+lemcLI.Epistle.incipit = "Brethren, knowing that no one is justified by the…"
 lemcLI.Epistle.text = "Brethren, knowing that no one is justified by the works of the law but through faith in Jesus Christ, we believed in Christ Jesus, so that we might be justified by faith in Christ, and not by the works of the law, because no one will be justified by the works of the law. But if, even though we desired to be justified in Christ, we were found to be sinners, does that mean that Christ is a servant of sin? Certainly not! Indeed, if I build up again those things which I [once] destroyed, I show that I am breaking the law. For I, through the law, died to the law, so that I might live to God. I have been crucified with Christ, and it is no longer I who live, but Christ who lives in me. I now live this life in the flesh, but I live [it] by faith in the Son of God, who loved me and who gave himself up for me."
 lemcLI.Epistle.pagenumber = ""

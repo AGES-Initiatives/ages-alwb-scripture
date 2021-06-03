@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.go.me.m05.d02_en_US_rsv 
+A_Resource_Whose_Name = le.go.me.m05.d02_en_US_rsv
 
 lemeLI.Gospel.title = "For the Saint."
 lemeLI.Gospel.title_abbr = "For the Saint."
@@ -6,5 +6,6 @@ lemeLI.Gospel.version = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel2.version
 lemeLI.Gospel.book_string = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel2.book_string
 lemeLI.Gospel.book_abbr = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel2.book_abbr
 lemeLI.Gospel.chapverse = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel2.chapverse
+lemeLI.Gospel.incipit = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel2.incipit
 lemeLI.Gospel.text = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel2.text
 lemeLI.Gospel.pagenumber = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel2.pagenumber

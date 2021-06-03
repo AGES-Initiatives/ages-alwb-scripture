@@ -6,6 +6,7 @@ lemeLI.Gospel.version = properties_en_US_eob.version.designation
 lemeLI.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemeLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
 lemeLI.Gospel.chapverse = "4:12-17"
+lemeLI.Gospel.incipit = "At that time, when Jesus heard that John had…"
 lemeLI.Gospel.text = "At that time, when Jesus heard that John had been arrested, he withdrew into Galilee. Leaving Nazareth, he came and lived in Capernaum, which is by the sea, in the region of Zebulun and Naphtali, so that what had been spoken through Isaias the prophet might be fulfilled: The land of Zebulun and the land of Naphtali, toward the sea, beyond the Jordan, Galilee of the Gentiles, the people who sat in darkness saw a great light, to those who sat in the region and shadow of death, to them light has dawned. From that time on, Jesus began to preach and to say, “Repent! For the Kingdom of Heaven is at hand.”"
 lemeLI.Gospel.pagenumber = ""
 

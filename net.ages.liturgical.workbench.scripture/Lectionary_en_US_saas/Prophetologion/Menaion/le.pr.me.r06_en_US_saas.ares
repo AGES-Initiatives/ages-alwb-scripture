@@ -5,5 +5,6 @@ leprVE.reading.title_abbr = ""
 leprVE.reading.version = properties_en_US_saas.version.designation
 leprVE.reading.book_string = bible_en_US_saas.Isaiah.text
 leprVE.reading.book_abbr = bible_en_US_saas.Isaiah.abbr
+leprVE.reading.incipit = "Thus says the Lord: Wash yourselves, make yourselves clean.…"
 leprVE.reading.text = "Thus says the Lord: Wash yourselves, make yourselves clean. Put away the evils from your souls before My eyes. Cease from your evils. Learn to do good. Seek judgment and redeem the wronged. Defend the orphan and justify the widow. Come now, and let us reason together,” says the Lord, “although your sins are like crimson, I shall make them white like snow, and although they are as scarlet, I shall make them white like wool. If you are willing and obedient, you shall eat the good things of the land. But if you are unwilling and disobedient, you shall be devoured by the sword,” for the mouth of the Lord has spoken."
 leprVE.reading.chapverse = "1:16-20"

@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = le.pr.tr.d048_en_US_saas 
+A_Resource_Whose_Name = le.pr.tr.d048_en_US_saas
 
 lemcVE.reading1.title = ""
 lemcVE.reading1.title_abbr = ""
@@ -6,6 +6,7 @@ lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Genesis.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Genesis.abbr
 lemcVE.reading1.chapverse = "10:32-11:9"
+lemcVE.reading1.incipit = "These were the tribes of Noah’s sons, according to…"
 lemcVE.reading1.text = "These were the tribes of Noah’s sons, according to their genealogy, in their nations; and from these the coastal nations were divided on the earth after the flood. Now the whole earth was one language and one speech. And it came to pass, as they journeyed from the east, they found a plain in the land of Shinar, and dwelt there. Then they said to one another, “Come, let us make bricks and bake them with fire.” They had brick for stone and asphalt for mortar. They also said, “Come, let us build ourselves a city and a tower, whose top will reach to heaven; and let us make a name for ourselves, lest we be scattered abroad over the face of the whole earth.” But the Lord came down to see the city and the tower the sons of men built. Then the Lord said, “Indeed, the people are one race and one language, and they have begun to do what they said. Now they will not fail to accomplish what they have undertaken. Come, let Us go down there and confuse their language, so they may not understand one another’s speech.” So the Lord scattered them abroad from there over the face of all the earth, and they ceased building the city and the tower. Therefore its name is called Babel, because there the Lord confused the languages of all the earth; and from there the Lord God scattered them abroad over the face of all the earth."
 
 lemcVE.reading2.title = ""
@@ -14,6 +15,7 @@ lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr
 lemcVE.reading2.chapverse = "13:19-14:6"
+lemcVE.reading2.incipit = "A rash king falls into evil things, but a…"
 lemcVE.reading2.text = "A rash king falls into evil things, but a faithful messenger rescues him. Instruction removes poverty and dishonor, and he who gives heed to rebukes will be glorified. The desires of the godly gladden the soul, but the works of the ungodly are far from knowledge. He who walks with the wise shall be wise, but he who walks with those without discernment will be known. Evil things shall pursue sinners, but good things will overtake the righteous. A good man will inherit sons of sons, but the wealth of the ungodly will be stored up for the righteous. The righteous shall live in wealth many years, but the unrighteous will be destroyed suddenly. He who spares the rod hates his son, but he who loves him instructs him with care. A righteous man eats and satisfies his soul, but the souls of the ungodly are in want. Wise women build houses, but those without discernment destroy them with their hands. He who walks uprightly fears the Lord, but he who is crooked in his ways will be dishonored. From the mouth of a man without discernment comes a rod of arrogance, but the lips of wise men guard themselves. Where there are no oxen, the stalls are clean, but where there are abundant crops, the strength of an ox is evident. A faithful witness does not lie, but an unrighteous witness kindles lies. You will seek wisdom in the company of evil men, and you will not find it; but perception is easily found with the discerning."
 
 lemcTE.reading1.title = ""
@@ -22,5 +24,6 @@ lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr
 lemcTE.reading1.chapverse = "29:13-23"
+lemcTE.reading1.incipit = "So the Lord said, “These people draw near to…"
 lemcTE.reading1.text = "So the Lord said, “These people draw near to Me and honor Me with their lips, but their heart is far from Me, and they worship Me in vain, teaching the commandments and doctrines of men. Therefore behold, I will proceed to remove this people, and I shall remove them. I shall destroy the wisdom of the wise and hide the understanding of the intelligent.” Woe to those who deepen their counsel, but not through the Lord! Woe to those who take counsel in secret and whose works are in darkness! They say, “Who sees us?” and, “Who knows us or what we do?” Shall you not be considered as the clay of the potter? Shall what is molded of clay say to him who molded it, “You did not create me”? Or shall the work say to him who made it, “You did not make me wisely”? Is it not yet a very little while until Lebanon shall be changed like Mount Carmel, and Mount Carmel be considered a forest? In that day, the deaf shall hear the words of the book, and the eyes of those in darkness and in a fog shall see. The poor also shall rejoice exceedingly in gladness because of the Lord, and the hopeless among men shall be filled with gladness. The lawless man has come to an end, and the arrogant man has perished. Those who act lawlessly in malice are utterly destroyed, as well as those who cause men to sin in word. They shall make all who condemn at the gates an offense, because they turned aside the righteous man with wrongdoing. Therefore the Lord says this concerning the house of Jacob, whom He set apart out of Abraham: “Now Jacob shall not be ashamed, nor shall Israel now change his countenance. But when their children see My works, they shall sanctify My name for My sake, and will sanctify the Holy One of Jacob, and fear the God of Israel.”"
 

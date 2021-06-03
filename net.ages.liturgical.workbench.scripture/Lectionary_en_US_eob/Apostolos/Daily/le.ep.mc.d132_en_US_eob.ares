@@ -6,5 +6,6 @@ lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Romans.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Romans.abbr
 lemcLI.Epistle.chapverse = "5:17-21; 6:1-2"
+lemcLI.Epistle.incipit = "Brethren, if by the sin of the one, death…"
 lemcLI.Epistle.text = "Brethren, if by the sin of the one, death reigned through that one, so much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one, Jesus Christ. And so, as through one sin all men were condemned, likewise through one act of righteousness all men were justified to life. Indeed, just as through the one man’s disobedience many were made sinners, likewise, through the obedience of the one, many will be made righteous. Moreover, the law came in so that sin might be multiplied; but where sin did multiply, grace multiplied even more! This way, just as sin ruled in death, grace was to rule through righteousness to eternal life through Jesus Christ our Lord. What then shall we say? Shall we continue in sin, so that grace may abound? May it never be! We who died to sin, how could we live in it any longer?"
 lemcLI.Epistle.pagenumber = ""

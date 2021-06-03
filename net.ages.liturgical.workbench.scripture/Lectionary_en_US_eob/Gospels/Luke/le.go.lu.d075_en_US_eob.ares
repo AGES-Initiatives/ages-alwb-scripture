@@ -6,5 +6,6 @@ leluLI.Gospel.version = properties_en_US_eob.version.designation
 leluLI.Gospel.book_string = bible_en_US_eob.Luke.text
 leluLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
 leluLI.Gospel.chapverse = "20:19-26"
+leluLI.Gospel.incipit = "At that time, the chief priests and the scribes…"
 leluLI.Gospel.text = "At that time, the chief priests and the scribes were looking for a way to lay hands on Jesus that very hour, but they feared the people because they knew that he spoke parables against them. They watched him and sent out spies who pretended to be righteous in order to trap him in something he might say, so that they might hand him over to the power and authority of the governor. They asked him, “Teacher, we know that you say and teach what is right, and that you are not partial to anyone but truly teach the way of God. Is it lawful for us to pay taxes to Caesar, or not?” But Jesus perceived their trickery and said to them, “Why are you testing me? Show me a denarius! Whose image and inscription are on it?” They answered, “Caesar’s.” So Jesus said to them, “Then give to Caesar what belongs to Caesar, and [give] to God what belongs to God!” And they were not able to ensnare him in his words before the people. They marveled at his answer and remained silent."
 leluLI.Gospel.pagenumber = ""
