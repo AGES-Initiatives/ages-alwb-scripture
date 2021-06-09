@@ -6,6 +6,7 @@ lemeVE.Gospel.version = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.version
 lemeVE.Gospel.book_string = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.book_string
 lemeVE.Gospel.book_abbr = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.book_abbr
 lemeVE.Gospel.chapverse = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.chapverse
+lemeVE.Gospel.incipit = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.incipit
 lemeVE.Gospel.text = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.text
 lemeVE.Gospel.pagenumber = le.go.me.m01.d05_en_US_eob.lemeH9.Gospel.pagenumber
 
@@ -15,6 +16,7 @@ lemeMA.Gospel.version = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.version
 lemeMA.Gospel.book_string = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.book_string
 lemeMA.Gospel.book_abbr = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.book_abbr
 lemeMA.Gospel.chapverse = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.chapverse
+lemeMA.Gospel.incipit = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.incipit
 lemeMA.Gospel.text = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.text
 lemeMA.Gospel.pagenumber = le.go.me.m01.d05_en_US_eob.lemeH6.Gospel.pagenumber
 

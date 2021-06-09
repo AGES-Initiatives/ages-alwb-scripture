@@ -6,6 +6,7 @@ lemeH1.Epistle.version = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.version
 lemeH1.Epistle.book_string = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.book_string
 lemeH1.Epistle.book_abbr = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.book_abbr
 lemeH1.Epistle.chapverse = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.chapverse
+lemeH1.Epistle.incipit = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.incipit
 lemeH1.Epistle.text = le.ep.mc.d028_en_US_eob.lemcLI.Epistle.text
 
 lemeH3.Epistle.title = "Third Hour."
@@ -14,6 +15,7 @@ lemeH3.Epistle.version = le.ep.mc.d222_en_US_eob.lemcLI.Epistle.version
 lemeH3.Epistle.book_string = le.ep.mc.d222_en_US_eob.lemcLI.Epistle.book_string
 lemeH3.Epistle.book_abbr = le.ep.mc.d222_en_US_eob.lemcLI.Epistle.book_abbr
 lemeH3.Epistle.chapverse = le.ep.mc.d222_en_US_eob.lemcLI.Epistle.chapverse
+lemeH3.Epistle.incipit = le.ep.mc.d222_en_US_eob.lemcLI.Epistle.incipit
 lemeH3.Epistle.text = le.ep.mc.d222_en_US_eob.lemcLI.Epistle.text
 
 lemeH6.Epistle.title = "Sixth Hour."
@@ -22,6 +24,7 @@ lemeH6.Epistle.version = le.ep.mc.d036_en_US_eob.lemcLI.Epistle.version
 lemeH6.Epistle.book_string = le.ep.mc.d036_en_US_eob.lemcLI.Epistle.book_string
 lemeH6.Epistle.book_abbr = le.ep.mc.d036_en_US_eob.lemcLI.Epistle.book_abbr
 lemeH6.Epistle.chapverse = le.ep.mc.d036_en_US_eob.lemcLI.Epistle.chapverse
+lemeH6.Epistle.incipit = le.ep.mc.d036_en_US_eob.lemcLI.Epistle.incipit
 lemeH6.Epistle.text = le.ep.mc.d036_en_US_eob.lemcLI.Epistle.text
 
 lemeH9.Epistle.title = "Ninth Hour."
@@ -30,4 +33,5 @@ lemeH9.Epistle.version = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.version
 lemeH9.Epistle.book_string = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.book_string
 lemeH9.Epistle.book_abbr = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.book_abbr
 lemeH9.Epistle.chapverse = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.chapverse
+lemeH9.Epistle.incipit = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.incipit
 lemeH9.Epistle.text = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.text

@@ -6,6 +6,7 @@ legeMA.Gospel.version = le.go.lu.d079_en_US_eob.leluLI.Gospel.version
 legeMA.Gospel.book_string = le.go.lu.d079_en_US_eob.leluLI.Gospel.book_string
 legeMA.Gospel.book_abbr = le.go.lu.d079_en_US_eob.leluLI.Gospel.book_abbr
 legeMA.Gospel.chapverse = le.go.lu.d079_en_US_eob.leluLI.Gospel.chapverse
+legeMA.Gospel.incipit = le.go.lu.d079_en_US_eob.leluLI.Gospel.incipit
 legeMA.Gospel.text = le.go.lu.d079_en_US_eob.leluLI.Gospel.text
 legeMA.Gospel.pagenumber = le.go.lu.d079_en_US_eob.leluLI.Gospel.pagenumber
 
@@ -15,5 +16,6 @@ legeLI.Gospel.version = le.go.mc.d091_en_US_eob.lemcLI.Gospel.version
 legeLI.Gospel.book_string = le.go.mc.d091_en_US_eob.lemcLI.Gospel.book_string
 legeLI.Gospel.book_abbr = le.go.mc.d091_en_US_eob.lemcLI.Gospel.book_abbr
 legeLI.Gospel.chapverse = le.go.mc.d091_en_US_eob.lemcLI.Gospel.chapverse
+legeLI.Gospel.incipit = le.go.mc.d091_en_US_eob.lemcLI.Gospel.incipit
 legeLI.Gospel.text = le.go.mc.d091_en_US_eob.lemcLI.Gospel.text
 legeLI.Gospel.pagenumber = le.go.mc.d091_en_US_eob.lemcLI.Gospel.pagenumber

@@ -16,5 +16,6 @@ lemeLI.Gospel2.version = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.version
 lemeLI.Gospel2.book_string = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.book_string
 lemeLI.Gospel2.book_abbr = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.book_abbr
 lemeLI.Gospel2.chapverse = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.chapverse
+lemeLI.Gospel2.incipit = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.incipit
 lemeLI.Gospel2.text = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.text
 lemeLI.Gospel2.pagenumber =

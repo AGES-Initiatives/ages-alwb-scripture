@@ -6,4 +6,5 @@ levaSW.Epistle.version = properties_en_US_eob.version.designation
 levaSW.Epistle.book_string = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.book_string
 levaSW.Epistle.book_abbr = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.book_abbr
 levaSW.Epistle.chapverse = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.chapverse
+levaSW.Epistle.incipit = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.incipit
 levaSW.Epistle.text = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.text

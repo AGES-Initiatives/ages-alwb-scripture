@@ -6,5 +6,6 @@ lemeLI.Epistle.version = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.book_abbr
 lemeLI.Epistle.chapverse = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.chapverse
+lemeLI.Epistle.incipit = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.incipit
 lemeLI.Epistle.text = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.text
 lemeLI.Epistle.pagenumber = ""

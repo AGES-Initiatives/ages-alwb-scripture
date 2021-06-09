@@ -6,6 +6,7 @@ lemeLI.Gospel.version = le.go.lu.d003_en_US_eob.leluLI.Gospel.version
 lemeLI.Gospel.book_string = le.go.lu.d003_en_US_eob.leluLI.Gospel.book_string
 lemeLI.Gospel.book_abbr = le.go.lu.d003_en_US_eob.leluLI.Gospel.book_abbr
 lemeLI.Gospel.chapverse = le.go.lu.d003_en_US_eob.leluLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.lu.d003_en_US_eob.leluLI.Gospel.incipit
 lemeLI.Gospel.text = le.go.lu.d003_en_US_eob.leluLI.Gospel.text
 lemeLI.Gospel.pagenumber = ""
 
@@ -14,5 +15,6 @@ lemeLI.Gospel2.title_abbr = "For the Saint."
 lemeLI.Gospel2.version = le.go.mc.d145_en_US_eob.lemcLI.Gospel.version
 lemeLI.Gospel2.book_string =  le.go.mc.d145_en_US_eob.lemcLI.Gospel.book_string
 lemeLI.Gospel2.chapverse =  le.go.mc.d145_en_US_eob.lemcLI.Gospel.chapverse
+lemeLI.Gospel2.incipit = le.go.mc.d145_en_US_eob.lemcLI.Gospel.incipit
 lemeLI.Gospel2.text = le.go.mc.d145_en_US_eob.lemcLI.Gospel.text
 lemeLI.Gospel2.pagenumber = ""

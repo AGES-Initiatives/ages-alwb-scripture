@@ -34,6 +34,7 @@ lemcH6.Epistle.version = properties_en_US_eob.version.designation
 lemcH6.Epistle.book_string = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.book_string
 lemcH6.Epistle.book_abbr = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.book_abbr
 lemcH6.Epistle.chapverse = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.chapverse
+lemcH6.Epistle.incipit = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.incipit
 lemcH6.Epistle.text = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.text
 
 lemcH9.Epistle.title = "HOLY AND GREAT FRIDAY, NINTH HOUR"

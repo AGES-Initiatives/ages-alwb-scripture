@@ -6,6 +6,7 @@ lemeLI.Gospel.version = le.go.eo.w09_en_US_eob.leeoMA.Gospel.version
 lemeLI.Gospel.book_string = le.go.eo.w09_en_US_eob.leeoMA.Gospel.book_string
 lemeLI.Gospel.book_abbr = le.go.eo.w09_en_US_eob.leeoMA.Gospel.book_abbr
 lemeLI.Gospel.chapverse = le.go.eo.w09_en_US_eob.leeoMA.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.eo.w09_en_US_eob.leeoMA.Gospel.incipit
 lemeLI.Gospel.text = le.go.eo.w09_en_US_eob.leeoMA.Gospel.text
 lemeLI.Gospel.pagenumber = ""
 

@@ -14,6 +14,7 @@ levaCON.Gospel2.version = properties_en_US_eob.version.designation
 levaCON.Gospel2.book_string = bible_en_US_eob.Luke.text
 levaCON.Gospel2.book_abbr = bible_en_US_eob.Luke.abbr
 levaCON.Gospel2.chapverse = "10:38-42; 11:27-28"
+levaCON.Gospel2.incipit = le.go.me.m11.d21_en_US_eob.lemeLI.Gospel.incipit
 levaCON.Gospel2.text = le.go.me.m11.d21_en_US_eob.lemeLI.Gospel.text
 
 levaLI.Gospel.title = "At the Consecration of a Church."

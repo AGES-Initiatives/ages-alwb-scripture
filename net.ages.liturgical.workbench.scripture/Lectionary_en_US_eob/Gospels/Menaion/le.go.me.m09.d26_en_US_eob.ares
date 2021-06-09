@@ -6,6 +6,7 @@ lemeMA.Gospel.version = le.go.eo.w11_en_US_eob.leeoMA.Gospel.version
 lemeMA.Gospel.book_string = le.go.eo.w11_en_US_eob.leeoMA.Gospel.book_string
 lemeMA.Gospel.book_abbr = le.go.eo.w11_en_US_eob.leeoMA.Gospel.book_abbr
 lemeMA.Gospel.chapverse = le.go.eo.w11_en_US_eob.leeoMA.Gospel.chapverse
+lemeMA.Gospel.incipit = le.go.eo.w11_en_US_eob.leeoMA.Gospel.incipit
 lemeMA.Gospel.text = le.go.eo.w11_en_US_eob.leeoMA.Gospel.text
 
 lemeLI.Gospel.title = "For the Apostle."
