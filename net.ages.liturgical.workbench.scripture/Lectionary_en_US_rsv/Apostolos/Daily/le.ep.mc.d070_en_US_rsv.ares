@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d070_en_US_rsv
 
-lemcVE.Epistle.title = "HOLY AND GREAT FRIDAY"
-lemcVE.Epistle.title_abbr = "HOLY AND GREAT FRIDAY"
+lemcVE.Epistle.title = "Holy Friday"
+lemcVE.Epistle.title_abbr = "Holy Friday"
 lemcVE.Epistle.version = properties_en_US_rsv.version.designation
 lemcVE.Epistle.book_string = bible_en_US_rsv.Corinthians1.text
 lemcVE.Epistle.book_abbr = bible_en_US_rsv.Corinthians1.abbr

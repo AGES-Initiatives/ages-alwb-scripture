@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d271_en_US_rsv
 
-lemcLI.Epistle.title = "THURSDAY OF THE TWENTY-SECOND WEEK"
-lemcLI.Epistle.title_abbr = "THURSDAY OF THE TWENTY-SECOND WEEK"
+lemcLI.Epistle.title = "Thursday of the 22nd Week"
+lemcLI.Epistle.title_abbr = "Thursday of the 22nd Week"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Colossians.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Colossians.abbr

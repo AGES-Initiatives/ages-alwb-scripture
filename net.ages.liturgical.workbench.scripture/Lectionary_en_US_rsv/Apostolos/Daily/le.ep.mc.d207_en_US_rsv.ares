@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d207_en_US_rsv
 
-lemcLI.Epistle.title = "WEDNESDAY OF THE THIRTEENTH WEEK"
-lemcLI.Epistle.title_abbr = "WEDNESDAY OF THE THIRTEENTH WEEK"
+lemcLI.Epistle.title = "Wednesday of the 13th Week"
+lemcLI.Epistle.title_abbr = "Wednesday of the 13th Week"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Corinthians2.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Corinthians2.abbr

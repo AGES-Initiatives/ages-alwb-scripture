@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d229_en_US_rsv
 
-lemcLI.Gospel.title = "Thursday of the Sixteenth Week of Matthew"
-lemcLI.Gospel.title_abbr = "Thursday of the Sixteenth Week of Matthew"
+lemcLI.Gospel.title = "Thursday of the 16th Week of Matthew"
+lemcLI.Gospel.title_abbr = "Thursday of the 16th Week of Matthew"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book_string = bible_en_US_rsv.Mark.text
 lemcLI.Gospel.book_abbr = bible_en_US_rsv.Mark.abbr

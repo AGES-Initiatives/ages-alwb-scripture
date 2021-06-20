@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d360_en_US_rsv
 
-lemcLI.Epistle.title = "TUESDAY OF THE THIRTY-FIFTH WEEK"
-lemcLI.Epistle.title_abbr = "TUESDAY OF THE THIRTY-FIFTH WEEK"
+lemcLI.Epistle.title = "Tuesday of the 35th Week"
+lemcLI.Epistle.title_abbr = "Tuesday of the 35th Week"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.John1.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.John1.abbr

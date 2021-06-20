@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.ep.mc.d155_en_US_rsv
 
-lemcLI.Epistle.title = "FIFTH SUNDAY"
+lemcLI.Epistle.title = "5th Sunday"
 lemcLI.Epistle.title_abbr = "5th Sunday"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Romans.text

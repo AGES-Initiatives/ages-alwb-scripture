@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d286_en_US_rsv
 
-lemcLI.Epistle.title = "FRIDAY OF THE TWENTY-FOURTH WEEK"
-lemcLI.Epistle.title_abbr = "FRIDAY OF THE TWENTY-FOURTH WEEK"
+lemcLI.Epistle.title = "Friday of the 24th Week"
+lemcLI.Epistle.title_abbr = "Friday of the 24th Week"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Thessalonians1.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Thessalonians1.abbr

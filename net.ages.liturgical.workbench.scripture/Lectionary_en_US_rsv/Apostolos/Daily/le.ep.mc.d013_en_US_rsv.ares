@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d013_en_US_rsv
 
-lemcLI.Epistle.title = "FRIDAY OF MEAT-FARE WEEK"
-lemcLI.Epistle.title_abbr = "FRIDAY OF MEAT-FARE WEEK"
+lemcLI.Epistle.title = "Friday of Meat-Fare Week"
+lemcLI.Epistle.title_abbr = "Friday of Meat-Fare Week"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.John2.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.John2.abbr

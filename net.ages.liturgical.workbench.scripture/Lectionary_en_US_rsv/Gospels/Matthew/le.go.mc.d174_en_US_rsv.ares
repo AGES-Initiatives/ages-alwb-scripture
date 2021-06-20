@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d174_en_US_rsv
 
-lemcLI.Gospel.title = "Friday of the Eighth Week of Matthew"
-lemcLI.Gospel.title_abbr = "Friday of the Eighth Week of Matthew"
+lemcLI.Gospel.title = "Friday of the 8th Week of Matthew"
+lemcLI.Gospel.title_abbr = "Friday of the 8th Week of Matthew"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book_string = bible_en_US_rsv.Matthew.text
 lemcLI.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr

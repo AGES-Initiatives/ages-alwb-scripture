@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d252_en_US_rsv
 
-lemcLI.Epistle.title = "SATURDAY OF THE NINETEENTH WEEK"
-lemcLI.Epistle.title_abbr = "SATURDAY OF THE NINETEENTH WEEK"
+lemcLI.Epistle.title = "Saturday of the 19th Week"
+lemcLI.Epistle.title_abbr = "Saturday of the 19th Week"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Corinthians1.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Corinthians1.abbr

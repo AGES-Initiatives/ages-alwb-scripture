@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.ep.mc.d204_en_US_rsv
 
-lemcLI.Epistle.title = "TWELFTH SUNDAY"
+lemcLI.Epistle.title = "12th Sunday"
 lemcLI.Epistle.title_abbr = "12th Sunday"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Corinthians1.text

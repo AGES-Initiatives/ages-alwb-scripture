@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d292_en_US_rsv
 
-lemcLI.Epistle.title = "THURSDAY OF THE TWENTY-FIFTH WEEK"
-lemcLI.Epistle.title_abbr = "THURSDAY OF THE TWENTY-FIFTH WEEK"
+lemcLI.Epistle.title = "Thursday of the 25th Week"
+lemcLI.Epistle.title_abbr = "Thursday of the 25th Week"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Thessalonians2.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Thessalonians2.abbr

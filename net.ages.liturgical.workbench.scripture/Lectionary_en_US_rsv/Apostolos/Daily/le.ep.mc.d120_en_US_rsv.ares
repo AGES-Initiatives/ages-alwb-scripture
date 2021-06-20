@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.ep.mc.d120_en_US_rsv
 
-lemcLI.Epistle.title = "SUNDAY OF PENTECOST"
+lemcLI.Epistle.title = "Sunday of Pentecost"
 lemcLI.Epistle.title_abbr = "Pentecost Sunday"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Acts.text

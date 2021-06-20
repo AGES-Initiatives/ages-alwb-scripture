@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d077_en_US_rsv
 
-lemcLI.Epistle.title = "SATURDAY OF RENEWAL WEEK"
-lemcLI.Epistle.title_abbr = "SATURDAY OF RENEWAL WEEK"
+lemcLI.Epistle.title = "Saturday of Renewal Week"
+lemcLI.Epistle.title_abbr = "Saturday of Renewal Week"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Acts.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Acts.abbr
