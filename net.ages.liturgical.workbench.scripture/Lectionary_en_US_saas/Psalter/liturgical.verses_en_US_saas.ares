@@ -1548,6 +1548,15 @@ psLI.concelebration.kisshymn.v1.text = "I will love You, O Lord, my strength. Th
 psLI.censechalice.v1.info = ps_en_US_saas.psa56.v6.number
 psLI.censechalice.v1.text = "Be exalted, O God, above the heavens, and Your glory above all the earth."
 
+psLI.james.overgifts.v1.info = // (Lk 2:14) le.go.os_gr_GR_cog.leosMA.SixPsalmsIntro1.book_abbr
+psLI.james.overgifts.v1.text = ""
+psLI.james.overgifts.v2.info = ps_en_US_saas.psa50.v17.number
+psLI.james.overgifts.v2.text = "O Lord, You shall open my lips, and my mouth will declare Your praise."
+psLI.james.overgifts.v3.info = ps_en_US_saas.psa70.v8.number
+psLI.james.overgifts.v3.text = "Let my mouth be filled with Your praise, that I may sing of Your glory and of Your magnificence all the day long."
+psLI.james.overgifts.v4.info = ps_en_US_saas.psa33.v4.number
+psLI.james.overgifts.v4.text = "Oh, magnify the Lord with me, and let us exalt His name together."
+
 psLI.aftercommunion.title = "Psalm 112."
 psLI.aftercommunion.v1.info = ps_en_US_saas.psa112.v2.number
 psLI.aftercommunion.v1.incipit = "Blessed be the name…"

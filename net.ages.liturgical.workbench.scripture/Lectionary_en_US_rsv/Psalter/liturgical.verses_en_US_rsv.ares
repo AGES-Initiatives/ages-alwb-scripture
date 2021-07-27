@@ -1587,6 +1587,15 @@ psLI.aftercommunion.v1a.text = ""
 psLI.aftercommunion.v1b.info = ps_en_US_rsv.psa112.v2.number
 psLI.aftercommunion.v1b.text = ""
 
+psLI.james.overgifts.v1.info = le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.book_abbr
+psLI.james.overgifts.v1.text = "Glory to God in the highest, and on earth peace"
+psLI.james.overgifts.v2.info = ps_en_US_rsv.psa50.v17.number
+psLI.james.overgifts.v2.text = "O Lord, open thou my lips, and my mouth shall show forth thy praise."
+psLI.james.overgifts.v3.info = ps_en_US_rsv.psa70.v8.number
+psLI.james.overgifts.v3.text = "My mouth is filled with thy praise, and with thy glory all the day."
+psLI.james.overgifts.v4.info = ps_en_US_rsv.psa33.v4.number
+psLI.james.overgifts.v4.text = "O magnify the LORD with me, and let us exalt his name together!"
+
 psPL.incense.v1.info = ps_en_US_rsv.psa140.v2.number
 psPL.incense.v1.text = ""
 psPL.incense.v2.info = ps_en_US_rsv.psa140.v1.number
