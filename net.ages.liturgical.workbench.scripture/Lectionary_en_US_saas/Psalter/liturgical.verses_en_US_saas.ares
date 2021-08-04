@@ -2804,6 +2804,12 @@ psEU.funeral.casket.v1.text = "You shall sprinkle me with hyssop, and I will be 
 psEU.funeral.casket.v2.info = ps_en_US_saas.psa23.v1.number
 psEU.funeral.casket.v2.text = "The earth is the Lord's, and its fullness, the world and all who dwell therein. Earth you are, and to earth you shall return."
 
+psEU.privatework.prokeimenon.title = "Psalm 103"
+psEU.privatework.prokeimenon.v1.info = ps_en_US_saas.psa103.v23.number
+psEU.privatework.prokeimenon.v1.text = "Man shall go out to his work and to his labor until evening."
+psEU.privatework.prokeimenon.v2.info = ps_en_US_saas.psa103.v1.number
+psEU.privatework.prokeimenon.v2.text = "Bless the Lord, O my soul."
+
 psEU.smallwater.prokeimenon.title = "Psalm 26."
 psEU.smallwater.prokeimenon.v1.info = ps_en_US_saas.psa26.v1.number
 psEU.smallwater.prokeimenon.v1.text = "The Lord is my light and my savior; whom shall I fear?"
