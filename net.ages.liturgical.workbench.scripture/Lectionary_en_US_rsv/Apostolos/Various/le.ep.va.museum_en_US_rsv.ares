@@ -1,0 +1,10 @@
+A_Resource_Whose_Name = le.ep.va.museum_en_US_rsv 
+
+levaMU.Epistle1.title = "At the Blessing of a Museum"
+levaMU.Epistle1.title_abbr = "At the Blessing of a Museum"
+levaMU.Epistle1.version = properties_en_US_rsv.version.designation
+levaMU.Epistle1.book_string = bible_en_US_rsv.Acts.text
+levaMU.Epistle1.book_abbr = bible_en_US_rsv.Acts.abbr
+levaMU.Epistle1.chapverse = le.ep.mc.d071_en_US_rsv.lemcLI.Epistle.chapverse
+levaMU.Epistle1.incipit = le.ep.mc.d071_en_US_rsv.lemcLI.Epistle.incipit
+levaMU.Epistle1.text = le.ep.mc.d071_en_US_rsv.lemcLI.Epistle.text
