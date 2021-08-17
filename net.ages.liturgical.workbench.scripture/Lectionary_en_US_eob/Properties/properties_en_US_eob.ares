@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = properties_en_US_eob
 
 version.designation = "EOB"
+version.name = "Eastern Orthodox Bible."
 version.translator = ""
 
 version.notice1 = ""

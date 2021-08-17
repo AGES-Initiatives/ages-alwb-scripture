@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = properties_en_US_net
 
 version.designation = "NET"
+version.name = "."
 version.translator = ""
 
 version.notice1 = ""

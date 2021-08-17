@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = properties_en_US_saas
 
 version.designation = "SAAS"
+version.name = " St. Athanasius Academy Septuagint™."
 version.translator = ""
 
 version.notice1 = ""

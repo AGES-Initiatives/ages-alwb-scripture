@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = properties_en_US_nkjv
 
 version.designation = "NKJV"
+version.name = "New King James Version™."
 version.translator = ""
 
 version.notice1 = ""

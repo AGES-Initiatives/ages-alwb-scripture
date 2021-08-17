@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = properties_en_US_rsv
 
 version.designation = "RSV"
+version.name = "Revised Standard Version."
 version.translator = ""
 
 version.notice1 = ""
