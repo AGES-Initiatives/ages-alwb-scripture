@@ -2726,6 +2726,11 @@ psEU.churchdooropening.prokeimenon.v1.info = ps_en_US_saas.psa67.v27.number
 psEU.churchdooropening.prokeimenon.v1.text = "Bless God in the churches, the Lord from the fountains of Israel."
 psEU.churchdooropening.prokeimenon.v2.info = ps_en_US_saas.psa25.v8.number
 psEU.churchdooropening.prokeimenon.v2.text = "O Lord, I love the beauty of Your house, and the place where Your glory dwells."
+psEU.churchdooropening.prokeimenon2.title = "Psalm 86."
+psEU.churchdooropening.prokeimenon2.v1.info = ps_en_US_saas.psa86.v1.number
+psEU.churchdooropening.prokeimenon2.v1.text = "His foundations are in the holy mountains."
+psEU.churchdooropening.prokeimenon2.v2.info = ps_en_US_saas.psa86.v2.number
+psEU.churchdooropening.prokeimenon2.v2.text = "The Lord loves the gates of Zion more than all the dwellings of Jacob."
 
 psEU.consecration.e1.prokeimenon.title = "Psalm 26."
 psEU.consecration.e1.prokeimenon.v1.info = ps_en_US_saas.psa26.v1.number
