@@ -1,21 +1,21 @@
 A_Resource_Whose_Name = le.go.me.m11.d09_en_US_rsv
 
-lemeMA.Gospel.title = "Orthros. For the Hierarch."
-lemeMA.Gospel.title_abbr = "Orthros. For the Hierarch."
-lemeMA.Gospel.version = le.go.ge.hierarch_en_US_rsv.legeMA.Gospel.version
-lemeMA.Gospel.book_string = le.go.ge.hierarch_en_US_rsv.legeMA.Gospel.book_string
-lemeMA.Gospel.book_abbr = le.go.ge.hierarch_en_US_rsv.legeMA.Gospel.book_abbr
-lemeMA.Gospel.chapverse = le.go.ge.hierarch_en_US_rsv.legeMA.Gospel.chapverse
-lemeMA.Gospel.incipit = le.go.ge.hierarch_en_US_rsv.legeMA.Gospel.incipit
-lemeMA.Gospel.text = le.go.ge.hierarch_en_US_rsv.legeMA.Gospel.text
+lemeMA.Gospel.title = "Matins. For the Hierarch."
+lemeMA.Gospel.title_abbr = "Matins. For the Hierarch."
+lemeMA.Gospel.version = le.go.me.m09.d30_en_US_rsv.lemeLI.Gospel.version
+lemeMA.Gospel.book_string = le.go.me.m09.d30_en_US_rsv.lemeLI.Gospel.book_string
+lemeMA.Gospel.book_abbr = le.go.me.m09.d30_en_US_rsv.lemeLI.Gospel.book_abbr
+lemeMA.Gospel.chapverse = le.go.me.m09.d30_en_US_rsv.lemeLI.Gospel.chapverse
+lemeMA.Gospel.incipit = le.go.me.m09.d30_en_US_rsv.lemeLI.Gospel.incipit
+lemeMA.Gospel.text = le.go.me.m09.d30_en_US_rsv.lemeLI.Gospel.text
 
 lemeLI.Gospel.title = "Liturgy. For the Hierarch."
 lemeLI.Gospel.title_abbr = "Liturgy. For the Hierarch."
-lemeLI.Gospel.version = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.version
-lemeLI.Gospel.book_string = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.book_string
-lemeLI.Gospel.book_abbr = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.book_abbr
-lemeLI.Gospel.chapverse = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.chapverse
-lemeLI.Gospel.incipit = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.incipit
-lemeLI.Gospel.text = le.go.ge.hierarch_en_US_rsv.legeLI.Gospel.text
+lemeLI.Gospel.version = le.go.me.m01.d10_en_US_rsv.lemeLI.Gospel2.version
+lemeLI.Gospel.book_string = le.go.me.m01.d10_en_US_rsv.lemeLI.Gospel2.book_string
+lemeLI.Gospel.book_abbr = le.go.me.m01.d10_en_US_rsv.lemeLI.Gospel2.book_abbr
+lemeLI.Gospel.chapverse = le.go.me.m01.d10_en_US_rsv.lemeLI.Gospel2.chapverse
+lemeLI.Gospel.incipit = le.go.me.m01.d10_en_US_rsv.lemeLI.Gospel2.incipit
+lemeLI.Gospel.text = le.go.me.m01.d10_en_US_rsv.lemeLI.Gospel2.text
 lemeLI.Gospel.pagenumber =
 

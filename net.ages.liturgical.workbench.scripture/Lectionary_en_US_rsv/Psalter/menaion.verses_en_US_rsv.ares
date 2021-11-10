@@ -1852,9 +1852,9 @@ psLI.m11.d08.alleluia.v2.info = ps_en_US_rsv.psa148.v2.number
 psLI.m11.d08.alleluia.v2.text = ""
 
 psLI.m11.d09.prokeimenon.title = ""
-psLI.m11.d09.prokeimenon.v1.info = ps_en_US_rsv.psa149.v5.number
+psLI.m11.d09.prokeimenon.v1.info = ps_en_US_rsv.psa115.v5.number
 psLI.m11.d09.prokeimenon.v1.text = ""
-psLI.m11.d09.prokeimenon.v2.info = ps_en_US_rsv.psa149.v1.number
+psLI.m11.d09.prokeimenon.v2.info = ps_en_US_rsv.psa115.v3.number
 psLI.m11.d09.prokeimenon.v2.text = ""
 psLI.m11.d09.alleluia.title = ""
 psLI.m11.d09.alleluia.v1.info = ps_en_US_rsv.psa131.v9.number
