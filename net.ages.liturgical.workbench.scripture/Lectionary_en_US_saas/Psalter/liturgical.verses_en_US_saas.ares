@@ -1418,7 +1418,7 @@ psLI.sunday.m8.alleluia.v2.text = "Let us come before His face with thanksgiving
 psLI.sunday.communion.title = "Psalm 148."
 psLI.sunday.communion.v1.info = ps_en_US_saas.psa148.v1.number
 psLI.sunday.communion.v1.incipit = "Praise the Lord…"
-psLI.sunday.communion.v1.text = "Praise the Lord from the heavens, praise Him in the highest."
+psLI.sunday.communion.v1.text = "Praise the Lord from the heavens."
 
 psLI.weekday.antiphon1.v1.info = ps_en_US_saas.psa91.v2.number
 psLI.weekday.antiphon1.v1.text = "It is good to give thanks to the Lord and to sing to Your name, O Most High."
