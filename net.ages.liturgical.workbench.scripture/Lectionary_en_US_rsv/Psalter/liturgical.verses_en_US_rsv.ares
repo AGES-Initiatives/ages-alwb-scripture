@@ -33,6 +33,20 @@ psVE.introductorypsalm.end.v1.text = ""
 psVE.introductorypsalm.end.v2.info = ps_en_US_rsv.psa103.v24.number
 psVE.introductorypsalm.end.v2.text = ""
 
+psVE.kathisma1.selection01.title = "Selected Verses from Psalms 1-3."
+psVE.kathisma1.selection01.v01.info = ps_en_US_rsv.psa1.v1.number
+psVE.kathisma1.selection01.v01.text = ""
+psVE.kathisma1.selection01.v02.info = ps_en_US_rsv.psa1.v6.number
+psVE.kathisma1.selection01.v02.text = ""
+psVE.kathisma1.selection01.v03.info = ps_en_US_rsv.psa2.v11.number
+psVE.kathisma1.selection01.v03.text = ""
+psVE.kathisma1.selection01.v04.info = ps_en_US_rsv.psa2.v12.number
+psVE.kathisma1.selection01.v04.text = ""
+psVE.kathisma1.selection01.v05.info = ps_en_US_rsv.psa3.v8.number
+psVE.kathisma1.selection01.v05.text = ""
+psVE.kathisma1.selection01.v06.info = ps_en_US_rsv.psa3.v9.number
+psVE.kathisma1.selection01.v06.text = ""
+
 psVE.lihc.v1.info = ps_en_US_rsv.psa140.v1.number
 psVE.lihc.v1.incipit = "…"
 psVE.lihc.v1.text = ""

@@ -33,6 +33,20 @@ psVE.introductorypsalm.end.v1.text = "The sun knows its setting. You established
 psVE.introductorypsalm.end.v2.info = ps_en_US_saas.psa103.v24.number
 psVE.introductorypsalm.end.v2.text = "O Lord, Your works shall be magnified greatly; You made all things in wisdom."
 
+psVE.kathisma1.selection01.title = "Selected Verses from Psalms 1-3."
+psVE.kathisma1.selection01.v01.info = ps_en_US_saas.psa1.v1.number
+psVE.kathisma1.selection01.v01.text = "Blessed is the man who walks not in the counsel of the ungodly."
+psVE.kathisma1.selection01.v02.info = ps_en_US_saas.psa1.v6.number
+psVE.kathisma1.selection01.v02.text = "The Lord knows the way of the righteous, but the way of the ungodly shall perish."
+psVE.kathisma1.selection01.v03.info = ps_en_US_saas.psa2.v11.number
+psVE.kathisma1.selection01.v03.text = "Serve the Lord with fear and rejoice in Him with trembling."
+psVE.kathisma1.selection01.v04.info = ps_en_US_saas.psa2.v12.number
+psVE.kathisma1.selection01.v04.text = "Blessed are all who trust in Him."
+psVE.kathisma1.selection01.v05.info = ps_en_US_saas.psa3.v8.number
+psVE.kathisma1.selection01.v05.text = "Arise, O Lord, and save me, O my God."
+psVE.kathisma1.selection01.v06.info = ps_en_US_saas.psa3.v9.number
+psVE.kathisma1.selection01.v06.text = "Salvation is of the Lord, and Your blessing is upon Your people"
+
 psVE.lihc.v1.info = ps_en_US_saas.psa140.v1.number
 psVE.lihc.v1.incipit = "Lord, I have cried…"
 psVE.lihc.v1.text = "Lord, I have cried to You; hear me. Hear me, O Lord. Lord, I have cried to You; hear me. Give heed to the voice of my supplication when I cry to You. Hear me, O Lord."
