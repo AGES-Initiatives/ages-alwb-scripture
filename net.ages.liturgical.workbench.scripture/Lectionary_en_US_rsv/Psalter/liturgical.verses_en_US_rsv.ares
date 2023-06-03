@@ -1576,12 +1576,14 @@ psLI.weekday.d7.communion2.v1.info = ps_en_US_rsv.psa64.v5.number
 psLI.weekday.d7.communion2.v1.incipit = ""
 psLI.weekday.d7.communion2.v1.text = ""
 
-psLI.trisagionbaptized.title = ""
-psLI.trisagionbaptized.info = ""
-psLI.trisagionbaptized.v1.text = ""
-psLI.trisagionbaptized.v2.text = ""
-psLI.trisagionbaptized.v3.text = ""
-psLI.trisagionbaptized.v4.text = ""
+psLI.trisagionbaptized.title = "INSTEAD OF HOLY GOD"
+psLI.trisagionbaptized.info = "Gal. 3:57"
+psLI.trisagionbaptized.text = "As many of you as were baptized into Christ have put on Christ. Alleluia."
+psLI.trisagionbaptized.incipit = "As many of you…"
+psLI.trisagionbaptized.v1.text = "As many of you."
+psLI.trisagionbaptized.v2.text = "As were baptized into Christ."
+psLI.trisagionbaptized.v3.text = "Have put on Christ."
+psLI.trisagionbaptized.v4.text = "Alleluia."
 
 psLI.hierarchical.trisagionblessing.v1.info = ps_en_US_rsv.psa79.v15.number
 psLI.hierarchical.trisagionblessing.v1.text = ""
