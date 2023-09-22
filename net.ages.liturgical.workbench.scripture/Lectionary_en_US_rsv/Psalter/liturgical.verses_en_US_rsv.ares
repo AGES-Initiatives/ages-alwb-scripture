@@ -2765,6 +2765,11 @@ psEU.baptism.alleluia.v1.text = ""
 psEU.baptism.alleluia.v2.info = ps_en_US_rsv.psa44.v2.number
 psEU.baptism.alleluia.v2.text = ""
 
+psEU.childbirth.fortydays.v1.info = ps_en_US_rsv.psa5.v8.number
+psEU.childbirth.fortydays.v1.text = ""
+psEU.childbirth.fortydays.v2.info = ps_en_US_rsv.psa21.v23.number
+psEU.childbirth.fortydays.v2.text = ""
+
 psEU.churchdooropening.v1.info = ps_en_US_rsv.psa23.v7.number
 psEU.churchdooropening.v1.text = ""
 psEU.churchdooropening.v2.info = ps_en_US_rsv.psa23.v8.number

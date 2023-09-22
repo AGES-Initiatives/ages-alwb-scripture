@@ -2725,6 +2725,11 @@ psEU.baptism.alleluia.v1.text = "My heart overflowed with a good word; I tell my
 psEU.baptism.alleluia.v2.info = ps_en_US_saas.psa44.v2.number
 psEU.baptism.alleluia.v2.text = "My tongue is the pen of a swift-writing scribe."
 
+psEU.childbirth.fortydays.v1.info = ps_en_US_saas.psa5.v8.number
+psEU.childbirth.fortydays.v1.text = "I will come into Your house, O Lord; in fear of You I will worship toward Your holy temple."
+psEU.childbirth.fortydays.v2.info = ps_en_US_saas.psa21.v23.number
+psEU.childbirth.fortydays.v2.text = "In the midst of the church I will sing to You."
+
 psEU.churchdooropening.v1.info = ps_en_US_saas.psa23.v7.number
 psEU.churchdooropening.v1.text = "Lift up the gates, O you rulers, and be lifted up, you everlasting doors, and the King of glory shall enter."
 psEU.churchdooropening.v2.info = ps_en_US_saas.psa23.v8.number
