@@ -468,6 +468,7 @@ psMA.weekday.kathismata.v3.text = "God is wondrous in His saints."
 
 psMA.polyeleos.ps134.intro.text = "Servants, praise the Lord."
 psMA.polyeleos.ps134.intro.info = ps_en_US_saas.psa134.v1.number
+psMA.MM.polyeleos.ps134.text = properties_en_US_saas.media.key
 psMA.polyeleos.ps134.v01.info = ps_en_US_saas.psa134.v1.number
 psMA.polyeleos.ps134.v01.text = "Praise the name of the Lord, O you servants; praise the Lord."
 psMA.polyeleos.ps134.v02.info = ps_en_US_saas.psa134.v2.number
@@ -551,6 +552,7 @@ psMA.polyeleos.ps134.v40.text = "Blessed be the Lord out of Zion, He who dwells 
 
 psMA.polyeleos.ps135.refrain.info = ps_en_US_saas.psa135.v1.number
 psMA.polyeleos.ps135.refrain.text = "For His mercy endures forever."
+psMA.MM.polyeleos.ps135.text = properties_en_US_saas.media.key
 psMA.polyeleos.ps135.v01.info = ps_en_US_saas.psa135.v1.number
 psMA.polyeleos.ps135.v01.text = "Give thanks to the Lord, for He is good."
 psMA.polyeleos.ps135.v02.info = ps_en_US_saas.psa135.v2.number
