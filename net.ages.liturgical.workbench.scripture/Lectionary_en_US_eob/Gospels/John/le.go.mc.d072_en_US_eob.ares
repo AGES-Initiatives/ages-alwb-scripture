@@ -7,7 +7,6 @@ lemcVE.Gospel.book_string = bible_en_US_eob.John.text
 lemcVE.Gospel.book_abbr = bible_en_US_eob.John.abbr
 lemcVE.Gospel.chapverse = "20:19-25"
 lemcVE.Gospel.incipit = "…"
-lemcVE.Gospel.part1.text = "In the evening on that [same]"
 lemcVE.Gospel.text = ""
 lemcVE.Gospel.part1.text = "In the evening on that [same] day (the first day of the week), and as the doors [of the place] where the disciples were assembled were locked for fear of the Jews, Jesus came and stood among them and said, “Peace be with you.” When he had said this, he showed them his hands and his side. At this, the disciples rejoiced when they saw the Lord."
 lemcVE.Gospel.part2.incipit = "Then again, Jesus said, “Peace be with you! As…"

@@ -6882,7 +6882,6 @@ psa114.v9.number_kjv = "(114:9)"
 psa114.v9.number = "(114:9)"
 psa114.v9.text = ""
 
-psa115.title = "Psalm 115 (116)." //versions vary in.number_kjving verses
 psa115.title = "Psalm 115 (116)." //versions vary in.numbering verses
 psa115.version = properties_en_UK_kjv.version.designation
 psa115.text = ""
