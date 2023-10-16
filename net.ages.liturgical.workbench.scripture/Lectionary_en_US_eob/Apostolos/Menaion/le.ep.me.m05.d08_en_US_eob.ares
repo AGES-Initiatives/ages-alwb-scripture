@@ -7,6 +7,7 @@ lemeVE.Reading1.book_string = bible_en_US_eob.John1.text
 lemeVE.Reading1.book_abbr = bible_en_US_eob.John1.abbr
 lemeVE.Reading1.chapverse = "3:21-24; 4:1-6"
 lemeVE.Reading1.incipit = "…"
+lemeVE.Reading1.text = "…"
 
 lemeVE.Reading2.title = "For the Evangelist."
 lemeVE.Reading2.title_abbr = "For the Evangelist."
@@ -15,6 +16,7 @@ lemeVE.Reading2.book_string = bible_en_US_eob.John1.text
 lemeVE.Reading2.book_abbr = bible_en_US_eob.John1.abbr
 lemeVE.Reading2.chapverse = "4:11-16"
 lemeVE.Reading2.incipit = "…"
+lemeVE.Reading2.text = "…"
 
 lemeVE.Reading3.title = "For the Evangelist."
 lemeVE.Reading3.title_abbr = "For the Evangelist."
@@ -23,6 +25,7 @@ lemeVE.Reading3.book_string = bible_en_US_eob.John1.text
 lemeVE.Reading3.book_abbr = bible_en_US_eob.John1.abbr
 lemeVE.Reading3.chapverse = "4:20-21; 5:1-5"
 lemeVE.Reading3.incipit = "…"
+lemeVE.Reading3.text = "…"
 
 lemeLI.Epistle.title = "For the Evangelist."
 lemeLI.Epistle.title_abbr = "For the Evangelist."
