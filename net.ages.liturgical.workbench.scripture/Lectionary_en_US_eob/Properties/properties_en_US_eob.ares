@@ -17,4 +17,5 @@ contact.phone = ""
 contact.email = "eobeditor@orthodox-church.info"
 contact.url = "http://www.orthodox-church.info/eob/index.asp"
 
+deprecated.key = "This key is no longer used."
 media.key = "For media only."
