@@ -9,7 +9,7 @@ psa4.v3a = "But know that the Lord has set apart[a] for Himself him who is godly
 psa4.v3b = "The Lord will hear when I call to Him."
 psa4.v4  = "Be angry, and do not sin. Meditate within your heart on your bed, and be still. Selah."
 psa4.v5  = "Offer the sacrifices of righteousness, and put your trust in the Lord."
-psa4.v6  = "There are many who say, \"Who will show us any good?\" Lord, lift up the light of Your countenance upon us."
+psa4.v6  = "There are many who say, “Who will show us any good?” Lord, lift up the light of Your countenance upon us."
 psa4.v7  = "You have put gladness in my heart,more than in the season that their grain and wine increased."
 psa4.v8  = "I will both lie down in peace, and sleep; for You alone, O Lord, make me dwell in safety."
 
@@ -465,7 +465,7 @@ bode9_mag.v5.text = "He has put down the mighty from their thrones, and exalted 
 bode9_mag.v6.number = "(Ode 9a:6)"
 bode9_mag.v6.text = "He has helped His servant Israel, in remembrance of His mercy, as He spoke to our fathers, to Abraham and to his seed forever."
 bode9.book_abbr = bible_en_US_nkjv.Luke.abbr
-bode9.heading1 = "The Prayer of Zacharias the Forerunner's Father"
+bode9.heading1 = "The Prayer of Zacharias the Forerunner’s Father"
 bode9.chapverse = "(Ode 1:68-79)"
 bode9.heading2 = "Zacharias blesses the birth of his son."
 bode9.refrain = ""

@@ -7,5 +7,5 @@ lemcLI.Epistle.book_string = bible_en_US_rsv.Corinthians1.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Corinthians1.abbr
 lemcLI.Epistle.chapverse = "3:18-23"
 lemcLI.Epistle.incipit = "Brethren, let no one deceive himself. If any one…"
-lemcLI.Epistle.text = "Brethren, let no one deceive himself. If any one among you thinks that he is wise in this age, let him become a fool that he may become wise. For the wisdom of this world is folly with God. For it is written, \"He catches the wise in their craftiness,\" and again, \"The Lord knows that the thoughts of the wise are futile.\" So let no one boast of men. For all things are yours, whether Paul or Apollos or Cephas or the world or life or death or the present or the future, all are yours; and you are Christ's; and Christ is God's."
+lemcLI.Epistle.text = "Brethren, let no one deceive himself. If any one among you thinks that he is wise in this age, let him become a fool that he may become wise. For the wisdom of this world is folly with God. For it is written, “He catches the wise in their craftiness,” and again, “The Lord knows that the thoughts of the wise are futile.” So let no one boast of men. For all things are yours, whether Paul or Apollos or Cephas or the world or life or death or the present or the future, all are yours; and you are Christ’s; and Christ is God’s."
 lemcLI.Epistle.pagenumber = ""

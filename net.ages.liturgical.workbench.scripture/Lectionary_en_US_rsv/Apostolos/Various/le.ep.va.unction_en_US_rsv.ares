@@ -16,7 +16,7 @@ levaUNC.Epistle2.book_string = bible_en_US_rsv.Romans.text
 levaUNC.Epistle2.book_abbr = bible_en_US_rsv.Romans.abbr
 levaUNC.Epistle2.chapverse = "(15:1-7)"
 levaUNC.Epistle2.incipit = "Brethren, we who are strong…"
-levaUNC.Epistle2.text = "Brethren, we who are strong ought to bear with the failings of the weak, and not to please ourselves; let each of us please his neighbor for his good, to edify him. For Christ did not please himself; but, as it is written, \"The reproaches of those who reproached thee fell on me.\" For whatever was written in former days was written for our instruction, that by steadfastness and by the encouragement of the scriptures we might have hope. May the God of steadfastness and encouragement grant you to live in such harmony with one another, in accord with Christ Jesus, that together you may with one voice glorify the God and Father of our Lord Jesus Christ. Welcome one another, therefore, as Christ has welcomed you, for the glory of God."
+levaUNC.Epistle2.text = "Brethren, we who are strong ought to bear with the failings of the weak, and not to please ourselves; let each of us please his neighbor for his good, to edify him. For Christ did not please himself; but, as it is written, “The reproaches of those who reproached thee fell on me.” For whatever was written in former days was written for our instruction, that by steadfastness and by the encouragement of the scriptures we might have hope. May the God of steadfastness and encouragement grant you to live in such harmony with one another, in accord with Christ Jesus, that together you may with one voice glorify the God and Father of our Lord Jesus Christ. Welcome one another, therefore, as Christ has welcomed you, for the glory of God."
 
 levaUNC.Epistle3.title = "3rd Epistle"
 levaUNC.Epistle3.title_abbr = "3rd Epistle"
@@ -34,7 +34,7 @@ levaUNC.Epistle4.book_string = bible_en_US_rsv.Corinthians2.text
 levaUNC.Epistle4.book_abbr = bible_en_US_rsv.Corinthians2.abbr
 levaUNC.Epistle4.chapverse = "(6:16-7:1)"
 levaUNC.Epistle4.incipit = "Brethren, you are the temple of the living God…"
-levaUNC.Epistle4.text = "Brethren, you are the temple of the living God; as God said, \"I will live in them and move among them, and I will be their God, and they shall be my people. Therefore come out from them, and be separate from them, says the Lord, and touch nothing unclean; then I will welcome you, and I will be a father to you, and you shall be my sons and daughters, says the Lord Almighty.\" Since we have these promises, beloved, let us cleanse ourselves from every defilement of body and spirit, and make holiness perfect in the fear of God."
+levaUNC.Epistle4.text = "Brethren, you are the temple of the living God; as God said, “I will live in them and move among them, and I will be their God, and they shall be my people. Therefore come out from them, and be separate from them, says the Lord, and touch nothing unclean; then I will welcome you, and I will be a father to you, and you shall be my sons and daughters, says the Lord Almighty.” Since we have these promises, beloved, let us cleanse ourselves from every defilement of body and spirit, and make holiness perfect in the fear of God."
 
 levaUNC.Epistle5.title = "5th Epistle"
 levaUNC.Epistle5.title_abbr = "5th Epistle"
@@ -52,7 +52,7 @@ levaUNC.Epistle6.book_string = bible_en_US_rsv.Galatians.text
 levaUNC.Epistle6.book_abbr = bible_en_US_rsv.Galatians.abbr
 levaUNC.Epistle6.chapverse = "(5:22-26, 6:1-2)"
 levaUNC.Epistle6.incipit = "Brethren, the fruit of the Spirit…"
-levaUNC.Epistle6.text = "Brethren, the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such there is no law. And those who belong to Christ Jesus have crucified the flesh with its passions and desires. If we live by the Spirit, let us also walk by the Spirit. Let us have no self-conceit, no provoking of one another, no envy of one another. Brethren, if a man is overtaken in any trespass, you who are spiritual should restore him in a spirit of gentleness. Look to yourself, lest you too be tempted. Bear one another's burdens, and so fulfill the law of Christ."
+levaUNC.Epistle6.text = "Brethren, the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such there is no law. And those who belong to Christ Jesus have crucified the flesh with its passions and desires. If we live by the Spirit, let us also walk by the Spirit. Let us have no self-conceit, no provoking of one another, no envy of one another. Brethren, if a man is overtaken in any trespass, you who are spiritual should restore him in a spirit of gentleness. Look to yourself, lest you too be tempted. Bear one another’s burdens, and so fulfill the law of Christ."
 
 levaUNC.Epistle7.title = "7th Epistle"
 levaUNC.Epistle7.title_abbr = "7th Epistle"
