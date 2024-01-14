@@ -26,7 +26,7 @@ lemcH3.Epistle.book_string = bible_en_US_rsv.Romans.text
 lemcH3.Epistle.book_abbr = bible_en_US_rsv.Romans.abbr
 lemcH3.Epistle.chapverse = "5:6-10"
 lemcH3.Epistle.incipit = "Brethren, we were still weak, at the right time…"
-lemcH3.Epistle.text = "Brethren, we were still weak, at the right time Christ died for the ungodly. Why, one will hardly die for a righteous man—though perhaps for a good man one will dare even to die. But God shows his love for us in that while we were yet sinners Christ died for us. Since, therefore, we are now justified by his blood, much more shall we be saved by him from the wrath of God. For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life."
+lemcH3.Epistle.text = "Brethren, we were still weak, at the right time Christ died for the ungodly. Why, one will hardly die for a righteous man – though perhaps for a good man one will dare even to die. But God shows his love for us in that while we were yet sinners Christ died for us. Since, therefore, we are now justified by his blood, much more shall we be saved by him from the wrath of God. For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life."
 
 lemcH6.Epistle.title = "Holy Friday - Epistle of the Sixth Hour"
 lemcH6.Epistle.title_abbr = "Holy Friday - Epistle of the Sixth Hour"
