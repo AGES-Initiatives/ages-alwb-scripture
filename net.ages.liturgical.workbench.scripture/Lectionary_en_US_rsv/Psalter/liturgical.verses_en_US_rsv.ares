@@ -2,6 +2,9 @@ A_Resource_Whose_Name = liturgical.verses_en_US_rsv
 
 //Vespers
 
+psVE.vespersentry.info = ps_en_US_rsv.psa5.v8.number
+psVE.vespersentry.text = "I will enter thy house, I will worship toward thy holy temple in the fear of thee."
+
 psVE.vigilentry.info = ps_en_US_rsv.psa5.v8.number
 psVE.vigilentry.text = "I will enter thy house, I will worship toward thy holy temple in the fear of thee, O Lord."
 
