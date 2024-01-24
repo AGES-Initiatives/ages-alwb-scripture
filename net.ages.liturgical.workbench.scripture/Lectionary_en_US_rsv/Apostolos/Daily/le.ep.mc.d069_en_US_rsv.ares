@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d069_en_US_rsv
 
-lemcVE.Epistle.title = ""
-lemcVE.Epistle.title_abbr = ""
+lemcVE.Epistle.title = "Holy Thursday - Epistle at Liturgy"
+lemcVE.Epistle.title_abbr = "Holy Thursday - Epistle at Liturgy"
 lemcVE.Epistle.version = properties_en_US_rsv.version.designation
 lemcVE.Epistle.book_string = bible_en_US_rsv.Corinthians1.text
 lemcVE.Epistle.book_abbr = bible_en_US_rsv.Corinthians1.abbr

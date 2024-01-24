@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.eo.w04_en_US_rsv
 
-leeoMA.Gospel.title = "4"
-leeoMA.Gospel.title_abbr = "4"
+leeoMA.Gospel.title = "Eothinon 4"
+leeoMA.Gospel.title_abbr = "Eothinon 4"
 leeoMA.Gospel.version = properties_en_US_rsv.version.designation
 leeoMA.Gospel.book_string = bible_en_US_rsv.Luke.text
 leeoMA.Gospel.book_abbr = bible_en_US_rsv.Luke.abbr

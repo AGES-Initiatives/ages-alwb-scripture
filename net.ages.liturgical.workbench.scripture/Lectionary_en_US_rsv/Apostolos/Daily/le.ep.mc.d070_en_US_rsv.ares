@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d070_en_US_rsv
 
-lemcVE.Epistle.title = "Holy Friday"
-lemcVE.Epistle.title_abbr = "Holy Friday"
+lemcVE.Epistle.title = "Holy Friday - Epistle at Vespers"
+lemcVE.Epistle.title_abbr = "Holy Friday - Epistle at Vespers"
 lemcVE.Epistle.version = properties_en_US_rsv.version.designation
 lemcVE.Epistle.book_string = bible_en_US_rsv.Corinthians1.text
 lemcVE.Epistle.book_abbr = bible_en_US_rsv.Corinthians1.abbr
@@ -11,8 +11,8 @@ lemcVE.Epistle.text = "Brethren, the word of the cross is folly to those who are
 lemcVE.Epistle.pagenumber = ""
 
 // This is at the end of Friday Night service
-lemcLI.Epistle.title = ""
-lemcLI.Epistle.title_abbr = ""
+lemcLI.Epistle.title = "Holy Friday Night"
+lemcLI.Epistle.title_abbr = "Holy Friday Night"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Corinthians1.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Corinthians1.abbr

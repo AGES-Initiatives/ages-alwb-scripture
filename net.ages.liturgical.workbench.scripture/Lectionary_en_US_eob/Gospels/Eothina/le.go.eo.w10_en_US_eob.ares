@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.eo.w10_en_US_eob
 
-leeoMA.Gospel.title = "10"
-leeoMA.Gospel.title_abbr = "10"
+leeoMA.Gospel.title = "Eothinon 10"
+leeoMA.Gospel.title_abbr = "Eothinon 10"
 leeoMA.Gospel.version = properties_en_US_eob.version.designation
 leeoMA.Gospel.book_string = bible_en_US_eob.John.text
 leeoMA.Gospel.book_abbr = bible_en_US_eob.John.abbr
