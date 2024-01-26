@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.mc.d072_en_US_rsv
 
-lemcVE.Gospel.title = ""
-lemcVE.Gospel.title_abbr = ""
+lemcVE.Gospel.title = "Agape Vespers"
+lemcVE.Gospel.title_abbr = "Agape Vespers"
 lemcVE.Gospel.version = properties_en_US_rsv.version.designation
 lemcVE.Gospel.book_string = bible_en_US_rsv.John.text
 lemcVE.Gospel.book_abbr = bible_en_US_rsv.John.abbr
