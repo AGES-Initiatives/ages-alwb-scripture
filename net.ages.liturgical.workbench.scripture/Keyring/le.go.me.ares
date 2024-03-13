@@ -17,7 +17,6 @@ lemeLI.Gospel.book_abbr =
 lemeLI.Gospel.chapverse = ""
 lemeLI.Gospel.incipit = ""
 lemeLI.Gospel.text = ""
-lemeLI.Gospel.pagenumber = ""
 
 lemeH1.Gospel.title = ""
 lemeH1.Gospel.title_abbr = ""

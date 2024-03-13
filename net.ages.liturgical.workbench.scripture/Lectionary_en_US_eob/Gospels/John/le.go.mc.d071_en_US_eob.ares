@@ -11,12 +11,12 @@ lemcVE.Gospel.text = "After the Sabbath, as it began to dawn on the first day of
 
 lemcMA.Gospel.title = "Gospel of the Resurrection"
 lemcMA.Gospel.title_abbr = "Gospel of the Resurrection"
-lemcMA.Gospel.version = properties_en_US_eob.version.designation
-lemcMA.Gospel.book_string = bible_en_US_eob.Mark.text
-lemcMA.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
-lemcMA.Gospel.chapverse = "16:1-8"
-lemcMA.Gospel.incipit = "…"
-lemcMA.Gospel.text = ""
+lemcMA.Gospel.version = properties_en_US_eob.deprecated.key
+lemcMA.Gospel.book_string = properties_en_US_eob.deprecated.key
+lemcMA.Gospel.book_abbr = properties_en_US_eob.deprecated.key
+lemcMA.Gospel.chapverse = properties_en_US_eob.deprecated.key
+lemcMA.Gospel.incipit = properties_en_US_eob.deprecated.key
+lemcMA.Gospel.text = properties_en_US_eob.deprecated.key
 
 lemcLI.Gospel.title = "Great and Holy Pascha"
 lemcLI.Gospel.title_abbr = "Great and Holy Pascha"
@@ -26,4 +26,3 @@ lemcLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
 lemcLI.Gospel.chapverse = "1:1-17"
 lemcLI.Gospel.incipit = "In the beginning was the Word…"
 lemcLI.Gospel.text = "In the beginning was the Word, and the Word was with God, and the Word was God. This one was in the beginning with God. All things came into being through him, and without him, nothing came into being that has come into being. In him was life, life that was the light of mankind. The light shines in the darkness, and the darkness has not overcome it. There came a man, sent from God, whose name was John. John came as a witness, to bear witness to the light, so that all might believe through him. He was not the light, but [he was sent] to bear witness to the light. The true light who enlightens everyone was coming into the world. He was in the world, and the world had come into existence through him, and the world did not recognize him. He came to his own [people], and those who were his own did not receive him. But as many as received him, to them he gave the ability to become God’s children, to those who believe in his Name. They were born not of blood, nor of the will of the flesh, nor of the will of man, but of God. The Word became flesh and made his dwelling among us. We beheld his glory, glory as a Father’s uniquely-begotten son, full of grace and truth. John testified about him; he cried out, saying, “This was the one of whom I said, ‘He who comes after me ranks ahead of me because he was before me.’” And from his fullness, we have all received grace upon grace. For the law was given through Moses, [but] grace and truth came through Jesus Christ."
-lemcLI.Gospel.pagenumber = ""

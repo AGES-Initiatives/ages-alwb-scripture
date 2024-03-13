@@ -8,7 +8,6 @@ lemeMA.Gospel.book_abbr = le.go.ge.hierarch_en_US_eob.legeMA.Gospel.book_abbr
 lemeMA.Gospel.chapverse = le.go.ge.hierarch_en_US_eob.legeMA.Gospel.chapverse
 lemeMA.Gospel.incipit = le.go.ge.hierarch_en_US_eob.legeMA.Gospel.incipit
 lemeMA.Gospel.text = le.go.ge.hierarch_en_US_eob.legeMA.Gospel.text
-lemeMA.Gospel.pagenumber = le.go.ge.hierarch_en_US_eob.legeMA.Gospel.pagenumber
 
 lemeLI.Gospel.title = "For the Saints."
 lemeLI.Gospel.title_abbr = "For the Saints."
@@ -18,4 +17,3 @@ lemeLI.Gospel.book_abbr = le.go.ge.hierarch_en_US_eob.legeLI.Gospel2.book_abbr
 lemeLI.Gospel.chapverse = le.go.ge.hierarch_en_US_eob.legeLI.Gospel2.chapverse
 lemeLI.Gospel.incipit = le.go.ge.hierarch_en_US_eob.legeLI.Gospel2.incipit
 lemeLI.Gospel.text = le.go.ge.hierarch_en_US_eob.legeLI.Gospel2.text
-lemeLI.Gospel.pagenumber = le.go.ge.hierarch_en_US_eob.legeLI.Gospel2.pagenumber

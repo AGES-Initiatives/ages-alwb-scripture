@@ -8,7 +8,6 @@ lemeMA.Gospel.book_abbr = le.go.ge.theotokos_en_US_rsv.legeMA.Gospel.book_abbr
 lemeMA.Gospel.chapverse = le.go.ge.theotokos_en_US_rsv.legeMA.Gospel.chapverse
 lemeMA.Gospel.incipit = le.go.ge.theotokos_en_US_rsv.legeMA.Gospel.incipit
 lemeMA.Gospel.text = le.go.ge.theotokos_en_US_rsv.legeMA.Gospel.text
-lemeMA.Gospel.pagenumber = le.go.ge.theotokos_en_US_rsv.legeMA.Gospel.pagenumber
 
 lemeLI.Gospel.title = "For the Feast."
 lemeLI.Gospel.title_abbr = "For the Feast."
@@ -18,4 +17,3 @@ lemeLI.Gospel.book_abbr = le.go.ge.theotokos_en_US_rsv.legeLI.Gospel.book_abbr
 lemeLI.Gospel.chapverse = le.go.ge.theotokos_en_US_rsv.legeLI.Gospel.chapverse
 lemeLI.Gospel.incipit = le.go.ge.theotokos_en_US_rsv.legeLI.Gospel.incipit
 lemeLI.Gospel.text = le.go.ge.theotokos_en_US_rsv.legeLI.Gospel.text
-lemeLI.Gospel.pagenumber = le.go.ge.theotokos_en_US_rsv.legeLI.Gospel.pagenumber

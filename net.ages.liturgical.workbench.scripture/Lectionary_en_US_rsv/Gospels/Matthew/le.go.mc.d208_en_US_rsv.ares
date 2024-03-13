@@ -1,11 +1,10 @@
 A_Resource_Whose_Name = le.go.mc.d208_en_US_rsv
 
 lemcLI.Gospel.title = "Thursday of the 13th Week of Matthew"
-lemcLI.Gospel.title_abbr = "Thursday of the 13th Week of Matthew"
+lemcLI.Gospel.title_abbr = "Thursday of the 13th Week"
 lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book_string = bible_en_US_rsv.Mark.text
 lemcLI.Gospel.book_abbr = bible_en_US_rsv.Mark.abbr
 lemcLI.Gospel.chapverse = "3:28-35"
 lemcLI.Gospel.incipit = "The Lord said, “Truly, I say to you, all…"
 lemcLI.Gospel.text = "The Lord said, “Truly, I say to you, all sins will be forgiven the sons of men, and whatever blasphemies they utter; but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin,” for they had said, “He has an unclean spirit.” And his mother and his brothers came; and standing outside they sent to him and called him. And a crowd was sitting about him; and they said to him, “Your mother and your brothers are outside, asking for you.” And he replied, “Who are my mother and my brothers?” And looking around on those who sat about him, he said, “Here are my mother and my brothers! Whoever does the will of God is my brother, and sister, and mother.”"
-lemcLI.Gospel.pagenumber = ""

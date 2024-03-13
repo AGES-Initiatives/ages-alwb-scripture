@@ -1,13 +1,13 @@
 A_Resource_Whose_Name = le.go.mc.d085_en_US_eob
 
-lemcMA.Gospel.title = "Sunday of the Myrrh-Bearing Women"
-lemcMA.Gospel.title_abbr = "Sunday of the Myrrh-Bearing Women"
-lemcMA.Gospel.version = properties_en_US_eob.version.designation
-lemcMA.Gospel.book_string = bible_en_US_eob.Luke.text
-lemcMA.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
-lemcMA.Gospel.chapverse = "24:1-12"
-lemcMA.Gospel.incipit = le.go.eo.w04_en_US_eob.leeoMA.Gospel.incipit
-lemcMA.Gospel.text = le.go.eo.w04_en_US_eob.leeoMA.Gospel.text
+lemcMA.Gospel.title = properties_en_US_eob.deprecated.key
+lemcMA.Gospel.title_abbr = properties_en_US_eob.deprecated.key
+lemcMA.Gospel.version = properties_en_US_eob.deprecated.key
+lemcMA.Gospel.book_string = properties_en_US_eob.deprecated.key
+lemcMA.Gospel.book_abbr = properties_en_US_eob.deprecated.key
+lemcMA.Gospel.chapverse = properties_en_US_eob.deprecated.key
+lemcMA.Gospel.incipit = properties_en_US_eob.deprecated.key
+lemcMA.Gospel.text = properties_en_US_eob.deprecated.key
 
 lemcLI.Gospel.title = "Sunday of the Myrrh-Bearing Women"
 lemcLI.Gospel.title_abbr = "Sunday of the Myrrh-Bearing Women"
@@ -17,4 +17,3 @@ lemcLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr
 lemcLI.Gospel.chapverse = "15:43-47; 16:1-8"
 lemcLI.Gospel.incipit = "At that time, Joseph of Arimathea (a prominent council…"
 lemcLI.Gospel.text = "At that time, Joseph of Arimathea (a prominent council member who was also looking for the Kingdom of God), came forward. He boldly went in to Pilate and asked for Jesus’ body. Pilate wondered if Jesus was already dead. Calling the centurion, he asked him whether Jesus had been dead for a long time. Having been assured of this by the centurion, he granted the body to Joseph. Accordingly, Joseph bought fine linen, took Jesus down and wrapped him in the linen cloth. Having placed him in a tomb which had been cut out of a rock, he rolled a stone against the door of the tomb. Mary Magdalene and Mary, the mother of Joses, saw where Jesus had been laid. When the sabbath was past, Mary Magdalene, Mary the mother of James, and Salome, bought spices in order to come and anoint him. Very early on the first day of the week, they arrived at the tomb when the sun had risen. They were saying among themselves, “Who will roll away the stone from the door of the tomb for us?” But when they looked up, they saw that the stone was [already] rolled back, although it was extremely large. Entering into the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were amazed. He said to them, “Do not be amazed! You seek Jesus the Nazarene, who has been crucified. He has risen! He is not here! Behold, the place where they laid him! But go, tell his disciples and Peter, ‘He goes before you into Galilee. There you will see him, as he told you.’” They went out and fled from the tomb, for trembling and astonishment had come upon them. They said nothing to anyone because they were afraid."
-lemcLI.Gospel.pagenumber = ""

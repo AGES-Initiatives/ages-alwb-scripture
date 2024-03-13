@@ -35,7 +35,6 @@ lemcLI.Gospel.book_abbr =
 lemcLI.Gospel.chapverse = ""
 lemcLI.Gospel.incipit = ""
 lemcLI.Gospel.text = ""
-lemcLI.Gospel.pagenumber = ""
 
 lemcH1.Gospel.title = ""
 lemcH1.Gospel.title_abbr = ""

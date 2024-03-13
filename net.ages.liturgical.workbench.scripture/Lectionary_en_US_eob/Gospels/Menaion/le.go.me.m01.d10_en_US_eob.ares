@@ -8,7 +8,6 @@ lemeLI.Gospel.book_abbr = le.go.lu.d001_en_US_eob.leluLI.Gospel.book_abbr
 lemeLI.Gospel.chapverse = le.go.lu.d001_en_US_eob.leluLI.Gospel.chapverse
 lemeLI.Gospel.incipit = le.go.lu.d001_en_US_eob.leluLI.Gospel.incipit
 lemeLI.Gospel.text = le.go.lu.d001_en_US_eob.leluLI.Gospel.text
-lemeLI.Gospel.pagenumber = ""
 
 lemeLI.Gospel2.title = "For the Saint."
 lemeLI.Gospel2.title_abbr = "For the Saint."

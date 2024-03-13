@@ -17,7 +17,6 @@ lemeLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
 lemeLI.Gospel.chapverse = "4:16-22"
 lemeLI.Gospel.incipit = "At that time, Jesus came to Nazareth, where he…"
 lemeLI.Gospel.text = "At that time, Jesus came to Nazareth, where he had been brought up. As was his custom, he entered into the synagogue on the Sabbath day and stood up to read. The scroll of the prophet Isaias was handed to him. He opened the book, and found the place where it was written: The Spirit of the Lord is upon me, because he has anointed me to preach Good News to the poor. He has sent me to heal the brokenhearted, to proclaim release to the captives, recovery of sight to the blind, to deliver those who are crushed, and to proclaim the favorable year of the Lord. He closed the scroll, gave it back to the attendant, and sat down. The eyes of all in the synagogue were fastened on him. He began to tell them, “Today, this Scripture has been fulfilled in your hearing.” All testified about him and marveled at the gracious words which came out of his mouth."
-lemeLI.Gospel.pagenumber = ""
 
 lemeLI.Gospel2.title = "For St. Symeon the Stylite."
 lemeLI.Gospel2.title_abbr = "For St. Symeon the Stylite."
@@ -27,4 +26,3 @@ lemeLI.Gospel2.book_abbr = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.book_abbr
 lemeLI.Gospel2.chapverse = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.chapverse
 lemeLI.Gospel2.incipit = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.incipit
 lemeLI.Gospel2.text = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.text
-lemeLI.Gospel2.pagenumber =

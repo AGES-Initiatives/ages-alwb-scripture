@@ -6,7 +6,6 @@ lemcLI.Gospel.version = properties_en_US_rsv.version.designation
 lemcLI.Gospel.book_string = bible_en_US_rsv.Mark.text
 lemcLI.Gospel.book_abbr = bible_en_US_rsv.Mark.abbr
 lemcLI.Gospel.chapverse = "7:31–37"
-lemcLI.Gospel.incipit = "At that time, Jesus returned from the region of…"
+lemcLI.Gospel.incipit = "Jesus returned from the region…"
 lemcLI.Gospel.text = "At that time, Jesus returned from the region of Tyre, and went through Sidon to the Sea of Galilee, through the region of Dekapolis. And they brought to him a man who was deaf and had an impediment in his speech; and they besought him to lay his hand upon him. And taking him aside from the multitude privately, he put his fingers into his ears, and he spat and touched his tongue; and looking up to heaven, he sighed, and said to him, “Ephphatha,” that is, “Be opened.” And his ears were opened, his tongue was released, and he spoke plainly. And he charged them to tell no one; but the more he charged them, the more zealously they proclaimed it. And they were astonished beyond measure, saying, “He has done all things well: he even makes the deaf hear and the dumb speak.”"
-lemcLI.Gospel.pagenumber = ""
 

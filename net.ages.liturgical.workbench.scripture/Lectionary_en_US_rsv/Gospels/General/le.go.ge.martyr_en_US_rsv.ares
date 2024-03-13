@@ -8,7 +8,6 @@ legeMA.Gospel.book_abbr = le.go.lu.d079_en_US_rsv.leluLI.Gospel.book_abbr
 legeMA.Gospel.chapverse = le.go.lu.d079_en_US_rsv.leluLI.Gospel.chapverse
 legeMA.Gospel.incipit = le.go.lu.d079_en_US_rsv.leluLI.Gospel.incipit
 legeMA.Gospel.text = le.go.lu.d079_en_US_rsv.leluLI.Gospel.text
-legeMA.Gospel.pagenumber = le.go.lu.d079_en_US_rsv.leluLI.Gospel.pagenumber
 
 legeLI.Gospel.title = "For a Martyr"
 legeLI.Gospel.title_abbr = "For a Martyr"
@@ -18,4 +17,3 @@ legeLI.Gospel.book_abbr = le.go.mc.d091_en_US_rsv.lemcLI.Gospel.book_abbr
 legeLI.Gospel.chapverse = le.go.mc.d091_en_US_rsv.lemcLI.Gospel.chapverse
 legeLI.Gospel.incipit = le.go.mc.d091_en_US_rsv.lemcLI.Gospel.incipit
 legeLI.Gospel.text = le.go.mc.d091_en_US_rsv.lemcLI.Gospel.text
-legeLI.Gospel.pagenumber = le.go.mc.d091_en_US_rsv.lemcLI.Gospel.pagenumber

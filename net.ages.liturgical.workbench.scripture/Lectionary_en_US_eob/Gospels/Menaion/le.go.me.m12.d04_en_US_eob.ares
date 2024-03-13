@@ -8,7 +8,6 @@ lemeMA.Gospel.book_abbr = le.go.mc.d238_en_US_eob.lemcLI.Gospel.book_abbr
 lemeMA.Gospel.chapverse = le.go.mc.d238_en_US_eob.lemcLI.Gospel.chapverse
 lemeMA.Gospel.incipit = le.go.mc.d238_en_US_eob.lemcLI.Gospel.incipit
 lemeMA.Gospel.text = le.go.mc.d238_en_US_eob.lemcLI.Gospel.text
-lemeMA.Gospel.pagenumber = le.go.mc.d238_en_US_eob.lemcLI.Gospel.pagenumber
 
 lemeLI.Gospel.title = "For St. Barbara."
 lemeLI.Gospel.title_abbr = "For St. Barbara."
@@ -18,4 +17,3 @@ lemeLI.Gospel.book_abbr = le.go.mc.d219_en_US_eob.lemcLI.Gospel.book_abbr
 lemeLI.Gospel.chapverse = le.go.mc.d219_en_US_eob.lemcLI.Gospel.chapverse
 lemeLI.Gospel.incipit = le.go.mc.d219_en_US_eob.lemcLI.Gospel.incipit
 lemeLI.Gospel.text = le.go.mc.d219_en_US_eob.lemcLI.Gospel.text
-lemeLI.Gospel.pagenumber = ""

@@ -17,7 +17,6 @@ lemeLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
 lemeLI.Gospel.chapverse = "19:25-28, 21:24-25"
 lemeLI.Gospel.incipit = "At that time, there were standing by the cross…"
 lemeLI.Gospel.text = "At that time, there were standing by the cross of Jesus his mother, and his mother’s sister (Mary [the wife] of Clopas), and Mary Magdalene. When Jesus saw his mother and the disciple whom he loved standing there, he said to his mother, “Woman, behold your son!” Then he said to the disciple, “Behold, your mother!” And from that hour, the disciple took her to his own home. This is the disciple who bears witness about these things and who wrote these things. We know that his testimony is true. There are also many other things which Jesus did. If they were all written, I suppose that even the world itself could not contain the books that would be written. Amen."
-lemeLI.Gospel.pagenumber = ""
 
 lemeLI.Gospel2.title = "For the Saint."
 lemeLI.Gospel2.title_abbr = "For the Saint."
@@ -27,4 +26,3 @@ lemeLI.Gospel2.book_abbr = le.go.mc.d145_en_US_eob.lemcLI.Gospel.book_abbr
 lemeLI.Gospel2.chapverse = le.go.mc.d145_en_US_eob.lemcLI.Gospel.chapverse
 lemeLI.Gospel2.incipit = le.go.mc.d145_en_US_eob.lemcLI.Gospel.incipit
 lemeLI.Gospel2.text = le.go.mc.d145_en_US_eob.lemcLI.Gospel.text
-lemeLI.Gospel2.pagenumber = ""
