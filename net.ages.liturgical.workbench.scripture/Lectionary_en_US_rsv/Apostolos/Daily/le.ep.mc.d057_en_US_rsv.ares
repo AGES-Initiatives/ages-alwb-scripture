@@ -1,11 +1,10 @@
 A_Resource_Whose_Name = le.ep.mc.d057_en_US_rsv
 
-lemcLI.Epistle.title = "5th Sunday of Lent"
-lemcLI.Epistle.title_abbr = "5th Sunday of Lent"
+lemcLI.Epistle.title = "Fifth Sunday of Lent"
+lemcLI.Epistle.title_abbr = "Fifth Sunday of Lent"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Hebrews.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Hebrews.abbr
 lemcLI.Epistle.chapverse = "9:11-14"
-lemcLI.Epistle.incipit = "Brethren, when Christ appeared as a high priest of…"
-lemcLI.Epistle.text = "Brethren, when Christ appeared as a high priest of the good things that have come, then through the greater and more perfect tent (not made with hands, that is, not of this creation) he entered once for all into the Holy Place, taking not the blood of goats and calves but his own blood, thus securing an eternal redemption. For if the sprinkling of defiled persons with the blood of goats and bulls and with the ashes of a heifer sanctifies for the purification of the flesh, how much more shall the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify your conscience from dead works to serve the living God."
-lemcLI.Epistle.pagenumber = "143"
+lemcLI.Epistle.incipit = "When Christ appeared as a high priest…"
+lemcLI.Epistle.text = "Brethren, when Christ appeared as a high priest of the good things to come, then through the greater and more perfect tent (not made with hands, that is, not of this creation) he entered once for all into the Holy Place, not with the blood of goats and calves but with his own blood, thus securing an eternal redemption. For if the sprinkling of defiled persons with the blood of goats and bulls and with the ashes of a heifer sanctifies for the purification of the flesh, how much more shall the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify your conscience from dead works to serve the living God."

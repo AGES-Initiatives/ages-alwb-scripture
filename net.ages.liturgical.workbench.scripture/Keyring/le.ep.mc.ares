@@ -8,7 +8,6 @@ lemcVE.Epistle.book_abbr =
 lemcVE.Epistle.chapverse = ""
 lemcVE.Epistle.incipit = ""
 lemcVE.Epistle.text = ""
-lemcVE.Epistle.pagenumber = ""
 
 lemcLI.Epistle.title = ""
 lemcLI.Epistle.title_abbr = ""
@@ -18,7 +17,6 @@ lemcLI.Epistle.book_abbr =
 lemcLI.Epistle.chapverse = ""
 lemcLI.Epistle.incipit = ""
 lemcLI.Epistle.text = ""
-lemcLI.Epistle.pagenumber = ""
 
 lemcH1.Epistle.title = ""
 lemcH1.Epistle.title_abbr = ""

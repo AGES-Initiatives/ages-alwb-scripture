@@ -35,6 +35,5 @@ lemeLI.Epistle.book_abbr = le.ep.mc.d017_en_US_rsv.lemcLI.Epistle.book_abbr
 lemeLI.Epistle.chapverse = "1:1-25"
 lemeLI.Epistle.incipit = le.ep.mc.d017_en_US_rsv.lemcLI.Epistle.incipit
 lemeLI.Epistle.text = le.ep.mc.d017_en_US_rsv.lemcLI.Epistle.text
-lemeLI.Epistle.pagenumber = ""
 lemeLI.Epistle2.incipit = le.ep.mc.d019_en_US_rsv.lemcLI.Epistle.incipit
 lemeLI.Epistle2.text = le.ep.mc.d019_en_US_rsv.lemcLI.Epistle.text

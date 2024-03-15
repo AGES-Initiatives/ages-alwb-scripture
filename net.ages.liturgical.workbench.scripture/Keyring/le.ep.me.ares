@@ -55,7 +55,6 @@ lemeLI.Epistle.book_abbr =
 lemeLI.Epistle.chapverse = ""
 lemeLI.Epistle.incipit = ""
 lemeLI.Epistle.text = ""
-lemeLI.Epistle.pagenumber = ""
 
 lemeLI.Epistle2.title = ""
 lemeLI.Epistle2.title_abbr = ""

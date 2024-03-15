@@ -1,22 +1,19 @@
 A_Resource_Whose_Name = le.ep.mc.d071_en_US_rsv
 
-lemcVE.Epistle.title = "Holy Saturday"
-lemcVE.Epistle.title_abbr = "Holy Saturday"
+lemcVE.Epistle.title = "Holy and Great Saturday at Liturgy"
+lemcVE.Epistle.title_abbr = "Holy Saturday at Liturgy"
 lemcVE.Epistle.version = properties_en_US_rsv.version.designation
 lemcVE.Epistle.book_string = bible_en_US_rsv.Romans.text
 lemcVE.Epistle.book_abbr = bible_en_US_rsv.Romans.abbr
 lemcVE.Epistle.chapverse = "6:3-11"
-lemcVE.Epistle.incipit = "Brethren, all who have been baptized into Christ Jesus…"
-lemcVE.Epistle.text = "Brethren, all who have been baptized into Christ Jesus were baptized into His death. We were buried therefore with Him by baptism into death, so that as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life. For if we have been united with Him in a death like His, we shall certainly be united with Him in a resurrection like His. We know that our old self was crucified with Him so that the sinful body might be destroyed, and we might no longer be enslaved to sin. For he who has died is freed from sin. But if we have died with Christ, we believe that we shall also live with Him. For we know that Christ being raised from the dead will never die again; death no longer has dominion over Him. The death He died He died to sin, once for all, but the life He lives He lives to God. So you also must consider yourselves dead to sin and alive to God in Christ Jesus our Lord."
-lemcVE.Epistle.pagenumber = ""
+lemcVE.Epistle.incipit = "All of us who have been baptized…"
+lemcVE.Epistle.text = "Brethren, all of us who have been baptized into Christ Jesus were baptized into His death. We were buried therefore with Him by baptism into death, so that as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life. For if we have been united with Him in a death like His, we shall certainly be united with Him in a resurrection like His. We know that our old self was crucified with Him so that the sinful body might be destroyed, and we might no longer be enslaved to sin. For he who has died is freed from sin. But if we have died with Christ, we believe that we shall also live with Him. For we know that Christ being raised from the dead will never die again; death no longer has dominion over Him. The death He died He died to sin, once for all, but the life He lives He lives to God. So you also must consider yourselves dead to sin and alive to God in Christ Jesus our Lord."
 
-lemcLI.Epistle.title = "Sunday of Pascha"
+lemcLI.Epistle.title = "Holy and Great Sunday of Pascha"
 lemcLI.Epistle.title_abbr = "Sunday of Pascha"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Acts.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Acts.abbr
 lemcLI.Epistle.chapverse = "1:1-8"
-lemcLI.Epistle.incipit = "In the first book, O Theophilos, I have dealt…"
-lemcLI.Epistle.text = "In the first book, O Theophilos, I have dealt with all that Jesus began to do and teach, until the day when he was taken up, after he had given commandment through the Holy Spirit to the apostles whom he had chosen. To them he presented himself alive after his passion by many proofs, appearing to them during forty days, and speaking of the kingdom of God. And while staying with them he charged them not to depart from Jerusalem, but to wait for the promise of the Father, which, he said, “you heard from me, for John baptized with water, but before many days you shall be baptized with the Holy Spirit.” So when they had come together, they asked him, “Lord, will you at this time restore the kingdom of Israel?” He said to them, “It is not for you to know times or seasons which the Father has fixed by his own authority. But you shall receive power when the Holy Spirit has come upon you; and you shall be my witnesses in Jerusalem and in all Judea and Samaria and to the end of the earth.”"
-lemcLI.Epistle.pagenumber = "45"
-
+lemcLI.Epistle.incipit = "In the first book, O Theophilus…"
+lemcLI.Epistle.text = "In the first book, O Theophilus, I have dealt with all that Jesus began to do and teach, until the day when he was taken up, after he had given commandment through the Holy Spirit to the apostles whom he had chosen. To them he presented himself alive after his passion by many proofs, appearing to them during forty days, and speaking of the kingdom of God. And while staying with them he charged them not to depart from Jerusalem, but to wait for the promise of the Father, which, he said, “you heard from me, for John baptized with water, but before many days you shall be baptized with the Holy Spirit.” So when they had come together, they asked him, “Lord, will you at this time restore the kingdom of Israel?” He said to them, “It is not for you to know times or seasons which the Father has fixed by his own authority. But you shall receive power when the Holy Spirit has come upon you; and you shall be my witnesses in Jerusalem and in all Judea and Samaria and to the end of the earth.”"

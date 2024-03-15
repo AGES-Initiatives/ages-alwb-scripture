@@ -8,7 +8,6 @@ lemeLI.Epistle.book_abbr = le.ep.mc.d190_en_US_eob.lemcLI.Epistle.book_abbr
 lemeLI.Epistle.chapverse = le.ep.mc.d190_en_US_eob.lemcLI.Epistle.chapverse
 lemeLI.Epistle.incipit = le.ep.mc.d190_en_US_eob.lemcLI.Epistle.incipit
 lemeLI.Epistle.text = le.ep.mc.d190_en_US_eob.lemcLI.Epistle.text
-lemeLI.Epistle.pagenumber = ""
 
 lemeLI.Epistle2.title = "Another for the Apostle"
 lemeLI.Epistle2.title_abbr = "Another for the Apostle"

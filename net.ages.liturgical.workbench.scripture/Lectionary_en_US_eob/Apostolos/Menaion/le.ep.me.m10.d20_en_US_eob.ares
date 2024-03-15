@@ -8,7 +8,6 @@ lemeLI.Epistle.book_abbr = le.ep.me.m10.d26_en_US_eob.lemeLI.Epistle.book_abbr
 lemeLI.Epistle.chapverse = le.ep.me.m10.d26_en_US_eob.lemeLI.Epistle.chapverse
 lemeLI.Epistle.incipit = le.ep.me.m10.d26_en_US_eob.lemeLI.Epistle.incipit
 lemeLI.Epistle.text = le.ep.me.m10.d26_en_US_eob.lemeLI.Epistle.text
-lemeLI.Epistle.pagenumber = ""
 
 lemeLI.Epistle2.title = "For St. Gerasimos."
 lemeLI.Epistle2.title_abbr = "For St. Gerasimos."
