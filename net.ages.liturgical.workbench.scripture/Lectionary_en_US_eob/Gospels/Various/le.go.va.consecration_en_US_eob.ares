@@ -5,7 +5,7 @@ levaCON.Gospel1.title_abbr = "At the Groundbreaking of a Church."
 levaCON.Gospel1.version = properties_en_US_eob.version.designation
 levaCON.Gospel1.book_string = bible_en_US_eob.Matthew.text
 levaCON.Gospel1.book_abbr = bible_en_US_eob.Matthew.abbr
-levaCON.Gospel1.chapverse = "16:13-19"
+levaCON.Gospel1.chapverse = "16:13 – 19"
 levaCON.Gospel1.text = ""
 
 levaCON.Gospel2.title = ""
@@ -13,7 +13,7 @@ levaCON.Gospel2.title_abbr = ""
 levaCON.Gospel2.version = properties_en_US_eob.version.designation
 levaCON.Gospel2.book_string = bible_en_US_eob.Luke.text
 levaCON.Gospel2.book_abbr = bible_en_US_eob.Luke.abbr
-levaCON.Gospel2.chapverse = "10:38-42; 11:27-28"
+levaCON.Gospel2.chapverse = "10:38 – 42; 11:27 – 28"
 levaCON.Gospel2.incipit = le.go.me.m11.d21_en_US_eob.lemeLI.Gospel.incipit
 levaCON.Gospel2.text = le.go.me.m11.d21_en_US_eob.lemeLI.Gospel.text
 
@@ -22,6 +22,6 @@ levaLI.Gospel.title_abbr = "At the Consecration of a Church."
 levaLI.Gospel.version = properties_en_US_eob.version.designation
 levaLI.Gospel.book_string = bible_en_US_eob.John.text
 levaLI.Gospel.book_abbr = bible_en_US_eob.John.abbr
-levaLI.Gospel.chapverse = "10:22-27"
+levaLI.Gospel.chapverse = "10:22 – 27"
 levaLI.Gospel.incipit = "At that time, a dedication took place in Jerusalem.…"
 levaLI.Gospel.text = "At that time, a dedication took place in Jerusalem. It was winter, and Jesus was walking in the temple, in Solomon’s porch. The Jews therefore gathered around him and asked him, “How long will you hold us in suspense? If you are the Christ, tell us plainly.” Jesus answered them, “I told you, and you do not believe. The works that I do in my Father’s Name, these bear witness to me. But you do not believe, because you are not of my sheep, as I told you. My sheep hear my voice; I know them, and they follow me. I give eternal life to them; they will never perish, and no one will snatch them out of my hand."

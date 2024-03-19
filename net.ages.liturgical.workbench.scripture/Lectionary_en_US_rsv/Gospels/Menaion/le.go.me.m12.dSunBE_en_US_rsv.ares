@@ -5,7 +5,7 @@ lemeLI.Gospel.title_abbr = "Sun. before Epiphany"
 lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book_string = bible_en_US_rsv.Mark.text
 lemeLI.Gospel.book_abbr = bible_en_US_rsv.Mark.abbr
-lemeLI.Gospel.chapverse = "1:1-8"
+lemeLI.Gospel.chapverse = "1:1 – 8"
 lemeLI.Gospel.incipit = le.go.me.m01.d05_en_US_rsv.lemeH3.Gospel.incipit
 lemeLI.Gospel.text = le.go.me.m01.d05_en_US_rsv.lemeH3.Gospel.text
 

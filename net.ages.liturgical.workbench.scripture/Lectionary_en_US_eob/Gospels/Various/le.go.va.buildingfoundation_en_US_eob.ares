@@ -5,6 +5,6 @@ levaLI.Gospel.title_abbr = ""
 levaLI.Gospel.version = properties_en_US_eob.version.designation
 levaLI.Gospel.book_string = bible_en_US_eob.Matthew.text
 levaLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
-levaLI.Gospel.chapverse = "7:24-25"
+levaLI.Gospel.chapverse = "7:24 – 25"
 levaLI.Gospel.incipit = "The Lord said: “Everyone therefore who hears my words…"
 levaLI.Gospel.text = "The Lord said: “Everyone therefore who hears my words and does them, I will compare to a wise person who built his house on a rock.”"

@@ -5,5 +5,5 @@ levaSW.Gospel.title_abbr = "At Small Blessing of Water."
 levaSW.Gospel.version = properties_en_US_eob.version.designation
 levaSW.Gospel.book_string = bible_en_US_eob.John.text
 levaSW.Gospel.book_abbr = bible_en_US_eob.John.abbr
-levaSW.Gospel.chapverse = "5:1-4"
+levaSW.Gospel.chapverse = "5:1 – 4"
 levaSW.Gospel.text = ""

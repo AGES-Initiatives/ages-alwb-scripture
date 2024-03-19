@@ -5,7 +5,7 @@ levaDEC.Epistle1.title_abbr = "For Those Who Have Fallen Asleep"
 levaDEC.Epistle1.version = properties_en_US_eob.version.designation
 levaDEC.Epistle1.book_string = bible_en_US_eob.Thessalonians1.text
 levaDEC.Epistle1.book_abbr = bible_en_US_eob.Thessalonians1.abbr
-levaDEC.Epistle1.chapverse = "4:13-18"
+levaDEC.Epistle1.chapverse = "4:13 – 18"
 levaDEC.Epistle1.incipit = "We do not want you to be ignorant, brethren,…"
 levaDEC.Epistle1.text = "We do not want you to be ignorant, brethren, concerning those who have fallen asleep, so that you may not grieve like those who have no hope. For if we believe that Jesus died and rose again, in the same way God will bring with him those who have fallen asleep in Jesus. We tell you the following by the word of the Lord: we who are alive and remain until the coming of the Lord will not precede those who have fallen asleep. For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with the trumpet of God. The dead in Christ will rise first, then we who are alive and remain will be caught up together with them in the clouds, to meet the Lord in the air. And so, we will always be with the Lord. Therefore, comfort one another with these words."
 
@@ -14,7 +14,7 @@ levaDEC.Epistle2.title_abbr = "Another for the Deceased."
 levaDEC.Epistle2.version = properties_en_US_eob.version.designation
 levaDEC.Epistle2.book_string = bible_en_US_eob.Corinthians1.text
 levaDEC.Epistle2.book_abbr = bible_en_US_eob.Corinthians1.abbr
-levaDEC.Epistle2.chapverse = "15:47-57"
+levaDEC.Epistle2.chapverse = "15:47 – 57"
 levaDEC.Epistle2.incipit = "Brethren, the first man is from the earth, made…"
 levaDEC.Epistle2.text = "Brethren, the first man is from the earth, made of dust. The second man is the Lord from heaven. As is the one made of dust, such are those who are also made of dust; and as is the heavenly, such are they also that are heavenly. As we have borne the image of those made of dust, we will also bear the image of the heavenly [man]. Now I say this, brethren, that flesh and blood cannot inherit the Kingdom of God; neither does corruption inherit incorruption. Behold, I tell you a mystery. We will not all sleep, but we will all be changed, in a moment, in the twinkling of an eye, at the last trumpet. The trumpet will sound, and the dead will be raised incorruptible, and we will be changed. For what is corruptible must put on incorruption, and what is mortal must put on immortality. But when the corruptible will have put on incorruption and the mortal immortality, then that which is written will come true: “Death is swallowed up in victory.” Death, where is your sting? Hades, where is your victory? The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ!"
 
@@ -23,7 +23,7 @@ levaDEC.Epistle3.title_abbr = "Another for the Deceased."
 levaDEC.Epistle3.version = properties_en_US_eob.version.designation
 levaDEC.Epistle3.book_string = bible_en_US_eob.Corinthians1.text
 levaDEC.Epistle3.book_abbr = bible_en_US_eob.Corinthians1.abbr
-levaDEC.Epistle3.chapverse = "15:20-28"
+levaDEC.Epistle3.chapverse = "15:20 – 28"
 levaDEC.Epistle3.incipit = "Brethren, Christ has been raised from the dead! He…"
 levaDEC.Epistle3.text = "Brethren, Christ has been raised from the dead! He did become the first fruits of those who are asleep. For since death came through [one] man, the resurrection of the dead also came through [one] man. As in Adam all die, in Christ all will be made alive. But each in the proper order: Christ (the first fruits), then those who are Christ’s at his coming. When the end comes, he will deliver the Kingdom to the God and Father – that is, when he will have abolished all rule and all authority and power. For he must reign until he has put all his enemies under his feet. The last enemy that will be abolished is death. For, “He put all things in subjection under his feet.” But when he says, “All things are put in subjection,” it is obvious that this does not include the one who subjected all things to him. When all things have been subjected to him, then the Son will also subject himself to the one who subjected all things to him, so that God may be all in all."
 
@@ -32,6 +32,6 @@ levaDEC.Epistle4.title_abbr = "Another for the Deceased."
 levaDEC.Epistle4.version = properties_en_US_eob.version.designation
 levaDEC.Epistle4.book_string = bible_en_US_eob.Romans.text
 levaDEC.Epistle4.book_abbr = bible_en_US_eob.Romans.abbr
-levaDEC.Epistle4.chapverse = "14:6-9"
+levaDEC.Epistle4.chapverse = "14:6 – 9"
 levaDEC.Epistle4.incipit = "Brethren, the one who observes the day should observe…"
 levaDEC.Epistle4.text = "Brethren, the one who observes the day should observe it ‘to the Lord;’ and the one who does not observe it should do so ‘to the Lord.’ The one who eats should eat ‘to the Lord’ because he gives thanks to God! Likewise, the one who does not eat should do so ‘to the Lord’ because he [also] gives thanks to God! Indeed, we do not live selfishly and we do not die for ourselves. In fact, if we live, we live ‘to the Lord;’ or if we die, we die ‘to the Lord.’ Therefore, whether we live or die, we belong to the Lord. It is for this purpose that Christ died, rose, and lived, so that he might be Lord of both the dead and the living."

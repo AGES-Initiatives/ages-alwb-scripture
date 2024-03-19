@@ -5,7 +5,7 @@ lemcVE.reading1.title_abbr = ""
 lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Genesis.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Genesis.abbr
-lemcVE.reading1.chapverse = "7:1-5"
+lemcVE.reading1.chapverse = "7:1 – 5"
 lemcVE.reading1.incipit = "Then the Lord God said to Noah, “Enter the…"
 lemcVE.reading1.text = "Then the Lord God said to Noah, “Enter the ark, you and all your family, because I have seen you righteous before Me in this generation. You shall also bring with you into the ark the clean cattle by sevens, male and female; and the unclean cattle by twos, male and female; and the clean birds of heaven by twos, male and female, to keep seed alive on the face of all the earth. For after seven more days I will cause it to rain on the earth forty days and forty nights, and I will blot out from the face of the earth every living thing I made.” So Noah did all the Lord God commanded him."
 
@@ -14,7 +14,7 @@ lemcVE.reading2.title_abbr = ""
 lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Proverbs.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Proverbs.abbr
-lemcVE.reading2.chapverse = "8:32-9:11"
+lemcVE.reading2.chapverse = "8:32 – 9:11"
 lemcVE.reading2.incipit = "Now therefore, my son, hear me: Blessed is the…"
 lemcVE.reading2.text = "Now therefore, my son, hear me: Blessed is the man who shall hearken to me and the man who shall guard my ways; who watches daily at my doors, who keeps watch at the doors of my entryways; for my issues are the issues of life, and grace is prepared from the Lord. But those who sin against me act ungodly toward their own souls, and those who hate me love death.” Wisdom built her house, and she supported it with seven pillars. She offered her sacrifices; she mixed her wine in a bowl and prepared her table. She sent her servants, inviting people to the bowl with a lofty proclamation, saying, “He who is without discernment, let him turn aside to me”; and to those in need of discernment, she says, “Come, eat my bread and drink the wine I mixed for you; forsake lack of discernment, and you shall live; seek discernment so you may live, and keep straight your understanding with knowledge.” He who chastises evil men shall receive dishonor to himself, and he who reproves the ungodly man shall be blamed himself. Do not reprove evil men, so they may not hate you; reprove a wise man, and he will love you. Give the opportunity to a wise man, and he will be wiser; instruct a righteous man, and he shall continue to receive it. The fear of the Lord is the beginning of wisdom, and the counsel of saints is understanding; for to know the law is characteristic of a good mind. For in this manner you will live a long time, and the years of your life shall be increased."
 
@@ -23,7 +23,7 @@ lemcTE.reading1.title_abbr = ""
 lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Isaiah.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Isaiah.abbr
-lemcTE.reading1.chapverse = "10:12-20"
+lemcTE.reading1.chapverse = "10:12 – 20"
 lemcTE.reading1.incipit = "It shall come to pass, when the Lord has…"
 lemcTE.reading1.text = "It shall come to pass, when the Lord has completed all He will do on Mount Zion and in Jerusalem, He will go against the arrogant heart of the king of the Assyrians and the glory of his haughty looks. For he said, “I shall act in my strength and by the wisdom of my understanding. I also shall remove the boundaries of the nations and plunder their strength. I shall shake their inhabited cities. I shall overtake with my hand all the inhabited world as a nest, and take them as eggs that have been left. There is no one who can escape or oppose me.” Shall the ax glorify itself without him who chops with it? Or shall the saw exalt itself without him who saws with it? It is likewise if one should lift a rod or a piece of wood. But it shall not be so, for the Lord of hosts will send dishonor against your honor; and He will kindle a burning fire against your glory. So the Light of Israel will be as a fire, and He will sanctify him with burning fire; and it will devour the wood like grass on that day. The mountains, the hills, and the forests will be consumed, and devour both soul and body, and he who flees will be like one fleeing from a burning flame. Then the remnant will be few in number, and a child shall write them. It shall come to pass in that day that the remnant of Israel and those of Jacob who were saved will never again obey those who wronged them; but they will trust in God, the Holy One of Israel, in truth."
 

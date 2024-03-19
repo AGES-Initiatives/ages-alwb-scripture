@@ -5,7 +5,7 @@ lemeLI.Gospel.title_abbr = "Sat. after Christmas"
 lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book_string = bible_en_US_rsv.Matthew.text
 lemeLI.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr
-lemeLI.Gospel.chapverse = "12:15-21"
+lemeLI.Gospel.chapverse = "12:15 – 21"
 lemeLI.Gospel.incipit = "At that time, many followed Jesus, and he healed…"
 lemeLI.Gospel.text = "At that time, many followed Jesus, and he healed them all, and ordered them not to make him known. This was to fulfill what was spoken by the prophet Isaiah: “Behold, my servant whom I have chosen, my beloved with whom my soul is well pleased. I will put my Spirit upon him, and he shall proclaim justice to the Gentiles. He will not wrangle or cry aloud, nor will anyone hear his voice in the streets; he will not break a bruised reed or quench a smoldering wick, till he brings justice to victory; and in his name will the Gentiles hope.”"
 

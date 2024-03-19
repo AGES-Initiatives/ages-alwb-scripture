@@ -36,7 +36,7 @@ psVE.introductorypsalm.end.v1.text = "The sun knows its setting. You established
 psVE.introductorypsalm.end.v2.info = ps_en_US_saas.psa103.v24.number
 psVE.introductorypsalm.end.v2.text = "O Lord, Your works shall be magnified greatly; You made all things in wisdom."
 
-psVE.kathisma1.selection01.title = "Selected Verses from Psalms 1-3."
+psVE.kathisma1.selection01.title = "Selected Verses from Psalms 1 – 3."
 psVE.kathisma1.selection01.v01.info = ps_en_US_saas.psa1.v1.number
 psVE.kathisma1.selection01.v01.text = "Blessed is the man who walks not in the counsel of the ungodly."
 psVE.kathisma1.selection01.v02.info = ps_en_US_saas.psa1.v6.number
@@ -389,7 +389,7 @@ psVE.saturday.aposverse.v3.info = ps_en_US_saas.psa92.v5.number
 psVE.saturday.aposverse.v3.incipit = "Holiness is proper…"
 psVE.saturday.aposverse.v3.text = "Holiness is proper to Your house, O Lord, unto length of days."
 
-//goVE.songofsymeon.v1.info = //(Lk 2:29-32) le.go.os_en_US_saas.leosVE.Prayer_NynApolyeis.chapverse
+//goVE.songofsymeon.v1.info = //(Lk 2:29 – 32) le.go.os_en_US_saas.leosVE.Prayer_NynApolyeis.chapverse
 //goVE.songofsymeon.v1.incipit = "…"
 //goVE.songofsymeon.v1.text = ""
 //goVE.songofsymeon.v1a.text = ""

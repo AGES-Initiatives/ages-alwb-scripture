@@ -8641,7 +8641,7 @@ psa145.v10.number_kjv = "(145:10)"
 psa145.v10.number = "(145:10)"
 psa145.v10.text = ""
 
-psa146.title = "Psalm 146 (147:1-11)."
+psa146.title = "Psalm 146 (147:1 – 11)."
 psa146.version = properties_en_UK_kjv.version.designation
 psa146.text = ""
 psa146.v1.number_kjv = "(146:1)"
@@ -8684,7 +8684,7 @@ psa146.v11.number_kjv = "(146:11)"
 psa146.v11.number = "(146:11)"
 psa146.v11.text = ""
 
-psa147.title = "Psalm 147 (148:12-20)."
+psa147.title = "Psalm 147 (148:12 – 20)."
 psa147.version = properties_en_UK_kjv.version.designation
 psa147.text = ""
 psa147.v1.number_kjv = "(147:1)"

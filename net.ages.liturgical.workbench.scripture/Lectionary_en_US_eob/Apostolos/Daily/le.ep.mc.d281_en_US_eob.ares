@@ -5,6 +5,6 @@ lemcLI.Epistle.title_abbr = "TWENTY-THIRD SUNDAY"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Ephesians.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Ephesians.abbr
-lemcLI.Epistle.chapverse = "2:4-10"
+lemcLI.Epistle.chapverse = "2:4 – 10"
 lemcLI.Epistle.incipit = "Brethren, God who is rich in mercy, on account…"
 lemcLI.Epistle.text = "Brethren, God who is rich in mercy, on account of his great love by which he loved us, even when we were dead through our trespasses, made us alive together with Christ. By grace you have been saved! God raised us up with him, and granted us to sit with him in the heavenly places in Christ Jesus, so that in the ages to come, he might show the overflowing treasure of his grace in kindness toward us, in Christ Jesus. Yes, by grace you have been saved through faith, and not by yourselves. It is the gift of God, not of works, so that no one would boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared in advance so that we should walk in them."

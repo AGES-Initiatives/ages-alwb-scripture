@@ -5,6 +5,6 @@ legeLI.Epistle.title_abbr = "For Monastics"
 legeLI.Epistle.version = properties_en_US_rsv.version.designation
 legeLI.Epistle.book_string = bible_en_US_rsv.Galatians.text
 legeLI.Epistle.book_abbr = bible_en_US_rsv.Galatians.abbr
-legeLI.Epistle.chapverse = "5:22-26; 6:1-2"
+legeLI.Epistle.chapverse = "5:22 – 26; 6:1 – 2"
 legeLI.Epistle.incipit = le.ep.mc.d308_en_US_rsv.lemcLI.Epistle.incipit
 legeLI.Epistle.text = le.ep.mc.d308_en_US_rsv.lemcLI.Epistle.text

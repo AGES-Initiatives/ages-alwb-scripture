@@ -5,5 +5,5 @@ levaWED.Gospel.title_abbr = ""
 levaWED.Gospel.version = properties_en_US_eob.version.designation
 levaWED.Gospel.book_string = bible_en_US_eob.John.text
 levaWED.Gospel.book_abbr = bible_en_US_eob.John.abbr
-levaWED.Gospel.chapverse = "2:1-11"
+levaWED.Gospel.chapverse = "2:1 – 11"
 levaWED.Gospel.text = ""

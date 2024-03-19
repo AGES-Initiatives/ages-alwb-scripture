@@ -5,7 +5,7 @@ lemeVE.Epistle.title_abbr = "For the Feast."
 lemeVE.Epistle.version = properties_en_US_eob.version.designation
 lemeVE.Epistle.book_string = bible_en_US_eob.Corinthians1.text
 lemeVE.Epistle.book_abbr = bible_en_US_eob.Corinthians1.abbr
-lemeVE.Epistle.chapverse = "9:19-27"
+lemeVE.Epistle.chapverse = "9:19 – 27"
 lemeVE.Epistle.incipit = "Brethren, although I was free from all, I brought…"
 lemeVE.Epistle.text = "Brethren, although I was free from all, I brought myself in obedience to all, so that I might gain even more. To the Jews I became as a Jew, so that I might win over the Jews. To those who are under the law, [I became] as under the law, so that I might gain those who are under the law. To those who are without law, [I became] as one without law (not being without law toward God, but under law toward Christ), so that I might win those who are without law. To the weak I became as weak, that I might gain the weak. I have become all things to all people, so that I may by all means save some. Now I do this for the sake of the Good News, so that I may be a joint partaker of it. Do you not know that those who run in a race run with everyone else, but that only one receives the prize? Run like that, in order to win! Everyone who competes in the games exercises self-control in all things. Now they do it in order to receive a corruptible crown, but we [seek] an incorruptible crown. This is how I run, not without a goal. This is how I fight, not beating the air! Instead, I chastise my body and bring it into submission, for fear that after having preached to others, I myself should be disqualified."
 
@@ -14,7 +14,7 @@ lemeGW.Epistle.title_abbr = "For the Blessing of Water"
 lemeGW.Epistle.version = properties_en_US_eob.version.designation
 lemeGW.Epistle.book_string = bible_en_US_eob.Corinthians1.text
 lemeGW.Epistle.book_abbr = bible_en_US_eob.Corinthians1.abbr
-lemeGW.Epistle.chapverse = "10:1-4"
+lemeGW.Epistle.chapverse = "10:1 – 4"
 lemeGW.Epistle.incipit = "Brethren, I do not want you to be ignorant…"
 lemeGW.Epistle.text = "Brethren, I do not want you to be ignorant that our forefathers were all under the cloud: all passed through the sea; and they were all baptized into Moses in the cloud and in the sea. They all ate the same spiritual food and drank the same spiritual drink. They drank from a spiritual rock that followed them, and that rock was Christ."
 

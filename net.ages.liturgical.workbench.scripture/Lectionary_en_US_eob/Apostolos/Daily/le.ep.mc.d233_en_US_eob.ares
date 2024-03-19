@@ -5,6 +5,6 @@ lemcLI.Epistle.title_abbr = "MONDAY OF THE SEVENTEENTH WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.Ephesians.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.Ephesians.abbr
-lemcLI.Epistle.chapverse = "1:22-23; 2:1-3"
+lemcLI.Epistle.chapverse = "1:22 – 23; 2:1 – 3"
 lemcLI.Epistle.incipit = "Brethren, God put all things in subjection under his…"
 lemcLI.Epistle.text = "Brethren, God put all things in subjection under his feet and granted him to be head over all things for the sake of the Church, which is his body, the fullness of him who fills all in all. You were dead in transgressions and sins, and this was your lifestyle according to the age of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience. We used to live among them and we used to live in self-indulgence, doing the desires of the {fallen} flesh and mind, and we were by nature children of wrath, just as the others."

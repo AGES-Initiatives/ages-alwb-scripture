@@ -5,5 +5,5 @@ lemcLI.Epistle.title_abbr = "FRIDAY OF MEAT-FARE WEEK"
 lemcLI.Epistle.version = properties_en_US_eob.version.designation
 lemcLI.Epistle.book_string = bible_en_US_eob.John2.text
 lemcLI.Epistle.book_abbr = bible_en_US_eob.John2.abbr
-lemcLI.Epistle.chapverse = "1:1-13"
+lemcLI.Epistle.chapverse = "1:1 – 13"
 lemcLI.Epistle.text = ""

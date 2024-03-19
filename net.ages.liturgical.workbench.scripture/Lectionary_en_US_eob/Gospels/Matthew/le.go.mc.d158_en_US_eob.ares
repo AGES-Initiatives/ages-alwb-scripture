@@ -5,6 +5,6 @@ lemcLI.Gospel.title_abbr = "Wednesday of the Sixth Week"
 lemcLI.Gospel.version = properties_en_US_eob.version.designation
 lemcLI.Gospel.book_string = bible_en_US_eob.Matthew.text
 lemcLI.Gospel.book_abbr = bible_en_US_eob.Matthew.abbr
-lemcLI.Gospel.chapverse = "13:31-36"
+lemcLI.Gospel.chapverse = "13:31 – 36"
 lemcLI.Gospel.incipit = "The Lord said this parable: “The Kingdom of Heaven…"
 lemcLI.Gospel.text = "The Lord said this parable: “The Kingdom of Heaven is like a grain of mustard seed, which a man took, and sowed in his field. It is indeed smaller than all [other] seeds, but when it is grown, it is the biggest of shrubs and becomes a tree, so that the birds of the air can come and find shelter in its branches.” He told them another parable: “The Kingdom of Heaven is like the yeast that a woman took and mixed in with three measures of flour, until it was all leavened.” Jesus spoke all these things in parables to the crowds; and he did not speak to them without a parable, so that what had been spoken through the prophet might be fulfilled: ‘I will open my mouth in parables; I will utter things hidden from the foundation of the world.’ Then Jesus sent the multitudes away and went into the house."

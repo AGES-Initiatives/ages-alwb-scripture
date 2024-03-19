@@ -5,7 +5,7 @@ lemcVE.reading1.title_abbr = ""
 lemcVE.reading1.version = properties_en_US_saas.version.designation
 lemcVE.reading1.book_string = bible_en_US_saas.Exodus.text
 lemcVE.reading1.book_abbr = bible_en_US_saas.Exodus.abbr
-lemcVE.reading1.chapverse = "33:11-23"
+lemcVE.reading1.chapverse = "33:11 – 23"
 lemcVE.reading1.incipit = "Thus the Lord spoke to Moses face to face,…"
 lemcVE.reading1.text = "Thus the Lord spoke to Moses face to face, as a man speaks to his friend. Then he would return to the camp, but his servant Joshua the son of Nun, a young man, did not depart from the tabernacle. Then Moses said to the Lord, “Behold, You say to me, ‘Bring up this people.’ But You have not let me know whom You will send with me. Yet You have said, ‘I know you above all, and you have also found grace in My sight.’ Now therefore, I pray, if I have found grace in Your sight, reveal Yourself to me, that I may see You clearly and find grace in Your sight, and know this great nations is Your people.” So He said, “I Myself will go before you and give you rest.” Then he said to Him, “If You Yourself do not go up with us, do not bring us up from here. For how then will it be know that Your people and I found grace in Your sight, except You go with us? So both I and Your people shall be glorified beyond all the nations on the earth.” The Lord then said to Moses, “I will also do this thing you have spoken; for you have found grace in My sight, and I know you above all.” Moses replied, “Reveal Yourself to me.” Then God said, “I will pass before you in My glory, and I will proclaim My name, the Lord, before you. I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.” But He said, “You cannot see My face; for no man can see My face and live.” Moreover, the Lord said, “Here is a place by Me; you shall stand on the rock. So it shall be, while My glory passes by, that I will put you in the cleft of the rock, and will cover you with My hand while I pass by. Then I will take away My hand, and you shall see My back; but My face shall not be seen.”"
 
@@ -14,7 +14,7 @@ lemcVE.reading2.title_abbr = ""
 lemcVE.reading2.version = properties_en_US_saas.version.designation
 lemcVE.reading2.book_string = bible_en_US_saas.Job.text
 lemcVE.reading2.book_abbr = bible_en_US_saas.Job.abbr
-lemcVE.reading2.chapverse = "42:12-17"
+lemcVE.reading2.chapverse = "42:12 – 17"
 lemcVE.reading2.incipit = "Now the Lord blessed the latter days of Job…"
 lemcVE.reading2.text = "Now the Lord blessed the latter days of Job more than his beginning. He had fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, and one thousand donkeys. He also had seven sons and three daughters. And he named the first, Day, the second, Cassia, and the third, Amalthia’s Horn. In all the land, there were found no women so beautiful as the daughters of Job, and their father gave them an inheritance among their brothers. After this affliction, Job lived one hundred and seventy years, and all the years he lived were two hundred forty-eight; and Job saw his children and grandchildren for four generations. So Job died, old and full of days. It is written that he will rise with those whom the Lord resurrects. This man is described in the Syriac book as living in the land of Ausitis, on the border of Edom and Arabia. Previously his name was Jobab. He took an Arabian wife and begot a son named Ennon. But he himself was the son of his father Zare, one of the sons of Esau, and of his mother Bosorra. Thus, he was the fifth son from Abraham."
 
@@ -23,7 +23,7 @@ lemcVE.reading3.title_abbr = ""
 lemcVE.reading3.version = properties_en_US_saas.version.designation
 lemcVE.reading3.book_string = bible_en_US_saas.Isaiah.text
 lemcVE.reading3.book_abbr = bible_en_US_saas.Isaiah.abbr
-lemcVE.reading3.chapverse = "52:14-54:1"
+lemcVE.reading3.chapverse = "52:14 – 54:1"
 lemcVE.reading3.incipit = le.pr.tr.d069_en_US_saas.lemcH6.Prophecy.incipit
 lemcVE.reading3.text = le.pr.tr.d069_en_US_saas.lemcH6.Prophecy.text
 
@@ -32,6 +32,6 @@ lemcTE.reading1.title_abbr = ""
 lemcTE.reading1.version = properties_en_US_saas.version.designation
 lemcTE.reading1.book_string = bible_en_US_saas.Ezekiel.text
 lemcTE.reading1.book_abbr = bible_en_US_saas.Ezekiel.abbr
-lemcTE.reading1.chapverse = "37:1-14"
+lemcTE.reading1.chapverse = "37:1 – 14"
 lemcTE.reading1.incipit = "Again the hand of the Lord came upon me,…"
 lemcTE.reading1.text = "Again the hand of the Lord came upon me, and brought me by the Spirit of the Lord, and set me in the midst of the plain, which was full of human bones. So He led me round about them, and behold, there was a great multitude of bones on the face of the plain. They were very dry. Then He said to me, “Son of man, can these bones live?” So I answered, “O Lord, You know this.” Then He said to me, “Prophesy to these bones and say to them, ‘O dry bones, hear the word of the Lord. Thus says the Lord to these bones: “Behold, I will bring the Spirit of life upon you. I will put muscles on you and bring flesh upon you. I will cover you with skin and put my Spirit into you. Then you shall live and know that I am the Lord.”’” So I prophesied as He commanded me, and it came to pass while I prophesied that, behold, there was a shaking, and the bones came together, each one to its joint. So I looked, and behold, muscle and flesh grew upon them, and skin covered them over; but no breath was in them. Then He said to me, “Prophesy to the wind, prophesy, son of man, and say to the wind, ‘Thus says the Lord: “Come from the four winds and breathe upon these dead men; and let them live.”’” So I prophesied as He commanded me, and the Spirit entered into them; and they lived and stood upon their feet, an exceedingly great assembly. Again the Lord spoke to me, saying, “Son of man, these bones are the whole house of Israel. They say, ‘Our bones are dry, our hope has perished, and we are lost.’ Therefore prophesy and say to them, ‘Thus says the Lord: “Behold, I will open your tombs, bring you up from your graves, and bring you into the land of Israel. Then you will know that I am the Lord, when I open your tombs to lead you, My people, up from their graves. I will put My Spirit in you, and you will live; and I will place you in your own land. Then you will know that I am the Lord, I have spoken, and I will do it,” says the Lord.’”"
