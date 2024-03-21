@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = le.ep.mc.d337_en_US_rsv
 
-lemcLI.Epistle.title = "31st Sunday"
+lemcLI.Epistle.title = "Thirty-first Sunday"
 lemcLI.Epistle.title_abbr = "31st Sunday"
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Timothy1.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Timothy1.abbr
 lemcLI.Epistle.chapverse = "1:15 – 17"
-lemcLI.Epistle.incipit = "Timothy, my son, the saying is sure and worthy…"
-lemcLI.Epistle.text = "Timothy, my son, the saying is sure and worthy of full acceptance, that Christ Jesus came into the world to save sinners. And I am the foremost of sinners; but I received mercy for this reason, that in me, as the foremost, Jesus Christ might display His perfect patience for an example to those who were to believe in Him for eternal life. To the King of Ages, immortal, invisible, the only God, be honor and glory to the ages of ages. Amen."
+lemcLI.Epistle.incipit = "The saying is sure and worthy…"
+lemcLI.Epistle.text = "Timothy, my son, the saying is sure and worthy of full acceptance, that Christ Jesus came into the world to save sinners. And I am the foremost of sinners; but I received mercy for this reason, that in me, as the foremost, Jesus Christ might display His perfect patience for an example to those who were to believe in Him for eternal life. To the King of ages, immortal, invisible, the only God, be honor and glory to the ages of ages. Amen."
