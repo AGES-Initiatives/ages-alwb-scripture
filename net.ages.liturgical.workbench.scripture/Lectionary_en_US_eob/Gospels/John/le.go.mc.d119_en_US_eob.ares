@@ -2,9 +2,9 @@ A_Resource_Whose_Name = le.go.mc.d119_en_US_eob
 
 lemcLI.Gospel.title = "Seventh Saturday after Pascha"
 lemcLI.Gospel.title_abbr = "Seventh Saturday after Pascha"
-lemcLI.Gospel.version = properties_en_US_eob.deprecated.key
-lemcLI.Gospel.book_string = properties_en_US_eob.deprecated.key
-lemcLI.Gospel.book_abbr = properties_en_US_eob.deprecated.key
-lemcLI.Gospel.chapverse = properties_en_US_eob.deprecated.key
-lemcLI.Gospel.incipit = properties_en_US_eob.deprecated.key
-lemcLI.Gospel.text = properties_en_US_eob.deprecated.key
+llemcLI.Gospel.version = le.go.eo.w11_en_US_eob.leeoMA.Gospel.version
+lemcLI.Gospel.book_string = le.go.eo.w11_en_US_eob.leeoMA.Gospel.book_string
+lemcLI.Gospel.book_abbr = le.go.eo.w11_en_US_eob.leeoMA.Gospel.book_abbr
+lemcLI.Gospel.chapverse = le.go.eo.w11_en_US_eob.leeoMA.Gospel.chapverse
+lemcLI.Gospel.incipit = le.go.eo.w11_en_US_eob.leeoMA.Gospel.incipit
+lemcLI.Gospel.text = le.go.eo.w11_en_US_eob.leeoMA.Gospel.text
