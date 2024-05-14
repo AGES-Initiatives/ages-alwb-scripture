@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m11.d09_en_US_eob
 
-lemeMA.Gospel.title = "Matins. For the Hierarch."
-lemeMA.Gospel.title_abbr = "Matins. For the Hierarch."
+lemeMA.Gospel.title = "Matins. For the Hierarch"
+lemeMA.Gospel.title_abbr = "Matins. For the Hierarch"
 lemeMA.Gospel.version = le.go.me.m09.d30_en_US_eob.lemeLI.Gospel.version
 lemeMA.Gospel.book_string = le.go.me.m09.d30_en_US_eob.lemeLI.Gospel.book_string
 lemeMA.Gospel.book_abbr = le.go.me.m09.d30_en_US_eob.lemeLI.Gospel.book_abbr
@@ -9,8 +9,8 @@ lemeMA.Gospel.chapverse = le.go.me.m09.d30_en_US_eob.lemeLI.Gospel.chapverse
 lemeMA.Gospel.incipit = le.go.me.m09.d30_en_US_eob.lemeLI.Gospel.incipit
 lemeMA.Gospel.text = le.go.me.m09.d30_en_US_eob.lemeLI.Gospel.text
 
-lemeLI.Gospel.title = "Liturgy. For the Hierarch."
-lemeLI.Gospel.title_abbr = "Liturgy. For the Hierarch."
+lemeLI.Gospel.title = "Liturgy. For the Hierarch"
+lemeLI.Gospel.title_abbr = "Liturgy. For the Hierarch"
 lemeLI.Gospel.version = le.go.me.m01.d10_en_US_eob.lemeLI.Gospel2.version
 lemeLI.Gospel.book_string = le.go.me.m01.d10_en_US_eob.lemeLI.Gospel2.book_string
 lemeLI.Gospel.book_abbr = le.go.me.m01.d10_en_US_eob.lemeLI.Gospel2.book_abbr

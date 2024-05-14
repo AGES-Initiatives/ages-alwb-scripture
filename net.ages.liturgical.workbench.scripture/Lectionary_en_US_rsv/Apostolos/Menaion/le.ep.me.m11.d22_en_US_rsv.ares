@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m11.d22_en_US_rsv
 
 lemeLI.Epistle.title = "For the Apostle."
-lemeLI.Epistle.title_abbr = "For the Apostle."
+lemeLI.Epistle.title_abbr = "For the Apostle"
 lemeLI.Epistle.version = properties_en_US_rsv.version.designation
 lemeLI.Epistle.book_string = bible_en_US_rsv.Philemon.text
 lemeLI.Epistle.book_abbr = bible_en_US_rsv.Philemon.abbr

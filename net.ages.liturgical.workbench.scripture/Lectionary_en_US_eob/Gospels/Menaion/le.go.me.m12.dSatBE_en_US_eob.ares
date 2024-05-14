@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m12.dSatBE_en_US_eob
 
-lemeLI.Gospel.title = "Saturday before Theophany."
-lemeLI.Gospel.title_abbr = "Saturday before Theophany."
+lemeLI.Gospel.title = "Saturday before Theophany"
+lemeLI.Gospel.title_abbr = "Saturday before Theophany"
 lemeLI.Gospel.version = le.go.me.m01.d05_en_US_eob.lemeH1.Gospel.version
 lemeLI.Gospel.book_string = le.go.me.m01.d05_en_US_eob.lemeH1.Gospel.book_string
 lemeLI.Gospel.book_abbr = le.go.me.m01.d05_en_US_eob.lemeH1.Gospel.book_abbr

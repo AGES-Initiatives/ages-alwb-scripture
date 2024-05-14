@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m03.d25_en_US_eob
 
-lemeMA.Gospel.title = "For the Feast."
-lemeMA.Gospel.title_abbr = "For the Feast."
+lemeMA.Gospel.title = "For the Feast"
+lemeMA.Gospel.title_abbr = "For the Feast"
 lemeMA.Gospel.version = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.version
 lemeMA.Gospel.book_string = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.book_string
 lemeMA.Gospel.book_abbr = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.book_abbr
@@ -9,8 +9,8 @@ lemeMA.Gospel.chapverse = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.chapverse
 lemeMA.Gospel.incipit = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.incipit
 lemeMA.Gospel.text = le.go.ge.theotokos_en_US_eob.legeMA.Gospel.text
 
-lemeLI.Gospel.title = "For the Feast."
-lemeLI.Gospel.title_abbr = "For the Feast."
+lemeLI.Gospel.title = "For the Feast"
+lemeLI.Gospel.title_abbr = "For the Feast"
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
 lemeLI.Gospel.book_string = bible_en_US_eob.Luke.text
 lemeLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr

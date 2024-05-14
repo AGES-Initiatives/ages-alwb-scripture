@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m09.d08_en_US_eob
 
 lemeLI.Epistle.title = "For the Feast."
-lemeLI.Epistle.title_abbr = "For the Feast."
+lemeLI.Epistle.title_abbr = "For the Feast"
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book_string = bible_en_US_eob.Philippians.text
 lemeLI.Epistle.book_abbr = bible_en_US_eob.Philippians.abbr

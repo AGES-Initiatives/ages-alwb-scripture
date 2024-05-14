@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.ge.theotokos_en_US_eob
 
-legeMA.Gospel.title = "For the Theotokos."
-legeMA.Gospel.title_abbr = "For the Theotokos."
+legeMA.Gospel.title = "For the Theotokos"
+legeMA.Gospel.title_abbr = "For the Theotokos"
 legeMA.Gospel.version = properties_en_US_eob.version.designation
 legeMA.Gospel.book_string = bible_en_US_eob.Luke.text
 legeMA.Gospel.book_abbr = bible_en_US_eob.Luke.abbr
@@ -9,8 +9,8 @@ legeMA.Gospel.chapverse = "1:39 – 49, 56"
 legeMA.Gospel.incipit = "In those days, Mary arose and went into the…"
 legeMA.Gospel.text = "In those days, Mary arose and went into the hill country with haste to a city of Judah. She entered into the house of Zacharias and greeted Elizabeth. And it happened that when Elizabeth heard Mary’s greeting, the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit. In a loud voice, she exclaimed, “Blessed are you among women, and blessed is the fruit of your womb! Why am I so favored, that the mother of my Lord should come to me? For behold, when the voice of your greeting came to my ears, the baby leaped in my womb out of joy! Blessed is she who believed, for the things which have been spoken to her from the Lord will be fulfilled!” Mary said, “My soul magnifies the Lord and my spirit has rejoiced in God my Savior, for he has looked at the humble state of his handmaid. For behold, from now on, all generations shall call me blessed! Indeed, he who is mighty has done great things for me, and Holy is his Name!” Mary stayed with Elizabeth for about three months, and then returned to her house."
 
-legeLI.Gospel.title = "For the Theotokos."
-legeLI.Gospel.title_abbr = "For the Theotokos."
+legeLI.Gospel.title = "For the Theotokos"
+legeLI.Gospel.title_abbr = "For the Theotokos"
 legeLI.Gospel.version = properties_en_US_eob.version.designation
 legeLI.Gospel.book_string = bible_en_US_eob.Luke.text
 legeLI.Gospel.book_abbr = bible_en_US_eob.Luke.abbr

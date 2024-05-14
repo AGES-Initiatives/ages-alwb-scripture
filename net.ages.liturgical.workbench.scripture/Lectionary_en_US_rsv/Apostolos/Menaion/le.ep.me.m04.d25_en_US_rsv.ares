@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m04.d25_en_US_rsv
 
 lemeVE.Reading1.title = "For the Evangelist."
-lemeVE.Reading1.title_abbr = "For the Evangelist."
+lemeVE.Reading1.title_abbr = "For the Evangelist"
 lemeVE.Reading1.version =
 lemeVE.Reading1.book_string =
 lemeVE.Reading1.book_abbr =
@@ -10,7 +10,7 @@ lemeVE.Reading1.incipit = "…"
 lemeVE.Reading1.text = ""
 
 lemeVE.Reading2.title = "For the Evangelist."
-lemeVE.Reading2.title_abbr = "For the Evangelist."
+lemeVE.Reading2.title_abbr = "For the Evangelist"
 lemeVE.Reading2.version =
 lemeVE.Reading2.book_string =
 lemeVE.Reading2.book_abbr =
@@ -19,7 +19,7 @@ lemeVE.Reading2.incipit = "…"
 lemeVE.Reading2.text = ""
 
 lemeVE.Reading3.title = "For the Evangelist."
-lemeVE.Reading3.title_abbr = "For the Evangelist."
+lemeVE.Reading3.title_abbr = "For the Evangelist"
 lemeVE.Reading3.version =
 lemeVE.Reading3.book_string =
 lemeVE.Reading3.book_abbr =
@@ -28,7 +28,7 @@ lemeVE.Reading3.incipit = "…"
 lemeVE.Reading3.text = ""
 
 lemeLI.Epistle.title = "For the Apostle."
-lemeLI.Epistle.title_abbr = "For the Apostle."
+lemeLI.Epistle.title_abbr = "For the Apostle"
 lemeLI.Epistle.version = properties_en_US_rsv.version.designation
 lemeLI.Epistle.book_string = bible_en_US_rsv.Peter1.text
 lemeLI.Epistle.book_abbr = bible_en_US_rsv.Peter1.abbr

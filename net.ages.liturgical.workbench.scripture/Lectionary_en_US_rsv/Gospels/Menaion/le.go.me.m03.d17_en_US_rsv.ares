@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m03.d17_en_US_rsv
 
-lemeLI.Gospel.title = "For the Saint."
-lemeLI.Gospel.title_abbr = "For the Saint."
+lemeLI.Gospel.title = "For the Saint"
+lemeLI.Gospel.title_abbr = "For the Saint"
 lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book_string = bible_en_US_rsv.Luke.text
 lemeLI.Gospel.book_abbr = bible_en_US_rsv.Luke.abbr

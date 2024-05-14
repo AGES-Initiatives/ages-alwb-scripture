@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.va.wedding_en_US_eob
 
 levaWED.Epistle.title = "At Weddings."
-levaWED.Epistle.title_abbr = "At Weddings."
+levaWED.Epistle.title_abbr = "At Weddings"
 levaWED.Epistle.version = properties_en_US_eob.version.designation
 levaWED.Epistle.book_string = bible_en_US_eob.Ephesians.text
 levaWED.Epistle.book_abbr = bible_en_US_eob.Ephesians.abbr

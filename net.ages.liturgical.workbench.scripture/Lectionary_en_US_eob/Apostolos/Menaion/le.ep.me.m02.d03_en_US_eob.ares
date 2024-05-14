@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m02.d03_en_US_eob
 
 lemeLI.Epistle.title = "For the Afterfeast."
-lemeLI.Epistle.title_abbr = "For the Afterfeast."
+lemeLI.Epistle.title_abbr = "For the Afterfeast"
 lemeLI.Epistle.version = le.ep.mc.d057_en_US_eob.lemcLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.mc.d057_en_US_eob.lemcLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.mc.d057_en_US_eob.lemcLI.Epistle.book_abbr

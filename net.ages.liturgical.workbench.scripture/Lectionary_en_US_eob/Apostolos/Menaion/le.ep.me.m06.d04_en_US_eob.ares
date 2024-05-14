@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m06.d04_en_US_eob
 
 lemeLI.Epistle.title = "For the Hierarch."
-lemeLI.Epistle.title_abbr = "For the Hierarch."
+lemeLI.Epistle.title_abbr = "For the Hierarch"
 lemeLI.Epistle.version = le.ep.me.m11.d13_en_US_eob.lemeLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.me.m11.d13_en_US_eob.lemeLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.me.m11.d13_en_US_eob.lemeLI.Epistle.book_abbr

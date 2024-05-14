@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.os_en_US_rsv
 
-leosVE.Prayer_NynApolyeis.title = "Song of Simeon."
-leosVE.Prayer_NynApolyeis.title_abbr = "Song of Simeon."
+leosVE.Prayer_NynApolyeis.title = "Song of Simeon"
+leosVE.Prayer_NynApolyeis.title_abbr = "Song of Simeon"
 leosVE.Prayer_NynApolyeis.version = properties_en_US_rsv.version.designation
 leosVE.Prayer_NynApolyeis.book_string = bible_en_US_rsv.Luke.text
 leosVE.Prayer_NynApolyeis.book_abbr = bible_en_US_rsv.Luke.abbr
@@ -18,8 +18,8 @@ leosMA.SixPsalmsIntro1.book_abbr = bible_en_US_rsv.Luke.abbr
 leosMA.SixPsalmsIntro1.chapverse = "2:14"
 leosMA.SixPsalmsIntro1.text = "Glory to God in the highest, and on earth peace, good will among men."
 
-leosLI.pe.d095.CommunionHymn.title = "Communion Hymn for Mid-Pentecost."
-leosLI.pe.d095.CommunionHymn.title_abbr = "Communion Hymn for Mid-Pentecost."
+leosLI.pe.d095.CommunionHymn.title = "Communion Hymn for Mid-Pentecost"
+leosLI.pe.d095.CommunionHymn.title_abbr = "Communion Hymn for Mid-Pentecost"
 leosLI.pe.d095.CommunionHymn.version = properties_en_US_rsv.version.designation
 leosLI.pe.d095.CommunionHymn.book_string = bible_en_US_rsv.John.text
 leosLI.pe.d095.CommunionHymn.book_abbr = bible_en_US_rsv.John.abbr

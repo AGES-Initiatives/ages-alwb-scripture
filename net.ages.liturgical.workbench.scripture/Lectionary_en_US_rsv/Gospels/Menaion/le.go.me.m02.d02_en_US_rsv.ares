@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m02.d02_en_US_rsv
 
-lemeMA.Gospel.title = "For the Feast."
-lemeMA.Gospel.title_abbr = "For the Feast."
+lemeMA.Gospel.title = "For the Feast"
+lemeMA.Gospel.title_abbr = "For the Feast"
 lemeMA.Gospel.version = properties_en_US_rsv.version.designation
 lemeMA.Gospel.book_string = bible_en_US_rsv.Luke.text
 lemeMA.Gospel.book_abbr = bible_en_US_rsv.Luke.abbr
@@ -9,8 +9,8 @@ lemeMA.Gospel.chapverse = "2:25 – 32"
 lemeMA.Gospel.incipit = "At that time, there was a man in Jerusalem,…"
 lemeMA.Gospel.text = "At that time, there was a man in Jerusalem, whose name was Symeon, and this man was righteous and devout, looking for the consolation of Israel, and the Holy Spirit was upon him. And it had been revealed to him by the Holy Spirit that he should not see death before he had seen the Lord’s Christ. And inspired by the Spirit he came into the temple; and when the parents brought in the child Jesus, to do for him according to the custom of the law, he took him up in his arms and blessed God and said, “Lord, now let your servant depart in peace, according to your word; for my eyes have seen your salvation which you have prepared in the presence of all peoples, a light for revelation to the Gentiles, and for glory to your people Israel.”"
 
-lemeLI.Gospel.title = "For the Feast."
-lemeLI.Gospel.title_abbr = "For the Feast."
+lemeLI.Gospel.title = "For the Feast"
+lemeLI.Gospel.title_abbr = "For the Feast"
 lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book_string = bible_en_US_rsv.Luke.text
 lemeLI.Gospel.book_abbr = bible_en_US_rsv.Luke.abbr

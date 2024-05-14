@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m08.d07_en_US_eob
 
-lemeLI.Gospel.title = "For the Afterfeast."
-lemeLI.Gospel.title_abbr = "For the Afterfeast."
+lemeLI.Gospel.title = "For the Afterfeast"
+lemeLI.Gospel.title_abbr = "For the Afterfeast"
 lemeLI.Gospel.version = properties_en_US_eob.version.designation
 lemeLI.Gospel.book_string = bible_en_US_eob.Mark.text
 lemeLI.Gospel.book_abbr = bible_en_US_eob.Mark.abbr

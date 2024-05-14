@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m10.d09_en_US_rsv
 
-lemeLI.Gospel.title = "For the Apostle."
-lemeLI.Gospel.title_abbr = "For the Apostle."
+lemeLI.Gospel.title = "For the Apostle"
+lemeLI.Gospel.title_abbr = "For the Apostle"
 lemeLI.Gospel.version = le.go.mc.d135_en_US_rsv.lemcLI.Gospel.version
 lemeLI.Gospel.book_string = le.go.mc.d135_en_US_rsv.lemcLI.Gospel.book_string
 lemeLI.Gospel.book_abbr = le.go.mc.d135_en_US_rsv.lemcLI.Gospel.book_abbr

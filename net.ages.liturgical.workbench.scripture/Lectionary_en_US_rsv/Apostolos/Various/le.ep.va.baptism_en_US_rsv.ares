@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.va.baptism_en_US_rsv
 
 levaBAP.Epistle.title = "At Baptism."
-levaBAP.Epistle.title_abbr = "At Baptism."
+levaBAP.Epistle.title_abbr = "At Baptism"
 levaBAP.Epistle.version = properties_en_US_rsv.version.designation
 levaBAP.Epistle.book_string = bible_en_US_rsv.Romans.text
 levaBAP.Epistle.book_abbr = bible_en_US_rsv.Romans.abbr

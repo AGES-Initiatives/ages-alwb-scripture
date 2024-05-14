@@ -10,7 +10,7 @@ levaDEC.Epistle1.incipit = "Brethren, we could not have you ignorant concerning 
 levaDEC.Epistle1.text = "Brethren, we could not have you ignorant concerning those who are asleep, that you may not grieve as others do who have no hope. For since we believe that Jesus died and rose again, even so, through Jesus, God will bring with him those who have fallen asleep. For this we declare to you by the word of the Lord, that we who are alive, who are left until the coming of the Lord, shall not precede those who have fallen asleep. For the Lord himself will descend from heaven with a cry of command, with the archangel’s call, and with the sound of the trumpet of God. And the dead in Christ will rise first; then we who are alive, who are left, shall be caught up together with them in the clouds to meet the Lord in the air; and so we shall always be with the Lord. [Therefore comfort one another with these words.]"
 
 levaDEC.Epistle2.title = "Another for the Deceased."
-levaDEC.Epistle2.title_abbr = "Another for the Deceased."
+levaDEC.Epistle2.title_abbr = "Another for the Deceased"
 levaDEC.Epistle2.version = properties_en_US_rsv.version.designation
 levaDEC.Epistle2.book_string = bible_en_US_rsv.Corinthians1.text
 levaDEC.Epistle2.book_abbr = bible_en_US_rsv.Corinthians1.abbr
@@ -19,7 +19,7 @@ levaDEC.Epistle2.incipit = "Brethren, the first man was from the earth, a…"
 levaDEC.Epistle2.text = "Brethren, the first man was from the earth, a man of dust; the second man is from heaven. As was the man of dust, so are those who are of the dust; and as is the man of heaven, so are those who are of heaven. Just as we have borne the image of the man of dust, we shall also bear the image of the man of heaven. I tell you this, brethren: flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable. Lo! I tell you a mystery. We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we shall be changed. For this perishable nature must put on the imperishable, and this mortal nature must put on immortality. When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written: “Death is swallowed up in victory. O death, where is thy victory? O death, where is thy sting?” The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ."
 
 levaDEC.Epistle3.title = "Another for the Deceased."
-levaDEC.Epistle3.title_abbr = "Another for the Deceased."
+levaDEC.Epistle3.title_abbr = "Another for the Deceased"
 levaDEC.Epistle3.version = properties_en_US_rsv.version.designation
 levaDEC.Epistle3.book_string = bible_en_US_rsv.Corinthians1.text
 levaDEC.Epistle3.book_abbr = bible_en_US_rsv.Corinthians1.abbr
@@ -28,7 +28,7 @@ levaDEC.Epistle3.incipit = "Brethren, Christ has been raised from the dead, the�
 levaDEC.Epistle3.text = "Brethren, Christ has been raised from the dead, the first fruits of those who have fallen asleep. For as by a man came death, by a man has come also the resurrection of the dead. For as in Adam all die, so also in Christ shall all be made alive. But each in his own order: Christ the first fruits, then at his coming those who belong to Christ. Then comes the end, when he delivers the kingdom to God the Father after destroying every rule and every authority and power. For he must reign until he has put all his enemies under his feet. The last enemy to be destroyed is death. “For God has put all things in subjection under his feet.” But when it says, “All things are put in subjection under him,” it is plain that he is excepted who put all things under him. When all things are subjected to him, then the Son himself will also be subjected to him who put all things under him, that God may be everything to every one."
 
 levaDEC.Epistle4.title = "Another for the Deceased."
-levaDEC.Epistle4.title_abbr = "Another for the Deceased."
+levaDEC.Epistle4.title_abbr = "Another for the Deceased"
 levaDEC.Epistle4.version = properties_en_US_rsv.version.designation
 levaDEC.Epistle4.book_string = bible_en_US_rsv.Romans.text
 levaDEC.Epistle4.book_abbr = bible_en_US_rsv.Romans.abbr
