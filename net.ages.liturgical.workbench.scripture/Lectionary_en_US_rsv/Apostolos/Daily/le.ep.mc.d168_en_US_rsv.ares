@@ -6,5 +6,5 @@ lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Romans.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Romans.abbr
 lemcLI.Epistle.chapverse = "12:1 – 3"
-lemcLI.Epistle.incipit = "Brethren, I appeal to you, by the mercies of…"
-lemcLI.Epistle.text = "Brethren, I appeal to you, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship. Do not be conformed to this world but be transformed by the renewal of your mind, that you may prove what is the will of God, what is good and acceptable and perfect. For by the grace given to me I bid every one among you not to think of himself more highly than he ought to think, but think with sober judgment, each according to the measure of faith which God has assigned him."
+lemcLI.Epistle.incipit = "I appeal to you, by the mercies of God…"
+lemcLI.Epistle.text = "Brethren, I appeal to you, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship. Do not be conformed to this age but be transformed by the renewal of your mind, that you may discern what is the good and acceptable and perfect will of God. For by the grace given to me I bid every one among you not to think of himself more highly than he ought to think, but think with sober judgment, each according to the measure of faith which God has assigned him."
