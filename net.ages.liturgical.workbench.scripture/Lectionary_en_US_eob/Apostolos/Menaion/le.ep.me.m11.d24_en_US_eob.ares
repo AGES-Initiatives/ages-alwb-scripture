@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.ep.me.m11.d24_en_US_eob
 
-lemeLI.Epistle.title = "For the Hierarchs."
+lemeLI.Epistle.title = "For the Hierarchs"
 lemeLI.Epistle.title_abbr = "For the Hierarchs"
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book_string = bible_en_US_eob.Philippians.text

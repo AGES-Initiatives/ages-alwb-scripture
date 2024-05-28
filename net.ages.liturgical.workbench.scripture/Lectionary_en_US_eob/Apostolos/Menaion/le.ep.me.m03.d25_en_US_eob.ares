@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.ep.me.m03.d25_en_US_eob
 
-lemeLI.Epistle.title = "For the Feast."
+lemeLI.Epistle.title = "For the Feast"
 lemeLI.Epistle.title_abbr = "For the Feast"
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book_string = bible_en_US_eob.Hebrews.text

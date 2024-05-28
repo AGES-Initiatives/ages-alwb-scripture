@@ -18,7 +18,7 @@ lemeGW.Epistle.chapverse = "10:1 – 4"
 lemeGW.Epistle.incipit = "Brethren, I do not want you to be ignorant…"
 lemeGW.Epistle.text = "Brethren, I do not want you to be ignorant that our forefathers were all under the cloud: all passed through the sea; and they were all baptized into Moses in the cloud and in the sea. They all ate the same spiritual food and drank the same spiritual drink. They drank from a spiritual rock that followed them, and that rock was Christ."
 
-lemeLI.Epistle.title = "For the Feast."
+lemeLI.Epistle.title = "For the Feast"
 lemeLI.Epistle.title_abbr = "For the Feast"
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book_string = le.ep.me.m01.d05_en_US_eob.lemeH9.Epistle.book_string

@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.ep.me.m10.dHF_en_US_rsv
 
-lemeLI.Epistle.title = "For the Fathers."
+lemeLI.Epistle.title = "For the Fathers"
 lemeLI.Epistle.title_abbr = "For the Fathers"
 lemeLI.Epistle.version = properties_en_US_rsv.version.designation
 lemeLI.Epistle.book_string = bible_en_US_rsv.Titus.text

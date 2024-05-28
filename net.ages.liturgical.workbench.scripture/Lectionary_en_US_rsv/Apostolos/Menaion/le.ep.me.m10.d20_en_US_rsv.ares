@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.ep.me.m10.d20_en_US_rsv
 
-lemeLI.Epistle.title = "For St. Artemios."
+lemeLI.Epistle.title = "For St. Artemios"
 lemeLI.Epistle.title_abbr = "For St. Artemios"
 lemeLI.Epistle.version = le.ep.ge.martyr_en_US_rsv.legeLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.ge.martyr_en_US_rsv.legeLI.Epistle.book_string
@@ -9,7 +9,7 @@ lemeLI.Epistle.chapverse = le.ep.ge.martyr_en_US_rsv.legeLI.Epistle.chapverse
 lemeLI.Epistle.incipit = le.ep.ge.martyr_en_US_rsv.legeLI.Epistle.incipit
 lemeLI.Epistle.text = le.ep.ge.martyr_en_US_rsv.legeLI.Epistle.text
 
-lemeLI.Epistle2.title = "For St. Gerasimos."
+lemeLI.Epistle2.title = "For St. Gerasimos"
 lemeLI.Epistle2.title_abbr = "For St. Gerasimos"
 lemeLI.Epistle2.version = le.ep.mc.d308_en_US_rsv.lemcLI.Epistle.version
 lemeLI.Epistle2.book_string = le.ep.mc.d308_en_US_rsv.lemcLI.Epistle.book_string

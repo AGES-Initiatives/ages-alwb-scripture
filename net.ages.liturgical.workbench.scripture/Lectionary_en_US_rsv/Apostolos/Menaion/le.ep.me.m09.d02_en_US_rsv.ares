@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = le.ep.me.m09.d02_en_US_rsv
 
-lemeLI.Epistle.title = "For St. Mamas"
+lemeLI.Epistle.title = "For St Mamas"
 lemeLI.Epistle.title_abbr = "For St. Mamas"
 lemeLI.Epistle.version = properties_en_US_rsv.version.designation
 lemeLI.Epistle.book_string = bible_en_US_rsv.Romans.text

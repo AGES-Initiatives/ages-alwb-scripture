@@ -27,7 +27,7 @@ lemeVE.Reading3.chapverse = "4:20 – 21; 5:1 – 5"
 lemeVE.Reading3.incipit = "…"
 lemeVE.Reading3.text = "…"
 
-lemeLI.Epistle.title = "For the Evangelist."
+lemeLI.Epistle.title = "For the Evangelist"
 lemeLI.Epistle.title_abbr = "For the Evangelist"
 lemeLI.Epistle.version = properties_en_US_eob.version.designation
 lemeLI.Epistle.book_string = bible_en_US_eob.John1.text
