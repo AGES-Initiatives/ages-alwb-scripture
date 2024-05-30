@@ -6,7 +6,7 @@ lemeH1.Gospel.version = properties_en_US_rsv.version.designation
 lemeH1.Gospel.book_string = bible_en_US_rsv.Matthew.text
 lemeH1.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr
 lemeH1.Gospel.chapverse = "3:1 – 6"
-lemeH1.Gospel.incipit = "At that time, John the Baptist came preaching in…"
+lemeH1.Gospel.incipit = "John the Baptist came preaching…"
 lemeH1.Gospel.text = "At that time, John the Baptist came preaching in the wilderness of Judea, “Repent, for the kingdom of heaven is at hand.” For this is he who was spoken of by the prophet Isaiah when he said, “The voice of one crying in the wilderness: prepare the way of the Lord, make his paths straight.” Now John wore a garment of camel’s hair, and a leather girdle around his waist; and his food was locusts and wild honey. Then went out to him Jerusalem and all Judea and all the region about the Jordan, and they were baptized by him in the river Jordan, confessing their sins."
 
 lemeH3.Gospel.title = "Gospel for the Third Hour"
@@ -15,8 +15,8 @@ lemeH3.Gospel.version = properties_en_US_rsv.version.designation
 lemeH3.Gospel.book_string = bible_en_US_rsv.Mark.text
 lemeH3.Gospel.book_abbr = bible_en_US_rsv.Mark.abbr
 lemeH3.Gospel.chapverse = "1:1 – 8"
-lemeH3.Gospel.incipit = "The beginning of the Gospel of Jesus Christ, the…"
-lemeH3.Gospel.text = "The beginning of the Gospel of Jesus Christ, the Son of God. As it is written in Isaiah the prophet, ‘Behold, I send my messenger before your face, who shall prepare your way; the voice of one crying in the wilderness: prepare the way of the Lord, make his paths straight.’ John the baptizer appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins. And there went out to him all the country of Judea, and all the people of Jerusalem; and they were baptized by him in the river Jordan, confessing their sins. Now John was clothed with camel’s hair, and had a leather girdle around his waist, and ate locusts and wild honey. And he preached, saying, “After me comes he who is mightier than I, the thong of whose sandals I am not worthy to stoop down and untie. I have baptized you with water; but he will baptize you with the Holy Spirit.”"
+lemeH3.Gospel.incipit = "The beginning of the Gospel of Jesus Christ…"
+lemeH3.Gospel.text = "The beginning of the Gospel of Jesus Christ, the Son of God. As it is written in the prophets, ‘Behold, I send my messenger before your face, who shall prepare your way; the voice of one crying in the wilderness: prepare the way of the Lord, make his paths straight —’ John was baptizing in the wilderness and preaching a baptism of repentance for the forgiveness of sins. And there went out to him all the country of Judea, and all the people of Jerusalem; and they were baptized by him in the river Jordan, confessing their sins. Now John was clothed with camel’s hair, and had a leather girdle around his waist, and ate locusts and wild honey. And he preached, saying, “After me comes he who is mightier than I, the thong of whose sandals I am not worthy to stoop down and untie. I have baptized you with water; but he will baptize you with the Holy Spirit.”"
 
 lemeH6.Gospel.title = "Gospel for the Sixth Hour"
 lemeH6.Gospel.title_abbr = "Gospel for the Sixth Hour"
@@ -24,8 +24,8 @@ lemeH6.Gospel.version = properties_en_US_rsv.version.designation
 lemeH6.Gospel.book_string = bible_en_US_rsv.Mark.text
 lemeH6.Gospel.book_abbr = bible_en_US_rsv.Mark.abbr
 lemeH6.Gospel.chapverse = "1:9 – 11"
-lemeH6.Gospel.incipit = "In those days Jesus came from Nazareth of Galilee…"
-lemeH6.Gospel.text = "In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. And when He came up out of the water, immediately he saw the heavens opened and the Spirit descending upon Him like a dove; and a voice came from heaven, “You are my beloved Son; with you I am well pleased.”"
+lemeH6.Gospel.incipit = "Jesus came from Nazareth of Galilee…"
+lemeH6.Gospel.text = "At that time, Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. And when he came up out of the water, immediately he saw the heavens opened and the Spirit descending upon him like a dove; and a voice came from heaven, “You are my beloved Son; with you I am well pleased.”"
 
 lemeH9.Gospel.title = "Gospel for the Ninth Hour"
 lemeH9.Gospel.title_abbr = "Gospel for the Ninth Hour"

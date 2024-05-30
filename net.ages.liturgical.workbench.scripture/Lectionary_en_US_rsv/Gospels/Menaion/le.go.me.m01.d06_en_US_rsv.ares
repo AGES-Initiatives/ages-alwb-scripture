@@ -24,6 +24,6 @@ lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book_string = bible_en_US_rsv.Matthew.text
 lemeLI.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr
 lemeLI.Gospel.chapverse = "3:13 – 17"
-lemeLI.Gospel.incipit = "At that time, Jesus came from Galilee to the…"
-lemeLI.Gospel.text = "At that time, Jesus came from Galilee to the Jordan to John, to be baptized by him. John would have prevented him, saying, “I need to be baptized by you, and do you come to me?” But Jesus answered him, “Let it be so now; for thus it is fitting for us to fulfill all righteousness.” Then he consented. And when Jesus was baptized, he went up immediately from the water, and behold, the heavens were opened and he saw the Spirit of God descending like a dove, and alighting on him; and lo, a voice from heaven, saying, “This is my beloved Son, with whom I am well pleased.”"
+lemeLI.Gospel.incipit = "Jesus came from Galilee to the Jordan…"
+lemeLI.Gospel.text = "At that time, Jesus came from Galilee to the Jordan to John, to be baptized by him. John would have prevented him, saying, “I need to be baptized by you, and do you come to me?” But Jesus answered him, “Let it be so now; for thus it is fitting for us to fulfill all righteousness.” Then he consented. And when Jesus was baptized, he went up immediately from the water, and behold, the heavens were opened to him and he saw the Spirit of God descending like a dove, and alighting on him; and lo, a voice from heaven, saying, “This is my beloved Son, with whom I am well pleased.”"
 
