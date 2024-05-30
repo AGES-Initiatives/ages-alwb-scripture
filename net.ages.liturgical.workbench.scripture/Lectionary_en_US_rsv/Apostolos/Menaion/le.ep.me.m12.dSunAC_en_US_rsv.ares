@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.me.m12.dSunAC_en_US_rsv
 
 lemeLI.Epistle.title = "SUNDAY AFTER NATIVITY"
-lemeLI.Epistle.title_abbr = "Sun. after Christmas"
+lemeLI.Epistle.title_abbr = "Sunday after Christmas"
 lemeLI.Epistle.version = le.ep.mc.d260_en_US_rsv.lemcLI.Epistle.version
 lemeLI.Epistle.book_string = le.ep.mc.d260_en_US_rsv.lemcLI.Epistle.book_string
 lemeLI.Epistle.book_abbr = le.ep.mc.d260_en_US_rsv.lemcLI.Epistle.book_abbr

@@ -4292,7 +4292,7 @@ kathisma_16.title = "KATHISMA 16."
 
 psa109.title = "Psalm 109"
 psa109.version = properties_en_US_rsv.version.designation
-psa109.text = "The LORD says to my lord: “Sit at my right hand, till I make your enemies your footstool.” The LORD sends forth from Zion your mighty scepter. Rule in the midst of your foes! Your people will offer themselves freely on the day you lead your host upon the holy mountains. From the womb of the morning like dew your youth will come to you. The LORD has sworn and will not change his mind, “You are a priest for ever after the order of Melchizedek.” The Lord is at your right hand; he will shatter kings on the day of his wrath. He will execute judgment among the nations, filling them with corpses; he will shatter chiefs over the wide earth. He will drink from the brook by the way; therefore he will lift up his head."
+psa109.text = "The LORD says to my lord: “Sit at my right hand, till I make your enemies your footstool.” The LORD sends forth from Zion your mighty scepter. Rule in the midst of your foes! Your people will offer themselves freely on the day you lead your host upon the holy mountains. From the womb of the morning like dew your youth will come to you. The LORD has sworn and will not change his mind, “You are a priest forever after the order of Melchizedek.” The Lord is at your right hand; he will shatter kings on the day of his wrath. He will execute judgment among the nations, filling them with corpses; he will shatter chiefs over the wide earth. He will drink from the brook by the way; therefore he will lift up his head."
 psa109.v1.number = "(109:1 / rsv 110:1)"
 psa109.v1.text = "The LORD says to my lord: “Sit at my right hand, till I make your enemies your footstool.”"
 psa109.v2.number = "(109:2 / rsv 110:2)"
@@ -4300,7 +4300,7 @@ psa109.v2.text = "The LORD sends forth from Zion your mighty scepter. Rule in th
 psa109.v3.number = "(109:3 / rsv 110:3)"
 psa109.v3.text = "Your people will offer themselves freely on the day you lead your host upon the holy mountains. From the womb of the morning like dew your youth will come to you."
 psa109.v4.number = "(109:4 / rsv 110:4)"
-psa109.v4.text = "The LORD has sworn and will not change his mind, “You are a priest for ever after the order of Melchizedek.”"
+psa109.v4.text = "The LORD has sworn and will not change his mind, “You are a priest forever after the order of Melchizedek.”"
 psa109.v5.number = "(109:5 / rsv 110:5)"
 psa109.v5.text = "The Lord is at your right hand; he will shatter kings on the day of his wrath."
 psa109.v6.number = "(109:6 / rsv 110:6)"

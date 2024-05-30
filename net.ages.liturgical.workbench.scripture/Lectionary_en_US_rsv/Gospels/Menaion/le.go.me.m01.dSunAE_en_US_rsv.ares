@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m01.dSunAE_en_US_rsv
 
-lemeLI.Gospel.title = "Sunday after Theophany"
-lemeLI.Gospel.title_abbr = "Sun. after Epiphany"
+lemeLI.Gospel.title = "Sunday after Epiphany"
+lemeLI.Gospel.title_abbr = "Sunday after Epiphany"
 lemeLI.Gospel.version = properties_en_US_rsv.version.designation
 lemeLI.Gospel.book_string = bible_en_US_rsv.Matthew.text
 lemeLI.Gospel.book_abbr = bible_en_US_rsv.Matthew.abbr

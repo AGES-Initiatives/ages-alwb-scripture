@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.va.dooropening_en_US_rsv
 
-levaCDO.Epistle.title = "At Thyranixia (Church Opening"
-levaCDO.Epistle.title_abbr = "At Thyranixia (Church Opening"
+levaCDO.Epistle.title = "At Door Opening of a Church"
+levaCDO.Epistle.title_abbr = "At Door Opening of a Church"
 levaCDO.Epistle.version = properties_en_US_rsv.version.designation
 levaCDO.Epistle.book_string = le.ep.me.m11.d21_en_US_rsv.lemeLI.Epistle.book_string
 levaCDO.Epistle.book_abbr = le.ep.me.m11.d21_en_US_rsv.lemeLI.Epistle.book_abbr
