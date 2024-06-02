@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.va.schoolyear_en_US_rsv
 
-levaLI.Gospel.title = ""
-levaLI.Gospel.title_abbr = ""
+levaLI.Gospel.title = "At the Beginning and End of the School Year"
+levaLI.Gospel.title_abbr = "At the Beginning and End of the School Year"
 levaLI.Gospel.version = properties_en_US_rsv.version.designation
 levaLI.Gospel.book_string = bible_en_US_rsv.Luke.text
 levaLI.Gospel.book_abbr = bible_en_US_rsv.Luke.abbr

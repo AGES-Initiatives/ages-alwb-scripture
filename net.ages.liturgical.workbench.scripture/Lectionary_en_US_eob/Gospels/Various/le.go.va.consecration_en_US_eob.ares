@@ -10,12 +10,12 @@ levaCON.Gospel1.text = ""
 
 levaCON.Gospel2.title = ""
 levaCON.Gospel2.title_abbr = ""
-levaCON.Gospel2.version = properties_en_US_eob.version.designation
-levaCON.Gospel2.book_string = bible_en_US_eob.Luke.text
-levaCON.Gospel2.book_abbr = bible_en_US_eob.Luke.abbr
-levaCON.Gospel2.chapverse = "10:38 – 42; 11:27 – 28"
-levaCON.Gospel2.incipit = le.go.me.m11.d21_en_US_eob.lemeLI.Gospel.incipit
-levaCON.Gospel2.text = le.go.me.m11.d21_en_US_eob.lemeLI.Gospel.text
+levaCON.Gospel2.version = le.go.ge.theotokos_en_US_eob.legeLI.Gospel.version
+levaCON.Gospel2.book_string = le.go.ge.theotokos_en_US_eob.legeLI.Gospel.book_string
+levaCON.Gospel2.book_abbr = le.go.ge.theotokos_en_US_eob.legeLI.Gospel.book_abbr
+levaCON.Gospel2.chapverse = le.go.ge.theotokos_en_US_eob.legeLI.Gospel.chapverse
+levaCON.Gospel2.incipit = le.go.ge.theotokos_en_US_eob.legeLI.Gospel.incipit
+levaCON.Gospel2.text = le.go.ge.theotokos_en_US_eob.legeLI.Gospel.text
 
 levaLI.Gospel.title = "At the Consecration of a Church"
 levaLI.Gospel.title_abbr = "At the Consecration of a Church"

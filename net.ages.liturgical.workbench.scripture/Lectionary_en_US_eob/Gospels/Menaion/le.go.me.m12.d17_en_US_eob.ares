@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.me.m12.d17_en_US_eob
 
-lemeMA.Gospel.title = "Orthros. For the Prophet"
-lemeMA.Gospel.title_abbr = "Orthros. For the Prophet"
+lemeMA.Gospel.title = "For the Prophet"
+lemeMA.Gospel.title_abbr = "For the Prophet"
 lemeMA.Gospel.version = le.go.lu.d046_en_US_eob.leluLI.Gospel.version
 lemeMA.Gospel.book_string = le.go.lu.d046_en_US_eob.leluLI.Gospel.book_string
 lemeMA.Gospel.book_abbr = le.go.lu.d046_en_US_eob.leluLI.Gospel.book_abbr
@@ -9,12 +9,11 @@ lemeMA.Gospel.chapverse = le.go.lu.d046_en_US_eob.leluLI.Gospel.chapverse
 lemeMA.Gospel.incipit = le.go.lu.d046_en_US_eob.leluLI.Gospel.incipit
 lemeMA.Gospel.text = le.go.lu.d046_en_US_eob.leluLI.Gospel.text
 
-lemeLI.Gospel.title = "Liturgy. For the Prophet"
-lemeLI.Gospel.title_abbr = "Liturgy. For the Prophet"
-lemeLI.Gospel.version = le.go.me.m11.d13_en_US_eob.lemeLI.Gospel.version
-lemeLI.Gospel.book_string = le.go.me.m11.d13_en_US_eob.lemeLI.Gospel.book_string
-lemeLI.Gospel.book_abbr = le.go.me.m11.d13_en_US_eob.lemeLI.Gospel.book_abbr
-lemeLI.Gospel.chapverse = le.go.me.m11.d13_en_US_eob.lemeLI.Gospel.chapverse
-lemeLI.Gospel.incipit = le.go.me.m11.d13_en_US_eob.lemeLI.Gospel.incipit
-lemeLI.Gospel.text = le.go.me.m11.d13_en_US_eob.lemeLI.Gospel.text
-
+lemeLI.Gospel.title = "For the Hierarch"
+lemeLI.Gospel.title_abbr = "For the Hierarch"
+lemeLI.Gospel.version = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.version
+lemeLI.Gospel.book_string = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.book_string
+lemeLI.Gospel.book_abbr = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.book_abbr
+lemeLI.Gospel.chapverse = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.chapverse
+lemeLI.Gospel.incipit = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.incipit
+lemeLI.Gospel.text = le.go.ge.hierarch_en_US_eob.legeLI.Gospel.text

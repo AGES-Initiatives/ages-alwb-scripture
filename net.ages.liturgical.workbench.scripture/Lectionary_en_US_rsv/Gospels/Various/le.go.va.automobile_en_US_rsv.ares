@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = le.go.va.automobile_en_US_rsv
 
-levaLI.Gospel.title = ""
-levaLI.Gospel.title_abbr = ""
+levaLI.Gospel.title = "For the Blessing of a Vehicle"
+levaLI.Gospel.title_abbr = "For the Blessing of a Vehicle"
 levaLI.Gospel.version = properties_en_US_rsv.version.designation
 levaLI.Gospel.book_string = bible_en_US_rsv.John.text
 levaLI.Gospel.book_abbr = bible_en_US_rsv.John.abbr
 levaLI.Gospel.chapverse = "5:17 – 18, 9:4 – 5, 12:35"
-levaLI.Gospel.incipit = "The Lord said, “My Father is working still, and…"
-levaLI.Gospel.text = "The Lord said, “My Father is working still, and I am working.” This was why the Jews sought all the more to kill him, because he not only broke the sabbath but also called God his Father, making himself equal with God. Jesus again said, “I must work the works of him who sent me, while it is day; night comes, when no one can work. As long as I am in the world, I am the light of the world. Walk while you have the light.”"
+levaLI.Gospel.incipit = "My Father is working still…"
+levaLI.Gospel.text = "The Lord said, “My Father is working still, and I am working.” This was why the Jews sought all the more to kill him, because he not only broke the sabbath but also called God his Father. Jesus again said, “I must work the works of him who sent me, while it is day; night comes, when no one can work. As long as I am in the world, I am the light of the world. Walk while you have the light.”"
