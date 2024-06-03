@@ -2,10 +2,18 @@ A_Resource_Whose_Name = le.ep.ge.hierarch_en_US_rsv
 
 legeLI.Epistle.title = "For a Hierarch"
 legeLI.Epistle.title_abbr = "For a Hierarch"
-legeLI.Epistle.version = le.ep.me.m11.d13_en_US_rsv.lemeLI.Epistle.version
-legeLI.Epistle.book_string = le.ep.me.m11.d13_en_US_rsv.lemeLI.Epistle.book_string
-legeLI.Epistle.book_abbr = le.ep.me.m11.d13_en_US_rsv.lemeLI.Epistle.book_abbr
-legeLI.Epistle.chapverse = le.ep.me.m11.d13_en_US_rsv.lemeLI.Epistle.chapverse
-legeLI.Epistle.incipit = le.ep.me.m11.d13_en_US_rsv.lemeLI.Epistle.incipit
-legeLI.Epistle.text = le.ep.me.m11.d13_en_US_rsv.lemeLI.Epistle.text
+legeLI.Epistle.version = properties_en_US_rsv.version.designation
+legeLI.Epistle.book_string = bible_en_US_rsv.Hebrews.text
+legeLI.Epistle.book_abbr = bible_en_US_rsv.Hebrews.abbr
+legeLI.Epistle.chapverse = "7:26 – 28; 8:1 – 2"
+legeLI.Epistle.incipit = "It was fitting that we should have…"
+legeLI.Epistle.text = "Brethren, it was fitting that we should have such a high priest, holy, blameless, unstained, separated from sinners, exalted above the heavens. He has no need, like those high priests, to offer sacrifices daily, first for his own sins and then for those of the people; he did this once for all when he offered up himself. Indeed, the law appoints men in their weakness as high priests, but the word of the oath, which came later than the law, appoints a Son who has been made perfect for ever. Now the point in what we are saying is this: we have such a high priest, one who is seated at the right hand of the throne of the Majesty in heaven, a minister in the sanctuary and the true tent which is set up not by man but by the Lord."
 
+legeLI.Epistle2.title = "For Hierarchs"
+legeLI.Epistle2.title_abbr = "For Hierarchs"
+legeLI.Epistle2.version = properties_en_US_rsv.version.designation
+legeLI.Epistle2.book_string = bible_en_US_rsv.Hebrews.text
+legeLI.Epistle2.book_abbr = bible_en_US_rsv.Hebrews.abbr
+legeLI.Epistle2.chapverse = "13:7 – 16"
+legeLI.Epistle2.incipit = "Remember your leaders…"
+legeLI.Epistle2.text = "Brethren, remember your leaders, those who spoke to you the word of God; consider the outcome of their lives, and imitate their faith. Jesus Christ is the same yesterday and today and for ever. Do not be led away by diverse and strange teachings; for it is well that the heart be strengthened by grace, not by foods, which have not benefited their adherents. We have an altar from which those who serve the tent have no right to eat. For the bodies of those animals whose blood is brought into the sanctuary by the high priest as a sacrifice for sin are burned outside the camp. So Jesus also suffered outside the gate in order to sanctify the people through his own blood. Therefore let us go forth to him outside the camp and bear the abuse he endured. For here we have no lasting city, but we seek the city which is to come. Through him then let us continually offer up a sacrifice of praise to God, that is, the fruit of lips that acknowledge his name. Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God."

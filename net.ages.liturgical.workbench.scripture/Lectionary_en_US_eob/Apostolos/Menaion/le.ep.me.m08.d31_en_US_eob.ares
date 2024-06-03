@@ -2,9 +2,9 @@ A_Resource_Whose_Name = le.ep.me.m08.d31_en_US_eob
 
 lemeLI.Epistle.title = "For the Theotokos"
 lemeLI.Epistle.title_abbr = "For the Theotokos"
-lemeLI.Epistle.version = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.version
-lemeLI.Epistle.book_string = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.book_string
-lemeLI.Epistle.book_abbr = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.book_abbr
-lemeLI.Epistle.chapverse = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.chapverse
-lemeLI.Epistle.incipit = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.incipit
-lemeLI.Epistle.text = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.text
+lemeLI.Epistle.version = le.ep.ge.theotokos_en_US_eob.legeLI.Epistle2.version
+lemeLI.Epistle.book_string = le.ep.ge.theotokos_en_US_eob.legeLI.Epistle2.book_string
+lemeLI.Epistle.book_abbr = le.ep.ge.theotokos_en_US_eob.legeLI.Epistle2.book_abbr
+lemeLI.Epistle.chapverse = le.ep.ge.theotokos_en_US_eob.legeLI.Epistle2.chapverse
+lemeLI.Epistle.incipit = le.ep.ge.theotokos_en_US_eob.legeLI.Epistle2.incipit
+lemeLI.Epistle.text = le.ep.ge.theotokos_en_US_eob.legeLI.Epistle2.text

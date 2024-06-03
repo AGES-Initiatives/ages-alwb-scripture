@@ -10,12 +10,12 @@ levaCON.Epistle1.text = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.text
 
 levaCON.Epistle2.title = "Another."
 levaCON.Epistle2.title_abbr = "Another"
-levaCON.Epistle2.version = properties_en_US_eob.version.designation
-levaCON.Epistle2.book_string = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.book_string
-levaCON.Epistle2.book_abbr = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.book_abbr
-levaCON.Epistle2.chapverse = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.chapverse
-levaCON.Epistle2.incipit = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.incipit
-levaCON.Epistle2.text = le.ep.me.m11.d21_en_US_eob.lemeLI.Epistle.text
+levaCON.Epistle2.version = le.ep.ge.theotokos_en_US_eob.legeLI.Epistle2.version
+levaCON.Epistle2.book_string = le.ep.ge.theotokos_en_US_eob.legeLI.Epistle2.book_string
+levaCON.Epistle2.book_abbr = le.ep.ge.theotokos_en_US_eob.legeLI.Epistle2.book_abbr
+levaCON.Epistle2.chapverse = le.ep.ge.theotokos_en_US_eob.legeLI.Epistle2.chapverse
+levaCON.Epistle2.incipit = le.ep.ge.theotokos_en_US_eob.legeLI.Epistle2.incipit
+levaCON.Epistle2.text = le.ep.ge.theotokos_en_US_eob.legeLI.Epistle2.text
 
 levaLI.Epistle.title = "Another."
 levaLI.Epistle.title_abbr = "Another"

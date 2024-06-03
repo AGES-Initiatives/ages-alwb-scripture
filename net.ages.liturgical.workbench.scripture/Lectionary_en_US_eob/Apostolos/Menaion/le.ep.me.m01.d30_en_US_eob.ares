@@ -2,9 +2,9 @@ A_Resource_Whose_Name = le.ep.me.m01.d30_en_US_eob
 
 lemeLI.Epistle.title = "For the Saints"
 lemeLI.Epistle.title_abbr = "For the Saints"
-lemeLI.Epistle.version = le.ep.me.m01.d18_en_US_eob.lemeLI.Epistle.version
-lemeLI.Epistle.book_string = le.ep.me.m01.d18_en_US_eob.lemeLI.Epistle.book_string
-lemeLI.Epistle.book_abbr = le.ep.me.m01.d18_en_US_eob.lemeLI.Epistle.book_abbr
-lemeLI.Epistle.chapverse = le.ep.me.m01.d18_en_US_eob.lemeLI.Epistle.chapverse
-lemeLI.Epistle.incipit = le.ep.me.m01.d18_en_US_eob.lemeLI.Epistle.incipit
-lemeLI.Epistle.text = le.ep.me.m01.d18_en_US_eob.lemeLI.Epistle.text
+lemeLI.Epistle.version = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle2.version
+lemeLI.Epistle.book_string = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle2.book_string
+lemeLI.Epistle.book_abbr = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle2.book_abbr
+lemeLI.Epistle.chapverse = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle2.chapverse
+lemeLI.Epistle.incipit = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle2.incipit
+lemeLI.Epistle.text = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle2.text

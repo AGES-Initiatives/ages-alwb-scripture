@@ -2,9 +2,9 @@ A_Resource_Whose_Name = le.ep.me.m11.d21_en_US_rsv
 
 lemeLI.Epistle.title = "For the Feast"
 lemeLI.Epistle.title_abbr = "For the Feast"
-lemeLI.Epistle.version = properties_en_US_rsv.version.designation
-lemeLI.Epistle.book_string = bible_en_US_rsv.Hebrews.text
-lemeLI.Epistle.book_abbr = bible_en_US_rsv.Hebrews.abbr
-lemeLI.Epistle.chapverse = "9:1 – 7"
-lemeLI.Epistle.incipit = "The first tent had regulations for worship…"
-lemeLI.Epistle.text = "Brethren, the first tent had regulations for worship and an earthly sanctuary. For a tent was prepared, the first one, in which were the lamp stand and the table and the bread of the Presence; it is called the Holy Place. Behind the second curtain stood a tent called the Holy of Holies, having the golden altar of incense and the ark of the covenant covered on all sides with gold, which contained a golden urn holding the manna, and Aaron’s rod that budded, and the tables of the covenant; above it were the cherubim of glory overshadowing the mercy seat. Of these things we cannot now speak in detail. These preparations having thus been made, the priests go continually into the outer tent, performing their ritual duties; but into the second only the high priest goes, and he but once a year, and not without taking blood which he offers for himself and for the sins committed unintentionally by the people."
+lemeLI.Epistle.version = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.version
+lemeLI.Epistle.book_string = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.book_string
+lemeLI.Epistle.book_abbr = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.book_abbr
+lemeLI.Epistle.chapverse = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.chapverse
+lemeLI.Epistle.incipit = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.incipit
+lemeLI.Epistle.text = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.text

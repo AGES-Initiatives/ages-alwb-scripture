@@ -11,9 +11,9 @@ lemeLI.Epistle.text = "Brethren, we know that all things work together for good 
 
 lemeLI.Epistle2.title = "For St. John."
 lemeLI.Epistle2.title_abbr = "For St. John"
-lemeLI.Epistle2.version = le.ep.me.m11.d13_en_US_eob.lemeLI.Epistle.version
-lemeLI.Epistle2.book_string = le.ep.me.m11.d13_en_US_eob.lemeLI.Epistle.book_string
-lemeLI.Epistle2.book_abbr = le.ep.me.m11.d13_en_US_eob.lemeLI.Epistle.book_abbr
-lemeLI.Epistle2.chapverse = le.ep.me.m11.d13_en_US_eob.lemeLI.Epistle.chapverse
-lemeLI.Epistle2.incipit = le.ep.me.m11.d13_en_US_eob.lemeLI.Epistle.incipit
-lemeLI.Epistle2.text = le.ep.me.m11.d13_en_US_eob.lemeLI.Epistle.text
+lemeLI.Epistle2.version = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.version
+lemeLI.Epistle2.book_string = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.book_string
+lemeLI.Epistle2.book_abbr = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.book_abbr
+lemeLI.Epistle2.chapverse = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.chapverse
+lemeLI.Epistle2.incipit = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.incipit
+lemeLI.Epistle2.text = le.ep.ge.hierarch_en_US_eob.legeLI.Epistle.text

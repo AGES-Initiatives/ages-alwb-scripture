@@ -2,9 +2,9 @@ A_Resource_Whose_Name = le.ep.va.dooropening_en_US_rsv
 
 levaCDO.Epistle.title = "At Door Opening of a Church"
 levaCDO.Epistle.title_abbr = "At Door Opening of a Church"
-levaCDO.Epistle.version = properties_en_US_rsv.version.designation
-levaCDO.Epistle.book_string = le.ep.me.m11.d21_en_US_rsv.lemeLI.Epistle.book_string
-levaCDO.Epistle.book_abbr = le.ep.me.m11.d21_en_US_rsv.lemeLI.Epistle.book_abbr
-levaCDO.Epistle.chapverse = le.ep.me.m11.d21_en_US_rsv.lemeLI.Epistle.chapverse
-levaCDO.Epistle.incipit = le.ep.me.m11.d21_en_US_rsv.lemeLI.Epistle.incipit
-levaCDO.Epistle.text = le.ep.me.m11.d21_en_US_rsv.lemeLI.Epistle.text
+levaCDO.Epistle.version = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.version
+levaCDO.Epistle.book_string = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.book_string
+levaCDO.Epistle.book_abbr = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.book_abbr
+levaCDO.Epistle.chapverse = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.chapverse
+levaCDO.Epistle.incipit = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.incipit
+levaCDO.Epistle.text = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.text

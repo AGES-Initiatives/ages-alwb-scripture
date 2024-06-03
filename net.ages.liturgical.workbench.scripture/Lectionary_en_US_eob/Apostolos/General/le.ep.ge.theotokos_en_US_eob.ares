@@ -1,0 +1,19 @@
+A_Resource_Whose_Name = le.ep.ge.theotokos_en_US_eob
+
+legeLI.Epistle.title = "For the Theotokos"
+legeLI.Epistle.title_abbr = "For the Theotokos"
+legeLI.Epistle.version = properties_en_US_eob.version.designation
+legeLI.Epistle.book_string = bible_en_US_eob.Philippians.text
+legeLI.Epistle.book_abbr = bible_en_US_eob.Philippians.abbr
+legeLI.Epistle.chapverse = "2:5 – 11"
+legeLI.Epistle.incipit = "Brethren, let the following be in your mind, which…"
+legeLI.Epistle.text = "Brethren, let the following be in your mind, which was also in [the mind of] Christ Jesus. He who existed in the form of God did not consider equality with God as something to be taken by force. Instead, he emptied himself, taking the form of a bondservant, being made in the likeness of men. And being found in human form, he humbled himself, becoming obedient to [the point of] death, even death on the cross! Therefore, God highly exalted him, and gave him the Name which is above every name; so that at the Name of Jesus every knee should bow in heaven, on earth, and under the earth; and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father."
+
+legeLI.Epistle2.title = "For the Theotokos"
+legeLI.Epistle2.title_abbr = "For the Theotokos"
+legeLI.Epistle2.version = properties_en_US_eob.version.designation
+legeLI.Epistle2.book_string = bible_en_US_eob.Hebrews.text
+legeLI.Epistle2.book_abbr = bible_en_US_eob.Hebrews.abbr
+legeLI.Epistle2.chapverse = "9:1 – 7"
+legeLI.Epistle2.incipit = "Brethren, the first tabernacle and covenant had ordinances of…"
+legeLI.Epistle2.text = "Brethren, the first tabernacle and covenant had ordinances of divine service and an earthly sanctuary. A tabernacle was set up: the lampstand, the table, and the show bread were in the first part which is called the Holy Place. Beyond the second veil was found the tabernacle, which is called the Holy of Holies. It had a golden altar of incense and the Ark of the Covenant all covered with gold. The Ark contained a golden jar holding the manna, Aaron’s rod that budded, and the tablets of the covenant. Above it, cherubim of glory overshadowed the mercy seat, but now we cannot speak about these things in detail. According to this arrangement, priests are continually entering the outer tabernacle, accomplishing the rites of offering divine service. Into the second [tabernacle], only the high priest enters, once a year and with blood, which he offers for himself and for the sins committed in ignorance by the people."

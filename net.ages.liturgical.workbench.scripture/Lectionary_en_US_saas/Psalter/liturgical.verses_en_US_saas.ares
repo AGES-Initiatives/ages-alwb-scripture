@@ -2838,6 +2838,12 @@ psEU.privatework.prokeimenon.v1.text = "Man shall go out to his work and to his 
 psEU.privatework.prokeimenon.v2.info = ps_en_US_saas.psa103.v1.number
 psEU.privatework.prokeimenon.v2.text = "Bless the Lord, O my soul."
 
+psEU.schoolyear.prokeimenon.title = "Psalm 2"
+psEU.schoolyear.prokeimenon.v1.info = ps_en_US_saas.psa2.v11.number
+psEU.schoolyear.prokeimenon.v1.text = "Serve the Lord with fear and rejoice in Him with trembling."
+psEU.schoolyear.prokeimenon.v2.info = ps_en_US_saas.psa2.v12.number
+psEU.schoolyear.prokeimenon.v2.text = "Lay hold of His instruction, lest the Lord be angry."
+
 psEU.smallwater.prokeimenon.title = "Psalm 26."
 psEU.smallwater.prokeimenon.v1.info = ps_en_US_saas.psa26.v1.number
 psEU.smallwater.prokeimenon.v1.text = "The Lord is my light and my savior; whom shall I fear?"
