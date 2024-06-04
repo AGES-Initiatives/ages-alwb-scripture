@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.va.dooropening_en_US_rsv
 
-levaCDO.Epistle.title = "At Door Opening of a Church"
-levaCDO.Epistle.title_abbr = "At Door Opening of a Church"
+levaCDO.Epistle.title = "At the Door Opening of a Church"
+levaCDO.Epistle.title_abbr = "At the Door Opening of a Church"
 levaCDO.Epistle.version = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.version
 levaCDO.Epistle.book_string = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.book_string
 levaCDO.Epistle.book_abbr = le.ep.ge.theotokos_en_US_rsv.legeLI.Epistle2.book_abbr
