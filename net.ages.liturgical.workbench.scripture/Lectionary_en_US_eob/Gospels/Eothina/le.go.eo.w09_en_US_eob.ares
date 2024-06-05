@@ -2,9 +2,9 @@ A_Resource_Whose_Name = le.go.eo.w09_en_US_eob
 
 leeoMA.Gospel.title = "Eothinon 9"
 leeoMA.Gospel.title_abbr = "Eothinon 9"
-leeoMA.Gospel.version = properties_en_US_eob.version.designation
-leeoMA.Gospel.book_string = bible_en_US_eob.John.text
-leeoMA.Gospel.book_abbr = bible_en_US_eob.John.abbr
-leeoMA.Gospel.chapverse = "20:19 – 31"
-leeoMA.Gospel.incipit = "In the evening on that [same] day (the first…"
-leeoMA.Gospel.text = "In the evening on that [same] day (the first day of the week), and as the doors [of the place] where the disciples were assembled were locked for fear of the Jews, Jesus came and stood among them and said, “Peace be with you.” When he had said this, he showed them his hands and his side. At this, the disciples rejoiced when they saw the Lord. Then again, Jesus said, “Peace be with you! As the Father has sent me, I also send you.” When he had said this, he breathed on them and told them, “Receive the Holy Spirit! If you forgive anyone’s sins, they are forgiven; if you retain anyone’s sins, they are retained.” However, Thomas, called the Twin, one of the Twelve, was not with them when Jesus came. So the other disciples told him, “We have seen the Lord!” But Thomas replied, “Unless I see in his hands the print of the nails and put my hand into his side, I will not believe!” After eight days, his disciples were inside once again, and Thomas was with them. Although the doors were locked, Jesus came and stood among them, and he said, “Peace be with you.” Then he said to Thomas, “Put your finger here, and see my hands! Place your hand here and put it into my side. Do not be unbelieving, but believing!” And Thomas answered him, “My Lord and my God!” Jesus said to him, “Because you have seen me, you have believed. Blessed are those who have not seen, and have believed.” Now Jesus accomplished many other signs in the presence of his disciples, which are not written in this book. However, these ones are written, so that you may believe that Jesus is the Christ, the Son of God, and that believing, you may have life in his Name."
+leeoMA.Gospel.version = le.go.mc.d078_en_US_eob.lemcLI.Gospel.version
+leeoMA.Gospel.book_string = le.go.mc.d078_en_US_eob.lemcLI.Gospel.book_string
+leeoMA.Gospel.book_abbr = le.go.mc.d078_en_US_eob.lemcLI.Gospel.book_abbr
+leeoMA.Gospel.chapverse = le.go.mc.d078_en_US_eob.lemcLI.Gospel.chapverse
+leeoMA.Gospel.incipit = le.go.mc.d078_en_US_eob.lemcLI.Gospel.incipit
+leeoMA.Gospel.text = le.go.mc.d078_en_US_eob.lemcLI.Gospel.text

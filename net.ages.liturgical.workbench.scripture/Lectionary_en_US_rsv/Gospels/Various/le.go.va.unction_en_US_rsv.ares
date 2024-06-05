@@ -20,12 +20,12 @@ levaUNC.Gospel2.text = le.go.lu.d105_en_US_rsv.leluLI.Gospel.text
 
 levaUNC.Gospel3.title = "3rd Gospel"
 levaUNC.Gospel3.title_abbr = "3rd Gospel"
-levaUNC.Gospel3.version = properties_en_US_rsv.version.designation
-levaUNC.Gospel3.book_string = bible_en_US_rsv.Matthew.text
-levaUNC.Gospel3.book_abbr = bible_en_US_rsv.Matthew.abbr
-levaUNC.Gospel3.chapverse = "10:1, 5 – 8"
-levaUNC.Gospel3.incipit = "At that time, Jesus called to him…"
-levaUNC.Gospel3.text = "At that time, Jesus called to him his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every disease and every infirmity. These twelve Jesus sent out, charging them, “Go nowhere among the Gentiles, and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel. And preach as you go, saying, ‘The kingdom of heaven is at hand.’ Heal the sick, raise the dead, cleanse lepers, cast out demons. You received without paying, give without pay.”"
+levaUNC.Gospel3.version = le.go.ge.unmercenary_en_US_rsv.legeLI.Gospel.version
+levaUNC.Gospel3.book_string = le.go.ge.unmercenary_en_US_rsv.legeLI.Gospel.book_string
+levaUNC.Gospel3.book_abbr = le.go.ge.unmercenary_en_US_rsv.legeLI.Gospel.book_abbr
+levaUNC.Gospel3.chapverse = le.go.ge.unmercenary_en_US_rsv.legeLI.Gospel.chapverse
+levaUNC.Gospel3.incipit = le.go.ge.unmercenary_en_US_rsv.legeLI.Gospel.incipit
+levaUNC.Gospel3.text = le.go.ge.unmercenary_en_US_rsv.legeLI.Gospel.text
 
 levaUNC.Gospel4.title = "4th Gospel"
 levaUNC.Gospel4.title_abbr = "4th Gospel"
