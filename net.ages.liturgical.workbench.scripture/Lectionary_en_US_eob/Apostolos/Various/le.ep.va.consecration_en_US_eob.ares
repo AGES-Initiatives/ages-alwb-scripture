@@ -4,6 +4,7 @@ levaCON.Epistle1.title = "At the Consecration of a Church."
 levaCON.Epistle1.title_abbr = "At the Consecration of a Church"
 levaCON.Epistle1.version = properties_en_US_eob.version.designation
 levaCON.Epistle1.book_string = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.book_string
+levaCON.Epistle1.book_abbr = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.book_abbr
 levaCON.Epistle1.chapverse = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.chapverse
 levaCON.Epistle1.incipit = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.incipit
 levaCON.Epistle1.text = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.text
