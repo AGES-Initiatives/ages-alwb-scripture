@@ -2,9 +2,9 @@ A_Resource_Whose_Name = le.ep.me.m12.d29_en_US_eob
 
 lemeLI.Epistle.title = "For the Holy Innocents"
 lemeLI.Epistle.title_abbr = "For the Holy Innocents"
-lemeLI.Epistle.version = le.ep.mc.d069_en_US_eob.lemcH6.Epistle.version
-lemeLI.Epistle.book_string = le.ep.mc.d069_en_US_eob.lemcH6.Epistle.book_string
-lemeLI.Epistle.book_abbr = le.ep.mc.d069_en_US_eob.lemcH6.Epistle.book_abbr
-lemeLI.Epistle.chapverse = le.ep.mc.d069_en_US_eob.lemcH6.Epistle.chapverse
-lemeLI.Epistle.incipit = le.ep.mc.d069_en_US_eob.lemcH6.Epistle.incipit
-lemeLI.Epistle.text = le.ep.mc.d069_en_US_eob.lemcH6.Epistle.text
+lemeLI.Epistle.version = properties_en_US_eob.version.designation
+lemeLI.Epistle.book_string = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.book_string
+lemeLI.Epistle.book_abbr = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.book_abbr
+lemeLI.Epistle.chapverse = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.chapverse
+lemeLI.Epistle.incipit = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.incipit
+lemeLI.Epistle.text = le.ep.me.m03.d25_en_US_eob.lemeLI.Epistle.text
