@@ -2754,9 +2754,10 @@ psHO.ecloge.triodion34.v15.info = ""
 psHO.ecloge.triodion34.v15.text = ""
 
 // Other
-psEU.baptism.hymn1.title = ""
+psEU.baptism.hymn1.title = ps_en_US_rsv.psa31.title
 psEU.baptism.hymn1.info = ps_en_US_rsv.psa31.v1.number
-psEU.baptism.hymn1.text = ""
+psEU.baptism.hymn1.text = "Blessed is he whose transgression is forgiven, whose sin is covered."
+psEU.baptism.hymn2.text = "Blessed is the man to whom the LORD imputes no iniquity, and in whose spirit there is no deceit. When I declared not my sin, my body wasted away through my groaning all day long. For day and night thy hand was heavy upon me; my strength was dried up as by the heat of summer. I acknowledged my sin to thee, and I did not hide my iniquity; I said, “I will confess my transgressions to the LORD”; then thou didst forgive the guilt of my sin. Therefore let every one who is godly offer prayer to thee; at a time of distress, in the rush of great waters, they shall not reach him. Thou art a hiding place for me, thou preservest me from trouble; thou dost encompass me with deliverance. I will instruct you and teach you the way you should go; I will counsel you with my eye upon you. Be not like a horse or a mule, without understanding, which must be curbed with bit and bridle, else it will not keep with you. Many are the pangs of the wicked; but steadfast love surrounds him who trusts in the LORD. Be glad in the LORD, and rejoice, O righteous, and shout for joy, all you upright in heart!"
 psEU.baptism.prokeimenon.title = ""
 psEU.baptism.prokeimenon.v1.info = ps_en_US_rsv.psa26.v1.number
 psEU.baptism.prokeimenon.v1.text = ""
@@ -2767,6 +2768,9 @@ psEU.baptism.alleluia.v1.info = ps_en_US_rsv.psa44.v2.number
 psEU.baptism.alleluia.v1.text = ""
 psEU.baptism.alleluia.v2.info = ps_en_US_rsv.psa44.v2.number
 psEU.baptism.alleluia.v2.text = ""
+psEU.baptism.communion.title = "Psalm 115."
+psEU.baptism.communion.info = ps_en_US_rsv.psa115.v4.number
+psEU.baptism.communion.text = "I will lift up the cup of salvation and call on the name of the LORD."
 
 psEU.childbirth.fortydays.v1.info = ps_en_US_rsv.psa5.v8.number
 psEU.childbirth.fortydays.v1.text = ""

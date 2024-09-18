@@ -2718,6 +2718,7 @@ psHO.ecloge.triodion34.v15.text = ""
 psEU.baptism.hymn1.title = "Psalm 31."
 psEU.baptism.hymn1.info = ps_en_US_saas.psa31.v1.number
 psEU.baptism.hymn1.text = "Blessed are those whose transgressions are forgiven, and whose sins are covered."
+psEU.baptism.hymn2.text = "Blessed is the man whose sin the Lord does not take into account, and in whose mouth there is no deceit. Because I kept silent, my bones grew old from my groaning all the day long; for day and night Your hand was heavy upon me; I became miserable when the thorn pierced me. I made known my sin, and I did not hide my transgression; I said, “I will confess my transgression to the Lord,” and You forgave the ungodliness of my sin. For this cause, everyone who is holy will pray to Him in a well-fitted time; surely they will not draw near to Him in a flood of many waters. You are my refuge from the oppression of those who surround me; O my exceeding joy, redeem me from those who encircle me. “I will give you understanding, and I will teach you in the way you should walk; I will fix My eyes on you. Do not be like the horse and the mule, which have no understanding; You squeeze their jaws with bit and bridle, lest they come near you.” Many are the scourges of the sinner, but he who hopes in the Lord, mercy shall encircle him. Be glad in the Lord and rejoice greatly, O righteous ones, and boast, all you upright in heart."
 psEU.baptism.prokeimenon.title = "Psalm 26."
 psEU.baptism.prokeimenon.v1.info = ps_en_US_saas.psa26.v1.number
 psEU.baptism.prokeimenon.v1.text = "The Lord is my light and my savior; whom shall I fear?"
@@ -2728,6 +2729,9 @@ psEU.baptism.alleluia.v1.info = ps_en_US_saas.psa44.v2.number
 psEU.baptism.alleluia.v1.text = "My heart overflowed with a good word; I tell my works to the King."
 psEU.baptism.alleluia.v2.info = ps_en_US_saas.psa44.v2.number
 psEU.baptism.alleluia.v2.text = "My tongue is the pen of a swift-writing scribe."
+psEU.baptism.communion.title = "Psalm 115."
+psEU.baptism.communion.info = ps_en_US_saas.psa115.v4.number
+psEU.baptism.communion.text = "I will take up the cup of salvation, and call upon the name of the Lord."
 
 psEU.childbirth.fortydays.v1.info = ps_en_US_saas.psa5.v8.number
 psEU.childbirth.fortydays.v1.text = "I will come into Your house, O Lord; in fear of You I will worship toward Your holy temple."
