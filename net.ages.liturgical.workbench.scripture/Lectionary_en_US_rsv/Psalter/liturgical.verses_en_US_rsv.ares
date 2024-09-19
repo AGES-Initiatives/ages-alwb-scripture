@@ -2982,4 +2982,7 @@ psEU.wedding.alleluia.v1.info = ps_en_US_rsv.psa11.v8.number
 psEU.wedding.alleluia.v1.text = ""
 psEU.wedding.alleluia.v2.info = ps_en_US_rsv.psa11.v2.number
 psEU.wedding.alleluia.v2.text = ""
+psEU.wedding.communion.title = "Psalm 115."
+psEU.wedding.communion.info = ps_en_US_rsv.psa115.v4.number
+psEU.wedding.communion.text = "I will lift up the cup of salvation and call on the name of the LORD."
 

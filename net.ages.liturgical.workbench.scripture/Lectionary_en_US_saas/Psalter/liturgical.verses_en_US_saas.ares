@@ -2943,4 +2943,7 @@ psEU.wedding.alleluia.v1.info = ps_en_US_saas.psa11.v8.number
 psEU.wedding.alleluia.v1.text = "You shall guard us, O Lord; You shall preserve us from this generation forever."
 psEU.wedding.alleluia.v2.info = ps_en_US_saas.psa11.v2.number
 psEU.wedding.alleluia.v2.text = "Save me, O Lord, for the holy man has ceased."
+psEU.wedding.communion.title = "Psalm 115."
+psEU.wedding.communion.info = ps_en_US_saas.psa115.v4.number
+psEU.wedding.communion.text = "I will take up the cup of salvation, and call upon the name of the Lord."
 
