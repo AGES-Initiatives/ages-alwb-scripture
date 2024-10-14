@@ -2774,6 +2774,9 @@ psEU.consecration.li.prokeimenon.v1.info = ps_en_US_saas.psa92.v5.number
 psEU.consecration.li.prokeimenon.v1.text = "Holiness is proper to Your house, O Lord, unto length of days."
 psEU.consecration.li.prokeimenon.v2.info = ps_en_US_saas.psa92.v1.number
 psEU.consecration.li.prokeimenon.v2.text = "The Lord reigns; He clothed Himself with majesty."
+psEU.consecration.li.communion.title = "Psalm 25."
+psEU.consecration.li.communion.info = ps_en_US_saas.psa25.v8.number
+psEU.consecration.li.communion.text = "O Lord, I love the beauty of Your house, and the place where Your glory dwells."
 
 psEU.deceased.prokeimenon.title = "Psalm 26."
 psEU.deceased.prokeimenon.v1.info = ps_en_US_saas.psa26.v1.number
