@@ -35,7 +35,7 @@ lemcHW.NiptirGospel2.book_string = bible_en_US_rsv.John.text
 lemcHW.NiptirGospel2.book_abbr = bible_en_US_rsv.John.abbr
 lemcHW.NiptirGospel2.chapverse = "13:12 – 17"
 lemcHW.NiptirGospel2.incipit = "When Jesus had washed…"
-lemcHW.NiptirGospel2.text = "At that time, when Jesus had washed the disciples' feet, and taken his garments, and resumed his place, he said to them, “Do you know what I have done to you? You call me Teacher and Lord; and you are right, for so I am. If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another’s feet. For I have given you an example, that you also should do as I have done to you. Truly, truly, I say to you, a servant is not greater than his master; nor is an apostle greater than he who sent him. If you know these things, blessed are you if you do them.”"
+lemcHW.NiptirGospel2.text = "At that time, when Jesus had washed the disciples’ feet, and taken his garments, and resumed his place, he said to them, “Do you know what I have done to you? You call me Teacher and Lord; and you are right, for so I am. If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another’s feet. For I have given you an example, that you also should do as I have done to you. Truly, truly, I say to you, a servant is not greater than his master; nor is an apostle greater than he who sent him. If you know these things, blessed are you if you do them.”"
 
 lemcHW.PassionGospel01.title = "GOSPEL 1"
 lemcHW.PassionGospel01.title_abbr = "GOSPEL 1"
