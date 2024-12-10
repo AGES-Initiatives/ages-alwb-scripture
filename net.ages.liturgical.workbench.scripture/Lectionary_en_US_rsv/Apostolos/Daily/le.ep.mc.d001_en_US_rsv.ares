@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.ep.mc.d001_en_US_rsv
 
 lemcLI.Epistle.title = "Thirty-Third Sunday, of the Publican and Pharisee"
-lemcLI.Epistle.title_abbr = "Sunday of Publican and Pharisee"
+lemcLI.Epistle.title_abbr = "Sun. of Pub. and Phar."
 lemcLI.Epistle.version = properties_en_US_rsv.version.designation
 lemcLI.Epistle.book_string = bible_en_US_rsv.Timothy2.text
 lemcLI.Epistle.book_abbr = bible_en_US_rsv.Timothy2.abbr
