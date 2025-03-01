@@ -18,4 +18,5 @@ contact.email = ""
 contact.url = "http://www.nrsv.net/contact/licensing-permissions/"
 
 deprecated.key = "This key is no longer used."
+empty.key = ""
 media.key = "For media only."

@@ -18,4 +18,5 @@ contact.email = ""
 contact.url = "http://netbible.com/content/net-bible-copyright"
 
 deprecated.key = "This key is no longer used."
+empty.key = ""
 media.key = "For media only."
