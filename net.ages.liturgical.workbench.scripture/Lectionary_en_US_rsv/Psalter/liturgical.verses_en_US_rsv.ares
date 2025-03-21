@@ -390,15 +390,7 @@ psVE.saturday.aposverse.v3.info = ps_en_US_rsv.psa92.v5.number
 psVE.saturday.aposverse.v3.incipit = ""
 psVE.saturday.aposverse.v3.text = ""
 
-goVE.songofsymeon.v1.info = le.go.os_en_US_rsv.leosVE.Prayer_NynApolyeis.chapverse
-goVE.songofsymeon.v1.incipit = "…"
-goVE.songofsymeon.v1.text = "Lord, now lettest thou thy servant depart in peace, according to thy word; for mine eyes have seen thy salvation which thou hast prepared in the presence of all peoples, a light for revelation to the Gentiles, and for glory to thy people Israel."
-goVE.songofsymeon.v1a.text = "Lord, now lettest thou thy servant depart in peace, according to thy word; for mine eyes have seen thy salvation which thou hast prepared in the presence of all peoples."
-goVE.songofsymeon.v1b.text = "A light for revelation to the Gentiles, and for glory to thy people Israel."
-
 //Matins
-goMA.sixpsalms.intro.v1.info = //(Lk 2:14) le.go.os_en_US_rsv.leosMA.SixPsalmsIntro1.book_abbr
-goMA.sixpsalms.intro.v1.text = "Glory to God in the highest, and on earth peace, good will among men."
 psMA.sixpsalms.intro.v2.info = ps_en_US_rsv.psa50.v17.number
 psMA.sixpsalms.intro.v2.text = ""
 psMA.sixpsalms.ps3.end.v1.info = ps_en_US_rsv.psa3.v6.number
@@ -961,43 +953,6 @@ psMA.bode8.verse11.text = ""
 psMA.bode8.verse12.info = ps_en_US_rsv.bode8.v17.number
 psMA.bode8.verse12.text = ""
 
-psMA.magnificat.title = ""
-psMA.magnificat.v1.info = ps_en_US_rsv.bode9_mag.v1.number
-psMA.magnificat.v1.text = "My soul magnifies the Lord, and my spirit rejoices in God my Savior."
-psMA.magnificat.v2.info = ps_en_US_rsv.bode9_mag.v2.number
-psMA.magnificat.v2.text = "For he has regarded the low estate of his handmaiden. For behold, henceforth all generations will call me blessed."
-psMA.magnificat.v3.info = ps_en_US_rsv.bode9_mag.v3.number
-psMA.magnificat.v3.text = "For he who is mighty has done great things for me, and holy is his name. And his mercy is on those who fear him from generation to generation."
-psMA.magnificat.v4.info = ps_en_US_rsv.bode9_mag.v4.number
-psMA.magnificat.v4.text = "He has shown strength with his arm, he has scattered the proud in the imagination of their hearts."
-psMA.magnificat.v5.info = ps_en_US_rsv.bode9_mag.v5.number
-psMA.magnificat.v5.text = "He has put down the mighty from their thrones, and exalted those of low degree; he has filled the hungry with good things, and the rich he has sent empty away."
-psMA.magnificat.v6.info = ps_en_US_rsv.bode9_mag.v6.number
-psMA.magnificat.v6.text = "He has helped his servant Israel, in remembrance of his mercy, as he spoke to our fathers, to Abraham and to his posterity for ever."
-
-psMA.bode9.title = ""
-psMA.bode9.refrain.text = ""
-psMA.bode9.verse03.info = ps_en_US_rsv.bode9.v1.number
-psMA.bode9.verse03.text = "Blessed be the Lord God of Israel, for he has visited and redeemed his people."
-psMA.bode9.verse04.info = ps_en_US_rsv.bode9.v2.number
-psMA.bode9.verse04.text = "And has raised up a horn of salvation for us in the house of his servant David."
-psMA.bode9.verse05.info = ps_en_US_rsv.bode9.v3.number
-psMA.bode9.verse05.text = "As he spoke by the mouth of his holy prophets from of old, that we should be saved from our enemies, and from the hand of all who hate us."
-psMA.bode9.verse06.info = ps_en_US_rsv.bode9.v5.number
-psMA.bode9.verse06.text = "To perform the mercy promised to our fathers, and to remember his holy covenant."
-psMA.bode9.verse07.info = ps_en_US_rsv.bode9.v6.number
-psMA.bode9.verse07.text = "The oath which he swore to our father Abraham, to grant us that we be delivered from the hand of our enemies."
-psMA.bode9.verse08.info = ps_en_US_rsv.bode9.v7.number
-psMA.bode9.verse08.text = "That we might serve him without fear, in holiness and righteousness before him all the days of our life."
-psMA.bode9.verse09.info = ps_en_US_rsv.bode9.v8.number
-psMA.bode9.verse09.text = "And you, child, will be called the prophet of the Most High; for you will go before the Lord to prepare his ways."
-psMA.bode9.verse10.info = ps_en_US_rsv.bode9.v9.number
-psMA.bode9.verse10.text = "To give knowledge of salvation to his people in the forgiveness of their sins, through the tender mercy of our God."
-psMA.bode9.verse11.info = ps_en_US_rsv.bode9.v10.number
-psMA.bode9.verse11.text = "When the day shall dawn upon us from on high to give light to those who sit in darkness and in the shadow of death."
-psMA.bode9.verse12.info = ps_en_US_rsv.bode9.v11.number
-psMA.bode9.verse12.text = "To guide our feet into the way of peace."
-
 psMA.exapintro.v1.info = ps_en_US_rsv.psa98.v9.number
 psMA.exapintro.v1.text = ""
 psMA.exapintro.v2.info = ps_en_US_rsv.psa98.v5.number
@@ -1147,22 +1102,6 @@ psLI.typika.ps145.v9.info = ps_en_US_rsv.psa145.v9.number
 psLI.typika.ps145.v9.text = ""
 psLI.typika.ps145.v10.info = ps_en_US_rsv.psa145.v10.number
 psLI.typika.ps145.v10.text = ""
-
-goLI.typika.beatitudes.info = le.go.os_en_US_rsv.leosTY.Beatitudes.book_abbr
-goLI.typika.beatitudes.intro.text = "In Your kingdom. Remember us, O Lord, when You come in Your kingdom."
-goLI.typika.beatitudes.v01.text = "Blessed are the poor in spirit, for theirs is the kingdom of heaven."
-goLI.typika.beatitudes.v02.text = "Blessed are those who mourn, for they shall be comforted."
-goLI.typika.beatitudes.v03.text = "Blessed are the meek, for they shall inherit the earth."
-goLI.typika.beatitudes.v04.text = "Blessed are those who hunger and thirst for righteousness, for they shall be satisfied."
-goLI.typika.beatitudes.v05.text = "Blessed are the merciful, for they shall obtain mercy."
-goLI.typika.beatitudes.v06.text = "Blessed are the pure in heart, for they shall see God."
-goLI.typika.beatitudes.v07.text = "Blessed are the peacemakers, for they shall be called sons of God."
-goLI.typika.beatitudes.v08.text = "Blessed are those who are persecuted for righteousness’ sake, for theirs is the kingdom of heaven."
-goLI.typika.beatitudes.v09.text = "Blessed are you when men revile you and persecute you and utter all kinds of evil against you falsely [for my sake]." //on my account.
-goLI.typika.beatitudes.v10.text = "Rejoice and be glad, for your reward is great in heaven."
-goLI.typika.beatitudes.refrain1.text = "Remember us, O Lord, when You come in Your kingdom."
-goLI.typika.beatitudes.refrain2.text = "Remember us, O Master, when You come in Your kingdom."
-goLI.typika.beatitudes.refrain3.text = "Remember us, O Holy One, when You come in Your kingdom."
 
 //angels see Σύστημα Τυπικοῦ p. 130
 psLI.angels.antiphon1.v1.info = ""

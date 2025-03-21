@@ -89,3 +89,51 @@ leosH9.ho.ho09.Key0001.book_string = bible_en_US_saas.Daniel.text
 leosH9.ho.ho09.Key0001.book_abbr = bible_en_US_saas.Daniel.abbr
 leosH9.ho.ho09.Key0001.chapverse = "3:34 – 35"
 leosH9.ho.ho09.Key0001.text = "For Your name’s sake, do not hand us over to the end, and do not reject Your covenant. Do not withdraw Your mercy from us for the sake of Abraham, who is loved by You, and for the sake of Isaac, Your servant, and of Israel, Your holy one."
+
+leosLIPR.vesting.sticharion.v1.version = properties_en_US_saas.version.designation
+leosLIPR.vesting.sticharion.v1.book_string = bible_en_US_saas.Isaiah.text
+leosLIPR.vesting.sticharion.v1.book_abbr = bible_en_US_saas.Isaiah.abbr
+leosLIPR.vesting.sticharion.v1.chapverse = "61:10"
+leosLIPR.vesting.sticharion.v1.text = "Let my soul rejoice exceedingly in the Lord, for He clothed me with the garment of salvation and the tunic of gladness. He put a miter around me like a bridegroom and adorned me with ornaments like a bride."
+
+leosLIPR.vesting.epimanikion_right.v1.version = properties_en_US_saas.version.designation
+leosLIPR.vesting.epimanikion_right.v1.book_string = bible_en_US_saas.Exodus.text
+leosLIPR.vesting.epimanikion_right.v1.book_abbr = bible_en_US_saas.Exodus.abbr
+leosLIPR.vesting.epimanikion_right.v1.chapverse = "15:6"
+leosLIPR.vesting.epimanikion_right.v1.text = "Your right hand, O God, is glorified in strength; Your right hand, O God, dashed the enemy in pieces. In the greatness of Your glory You broke the adversaries to pieces."
+
+leosLIPR.prothesis.v1.version = properties_en_US_saas.version.designation
+leosLIPR.prothesis.v1.book_string = bible_en_US_saas.Isaiah.text
+leosLIPR.prothesis.v1.book_abbr = bible_en_US_saas.Isaiah.abbr
+leosLIPR.prothesis.v1.chapverse = "53:7"
+leosLIPR.prothesis.v1.text = "He was led as a sheep to the slaughter."
+
+leosLIPR.prothesis.v2.version = properties_en_US_saas.version.designation
+leosLIPR.prothesis.v2.book_string = bible_en_US_saas.Isaiah.text
+leosLIPR.prothesis.v2.book_abbr = bible_en_US_saas.Isaiah.abbr
+leosLIPR.prothesis.v2.chapverse = "53:7"
+leosLIPR.prothesis.v2.text = "And as a lamb is silent before his shearers, so He opens not His mouth."
+
+leosLIPR.prothesis.v3.version = properties_en_US_saas.version.designation
+leosLIPR.prothesis.v3.book_string = bible_en_US_saas.Isaiah.text
+leosLIPR.prothesis.v3.book_abbr = bible_en_US_saas.Isaiah.abbr
+leosLIPR.prothesis.v3.chapverse = "53:8"
+leosLIPR.prothesis.v3.text = "In His humiliation His judgment was taken away."
+
+leosLIPR.prothesis.v4.version = properties_en_US_saas.version.designation
+leosLIPR.prothesis.v4.book_string = bible_en_US_saas.Isaiah.text
+leosLIPR.prothesis.v4.book_abbr = bible_en_US_saas.Isaiah.abbr
+leosLIPR.prothesis.v4.chapverse = "53:8"
+leosLIPR.prothesis.v4.text = "And who will declare His generation?"
+
+leosLIPR.prothesis.v5.version = properties_en_US_saas.version.designation
+leosLIPR.prothesis.v5.book_string = bible_en_US_saas.Isaiah.text
+leosLIPR.prothesis.v5.book_abbr = bible_en_US_saas.Isaiah.abbr
+leosLIPR.prothesis.v5.chapverse = "53:8"
+leosLIPR.prothesis.v5.text = "For His life is taken from the earth."
+
+leosLIPR.prothesis.v10.version = properties_en_US_saas.version.designation
+leosLIPR.prothesis.v10.book_string = bible_en_US_saas.Habakkuk.text
+leosLIPR.prothesis.v10.book_abbr = bible_en_US_saas.Habakkuk.abbr
+leosLIPR.prothesis.v10.chapverse = "3:3"
+leosLIPR.prothesis.v10.text = "Your excellence covered the heavens, O Christ, and the earth was full of Your praise."

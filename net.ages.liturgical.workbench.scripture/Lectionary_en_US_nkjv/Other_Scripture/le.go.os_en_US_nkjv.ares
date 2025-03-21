@@ -18,6 +18,20 @@ leosMA.SixPsalmsIntro1.book_abbr = bible_en_US_nkjv.Luke.abbr
 leosMA.SixPsalmsIntro1.chapverse = "2:14"
 leosMA.SixPsalmsIntro1.text = "Glory to God in the highest, and on earth peace, good will toward men."
 
+leosMA.magnificat.title = ""
+leosMA.magnificat.v1.info = ps_en_US_nkjv.bode9_mag.v1.number
+leosMA.magnificat.v1.text = "My soul magnifies the Lord, and my spirit has rejoiced in God my Savior."
+leosMA.magnificat.v2.info = ps_en_US_nkjv.bode9_mag.v2.number
+leosMA.magnificat.v2.text = "For He has regarded the lowly state of His maidservant; for behold, henceforth all generations will call me blessed."
+leosMA.magnificat.v3.info = ps_en_US_nkjv.bode9_mag.v3.number
+leosMA.magnificat.v3.text = "For He who is mighty has done great things for me, and holy is His name. And His mercy is on those who fear Him from generation to generation."
+leosMA.magnificat.v4.info = ps_en_US_nkjv.bode9_mag.v4.number
+leosMA.magnificat.v4.text = "He has shown strength with His arm; He has scattered the proud in the imagination of their hearts."
+leosMA.magnificat.v5.info = ps_en_US_nkjv.bode9_mag.v5.number
+leosMA.magnificat.v5.text = "He has put down the mighty from their thrones, and exalted the lowly. He has filled the hungry with good things, and the rich He has sent away empty."
+leosMA.magnificat.v6.info = ps_en_US_nkjv.bode9_mag.v6.number
+leosMA.magnificat.v6.text = "He has helped His servant Israel, in remembrance of His mercy, as He spoke to our fathers, to Abraham and to his seed forever."
+
 leosLI.pe.d095.CommunionHymn.title = ""
 leosLI.pe.d095.CommunionHymn.title_abbr = ""
 leosLI.pe.d095.CommunionHymn.version = ""

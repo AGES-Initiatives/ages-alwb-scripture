@@ -1615,6 +1615,40 @@ psGC.lordofpowers.v6.text = "Praise God in His saints."
 psGC.lordofpowers.v7.info = ps_en_US_saas.psa150.v1.number
 psGC.lordofpowers.v7.text = "Praise Him in the firmament of His power."
 
+psLIPR.kairos.entry.v1.info = ps_en_US_saas.psa5.v8.number
+psLIPR.kairos.entry.v1.text = "I will come into Your house; in fear of You I will worship toward Your holy temple."
+
+psLIPR.vesting.epimanikion_left.v1.info = ps_en_US_saas.psa118.v73.number
+psLIPR.vesting.epimanikion_left.v1.text = "Your hands made and fashioned me; instruct me, and I will learn Your commandments."
+psLIPR.vesting.epitrachilion.v2.info = ps_en_US_saas.psa132.v2.number
+psLIPR.vesting.epitrachilion.v2.text = "It is like fragrant oil running down upon the beard, the beard of Aaron, running down upon the border of his garment."
+psLIPR.vesting.zone.v1.info = ps_en_US_saas.psa17.v33.number
+psLIPR.vesting.zone.v1.text = "Blessed is God who girds me with power, and He made my way blameless."
+psLIPR.vesting.epigonation.v1.info = ps_en_US_saas.psa44.v4.number
+psLIPR.vesting.epigonation.v1.text = "Gird Your sword upon Your thigh, O Mighty One, in Your splendor and Your beauty. And stretch Your bow, and grant prosperity, and reign because of truth, gentleness, and righteousness, and Your right hand shall guide You wondrously."
+psLIPR.vesting.phelonion.v1.info = ps_en_US_saas.psa131.v9.number
+psLIPR.vesting.phelonion.v1.text = "Your priests shall clothe themselves in righteousness; Your saints shall greatly rejoice."
+psLIPR.vesting.sakkos.v1.info = ""
+psLIPR.vesting.sakkos.v1.text = ""
+psLIPR.vesting.omophorion.v1.info = ""
+psLIPR.vesting.omophorion.v1.text = ""
+psLIPR.vesting.miter.v1.info = ""
+psLIPR.vesting.miter.v1.text = ""
+psLIPR.vesting.washing.v1.info = ps_en_US_saas.psa25.v6.number
+psLIPR.vesting.washing.v1.text = "I will wash my hands in innocence; so I will go about Your altar, O Lord. That I may hear the voice of praise and tell of all Your wondrous works. O Lord, I love the beauty of Your house, and the place where Your glory dwells. Do not destroy my soul with the ungodly, nor my life with men of blood. In whose hands is lawlessness; their right hand is full of bribes. But as for me, I walk in my innocence; redeem me and have mercy on me. For my foot stands in uprightness; in the churches I will bless You, O Lord."
+
+psLIPR.prothesis.v7.info = ps_en_US_saas.psa44.v10.number
+psLIPR.prothesis.v7.text = "The queen stood at Your right hand in apparel interwoven with gold, and adorned and embroidered with various colors."
+psLIPR.prothesis.v8.info = ps_en_US_saas.psa32.v6.number
+psLIPR.prothesis.v8.text = "By the word of the Lord the heavens were established, and all the host of them by the breath of His mouth."
+psLIPR.prothesis.v9.info = ps_en_US_saas.psa92.v1.number
+psLIPR.prothesis.v9.text = "The Lord reigns; He clothed Himself with majesty; the Lord clothed and girded Himself with power."
+
+psLIPR.preliminary.v2.info = ps_en_US_saas.psa50.v17.number
+psLIPR.preliminary.v2.text = "O Lord, You shall open my lips, and my mouth will declare Your praise."
+psLIPR.preliminary.v3.info = ps_en_US_saas.psa118.v126.number
+psLIPR.preliminary.v3.text = "It is time for the Lord to act,"
+
 //Selected Psalm Verses for Polyeleos and Communion Hymns
 
 psHO.ecloge.angels.info = ""
