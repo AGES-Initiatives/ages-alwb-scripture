@@ -381,13 +381,13 @@ psVE.friday.aposverse.v3.info = ps_en_US_rsv.psa64.v5.number
 psVE.friday.aposverse.v3.text = ""
 
 psVE.saturday.aposverse.v1.info = ps_en_US_rsv.psa92.v1.number
-psVE.saturday.aposverse.v1.incipit = ""
+psVE.saturday.aposverse.v1.incipit = "…"
 psVE.saturday.aposverse.v1.text = ""
 psVE.saturday.aposverse.v2.info = ps_en_US_rsv.psa92.v1.number
-psVE.saturday.aposverse.v2.incipit = ""
+psVE.saturday.aposverse.v2.incipit = "…"
 psVE.saturday.aposverse.v2.text = ""
 psVE.saturday.aposverse.v3.info = ps_en_US_rsv.psa92.v5.number
-psVE.saturday.aposverse.v3.incipit = ""
+psVE.saturday.aposverse.v3.incipit = "…"
 psVE.saturday.aposverse.v3.text = ""
 
 //Matins
@@ -411,7 +411,7 @@ psMA.sixpsalms.ps142.end.v2.info = ps_en_US_rsv.psa142.v10.number
 psMA.sixpsalms.ps142.end.v2.text = ""
 
 psMA.beginning.v1.info = ps_en_US_rsv.psa117.v27.number
-psMA.beginning.v1.incipit = ""
+psMA.beginning.v1.incipit = "…"
 psMA.beginning.v1.text = ""
 psMA.beginning.v2.info = ps_en_US_rsv.psa104.v1.number
 psMA.beginning.v2.text = ""
@@ -1398,7 +1398,7 @@ psLI.sunday.m8.alleluia.v2.info = ps_en_US_rsv.psa94.v2.number
 psLI.sunday.m8.alleluia.v2.text = ""
 psLI.sunday.communion.title = ""
 psLI.sunday.communion.v1.info = ps_en_US_rsv.psa148.v1.number
-psLI.sunday.communion.v1.incipit = ""
+psLI.sunday.communion.v1.incipit = "…"
 psLI.sunday.communion.v1.text = ""
 
 psLI.weekday.antiphon1.v1.info = ps_en_US_rsv.psa91.v2.number
@@ -1432,7 +1432,7 @@ psLI.weekday.d2.alleluia.v2.info = ps_en_US_rsv.psa148.v2.number
 psLI.weekday.d2.alleluia.v2.text = ""
 psLI.weekday.d2.communion.title = ""
 psLI.weekday.d2.communion.v1.info = ps_en_US_rsv.psa103.v4.number
-psLI.weekday.d2.communion.v1.incipit = ""
+psLI.weekday.d2.communion.v1.incipit = "…"
 psLI.weekday.d2.communion.v1.text = ""
 
 psLI.weekday.d3.prokeimenon.title = ""
@@ -1462,7 +1462,7 @@ psLI.weekday.d4.alleluia.v2.info = ps_en_US_rsv.psa131.v11.number
 psLI.weekday.d4.alleluia.v2.text = ""
 psLI.weekday.d4.communion.title = ""
 psLI.weekday.d4.communion.v1.info = ps_en_US_rsv.psa115.v4.number
-psLI.weekday.d4.communion.v1.incipit = ""
+psLI.weekday.d4.communion.v1.incipit = "…"
 psLI.weekday.d4.communion.v1.text = ""
 
 psLI.weekday.d5.prokeimenon.title = ""
@@ -1477,7 +1477,7 @@ psLI.weekday.d5.alleluia.v2.info = ps_en_US_rsv.psa88.v8.number
 psLI.weekday.d5.alleluia.v2.text = ""
 psLI.weekday.d5.communion.title = ""
 psLI.weekday.d5.communion.v1.info = ps_en_US_rsv.psa18.v5.number
-psLI.weekday.d5.communion.v1.incipit = ""
+psLI.weekday.d5.communion.v1.incipit = "…"
 psLI.weekday.d5.communion.v1.text = ""
 
 psLI.weekday.d6.prokeimenon.title = ""
@@ -1492,11 +1492,11 @@ psLI.weekday.d6.alleluia.v2.info = ps_en_US_rsv.psa73.v12.number
 psLI.weekday.d6.alleluia.v2.text = ""
 psLI.weekday.d6.communion1.title = ""
 psLI.weekday.d6.communion1.v1.info = ps_en_US_rsv.psa73.v12.number
-psLI.weekday.d6.communion1.v1.incipit = ""
+psLI.weekday.d6.communion1.v1.incipit = "…"
 psLI.weekday.d6.communion1.v1.text = ""
 psLI.weekday.d6.communion2.title = ""
 psLI.weekday.d6.communion2.v1.info = ps_en_US_rsv.psa4.v7.number
-psLI.weekday.d6.communion2.v1.incipit = ""
+psLI.weekday.d6.communion2.v1.incipit = "…"
 psLI.weekday.d6.communion2.v1.text = ""
 
 psLI.weekday.d7.prokeimenon.title = ""
@@ -1511,11 +1511,11 @@ psLI.weekday.d7.alleluia.v2.info = ps_en_US_rsv.psa101.v13.number
 psLI.weekday.d7.alleluia.v2.text = ""
 psLI.weekday.d7.communion1.title = ""
 psLI.weekday.d7.communion1.v1.info = ps_en_US_rsv.psa32.v1.number
-psLI.weekday.d7.communion1.v1.incipit = ""
+psLI.weekday.d7.communion1.v1.incipit = "…"
 psLI.weekday.d7.communion1.v1.text = ""
 psLI.weekday.d7.communion2.title = ""
 psLI.weekday.d7.communion2.v1.info = ps_en_US_rsv.psa64.v5.number
-psLI.weekday.d7.communion2.v1.incipit = ""
+psLI.weekday.d7.communion2.v1.incipit = "…"
 psLI.weekday.d7.communion2.v1.text = ""
 
 psLI.trisagionbaptized.title = "INSTEAD OF HOLY GOD"
@@ -1538,7 +1538,7 @@ psLI.censechalice.v1.text = ""
 
 psLI.aftercommunion.title = ""
 psLI.aftercommunion.v1.info = ps_en_US_rsv.psa112.v2.number
-psLI.aftercommunion.v1.incipit = ""
+psLI.aftercommunion.v1.incipit = "…"
 psLI.aftercommunion.v1.text = ""
 psLI.aftercommunion.v1a.info = ps_en_US_rsv.psa112.v2.number
 psLI.aftercommunion.v1a.text = ""
@@ -1567,7 +1567,7 @@ psPL.incense.v5.text = ""
 psPL.incense.v6.info = ps_en_US_rsv.psa140.v2.number
 psPL.incense.v6.text = ""
 psPL.communion.v1.info = ps_en_US_rsv.psa33.v9.number
-psPL.communion.v1.incipit = ""
+psPL.communion.v1.incipit = "…"
 psPL.communion.v1.text = ""
 
 psGC.lordofpowers.v1.info = ps_en_US_rsv.psa150.v1.number
