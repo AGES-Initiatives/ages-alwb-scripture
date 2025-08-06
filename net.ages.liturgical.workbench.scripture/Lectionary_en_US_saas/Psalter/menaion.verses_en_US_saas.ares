@@ -965,11 +965,11 @@ psLI.m07.d29.prokeimenon.v2.text = "Hear my voice, O God."
 
 //August
 
-psLI.m08.d01.prokeimenon.title = "Psalm 67."
-psLI.m08.d01.prokeimenon.v1.info = ps_en_US_saas.psa67.v36.number
-psLI.m08.d01.prokeimenon.v1.text = "God is wondrous in His saints."
-psLI.m08.d01.prokeimenon.v2.info = ps_en_US_saas.psa67.v27.number
-psLI.m08.d01.prokeimenon.v2.text = "Bless God in the churches."
+psLI.m08.d01.prokeimenon.title = "Psalm 11."
+psLI.m08.d01.prokeimenon.v1.info = ps_en_US_saas.psa11.v8.number
+psLI.m08.d01.prokeimenon.v1.text = "You shall guard us, O Lord; You shall preserve us."
+psLI.m08.d01.prokeimenon.v2.info = ps_en_US_saas.psa11.v2.number
+psLI.m08.d01.prokeimenon.v2.text = "Save me, O Lord, for the holy man has ceased."
 psLI.m08.d01.alleluia.title = "Psalm 33."
 psLI.m08.d01.alleluia.v1.info = ps_en_US_saas.psa33.v18.number
 psLI.m08.d01.alleluia.v1.text = "The righteous cried, and the Lord heard them."
