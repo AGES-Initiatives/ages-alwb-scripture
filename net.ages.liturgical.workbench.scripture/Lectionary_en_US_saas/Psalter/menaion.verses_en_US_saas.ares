@@ -1850,11 +1850,11 @@ psLI.m11.d08.alleluia.v1.text = "Praise the Lord from the heavens, praise Him in
 psLI.m11.d08.alleluia.v2.info = ps_en_US_saas.psa148.v2.number
 psLI.m11.d08.alleluia.v2.text = "Praise Him, all you His angels; praise Him, all you His hosts."
 
-psLI.m11.d09.prokeimenon.title = "Psalm 149."
-psLI.m11.d09.prokeimenon.v1.info = ps_en_US_saas.psa149.v5.number
-psLI.m11.d09.prokeimenon.v1.text = "The holy ones shall boast in glory."
-psLI.m11.d09.prokeimenon.v2.info = ps_en_US_saas.psa149.v1.number
-psLI.m11.d09.prokeimenon.v2.text = "Sing to the Lord a new song."
+psLI.m11.d09.prokeimenon.title = "Psalm 115."
+psLI.m11.d09.prokeimenon.v1.info = ps_en_US_saas.psa115.v5.number
+psLI.m11.d09.prokeimenon.v1.text = "Precious in the sight of the Lord is the death of His holy ones"
+psLI.m11.d09.prokeimenon.v2.info = ps_en_US_saas.psa115.v3.number
+psLI.m11.d09.prokeimenon.v2.text = "What shall we give back to the Lord for all He rendered to us?"
 psLI.m11.d09.alleluia.title = "Psalm 131."
 psLI.m11.d09.alleluia.v1.info = ps_en_US_saas.psa131.v9.number
 psLI.m11.d09.alleluia.v1.text = "O Lord, Your priests shall clothe themselves in righteousness."
